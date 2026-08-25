@@ -1,86 +1,145 @@
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
 
 const $ = id => document.getElementById(id);
-const flatPipeline = Object.values(pipeline).flat();
+const storageKey = 'atlas-local-state-v2';
+const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
+const localOpportunities = saved.opportunities || [];
+const localDevelopments = saved.developments || [];
 
-function renderAll(){
-  if($('decisionGrid')) $('decisionGrid').innerHTML = developments.slice(0,3).map(d=>`<article class="decision-card"><div class="card-top"><span class="badge ${d.level}">${d.state}</span><span class="score">${d.score}</span></div><h3>${d.title}</h3><p>${d.text}</p></article>`).join('');
-  if($('eventPreview')) $('eventPreview').innerHTML = eventData.slice(0,2).map(e=>`<div class="event-mini"><div class="date-box"><b>${e.day}</b><span>${e.month}</span></div><div><strong>${e.name}</strong><small>${e.priority}</small></div></div>`).join('');
-  if($('developmentList')) $('developmentList').innerHTML = developments.map(d=>`<article class="development-row"><span class="topic">${d.topic}</span><div class="dev-content"><h4>${d.title}</h4><p>${d.text}</p></div><div class="dev-meta">${d.date||''}</div></article>`).join('');
-  if($('pipelineBoard')) $('pipelineBoard').innerHTML = Object.entries(pipeline).map(([stage,items])=>`<section class="pipe-column"><h3>${stage}<span>${items.length}</span></h3>${items.map(i=>`<div class="pipe-item"><h4>${i.name}</h4><p>${i.note}</p><div class="pipe-meta"><span>${i.owner}</span><span>${i.due}</span></div></div>`).join('')}</section>`).join('');
-  if($('eventList')) $('eventList').innerHTML = eventData.map(e=>`<article class="event-large"><div class="event-date"><b>${e.day}</b><span>${e.month}</span></div><div><h3>${e.name}</h3><p>${e.detail}</p><small class="event-priority">${e.priority}</small></div></article>`).join('');
-  if($('stakeholderGrid')) $('stakeholderGrid').innerHTML = stakeholders.map(s=>`<article><span class="org-type">${s[1]}</span><h3>${s[0]}</h3><p>${s[2]}</p><small>${s[3]} →</small></article>`).join('');
-  if($('sourceRows')) $('sourceRows').innerHTML = sources.map(s=>`<div class="source-row"><span>${s[0]}</span><span>${s[1]}</span><span>${s[2]}</span><span>${s[3]}</span></div>`).join('');
+const allDevelopments = () => [...localDevelopments, ...developments];
+const allPipeline = () => {
+  const base = Object.fromEntries(Object.entries(pipeline).map(([k,v]) => [k, [...v]]));
+  localOpportunities.forEach(o => (base[o.stage] ||= []).push(o));
+  return base;
+};
+
+function persist(){
+  localStorage.setItem(storageKey, JSON.stringify({opportunities:localOpportunities, developments:localDevelopments}));
 }
+
+function escapeHtml(value=''){
+  return String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+}
+
+function renderOverview(){
+  const devs = allDevelopments();
+  if($('decisionGrid')) $('decisionGrid').innerHTML = [...devs].sort((a,b)=>(parseInt(b.score)||0)-(parseInt(a.score)||0)).slice(0,3).map(d=>`<article class="decision-card"><div class="card-top"><span class="badge ${d.level||'signal'}">${escapeHtml(d.state||'SIGNAL')}</span><span class="score">${escapeHtml(d.score||'—')}</span></div><h3>${escapeHtml(d.title)}</h3><p>${escapeHtml(d.text)}</p><small class="decision-action">${escapeHtml(d.action||d.evidence||'Review signal')}</small></article>`).join('');
+
+  if($('eventPreview')) $('eventPreview').innerHTML = eventData.slice(0,3).map(e=>`<article class="event-mini"><div class="date-box"><b>${escapeHtml(e.day)}</b><span>${escapeHtml(e.month)}</span></div><div class="event-mini-body"><strong>${escapeHtml(e.name)}</strong><small>${escapeHtml(e.priority)}</small><p>${escapeHtml(e.detail||'Energy-transition engagement opportunity')}</p></div></article>`).join('');
+
+  renderThemePulse();
+}
+
+function renderDevelopments(filter='all'){
+  const devs = allDevelopments();
+  const filtered = devs.filter(d=>{
+    const text = `${d.topic||''} ${d.title||''} ${d.text||''} ${d.state||''}`.toLowerCase();
+    if(filter==='verified') return /verified|evidence|source records/.test(text);
+    if(filter==='needs-review') return /watch|review|require verification|needs review/.test(text);
+    if(filter==='tenders') return /tender|procurement|prequalification|aoselect/.test(text);
+    if(filter==='policy') return /regulation|policy|consultation|framework|anre|law/.test(text);
+    if(filter==='grid') return /grid|transmission|onee|substation|kv/.test(text);
+    return true;
+  });
+  if($('developmentList')) $('developmentList').innerHTML = filtered.map(d=>`<article class="development-row"><span class="topic">${escapeHtml(d.topic||'SIGNAL')}</span><div class="dev-content"><h4>${escapeHtml(d.title)}</h4><p>${escapeHtml(d.text)}</p><small>${escapeHtml(d.state||'')} ${d.action?`· ${escapeHtml(d.action)}`:''}</small></div><div class="dev-meta">${escapeHtml(d.published||d.date||'')}</div></article>`).join('') || '<div class="empty-state">No developments match this filter.</div>';
+  document.querySelectorAll('.filter-row .filter').forEach(b=>b.classList.toggle('active', b.dataset.filter===filter));
+}
+
+function renderPipeline(){
+  const board = allPipeline();
+  if($('pipelineBoard')) $('pipelineBoard').innerHTML = Object.entries(board).map(([stage,items])=>`<section class="pipe-column"><h3>${escapeHtml(stage)}<span>${items.length}</span></h3>${items.map(i=>`<div class="pipe-item"><h4>${escapeHtml(i.name||i.title)}</h4><p>${escapeHtml(i.note||i.text||'')}</p><div class="pipe-meta"><span>${escapeHtml(i.owner||'Unassigned')}</span><span>${escapeHtml(i.due||'No due date')}</span></div></div>`).join('')}</section>`).join('');
+  const flat = Object.values(board).flat();
+  const active = flat.length;
+  const high = flat.filter(i=>/high|priority/i.test(`${i.priority||''} ${i.level||''}`)).length;
+  const due = flat.filter(i=>i.due && !/later|—/.test(i.due)).length;
+  const summary = document.querySelector('.pipeline-summary');
+  if(summary) summary.innerHTML = `<span><b>${active}</b> active</span><span><b>${high}</b> high priority</span><span><b>${due}</b> actions tracked</span>`;
+}
+
+function renderEvents(){
+  if($('eventList')) $('eventList').innerHTML = eventData.map(e=>`<article class="event-large"><div class="event-date"><b>${escapeHtml(e.day)}</b><span>${escapeHtml(e.month)}</span></div><div><h3>${escapeHtml(e.name)}</h3><p>${escapeHtml(e.detail)}</p><small class="event-priority">${escapeHtml(e.priority)}</small></div></article>`).join('');
+}
+
+function renderThemePulse(){
+  const devs = allDevelopments();
+  const buckets = [
+    ['Projects & tenders', /solar|pv|bess|storage|tender|project|construction/i],
+    ['Grid & policy', /grid|transmission|onee|anre|regulation|policy|tariff/i],
+    ['Hydrogen & PtX', /hydrogen|ammonia|ptx|power-to-x|electrolysis/i]
+  ];
+  const counts = buckets.map(([,rx])=>devs.filter(d=>rx.test(`${d.topic} ${d.title} ${d.text}`)).length);
+  const max = Math.max(1,...counts);
+  const labels = $('overview')?.querySelectorAll('.chart-labels span');
+  const bars = $('overview')?.querySelectorAll('.bars i');
+  counts.forEach((n,i)=>{ if(labels?.[i]) labels[i].textContent=`${buckets[i][0]} · ${n}`; if(bars?.[i]) bars[i].style.setProperty('--w',`${Math.max(12,Math.round(n/max*100))}%`); });
+}
+
+function renderStatic(){
+  if($('stakeholderGrid')) $('stakeholderGrid').innerHTML = stakeholders.map(s=>`<article><span class="org-type">${escapeHtml(s[1])}</span><h3>${escapeHtml(s[0])}</h3><p>${escapeHtml(s[2])}</p><small>${escapeHtml(s[3])} →</small></article>`).join('');
+  if($('sourceRows')) $('sourceRows').innerHTML = sources.map(s=>`<div class="source-row"><span>${escapeHtml(s[0])}</span><span>${escapeHtml(s[1])}</span><span>${escapeHtml(s[2])}</span><span>${escapeHtml(s[3])}</span></div>`).join('');
+}
+
+function renderAll(){ renderOverview(); renderDevelopments(activeDevelopmentFilter); renderPipeline(); renderEvents(); renderStatic(); renderCalendar(); }
 
 function setView(id){
   document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));
   document.querySelectorAll('.nav-item').forEach(v=>v.classList.toggle('active',v.dataset.view===id));
+  document.querySelector('.main')?.scrollTo({top:0,behavior:'smooth'});
 }
 
 document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
 document.querySelectorAll('[data-view-target]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.viewTarget)));
 
-// Modal: hidden by default. The CSS only displays it when .is-open is present.
-(function setupModal(){
-  const modal = $('modalBackdrop');
-  const openBtn = $('newDevelopment');
-  const closeBtn = modal?.querySelector('.close-modal');
-  if(!modal) return;
+let activeDevelopmentFilter = 'all';
+document.querySelectorAll('.filter-row .filter').forEach((b,i)=>{
+  const filters=['all','verified','needs-review','tenders','policy','grid'];
+  b.dataset.filter=filters[i] || 'all';
+  b.addEventListener('click',()=>{ activeDevelopmentFilter=b.dataset.filter; renderDevelopments(activeDevelopmentFilter); });
+});
 
-  function openModal(){
-    modal.classList.add('is-open');
-    modal.setAttribute('aria-hidden','false');
-    document.documentElement.style.overflow = 'hidden';
-    document.body.style.overflow = 'hidden';
-    const firstInput = modal.querySelector('input, button, textarea');
-    if(firstInput) firstInput.focus();
+function modalApi(){
+  const modal=$('modalBackdrop');
+  const content=modal?.querySelector('.modal');
+  function close(){ if(!modal)return; modal.classList.remove('is-open'); modal.setAttribute('aria-hidden','true'); document.documentElement.style.overflow=''; document.body.style.overflow=''; }
+  function open(title,body,onSubmit){
+    if(!modal||!content)return;
+    content.innerHTML=`<button class="close-modal" aria-label="Close">×</button><p class="eyebrow">ATLAS WORKSPACE</p><h2>${escapeHtml(title)}</h2>${body}<div class="modal-actions"><button class="secondary-button" data-modal-cancel>Cancel</button><button class="new-button" data-modal-save>Save</button></div>`;
+    modal.classList.add('is-open'); modal.setAttribute('aria-hidden','false'); document.documentElement.style.overflow='hidden'; document.body.style.overflow='hidden';
+    content.querySelector('.close-modal').onclick=close; content.querySelector('[data-modal-cancel]').onclick=close; content.querySelector('[data-modal-save]').onclick=()=>{ if(onSubmit()) close(); };
+    content.querySelector('input,select,textarea')?.focus();
   }
-  function closeModal(){
-    modal.classList.remove('is-open');
-    modal.setAttribute('aria-hidden','true');
-    document.documentElement.style.overflow = '';
-    document.body.style.overflow = '';
-  }
+  modal?.addEventListener('click',e=>{if(e.target===modal)close();}); document.addEventListener('keydown',e=>{if(e.key==='Escape')close();});
+  return {open,close};
+}
+const modal=modalApi();
 
-  // Force the initial state closed in case a previous cached script/CSS touched it.
-  closeModal();
-  openBtn?.addEventListener('click', openModal);
-  closeBtn?.addEventListener('click', closeModal);
-  modal.addEventListener('click', e=>{ if(e.target === modal) closeModal(); });
-  document.addEventListener('keydown', e=>{ if(e.key === 'Escape') closeModal(); });
-})();
+function bindActionButtons(){
+  $('newDevelopment')?.addEventListener('click',()=>modal.open('Capture a public signal',`<p class="modal-help">Add a development manually when you have a primary source worth tracking.</p><label>Working title<input id="mTitle" required placeholder="What happened?" /></label><label>Source URL<input id="mUrl" type="url" placeholder="https://" /></label><label>Topic<select id="mTopic"><option>TENDER · SOLAR + BESS</option><option>GRID · TRANSMISSION</option><option>REGULATION · MARKET</option><option>PARTNERSHIP · PTX</option><option>INVESTMENT</option></select></label>`,()=>{const title=$('mTitle')?.value.trim(); if(!title){$('mTitle')?.focus();return false;} localDevelopments.unshift({id:`local-${Date.now()}`,topic:$('mTopic').value,title,text:'Manually captured signal. Review source evidence before treating as verified.',state:'NEEDS REVIEW',level:'watch',score:'—',action:'Review source',published:'Just now',url:$('mUrl')?.value.trim()||''}); persist(); renderAll(); return true;}));
 
-const mobile=document.querySelector('.mobile-menu');if(mobile)mobile.onclick=()=>document.querySelector('.sidebar').classList.toggle('open');
+  const oppBtn=[...document.querySelectorAll('#opportunities .new-button')].find(b=>b.textContent.includes('Opportunity'));
+  oppBtn?.addEventListener('click',()=>modal.open('Add opportunity',`<p class="modal-help">Create a follow-up item from a signal. It is stored locally in this browser.</p><label>Opportunity name<input id="oName" required placeholder="e.g. Owner's engineer opportunity" /></label><label>Stage<select id="oStage"><option>New</option><option>Qualifying</option><option>Engaging</option><option>Proposal</option><option>Won</option></select></label><label>Owner<input id="oOwner" placeholder="Unassigned" /></label><label>Next action<input id="oNote" placeholder="What should happen next?" /></label><label>Due date<input id="oDue" type="date" /></label>`,()=>{const name=$('oName')?.value.trim();if(!name){$('oName')?.focus();return false;}localOpportunities.unshift({name,stage:$('oStage').value,owner:$('oOwner').value.trim()||'Unassigned',note:$('oNote').value.trim()||'Define next action',due:$('oDue').value||'—',priority:'Medium'});persist();renderPipeline();renderOverview();return true;}));
+
+  const addEvent=[...document.querySelectorAll('#events .new-button')][0];
+  addEvent?.addEventListener('click',()=>modal.open('Add engagement event',`<label>Event name<input id="eName" required placeholder="Event or meeting" /></label><label>Date<input id="eDate" type="date" /></label><label>Priority<select id="ePriority"><option>High</option><option>Medium</option><option>Watch</option></select></label><label>Details<textarea id="eDetail" rows="3" placeholder="Why does this matter?"></textarea></label>`,()=>{const name=$('eName')?.value.trim();if(!name){$('eName')?.focus();return false;}const d=new Date($('eDate')?.value||Date.now());const item={name,day:String(d.getDate()).padStart(2,'0'),month:d.toLocaleString('en',{month:'short'}),priority:$('ePriority').value,detail:$('eDetail').value.trim()||'Engagement opportunity'};eventData.unshift(item);renderEvents();renderOverview();return true;}));
+}
+
+function renderCalendar(){
+  const el=$('calendarDays'); if(!el)return;
+  const year=2026, month=8; const first=new Date(year,month,1); const days=new Date(year,month+1,0).getDate(); const offset=(first.getDay()+6)%7;
+  el.innerHTML=Array.from({length:offset+days},(_,i)=>i<offset?'<span></span>':`<button class="calendar-day">${i-offset+1}</button>`).join('');
+}
 
 function renderReportPreview(){
   const type=$('reportType')?.value||'Weekly Intelligence Brief', period=$('reportPeriod')?.value.trim()||'Current period', classification=$('reportClassification')?.value||'';
-  if($('reportPreview')) $('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${type.replace(' ','<br>')}</h2><small>${period} · ${classification}</small></div>`;
+  if($('reportPreview')) $('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${escapeHtml(type)}</h2><small>${escapeHtml(period)} · ${escapeHtml(classification)}</small></div>`;
 }
-
 ['reportType','reportPeriod','reportClassification'].forEach(id=>$(id)?.addEventListener('input',renderReportPreview));
-
 $('printPdf')?.addEventListener('click',()=>window.print());
 $('downloadPpt')?.addEventListener('click',async()=>{
-  const status=$('reportStatus');
-  if(status) status.textContent='Checking PowerPoint engine…';
-  try{
-    const Pptx = window.PptxGenJS || window.pptxgen;
-    if(typeof Pptx !== 'function') throw new Error('PowerPoint engine did not load. Please refresh the page and try again.');
-    if(status) status.textContent='Generating PowerPoint…';
-    const pptx=new Pptx();
-    pptx.layout='LAYOUT_WIDE';pptx.author='Atlas';pptx.company='Fichtner';pptx.subject='Morocco Renewable Energy Intelligence';pptx.title=$('reportType')?.value||'Report';
-    const green='153A35';
-    let s=pptx.addSlide();s.background={color:green};s.addText('ATLAS',{x:.6,y:.5,w:3,h:.3,fontSize:18,bold:true,color:'FFFFFF'});s.addText('MOROCCO RENEWABLE ENERGY INTELLIGENCE',{x:.6,y:2.0,w:10});
-    s=pptx.addSlide();s.background={color:'FFFEFA'};s.addText('01 · EXECUTIVE SUMMARY',{x:.6,y:.5,w:5,h:.3,fontSize:9,color:'4D746B'});s.addText('Signals that require a decision',{x:.6,y:.9,w:10});
-    s=pptx.addSlide();s.background={color:'FFFEFA'};s.addText('02 · OPPORTUNITY PIPELINE',{x:.6,y:.5,w:5,h:.3,fontSize:9,color:'4D746B'});s.addText('Priority actions',{x:.6,y:.9,w:10});
-    s=pptx.addSlide();s.background={color:'FFFEFA'};s.addText('03 · EVIDENCE & ENGAGEMENT',{x:.6,y:.5,w:5,h:.3,fontSize:9,color:'4D746B'});s.addText('Sources and connections',{x:.6,y:.9,w:10});
-    await pptx.writeFile({fileName:'Atlas_Morocco_Renewable_Intelligence_Brief.pptx'});
-    if(status) status.textContent='PowerPoint downloaded successfully.';
-  }catch(err){
-    console.error(err);
-    if($('reportStatus')) $('reportStatus').textContent='PowerPoint generation failed: '+(err?.message||err);
-  }
-});
+  const status=$('reportStatus'); if(status)status.textContent='Generating PowerPoint…';
+  try{const Pptx=window.PptxGenJS||window.pptxgen;if(typeof Pptx!=='function')throw new Error('PowerPoint engine did not load.');const pptx=new Pptx();pptx.layout='LAYOUT_WIDE';pptx.author='Atlas';pptx.company='Fichtner';pptx.subject='Morocco Renewable Energy Intelligence';pptx.title=$('reportType')?.value||'Report';let s=pptx.addSlide();s.background={color:'153A35'};s.addText('ATLAS',{x:.6,y:.5,w:3,h:.3,fontSize:18,bold:true,color:'FFFFFF'});s.addText('MOROCCO RENEWABLE ENERGY INTELLIGENCE',{x:.6,y:2,w:10,color:'FFFFFF',fontSize:24,bold:true});s=pptx.addSlide();s.addText('01 · EXECUTIVE SUMMARY',{x:.6,y:.5,w:5});s.addText('Signals that require a decision',{x:.6,y:1,w:10,fontSize:22,bold:true});s.addText(allDevelopments().slice(0,5).map(d=>`• ${d.title}`).join('\n'),{x:.8,y:1.8,w:11,h:4,fontSize:16,breakLine:false});s=pptx.addSlide();s.addText('02 · OPPORTUNITY PIPELINE',{x:.6,y:.5,w:6});s.addText(Object.values(allPipeline()).flat().slice(0,8).map(i=>`• ${i.name||i.title} — ${i.owner||'Unassigned'}`).join('\n'),{x:.8,y:1.3,w:11,h:5,fontSize:15});s=pptx.addSlide();s.addText('03 · ENGAGEMENT & EVIDENCE',{x:.6,y:.5,w:7});s.addText(eventData.slice(0,5).map(e=>`• ${e.name} — ${e.priority}`).join('\n'),{x:.8,y:1.3,w:11,h:5,fontSize:15});await pptx.writeFile({fileName:'Atlas_Morocco_Renewable_Intelligence_Brief.pptx'});if(status)status.textContent='PowerPoint downloaded successfully.';}catch(err){console.error(err);if(status)status.textContent='PowerPoint generation failed: '+err.message;}}
+);
 
-renderAll();renderReportPreview();
+const mobile=document.querySelector('.mobile-menu');if(mobile)mobile.onclick=()=>document.querySelector('.sidebar').classList.toggle('open');
+
+renderAll();renderReportPreview();bindActionButtons();

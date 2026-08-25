@@ -19,7 +19,7 @@ const cf=document.getElementById('competitorFilter');
 if(cf){cf.innerHTML='<option value="all">All competitors</option>'+COMPETITORS.map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');cf.addEventListener('change',()=>renderCompetitors(cf.value));}
 document.getElementById('refreshCompetitors')?.addEventListener('click',()=>renderCompetitors(cf?.value||'all'));
 renderCompetitors();
-
-// Market Intelligence V3 is loaded from the same live signal dataset.
 const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';marketStyle.href='styles-market-v3.css?v=20260825-1';document.head.appendChild(marketStyle);
 const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260825-1';document.body.appendChild(marketScript);
+const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);
+const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260825-1';document.body.appendChild(sourceScript);

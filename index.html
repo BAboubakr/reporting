@@ -4,8 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Atlas | Morocco Renewable Intelligence</title>
-    <link rel="stylesheet" href="styles.css?v=20260825-2" />
-    <style>#modalBackdrop[hidden]{display:none!important}</style>
+    <link rel="stylesheet" href="styles.css?v=20260825-3" />
+    <style>
+      /* Modal is CLOSED by default. It becomes visible only when JS adds .is-open. */
+      #modalBackdrop { display: none !important; }
+      #modalBackdrop.is-open { display: flex !important; }
+    </style>
   </head>
   <body>
     <div class="app-shell">
@@ -29,9 +33,9 @@
         <section class="content view" id="reporting"><div class="page-heading"><div><p class="eyebrow">FICHTNER INTELLIGENCE OUTPUTS</p><h1>Reporting</h1><p>Create a management-ready intelligence brief from the current tracker data.</p></div></div><div class="reporting-layout"><section class="report-controls"><p class="eyebrow">REPORT SETTINGS</p><label>Report type<select id="reportType"><option>Weekly Intelligence Brief</option><option>Monthly Market Report</option><option>Opportunity Pipeline Report</option></select></label><label>Reporting period<input id="reportPeriod" value="26 August 2026" /></label><label>Classification<select id="reportClassification"><option>Internal — Fichtner</option><option>Confidential</option></select></label><button class="new-button" id="downloadPpt" type="button">Download PowerPoint (.pptx)</button><button class="secondary-button" id="printPdf" type="button">Print / Save as PDF</button><small id="reportStatus">PowerPoint engine: loading…</small></section><section class="report-preview" id="reportPreview"></section></div></section>
       </main>
     </div>
-    <div class="modal-backdrop" id="modalBackdrop" hidden><div class="modal"><button class="close-modal" aria-label="Close">×</button><p class="eyebrow">NEW DEVELOPMENT</p><h2>Capture a public signal</h2><p>Start with the source. You can verify facts and assess relevance afterwards.</p><label>Source URL<input type="url" placeholder="https://" /></label><label>Working title<input type="text" placeholder="What happened?" /></label><button class="new-button modal-submit">Save as draft</button></div></div>
+    <div class="modal-backdrop" id="modalBackdrop" aria-hidden="true"><div class="modal"><button class="close-modal" aria-label="Close">×</button><p class="eyebrow">NEW DEVELOPMENT</p><h2>Capture a public signal</h2><p>Start with the source. You can verify facts and assess relevance afterwards.</p><label>Source URL<input type="url" placeholder="https://" /></label><label>Working title<input type="text" placeholder="What happened?" /></label><button class="new-button modal-submit">Save as draft</button></div></div>
     <script src="https://unpkg.com/pptxgenjs@3.12.0/dist/pptxgen.bundle.js"></script>
     <script>window.addEventListener('load',()=>{const s=document.getElementById('reportStatus');s.textContent=(window.pptxgen||window.PptxGenJS)?'PowerPoint engine ready.':'PowerPoint engine failed to load.';});</script>
-    <script type="module" src="app.js?v=20260825-2"></script>
+    <script type="module" src="app.js?v=20260825-3"></script>
   </body>
 </html>

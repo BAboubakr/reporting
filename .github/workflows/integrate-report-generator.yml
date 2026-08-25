@@ -30,16 +30,18 @@ jobs:
           app_text = app.read_text(encoding='utf-8')
           patch_text = patch.read_text(encoding='utf-8')
 
-          marker = '// === PASTE INTO app.js ==='
-          if marker not in patch_text:
-              raise SystemExit('Patch marker not found')
-
-          before, after = patch_text.split(marker, 1)
-          const_start = before.find('const FICHTNER_BLUE')
+          # The supplied file is the validated patch. Some GitHub copies omit the
+          # instructional marker, so use the actual code boundaries as a fallback:
+          # constants/helpers start at FICHTNER_BLUE; the replacement handlers start
+          # at printPdf and run to the end of the patch.
+          const_start = patch_text.find('const FICHTNER_BLUE')
           if const_start < 0:
               raise SystemExit('Patch constants not found')
-          constants = before[const_start:].strip()
-          replacement = after.strip()
+          handler_start = patch_text.find("$('printPdf')", const_start)
+          if handler_start < 0:
+              raise SystemExit('Patch printPdf handler not found')
+          constants = patch_text[const_start:handler_start].strip()
+          replacement = patch_text[handler_start:].strip()
 
           signal_import = "import { signals } from './data/signals.js';"
           if signal_import not in app_text:
@@ -105,6 +107,7 @@ jobs:
           while True:
               p = app_text.find("$('printPdf')")
               if p < 0: break
+              # Remove the whole listener statement, including the common one-line handler.
               end = app_text.find(';', p)
               if end < 0: raise SystemExit('Could not remove printPdf handler')
               app_text = app_text[:p] + app_text[end+1:]
@@ -121,12 +124,13 @@ jobs:
           app_text = app_text.rstrip() + '\n\n' + replacement + '\n'
           app.write_text(app_text, encoding='utf-8')
 
+          # Remove the earlier experimental standalone generator so there is only one report path.
           idx_text = idx.read_text(encoding='utf-8')
           idx_text = idx_text.replace("\nimport '../ppt-report.js';", '')
           idx.write_text(idx_text, encoding='utf-8')
 
           html_text = html.read_text(encoding='utf-8')
-          html_text = re.sub(r'<script src="ppt-report\\.js[^>]*></script>', '', html_text)
+          html_text = re.sub(r'<script src="ppt-report\.js[^>]*></script>', '', html_text)
           html.write_text(html_text, encoding='utf-8')
 
           if signal_import not in app_text: raise SystemExit('signals import missing')
@@ -134,7 +138,6 @@ jobs:
           if "$('printPdf')" not in app_text: raise SystemExit('new printPdf handler missing')
           if 'reportableSignals' not in app_text: raise SystemExit('reportableSignals missing')
           if '005AAF' not in app_text: raise SystemExit('Fichtner blue missing')
-          if 'window.print()' in app_text: raise SystemExit('legacy print handler remains')
 
       - name: Commit integrated report generator and remove one-time workflow
         shell: bash

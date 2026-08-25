@@ -17,7 +17,10 @@ export const monitoring = {
     'WSP Morocco energy renewable',
     'Worley Morocco hydrogen OCP energy',
     'Egis Morocco energy renewable',
-    'ILF Consulting Engineers Morocco hydrogen energy'
+    'ILF Consulting Engineers Morocco hydrogen energy',
+    'DNV Morocco renewable energy grid hydrogen',
+    'NOVEC Morocco energy renewable grid hydro',
+    'INGEMA Morocco energy engineering renewable'
   ],
   officialPages: [
     {name:'ONEE tenders',url:'https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=',type:'official-tender'},

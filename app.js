@@ -1,7 +1,6 @@
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
 
 const $ = (id) => document.getElementById(id);
-
 function card(d) { return `<article class="decision-card"><div class="card-top"><span class="badge ${d.level}">${d.state}</span><span class="score">${d.score}</span></div><h3>${d.title}</h3><p>${d.text}</p><div class="card-foot"><span>${d.action}</span><span>${d.evidence}</span></div></article>`; }
 $('decisionGrid').innerHTML = developments.slice(0,3).map(card).join('');
 $('eventPreview').innerHTML = eventData.slice(0,2).map(e=>`<div class="event-mini"><div class="date-box"><b>${e.day}</b><span>${e.month}</span></div><div><strong>${e.name}</strong><small>${e.detail}</small></div></div>`).join('');
@@ -12,7 +11,6 @@ let days = ['31','1','2','3','4','5','6','7','8','9','10','11','12','13','14','1
 $('calendarDays').innerHTML = days.map((d,i)=>`<span class="${i===0||i>30?'muted':''} ${['4','12','18'].includes(d)&&i<31?'has-event':''}">${d}</span>`).join('');
 $('stakeholderGrid').innerHTML = stakeholders.map(s=>`<article><span class="org-type">${s[1]}</span><h3>${s[0]}</h3><p>${s[2]}</p><small>${s[3]} →</small></article>`).join('');
 $('sourceRows').innerHTML = sources.map(s=>`<div class="source-row"><span>${s[0]}</span><span>${s[1]}</span><span>${s[2]}</span><span>${s[3]}</span></div>`).join('');
-
 document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
 document.querySelectorAll('[data-view-target]').forEach(button => button.addEventListener('click', () => setView(button.dataset.viewTarget)));
 function setView(id){ document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id)); document.querySelectorAll('.nav-item').forEach(v=>v.classList.toggle('active',v.dataset.view===id)); document.querySelector('.sidebar').classList.remove('open'); window.scrollTo({top:0,behavior:'smooth'}); }
@@ -28,9 +26,13 @@ renderReportPreview();
 $('printPdf').onclick=()=>window.print();
 $('downloadPpt').onclick=async()=>{
   const status=$('reportStatus');
-  const PptxCtor=window.PptxGenJS || window.pptxgen || window.pptxgenjs;
-  if(!PptxCtor){status.textContent='PowerPoint engine could not be loaded. Check your internet connection, then refresh Atlas.';return;}
+  const PptxCtor=window.pptxgen;
+  if(typeof PptxCtor!=='function'){
+    status.textContent='PowerPoint engine could not be loaded. Please refresh Atlas and try again.';
+    return;
+  }
   try{
+    status.textContent='Generating PowerPoint…';
     const pptx=new PptxCtor();
     pptx.layout='LAYOUT_WIDE'; pptx.author='Atlas'; pptx.subject='Morocco Renewable Energy Intelligence'; pptx.title=$('reportType').value; pptx.company='Fichtner';
     const green='153A35',lime='D9E858',ink='16302C',muted='64716D';
@@ -55,8 +57,7 @@ $('downloadPpt').onclick=async()=>{
     slide.addText('Sources and next connections',{x:.6,y:.9,w:10,h:.5,fontFace:'Aptos Display',fontSize:25,bold:true,color:ink});
     sources.slice(0,5).forEach((s,index)=>slide.addText(`${s[0]} · ${s[1]} · ${s[2]}`,{x:.8,y:1.6+index*.6,w:11,h:.3,fontFace:'Aptos',fontSize:10,color:'435B54',bullet:{indent:16},fit:'shrink'}));
     eventData.slice(0,3).forEach((e,index)=>slide.addText(`${e.day} ${e.month} — ${e.name} — ${e.priority}`,{x:.8,y:5.0+index*.45,w:11,h:.25,fontFace:'Aptos',fontSize:9,color:ink,fit:'shrink'}));
-    status.textContent='Preparing PowerPoint…';
     await pptx.writeFile({fileName:'Atlas_Morocco_Renewable_Intelligence_Brief.pptx'});
     status.textContent='PowerPoint downloaded successfully.';
-  }catch(error){ console.error(error); status.textContent=`PowerPoint generation failed: ${error.message || 'unknown error'}.`; }
+  }catch(error){ console.error(error); status.textContent=`PowerPoint generation failed: ${error.message || 'unknown browser error'}.`; }
 };

@@ -8,7 +8,7 @@ LOOKBACK_DAYS = 14
 MAX_ITEMS = 80
 TIMEOUT = 20
 
-COMPETITORS = ['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers']
+COMPETITORS = ['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA']
 MARKET_QUERIES = ['Morocco renewable energy solar PV BESS battery wind hydrogen grid tender','Morocco MASEN renewable tender project','Morocco ONEE grid transmission renewable tender','Morocco ANRE electricity regulation renewable','Morocco green hydrogen ammonia PtX investment','Morocco renewable energy manufacturing investment']
 COMPETITOR_QUERIES = [f'{c} Morocco renewable energy' for c in COMPETITORS]
 OFFICIAL_PAGES = [('ONEE tenders','https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type='),('ONEE results','https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1'),('MASEN e-Tendering','https://etendering.masen.ma/')]
@@ -44,13 +44,22 @@ def page_items(name,url):
     for m in re.finditer(r'<(?:a|h1|h2|h3|h4)[^>]*>(.*?)</(?:a|h1|h2|h3|h4)>',body,re.I|re.S):
         t=clean(m.group(1))
         if not is_noise(t):chunks.append(t)
+    if not chunks:
+        text=clean(body)
+        if not is_noise(text):chunks=[text[:500]]
     return [(c,url,'',datetime.now(timezone.utc).isoformat(),name,'official') for c in chunks[:30]]
 
 def classify(title,desc):
-    t=(title+' '+desc).lower();return [cat for cat,words in KEYWORDS.items() if any(w.lower() in t for w in words)] or ['Market intelligence']
+    t=(title+' '+desc).lower(); found=[]
+    for cat,words in KEYWORDS.items():
+        if any(w.lower() in t for w in words):found.append(cat)
+    return found or ['Market intelligence']
 
 def competitor_hit(text):
-    low=text.lower();return next((c for c in COMPETITORS if c.lower() in low),None)
+    low=text.lower()
+    for c in COMPETITORS:
+        if c.lower() in low:return c
+    return None
 
 def signal_type(title,desc):
     t=(title+' '+desc).lower()
@@ -59,18 +68,20 @@ def signal_type(title,desc):
     return 'market movement'
 
 def extract_entities(title,desc):
-    text=title+' '+desc;pool=['MASEN','ONEE','ANRE','OCP','IRESEN','AMEE','Ministry of Energy Transition','CDG','Tanger Med']+COMPETITORS
-    return list(dict.fromkeys([c for c in pool if re.search(r'(?<!\w)'+re.escape(c)+r'(?!\w)',text,re.I)]))[:10]
+    text=title+' '+desc;entities=[]
+    for c in ['MASEN','ONEE','ANRE','OCP','IRESEN','AMEE','Ministry of Energy Transition','CDG','Tanger Med']+COMPETITORS:
+        if re.search(r'(?<!\w)'+re.escape(c)+r'(?!\w)',text,re.I):entities.append(c)
+    return list(dict.fromkeys(entities))[:10]
 
 def extract_stage(text):
-    t=text.lower()
-    for stage,words in [('commissioned',['commissioned','inaugurated','mise en service','commercial operation']),('construction',['construction','groundbreaking','built']),('financial close',['financial close','financing closed']),('contract award',['awarded','won the contract','selected','appointed','attributed','adjudicated','lauréat','retenu']),('tender',['tender','appel d’offres','procurement','prequalification','rfp']),('development',['pre-feasibility','feasibility','pre-feed','feasibility study','development']),('announcement',['announced','agreement','mou','partnership','plans to'])]:
+    t=text.lower(); stages=[('commissioned',['commissioned','inaugurated','mise en service','commercial operation']),('construction',['construction','groundbreaking','built']),('financial close',['financial close','financing closed']),('contract award',['awarded','won the contract','selected','appointed','attributed','adjudicated','lauréat','retenu']),('tender',['tender','appel d’offres','procurement','prequalification','rfp']),('development',['pre-feasibility','feasibility','pre-feed','feasibility study','development']),('announcement',['announced','agreement','mou','partnership','plans to'])]
+    for stage,words in stages:
         if any(w in t for w in words):return stage
     return 'monitoring'
 
 def score(title,desc,competitor,source_type):
-    t=(title+' '+desc).lower();s=28
-    for w,v in {'tender':14,'contract':14,'awarded':18,'selected':18,'investment':12,'financing':14,'project':8,'masen':10,'onee':10,'hydrogen':8,'bess':10,'battery':8,'grid':8,'regulation':12,'anre':12,'factory':9,'manufacturing':9,'construction':10}.items():
+    t=(title+' '+desc).lower();s=28;weights={'tender':14,'contract':14,'awarded':18,'selected':18,'investment':12,'financing':14,'project':8,'masen':10,'onee':10,'hydrogen':8,'bess':10,'battery':8,'grid':8,'regulation':12,'anre':12,'factory':9,'manufacturing':9,'construction':10}
+    for w,v in weights.items():
         if w in t:s+=v
     if source_type=='official':s+=15
     if competitor:s+=10
@@ -82,6 +93,15 @@ def iso_date(raw):
         from email.utils import parsedate_to_datetime
         return parsedate_to_datetime(raw).astimezone(timezone.utc).isoformat()
     except Exception:return raw
+
+def novelty(title,existing_titles):
+    words=set(normalize(title).split())
+    if len(words)<3 or not existing_titles:return 1.0
+    best=0.0
+    for old in existing_titles:
+        ow=set(normalize(old).split())
+        if ow:best=max(best,len(words&ow)/max(1,len(words|ow)))
+    return round(1-best,2)
 
 def dedupe_key(title,link):return hashlib.sha1((normalize(title)+'|'+link.split('?')[0]).encode()).hexdigest()[:12]
 
@@ -103,15 +123,15 @@ def main():
     for row in sorted(candidates,key=lambda r:r[8],reverse=True):
         words=set(normalize(row[0]).split());duplicate=False
         for existing in unique:
-            ew=set(normalize(existing[0]).split())
-            if len(words&ew)/max(1,len(words|ew))>=0.72:duplicate=True;break
+            ew=set(normalize(existing[0]).split());similarity=len(words&ew)/max(1,len(words|ew))
+            if similarity>=0.72:duplicate=True;break
         if duplicate:continue
         unique.append(row)
         if len(unique)>=MAX_ITEMS:break
-    signals=[];now=datetime.now(timezone.utc).isoformat()
+    existing_titles=[r[0] for r in unique];signals=[];now=datetime.now(timezone.utc).isoformat()
     for title,link,desc,published,source,source_type,competitor,categories,relevance in unique:
-        sig_type=signal_type(title,desc);stage=extract_stage(title+' '+desc);actionability=min(99,relevance+8 if competitor else relevance);why=f'{sig_type.title()} signal relevant to Morocco renewable-energy activity'+(f'; {competitor} detected' if competitor else '')
-        signals.append({'id':'sig-'+dedupe_key(title,link),'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'categories':categories,'signalType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'status':'new','evidenceLevel':'official source' if source_type=='official' else 'news source','evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
+        sig_type=signal_type(title,desc);stage=extract_stage(title+' '+desc);novelty_score=novelty(title,existing_titles);actionability=min(99,round(relevance*0.72+novelty_score*28));evidence_level='official source' if source_type=='official' else 'news source';why=f"{sig_type.title()} signal relevant to Morocco renewable-energy activity"+(f"; {competitor} detected" if competitor else '')
+        signals.append({'id':'sig-'+dedupe_key(title,link),'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'categories':categories,'signalType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'noveltyScore':novelty_score,'status':'new','evidenceLevel':evidence_level,'evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
     signals.sort(key=lambda x:(x['actionabilityScore'],x['relevanceScore']),reverse=True)
     (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     print(f'Collected {len(rows)} raw records; filtered to {len(candidates)} candidates; stored {len(signals)} intelligence signals.')

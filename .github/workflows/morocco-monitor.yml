@@ -8,6 +8,7 @@ on:
     branches: [master]
     paths-ignore:
       - 'data/signals.js'
+      - 'data/monitor-status.json'
 
 permissions:
   contents: write
@@ -24,10 +25,22 @@ jobs:
           python-version: '3.12'
       - name: Collect Morocco market and competitor signals
         run: python scripts/monitor.py
-      - name: Commit updated intelligence
+      - name: Validate monitoring output
+        run: |
+          test -f data/signals.js
+          test -f data/monitor-status.json
+          python - <<'PY'
+          import json
+          with open('data/monitor-status.json', encoding='utf-8') as f:
+              s=json.load(f)
+          print(json.dumps(s, indent=2))
+          if s.get('status') not in ('success','warning'):
+              raise SystemExit('Invalid monitoring status')
+          PY
+      - name: Commit updated intelligence and health status
         run: |
           git config user.name 'Atlas Monitor'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/signals.js
+          git add data/signals.js data/monitor-status.json
           git diff --cached --quiet || git commit -m 'chore: update Morocco intelligence signals'
           git push

@@ -2,7 +2,7 @@ const COMPETITORS=['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley',
 const norm=v=>String(v||'').toLowerCase();
 const moroccoRelevant=s=>s.morocco===true||/morocco|maroc|masen|onee|anre|ocp|rabat|casablanca|laayoune|dakhla|tanger|fes|fez|oujda|kenitra|chefchaouen|taza|guercif|ouarzazate|ifrane/.test(norm(`${s.title||s.signal||''} ${s.summary||''} ${(s.entities||[]).join(' ')} ${s.competitor||''}`));
 const daysOld=d=>{const t=Date.parse(d||'');return Number.isFinite(t)?Math.max(0,(Date.now()-t)/86400000):999;};
-function escapeHtml(v=''){return String(v).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
+function escapeHtml(v=''){return String(v).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
 function formatDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?'Date unavailable':d.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}
 async function renderCompetitors(filter='all'){
  const list=document.getElementById('competitorList');if(!list)return;
@@ -19,3 +19,7 @@ const cf=document.getElementById('competitorFilter');
 if(cf){cf.innerHTML='<option value="all">All competitors</option>'+COMPETITORS.map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');cf.addEventListener('change',()=>renderCompetitors(cf.value));}
 document.getElementById('refreshCompetitors')?.addEventListener('click',()=>renderCompetitors(cf?.value||'all'));
 renderCompetitors();
+
+// Market Intelligence V3 is loaded from the same live signal dataset.
+const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';marketStyle.href='styles-market-v3.css?v=20260825-1';document.head.appendChild(marketStyle);
+const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260825-1';document.body.appendChild(marketScript);

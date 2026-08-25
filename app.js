@@ -1,3 +1,4 @@
+import PptxGenJS from 'https://esm.sh/pptxgenjs@3.12.0';
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
 
 const $ = (id) => document.getElementById(id);
@@ -26,14 +27,9 @@ renderReportPreview();
 $('printPdf').onclick=()=>window.print();
 $('downloadPpt').onclick=async()=>{
   const status=$('reportStatus');
-  const PptxCtor=window.pptxgen;
-  if(typeof PptxCtor!=='function'){
-    status.textContent='PowerPoint engine could not be loaded. Please refresh Atlas and try again.';
-    return;
-  }
   try{
     status.textContent='Generating PowerPoint…';
-    const pptx=new PptxCtor();
+    const pptx=new PptxGenJS();
     pptx.layout='LAYOUT_WIDE'; pptx.author='Atlas'; pptx.subject='Morocco Renewable Energy Intelligence'; pptx.title=$('reportType').value; pptx.company='Fichtner';
     const green='153A35',lime='D9E858',ink='16302C',muted='64716D';
     let slide=pptx.addSlide(); slide.background={color:green};

@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398946+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157080+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -32,8 +32,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398943+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157076+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -57,8 +57,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398936+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157068+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -82,8 +82,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398933+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157065+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -107,8 +107,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398932+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157064+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -132,8 +132,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398930+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157060+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -157,8 +157,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398928+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157054+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -182,8 +182,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398926+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157051+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -207,8 +207,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398921+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157044+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -232,8 +232,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883281+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192864+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Grid"
     ],
@@ -259,8 +259,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883280+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192863+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -284,8 +284,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883278+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192861+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -309,8 +309,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883277+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192860+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -334,8 +334,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883276+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192858+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -359,8 +359,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883274+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192856+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -384,8 +384,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883273+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192854+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -409,8 +409,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883272+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192852+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -434,8 +434,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883271+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192851+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -459,8 +459,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883270+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192849+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -484,8 +484,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883268+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192848+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -509,8 +509,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883267+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192846+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -534,8 +534,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883266+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192844+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -559,8 +559,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883265+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192843+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -584,8 +584,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883264+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192841+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -609,8 +609,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883263+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192840+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -634,8 +634,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883261+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192838+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -659,8 +659,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883260+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192836+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -684,8 +684,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883243+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192814+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -710,7 +710,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-15T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -735,7 +735,7 @@ export const signals = [
     "source": "European Rubber Journal",
     "sourceType": "news",
     "published": "2026-08-21T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -760,7 +760,7 @@ export const signals = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -785,7 +785,7 @@ export const signals = [
     "source": "The Economist",
     "sourceType": "news",
     "published": "2026-08-19T20:10:04+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -810,7 +810,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Investment"
     ],
@@ -834,8 +834,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZkJ1S2VIS1QyZnU2cEhwSGJRdm1VbmlJVzUzOTBZNVROTjlOb2I4dk9jTTBhajljT2NDYTlZaUpTS3J0VkpKd1U2OV9HX0hsMmlkS3E0d1RDYmNYU1BhSzlaaFRJRVFwWXNkMS1UUjFFRnoydWZUTUc4bWtDZXhESXRia2dNZDg0MWtESENzWkw1c25tNTBOc0h3SGlsQjJwTnE2V1VLQ0ZGT3g5Wjd0Qjd2R0NZTjYzVnZHb3hVX3A3Q3JCZmhhUGlLU3l1ZFFMWExXQklWcnVxN3hJdzNCWldicEQwQXpyd1Q0LURZdDdhckszdl9OM1pRTzFvWmd2b2k4LTNOOVhuNzIxZ2tmdWhnSTQ?oc=5",
     "source": "Hitachi Energy",
     "sourceType": "news",
-    "published": "2026-08-17T11:07:55+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-17T07:00:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -862,7 +862,7 @@ export const signals = [
     "source": "Fortune Business Insights",
     "sourceType": "news",
     "published": "2026-08-25T12:58:09+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -887,8 +887,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883258+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192833+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -912,8 +912,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883282+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192866+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -937,8 +937,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:11.883285+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:22.192869+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -962,8 +962,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398897+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157015+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -987,8 +987,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398912+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157032+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1012,8 +1012,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398914+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157034+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1037,8 +1037,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398916+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157037+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1062,8 +1062,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398917+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157038+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1087,8 +1087,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398918+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157040+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1112,8 +1112,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398919+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157042+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1137,8 +1137,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398924+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157048+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1162,8 +1162,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398925+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157050+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -1187,8 +1187,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398927+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157053+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1212,8 +1212,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398931+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157062+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1237,8 +1237,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398937+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157069+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1262,8 +1262,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398938+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157071+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1287,8 +1287,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398939+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157072+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1312,8 +1312,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398940+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157073+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1337,8 +1337,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398942+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157075+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1362,8 +1362,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398944+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157078+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1387,8 +1387,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T17:33:36.398945+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "published": "2026-08-25T17:42:44.157079+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1413,7 +1413,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Investment"
     ],
@@ -1438,7 +1438,7 @@ export const signals = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
     "categories": [
       "Investment"
     ],
@@ -1451,6 +1451,435 @@ export const signals = [
     "status": "new",
     "evidenceLevel": "news source",
     "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-ded7355ea28e",
+    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News",
+    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News",
+    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTmV1U2YtVmhDQUFBdmJuOUI2empfeWotc0lySm15X0owTnZVVmE1SGMxbTE3NTV5REkyeTA1TWxzZnUwWFU4Q3hBcUhObzUxekpVekc0TDZWVXREQVJBMXd1R1BldGw1anUwbEtuWHRDeDZWTUFjM1JQU2xmMFhmVWJzZ0szYmdaUjYzdWY2c3o2SGNna0dWX24xSmZBSHNRM1NieGIzMzh5RGVZaHlRcXllWFVXdkUxNXdtazd3azUzOThNd05JZGE2STFLaHZOMnE3cTNyNjJsMVAwUkluQnhLenJTcWlDc0txVmw1ZDVWOEplRF9Z?oc=5",
+    "source": "ANI News",
+    "sourceType": "news",
+    "published": "2026-08-25T05:53:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 40,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-f0d8f032395e",
+    "title": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
+    "headline": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
+    "summary": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUG9zME0zVHJHOUQzeFZ2RVVkWWd6WE1WSUtzem5xN1UtSkU3OWsydklra3FIYXN1UlBia3VkMnVOV2JlUWpDSVFFWWZtXy15dXRUVUhSRGZKdHpXY01BWnJQTkwwTTdEM3NwclI0MFRPR29XcXBYVDlzdXZWay01QnU5TDctX0lNZTlMbFhvNmdxYWl4R2RXaklqT18tU2JVbklsX21lZmNndERVMUs4MjlFWktMc042RVZTV3JZTGpwb1luWXQtcnFVQ1hYWkhBQ1E?oc=5",
+    "source": "Business Insider Africa",
+    "sourceType": "news",
+    "published": "2026-08-13T07:00:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 37,
+    "actionabilityScore": 37,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-d052e5b1e1bc",
+    "title": "India seeks Japanese capital for technology & manufacturing growth - Fibre2Fashion",
+    "headline": "India seeks Japanese capital for technology & manufacturing growth - Fibre2Fashion",
+    "summary": "India seeks Japanese capital for technology & manufacturing growth Fibre2Fashion",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRkpTaWhvV0w2b0JEdUVOVDN2ekEwZEJXVVB6dVZBaUQ0Z3VaMjEzZXBvdGlmZXpJOWR3b09QNm1jRS0zbnduVnFDR3NmMEdqclFFbzlRUWhvZUNfZkt3NmNTdmR3QmpmR2pSbFI3Uzh3NWJTclZPRkxPZkFxOEczME5oQ0piUC16c2liSnhCOEZlMVBkcFMtakcxZTNwR2xiZl9oc0lZckJYc0hRTm5WeWJZX2JwSnpnTERHdnZjU0g3eWV3UTQ4Tm1GVWtCOUh3TnA5dDdlVG0wZXpIc25ZOHZUQXVPOHREbi10WA?oc=5",
+    "source": "Fibre2Fashion",
+    "sourceType": "news",
+    "published": "2026-08-25T13:33:52+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Manufacturing"
+    ],
+    "signalType": "manufacturing",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 37,
+    "actionabilityScore": 37,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India seeks Japanese capital for technology & manufacturing growth Fibre2Fashion",
+    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-13c7683d426f",
+    "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
+    "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
+    "summary": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHUyN2tFMUhpTG4zMGFEN0NiV29pakUwTGdnMFJ4ZWtlOU9nVlRpSldzVnJwazNkRFNURzJBM0dLYnZlQXhMX0ZwLXozVUQ1N0RYWjRLbkE2NHgyQ1IyQ0hUc1BNdlpxaVFGS2NmU2VXVHZuN0lmZXRrenFkVkVEYTV3ak5lbGFKRFlland6QlhzOER6dVY2R0oxNnR5TEdKV1A3YVJQMi02RVNEU0xaa25SeFRLQV9FcFp6TXFoWEJSSkhZaW5TSVctcWo4MFZzWHdV?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-25T08:57:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Solar PV",
+      "Manufacturing"
+    ],
+    "signalType": "manufacturing",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 37,
+    "actionabilityScore": 37,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
+    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-aa714dcdb56a",
+    "title": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
+    "headline": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
+    "summary": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVBOazVQdHJlTlhLLTZSRzFkVDV3WUhCdFVqak9STlE5azFobXFyYW1hbnFLbHRrR0ZUMEJrTV81ZEJXVUt2NUQtZGs4QzJYUEFhaVBKbmRhRU80SEJqTlR0c2FhV1FyczZSaDZWRUZPeVcxc0lfUEpGdTEtRjZ2R2dvUzNqdXY2VGI0aHYtLV9MTGFLaGtaMW5EV2ZqWXB1UTNMdU5uM2ZGRHljaDVtMHd2NXZRYmtMXzlmR2dLZw?oc=5",
+    "source": "Hydrogen Fuel News",
+    "sourceType": "news",
+    "published": "2026-08-23T21:31:07+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Hydrogen / PtX"
+    ],
+    "signalType": "partnership",
+    "projectStage": "announcement",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 36,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
+    "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-adcd96302f21",
+    "title": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa - Phenomenal World",
+    "headline": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa - Phenomenal World",
+    "summary": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa Phenomenal World",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBueTZzX0c3YjY2bVlzdDlHNUpfWTljbWFybzIwMTYzS0k5ZEpBX1NmSmN0bDFqa0Rmc3RFQWNHVFNQQ0VYYlZZTlRZeDJFUm1PZ191VlJfQnJBRTZNNXpWSkRoUXpYdnhwMVJGYg?oc=5",
+    "source": "Phenomenal World",
+    "sourceType": "news",
+    "published": "2026-08-13T14:14:17+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa Phenomenal World",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-756bf8491e4e",
+    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets - ABC News - Breaking News, Latest News and Videos",
+    "headline": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets - ABC News - Breaking News, Latest News and Videos",
+    "summary": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFA3UU1odHdSVVc4YTcyMjV3cEJZMldfM2Y3SzhCN1JYTGdBV0lmSUtqbm42c21BdFBocFdtTE95M1ZGQ2tHSXVZNUNoQjRXMkh5U2tka0dQbE16N3pOSVdtd3NEak01MW8ybFdOTzlxTVRycnZfZWZwYnh3ZExGUEI5RXJPRkpGcTNmRDBLYTU0cVZOcTN6YjBjU1U4a0ozYjV4QdIBqgFBVV95cUxQb0FBRnBRY0U2alo2U0R1aGhrSllZTDB5LUREcFY0Ym40dzJ4X003Vk5LaFdyaWFCdzR0c3F5MGZOUDc1NDM3NFpTZWNLemtBOFhOUTBURnZ0dmU1MTktRVEtLTgtcXVVVlUtazRuRnVoUTNCV2ctbmJYbm1SeXo4U2JUaDZieEtCRXB0SmdfYVBFRWRIMTJqeklhNXA1MlRmaXV1NkhEdHl0dw?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "sourceType": "news",
+    "published": "2026-08-12T07:00:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets ABC News - Breaking News, Latest News and Videos",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-c1bb351713f6",
+    "title": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
+    "headline": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
+    "summary": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1YazUyTDdSd1lwdzA5cExITVN1UkNDUEZCTlYxREE1VHoyRHBjUURhaXp1cERpbE9ZUmJPRGltX0JCWmJwdVZNLXA4M25jaVNvX3cyS0NrMGEtQXhOMVNiNUhsN2NORFM4Ym5vMmRZbGdIOGxsYTMzXzVVdHJOSXBmYkRBRkFQ?oc=5",
+    "source": "The Cool Down",
+    "sourceType": "news",
+    "published": "2026-08-13T07:00:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Solar PV",
+      "Manufacturing"
+    ],
+    "signalType": "manufacturing",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
+    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-e1bf80102621",
+    "title": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
+    "headline": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
+    "summary": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
+    "source": "fundsforNGOs News",
+    "sourceType": "news",
+    "published": "2026-08-17T07:12:20+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-2551981422f6",
+    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
+    "source": "HESPRESS English - Morocco News",
+    "sourceType": "news",
+    "published": "2026-08-24T09:26:05+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-f474b8d21bee",
+    "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "headline": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "summary": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-08-25T10:08:19+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-527f1a85cf39",
+    "title": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
+    "headline": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
+    "summary": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUF9RUFlMUTA0REVQVVd6eXpJc05hS1RhTlpwQ2o2bS1hU1JfcGU3bHFyUW10bTUtVDVMX2wwS3hMdWRLQ0xJWmtrZmpUMUVXVmJOZUdNWWpybEh0a2ZwU042S05yZUhqTExqMmtBVkhjVTNJWkxEV1M0S3phN0l1Q1RtMFFfekxZQ3huUkVIRHR2bXBJSHlZREM5NU9mYkpKaHgtLXMzNVZxcDlxX1pfMWlqUTFkdFBqY3cxYmNuV1c3RFRITE92RVVva1NKNUYxTTBESThkSDRrclpha3o0UlB30gHiAUFVX3lxTE5QX1FQWUxRMDRERVBVV3p5eklzTmFLVGFOWnBDajZtLWFTUl9wZTdscXJRbXRtNS1UNUxfbDBLeEx1ZEtDTElaa2tmalQxRVdWYk5lR01ZanJsSHRrZnBTTjZLTnJlSGpMTGoya0FWSGNVM0laTERXUzRLemE3SXVDVG0wUV96TFlDeG5SRUhEdHZtcElIeVlEQzk1T2ZiSkpoeC0tczM1VnFwOXFfWl8xaWpRMWR0UGpjdzFiY25XVzdEVEhMT3ZFVW9rU0o1RjFNMERJOGRINGtyWmFrejRSUHc?oc=5",
+    "source": "Devdiscourse",
+    "sourceType": "news",
+    "published": "2026-08-24T09:13:20+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-931e576cf6cb",
+    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
+    "source": "streamlinefeed.co.ke",
+    "sourceType": "news",
+    "published": "2026-08-25T12:28:50+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-2878720fbcff",
+    "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+    "headline": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+    "summary": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
+    "source": "streamlinefeed.co.ke",
+    "sourceType": "news",
+    "published": "2026-08-24T09:20:31+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-524fe2866f13",
+    "title": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
+    "headline": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
+    "summary": "Dangote Refinery And Nigeria’s Economic Awakening pmexpressng.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02WDk2OEVfNVpCMldyZlhXZ1VBU0ZpQ04zcmNFazdUUnZMQkROZXJOWFk4c0FvSXRCbWk5Vk9zN0VWSXBXMW5BMGpTdmV0WDdVSG5jV05JME1pTDF5eWxzRnRFLXlzdGduRmZqX3BWWW12VWhwLS1aUmpTQi0yZw?oc=5",
+    "source": "pmexpressng.com",
+    "sourceType": "news",
+    "published": "2026-08-18T10:01:57+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 28,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Dangote Refinery And Nigeria’s Economic Awakening pmexpressng.com",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-55b1aa1733b9",
+    "title": "Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment - Africa Sustainability Matters",
+    "headline": "Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment - Africa Sustainability Matters",
+    "summary": "Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment Africa Sustainability Matters",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa20tbzNIalZFNGFFTHdfNXpUMVFuSlc3cEN3UHNkcWRrSi1zdmkxUWdBRzJXWDI4MTU1ejVIYnMtQnQ2anhUM2dXRHZDNG16S3lPRk5HbmJJV0pidEVTT1JkRmxUMGNxakZUMGEtc0hkUW90LUtIU0plV2JrdnRkUDMzVWwtMmY0OHlwRmI5MUtKM3Bib2RGbEVzdW9UbkE0MFRlWEs0Z1NzZ0d0YTQtRmtYbERWaEFIVm9qbllScGRZbkN5RTZ3dG1NcnBFZDhaRlFISUk3MEE2MV91MS12dHAyWTZNeVR0XzRobEItYVlyaUk?oc=5",
+    "source": "Africa Sustainability Matters",
+    "sourceType": "news",
+    "published": "2026-08-12T11:58:22+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 40,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment Africa Sustainability Matters",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-17e32fc65e81",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
+    "source": "ANI News",
+    "sourceType": "news",
+    "published": "2026-08-25T11:37:00+00:00",
+    "detected": "2026-08-25T17:42:44.173292+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 40,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
@@ -1477,384 +1906,6 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-ded7355ea28e",
-    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News",
-    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News",
-    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTmV1U2YtVmhDQUFBdmJuOUI2empfeWotc0lySm15X0owTnZVVmE1SGMxbTE3NTV5REkyeTA1TWxzZnUwWFU4Q3hBcUhObzUxekpVekc0TDZWVXREQVJBMXd1R1BldGw1anUwbEtuWHRDeDZWTUFjM1JQU2xmMFhmVWJzZ0szYmdaUjYzdWY2c3o2SGNna0dWX24xSmZBSHNRM1NieGIzMzh5RGVZaHlRcXllWFVXdkUxNXdtazd3azUzOThNd05JZGE2STFLaHZOMnE3cTNyNjJsMVAwUkluQnhLenJTcWlDc0txVmw1ZDVWOEplRF9Z?oc=5",
-    "source": "ANI News",
-    "sourceType": "news",
-    "published": "2026-08-25T05:53:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 40,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-f0d8f032395e",
-    "title": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
-    "headline": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
-    "summary": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUG9zME0zVHJHOUQzeFZ2RVVkWWd6WE1WSUtzem5xN1UtSkU3OWsydklra3FIYXN1UlBia3VkMnVOV2JlUWpDSVFFWWZtXy15dXRUVUhSRGZKdHpXY01BWnJQTkwwTTdEM3NwclI0MFRPR29XcXBYVDlzdXZWay01QnU5TDctX0lNZTlMbFhvNmdxYWl4R2RXaklqT18tU2JVbklsX21lZmNndERVMUs4MjlFWktMc042RVZTV3JZTGpwb1luWXQtcnFVQ1hYWkhBQ1E?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 37,
-    "actionabilityScore": 37,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-d052e5b1e1bc",
-    "title": "India seeks Japanese capital for technology & manufacturing growth - Fibre2Fashion",
-    "headline": "India seeks Japanese capital for technology & manufacturing growth - Fibre2Fashion",
-    "summary": "India seeks Japanese capital for technology & manufacturing growth Fibre2Fashion",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRkpTaWhvV0w2b0JEdUVOVDN2ekEwZEJXVVB6dVZBaUQ0Z3VaMjEzZXBvdGlmZXpJOWR3b09QNm1jRS0zbnduVnFDR3NmMEdqclFFbzlRUWhvZUNfZkt3NmNTdmR3QmpmR2pSbFI3Uzh3NWJTclZPRkxPZkFxOEczME5oQ0piUC16c2liSnhCOEZlMVBkcFMtakcxZTNwR2xiZl9oc0lZckJYc0hRTm5WeWJZX2JwSnpnTERHdnZjU0g3eWV3UTQ4Tm1GVWtCOUh3TnA5dDdlVG0wZXpIc25ZOHZUQXVPOHREbi10WA?oc=5",
-    "source": "Fibre2Fashion",
-    "sourceType": "news",
-    "published": "2026-08-25T13:33:52+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Manufacturing"
-    ],
-    "signalType": "manufacturing",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 37,
-    "actionabilityScore": 37,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India seeks Japanese capital for technology & manufacturing growth Fibre2Fashion",
-    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-13c7683d426f",
-    "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
-    "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
-    "summary": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHUyN2tFMUhpTG4zMGFEN0NiV29pakUwTGdnMFJ4ZWtlOU9nVlRpSldzVnJwazNkRFNURzJBM0dLYnZlQXhMX0ZwLXozVUQ1N0RYWjRLbkE2NHgyQ1IyQ0hUc1BNdlpxaVFGS2NmU2VXVHZuN0lmZXRrenFkVkVEYTV3ak5lbGFKRFlland6QlhzOER6dVY2R0oxNnR5TEdKV1A3YVJQMi02RVNEU0xaa25SeFRLQV9FcFp6TXFoWEJSSkhZaW5TSVctcWo4MFZzWHdV?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Solar PV",
-      "Manufacturing"
-    ],
-    "signalType": "manufacturing",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 37,
-    "actionabilityScore": 37,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
-    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-aa714dcdb56a",
-    "title": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
-    "headline": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
-    "summary": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVBOazVQdHJlTlhLLTZSRzFkVDV3WUhCdFVqak9STlE5azFobXFyYW1hbnFLbHRrR0ZUMEJrTV81ZEJXVUt2NUQtZGs4QzJYUEFhaVBKbmRhRU80SEJqTlR0c2FhV1FyczZSaDZWRUZPeVcxc0lfUEpGdTEtRjZ2R2dvUzNqdXY2VGI0aHYtLV9MTGFLaGtaMW5EV2ZqWXB1UTNMdU5uM2ZGRHljaDVtMHd2NXZRYmtMXzlmR2dLZw?oc=5",
-    "source": "Hydrogen Fuel News",
-    "sourceType": "news",
-    "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Hydrogen / PtX"
-    ],
-    "signalType": "partnership",
-    "projectStage": "announcement",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 36,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
-    "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-adcd96302f21",
-    "title": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa - Phenomenal World",
-    "headline": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa - Phenomenal World",
-    "summary": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa Phenomenal World",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBueTZzX0c3YjY2bVlzdDlHNUpfWTljbWFybzIwMTYzS0k5ZEpBX1NmSmN0bDFqa0Rmc3RFQWNHVFNQQ0VYYlZZTlRZeDJFUm1PZ191VlJfQnJBRTZNNXpWSkRoUXpYdnhwMVJGYg?oc=5",
-    "source": "Phenomenal World",
-    "sourceType": "news",
-    "published": "2026-08-13T14:14:17+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa Phenomenal World",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-756bf8491e4e",
-    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets - ABC News - Breaking News, Latest News and Videos",
-    "headline": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets - ABC News - Breaking News, Latest News and Videos",
-    "summary": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFA3UU1odHdSVVc4YTcyMjV3cEJZMldfM2Y3SzhCN1JYTGdBV0lmSUtqbm42c21BdFBocFdtTE95M1ZGQ2tHSXVZNUNoQjRXMkh5U2tka0dQbE16N3pOSVdtd3NEak01MW8ybFdOTzlxTVRycnZfZWZwYnh3ZExGUEI5RXJPRkpGcTNmRDBLYTU0cVZOcTN6YjBjU1U4a0ozYjV4QdIBqgFBVV95cUxQb0FBRnBRY0U2alo2U0R1aGhrSllZTDB5LUREcFY0Ym40dzJ4X003Vk5LaFdyaWFCdzR0c3F5MGZOUDc1NDM3NFpTZWNLemtBOFhOUTBURnZ0dmU1MTktRVEtLTgtcXVVVlUtazRuRnVoUTNCV2ctbmJYbm1SeXo4U2JUaDZieEtCRXB0SmdfYVBFRWRIMTJqeklhNXA1MlRmaXV1NkhEdHl0dw?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "sourceType": "news",
-    "published": "2026-08-12T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets ABC News - Breaking News, Latest News and Videos",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-c1bb351713f6",
-    "title": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
-    "headline": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
-    "summary": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1YazUyTDdSd1lwdzA5cExITVN1UkNDUEZCTlYxREE1VHoyRHBjUURhaXp1cERpbE9ZUmJPRGltX0JCWmJwdVZNLXA4M25jaVNvX3cyS0NrMGEtQXhOMVNiNUhsN2NORFM4Ym5vMmRZbGdIOGxsYTMzXzVVdHJOSXBmYkRBRkFQ?oc=5",
-    "source": "The Cool Down",
-    "sourceType": "news",
-    "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Solar PV",
-      "Manufacturing"
-    ],
-    "signalType": "manufacturing",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
-    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-e1bf80102621",
-    "title": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
-    "headline": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
-    "summary": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
-    "source": "fundsforNGOs News",
-    "sourceType": "news",
-    "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-2551981422f6",
-    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
-    "source": "HESPRESS English - Morocco News",
-    "sourceType": "news",
-    "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-f474b8d21bee",
-    "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
-    "headline": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
-    "summary": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-527f1a85cf39",
-    "title": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
-    "headline": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
-    "summary": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUF9RUFlMUTA0REVQVVd6eXpJc05hS1RhTlpwQ2o2bS1hU1JfcGU3bHFyUW10bTUtVDVMX2wwS3hMdWRLQ0xJWmtrZmpUMUVXVmJOZUdNWWpybEh0a2ZwU042S05yZUhqTExqMmtBVkhjVTNJWkxEV1M0S3phN0l1Q1RtMFFfekxZQ3huUkVIRHR2bXBJSHlZREM5NU9mYkpKaHgtLXMzNVZxcDlxX1pfMWlqUTFkdFBqY3cxYmNuV1c3RFRITE92RVVva1NKNUYxTTBESThkSDRrclpha3o0UlB30gHiAUFVX3lxTE5QX1FQWUxRMDRERVBVV3p5eklzTmFLVGFOWnBDajZtLWFTUl9wZTdscXJRbXRtNS1UNUxfbDBLeEx1ZEtDTElaa2tmalQxRVdWYk5lR01ZanJsSHRrZnBTTjZLTnJlSGpMTGoya0FWSGNVM0laTERXUzRLemE3SXVDVG0wUV96TFlDeG5SRUhEdHZtcElIeVlEQzk1T2ZiSkpoeC0tczM1VnFwOXFfWl8xaWpRMWR0UGpjdzFiY25XVzdEVEhMT3ZFVW9rU0o1RjFNMERJOGRINGtyWmFrejRSUHc?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-931e576cf6cb",
-    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-2878720fbcff",
-    "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "headline": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "summary": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-524fe2866f13",
-    "title": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
-    "headline": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
-    "summary": "Dangote Refinery And Nigeria’s Economic Awakening pmexpressng.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02WDk2OEVfNVpCMldyZlhXZ1VBU0ZpQ04zcmNFazdUUnZMQkROZXJOWFk4c0FvSXRCbWk5Vk9zN0VWSXBXMW5BMGpTdmV0WDdVSG5jV05JME1pTDF5eWxzRnRFLXlzdGduRmZqX3BWWW12VWhwLS1aUmpTQi0yZw?oc=5",
-    "source": "pmexpressng.com",
-    "sourceType": "news",
-    "published": "2026-08-18T10:01:57+00:00",
-    "detected": "2026-08-25T17:33:36.412182+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 28,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Dangote Refinery And Nigeria’s Economic Awakening pmexpressng.com",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
   {

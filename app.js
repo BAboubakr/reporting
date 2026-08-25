@@ -21,40 +21,34 @@ function setView(id){
 document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
 document.querySelectorAll('[data-view-target]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.viewTarget)));
 
-// Modal handling: defensive, works if elements present, supports backdrop click and Escape key
+// Modal: hidden by default. The CSS only displays it when .is-open is present.
 (function setupModal(){
-  try{
-    const modal = $('modalBackdrop');
-    const openBtn = $('newDevelopment') || document.querySelector('[data-open-new-development]');
-    const closeBtn = modal?.querySelector('.close-modal');
+  const modal = $('modalBackdrop');
+  const openBtn = $('newDevelopment');
+  const closeBtn = modal?.querySelector('.close-modal');
+  if(!modal) return;
 
-    function openModal(){
-      if(!modal) return;
-      modal.hidden = false;
-      // prevent background scrolling when modal open
-      document.documentElement.style.overflow = 'hidden';
-      document.body.style.overflow = 'hidden';
-      // focus the first input if present
-      const firstInput = modal.querySelector('input, button, textarea');
-      if(firstInput) firstInput.focus();
-    }
-    function closeModal(){
-      if(!modal) return;
-      modal.hidden = true;
-      document.documentElement.style.overflow = '';
-      document.body.style.overflow = '';
-    }
-
-    if(openBtn) openBtn.addEventListener('click', openModal);
-    if(closeBtn) closeBtn.addEventListener('click', closeModal);
-    // click on backdrop (outside .modal) closes
-    if(modal) modal.addEventListener('click', e=>{ if(e.target === modal) closeModal(); });
-    // escape key closes
-    document.addEventListener('keydown', e=>{ if(e.key === 'Escape') closeModal(); });
-  }catch(err){
-    // don't let modal setup break the rest of the app
-    console.error('Modal setup failed', err);
+  function openModal(){
+    modal.classList.add('is-open');
+    modal.setAttribute('aria-hidden','false');
+    document.documentElement.style.overflow = 'hidden';
+    document.body.style.overflow = 'hidden';
+    const firstInput = modal.querySelector('input, button, textarea');
+    if(firstInput) firstInput.focus();
   }
+  function closeModal(){
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden','true');
+    document.documentElement.style.overflow = '';
+    document.body.style.overflow = '';
+  }
+
+  // Force the initial state closed in case a previous cached script/CSS touched it.
+  closeModal();
+  openBtn?.addEventListener('click', openModal);
+  closeBtn?.addEventListener('click', closeModal);
+  modal.addEventListener('click', e=>{ if(e.target === modal) closeModal(); });
+  document.addEventListener('keydown', e=>{ if(e.key === 'Escape') closeModal(); });
 })();
 
 const mobile=document.querySelector('.mobile-menu');if(mobile)mobile.onclick=()=>document.querySelector('.sidebar').classList.toggle('open');
@@ -76,7 +70,7 @@ $('downloadPpt')?.addEventListener('click',async()=>{
     if(status) status.textContent='Generating PowerPoint…';
     const pptx=new Pptx();
     pptx.layout='LAYOUT_WIDE';pptx.author='Atlas';pptx.company='Fichtner';pptx.subject='Morocco Renewable Energy Intelligence';pptx.title=$('reportType')?.value||'Report';
-    const green='153A35',ink='16302C',muted='64716D';
+    const green='153A35';
     let s=pptx.addSlide();s.background={color:green};s.addText('ATLAS',{x:.6,y:.5,w:3,h:.3,fontSize:18,bold:true,color:'FFFFFF'});s.addText('MOROCCO RENEWABLE ENERGY INTELLIGENCE',{x:.6,y:2.0,w:10});
     s=pptx.addSlide();s.background={color:'FFFEFA'};s.addText('01 · EXECUTIVE SUMMARY',{x:.6,y:.5,w:5,h:.3,fontSize:9,color:'4D746B'});s.addText('Signals that require a decision',{x:.6,y:.9,w:10});
     s=pptx.addSlide();s.background={color:'FFFEFA'};s.addText('02 · OPPORTUNITY PIPELINE',{x:.6,y:.5,w:5,h:.3,fontSize:9,color:'4D746B'});s.addText('Priority actions',{x:.6,y:.9,w:10});

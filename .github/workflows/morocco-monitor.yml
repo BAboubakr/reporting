@@ -2,7 +2,7 @@ name: Morocco Intelligence Monitor
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
   push:
     branches: [master]
@@ -47,7 +47,7 @@ jobs:
           Path('data/signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
           status='success' if os.environ.get('COLLECT_OUTCOME')=='success' else 'failed'
           now=datetime.now(timezone.utc).isoformat()
-          health={'status':status,'lastRun':now,'completedAt':now,'sourcesChecked':17,'rawRecords':len(new),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(signals),'competitorSignals':sum(1 for x in signals if x.get('competitor')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved']}
+          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(signals),'competitorSignals':sum(1 for x in signals if x.get('competitor')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved']}
           Path('data/monitor-status.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           print(json.dumps(health,indent=2))
           PY

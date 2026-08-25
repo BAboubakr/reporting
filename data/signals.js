@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700015+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811922+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -33,8 +33,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700011+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811917+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -59,8 +59,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700002+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811908+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -85,8 +85,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699999+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811905+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -111,8 +111,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699998+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811904+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -137,8 +137,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699995+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811901+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -163,8 +163,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699994+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811899+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -189,8 +189,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699991+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811896+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -215,8 +215,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699984+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811889+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -242,7 +242,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-15T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -268,7 +268,7 @@ export const signals = [
     "source": "European Rubber Journal",
     "sourceType": "news",
     "published": "2026-08-21T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -294,7 +294,7 @@ export const signals = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -320,7 +320,7 @@ export const signals = [
     "source": "The Economist",
     "sourceType": "news",
     "published": "2026-08-19T20:10:04+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -346,7 +346,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -372,7 +372,7 @@ export const signals = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -400,7 +400,7 @@ export const signals = [
     "source": "Fortune Business Insights",
     "sourceType": "news",
     "published": "2026-08-25T12:58:09+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -426,8 +426,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699956+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811865+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -452,8 +452,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699973+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811878+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -478,8 +478,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699975+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811880+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -504,8 +504,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699977+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811882+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -530,8 +530,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699979+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811883+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -556,8 +556,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699980+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811885+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -582,8 +582,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699982+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811886+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -608,8 +608,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699988+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811893+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -634,8 +634,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699990+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811895+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -660,8 +660,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699993+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811898+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -686,8 +686,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.699997+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811902+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -712,8 +712,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700004+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811910+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -738,8 +738,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700005+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811911+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -764,8 +764,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700006+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811913+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -790,8 +790,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700008+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811914+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -816,8 +816,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700009+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811916+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -842,8 +842,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700012+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811919+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -868,8 +868,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-25T18:02:08.700013+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "published": "2026-08-25T18:02:50.811920+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -895,7 +895,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -921,7 +921,7 @@ export const signals = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -947,7 +947,7 @@ export const signals = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -974,7 +974,7 @@ export const signals = [
     "source": "Fibre2Fashion",
     "sourceType": "news",
     "published": "2026-08-25T13:33:52+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -1000,7 +1000,7 @@ export const signals = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -1027,7 +1027,7 @@ export const signals = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -1053,7 +1053,7 @@ export const signals = [
     "source": "Phenomenal World",
     "sourceType": "news",
     "published": "2026-08-13T14:14:17+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1079,7 +1079,7 @@ export const signals = [
     "source": "ABC News - Breaking News, Latest News and Videos",
     "sourceType": "news",
     "published": "2026-08-12T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1105,7 +1105,7 @@ export const signals = [
     "source": "The Cool Down",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -1132,7 +1132,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:12:20+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -1158,7 +1158,7 @@ export const signals = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -1184,7 +1184,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -1210,7 +1210,7 @@ export const signals = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1236,7 +1236,7 @@ export const signals = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1262,7 +1262,7 @@ export const signals = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -1288,7 +1288,7 @@ export const signals = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
     "categories": [
       "Investment"
     ],
@@ -1303,6 +1303,606 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-63789c6c5334",
+    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-25T06:30:00+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-6c30a31da7db",
+    "title": "Matriel accept Rseau ONEE",
+    "headline": "Matriel accept Rseau ONEE",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263072+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Grid"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "ONEE"
+    ],
+    "competitor": null,
+    "relevanceScore": 53,
+    "actionabilityScore": 38,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-c6092006d330",
+    "title": "Textes réglementaires et techniques",
+    "headline": "Textes réglementaires et techniques",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263071+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-70562c0165da",
+    "title": "Contrôle du maintien de la qualité",
+    "headline": "Contrôle du maintien de la qualité",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263069+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-125661eb0e51",
+    "title": "Spécifications techniques",
+    "headline": "Spécifications techniques",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263068+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 59,
+    "noveltyScore": 1.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-e9ea8d9d2688",
+    "title": "Agrment et qualit du matriel",
+    "headline": "Agrment et qualit du matriel",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263066+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-f807a1b10185",
+    "title": "Entreprises agres en maintenance",
+    "headline": "Entreprises agres en maintenance",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263065+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-46a640b2975e",
+    "title": "Entreprises agres en rseau",
+    "headline": "Entreprises agres en rseau",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263063+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-294ad6e82cef",
+    "title": "Travaux et prestations soumis agrment",
+    "headline": "Travaux et prestations soumis agrment",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263062+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-aeab8f03330b",
+    "title": "Agrment des entreprises de travaux et services - Edition 2024",
+    "headline": "Agrment des entreprises de travaux et services - Edition 2024",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263060+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-7f2e3d2f2fa7",
+    "title": "Constitution des dossiers de qualifications des microentreprises",
+    "headline": "Constitution des dossiers de qualifications des microentreprises",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263059+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-4260ad896ae9",
+    "title": "Liste des activits pouvant tre confies des microentreprises",
+    "headline": "Liste des activits pouvant tre confies des microentreprises",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263057+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-ced3662e2d6f",
+    "title": "Qualification des Microentreprises",
+    "headline": "Qualification des Microentreprises",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263056+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-bb9403a72259",
+    "title": "Gestion des Fournisseurs Dfaillants",
+    "headline": "Gestion des Fournisseurs Dfaillants",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263054+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-6db591c0c3d1",
+    "title": "Evaluation des Fournisseurs",
+    "headline": "Evaluation des Fournisseurs",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263053+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-e49c04b328b2",
+    "title": "Mise jour des donnes des fournisseurs inscrits",
+    "headline": "Mise jour des donnes des fournisseurs inscrits",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263051+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-e4d8cf16687a",
+    "title": "Dossier dinscription caractre spcifique",
+    "headline": "Dossier dinscription caractre spcifique",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263050+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-23aaf9c765c7",
+    "title": "Dossier dinscription caractre gnral",
+    "headline": "Dossier dinscription caractre gnral",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263048+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-ced0d4bc3488",
+    "title": "Inscription des Fournisseurs",
+    "headline": "Inscription des Fournisseurs",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263046+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-b94e4288cf88",
+    "title": "Lancés non encore ouverts",
+    "headline": "Lancés non encore ouverts",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263029+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-a2eebeda8c07",
+    "title": "Ouverts non encore jugés",
+    "headline": "Ouverts non encore jugés",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263043+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-ebc50e499908",
+    "title": "Attestation de Rfrence",
+    "headline": "Attestation de Rfrence",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263074+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH"
+  },
+  {
+    "id": "sig-90fb14db58d0",
+    "title": "Afficher tous les appels d'offres",
+    "headline": "Afficher tous les appels d'offres",
+    "summary": "",
+    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
+    "source": "ONEE tenders",
+    "sourceType": "official",
+    "published": "2026-08-25T18:02:44.263077+00:00",
+    "detected": "2026-08-25T18:02:50.830082+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
   {
@@ -1854,32 +2454,6 @@ export const signals = [
     "fichtnerRelevance": "WATCH"
   },
   {
-    "id": "sig-63789c6c5334",
-    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-25T18:02:08.714921+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
     "id": "sig-524fe2866f13",
     "title": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
     "headline": "Dangote Refinery And Nigeria’s Economic Awakening - pmexpressng.com",
@@ -1928,558 +2502,6 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-6c30a31da7db",
-    "title": "Matriel accept Rseau ONEE",
-    "headline": "Matriel accept Rseau ONEE",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127751+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Grid"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "ONEE"
-    ],
-    "competitor": null,
-    "relevanceScore": 53,
-    "actionabilityScore": 53,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-c6092006d330",
-    "title": "Textes réglementaires et techniques",
-    "headline": "Textes réglementaires et techniques",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127750+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-70562c0165da",
-    "title": "Contrôle du maintien de la qualité",
-    "headline": "Contrôle du maintien de la qualité",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127749+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-125661eb0e51",
-    "title": "Spécifications techniques",
-    "headline": "Spécifications techniques",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127747+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-e9ea8d9d2688",
-    "title": "Agrment et qualit du matriel",
-    "headline": "Agrment et qualit du matriel",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127746+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-f807a1b10185",
-    "title": "Entreprises agres en maintenance",
-    "headline": "Entreprises agres en maintenance",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127744+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-46a640b2975e",
-    "title": "Entreprises agres en rseau",
-    "headline": "Entreprises agres en rseau",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127742+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-294ad6e82cef",
-    "title": "Travaux et prestations soumis agrment",
-    "headline": "Travaux et prestations soumis agrment",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127741+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-aeab8f03330b",
-    "title": "Agrment des entreprises de travaux et services - Edition 2024",
-    "headline": "Agrment des entreprises de travaux et services - Edition 2024",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127739+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-7f2e3d2f2fa7",
-    "title": "Constitution des dossiers de qualifications des microentreprises",
-    "headline": "Constitution des dossiers de qualifications des microentreprises",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127738+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-4260ad896ae9",
-    "title": "Liste des activits pouvant tre confies des microentreprises",
-    "headline": "Liste des activits pouvant tre confies des microentreprises",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127736+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-ced3662e2d6f",
-    "title": "Qualification des Microentreprises",
-    "headline": "Qualification des Microentreprises",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127735+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-bb9403a72259",
-    "title": "Gestion des Fournisseurs Dfaillants",
-    "headline": "Gestion des Fournisseurs Dfaillants",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127733+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-6db591c0c3d1",
-    "title": "Evaluation des Fournisseurs",
-    "headline": "Evaluation des Fournisseurs",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127732+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-e49c04b328b2",
-    "title": "Mise jour des donnes des fournisseurs inscrits",
-    "headline": "Mise jour des donnes des fournisseurs inscrits",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127730+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-e4d8cf16687a",
-    "title": "Dossier dinscription caractre spcifique",
-    "headline": "Dossier dinscription caractre spcifique",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127728+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-23aaf9c765c7",
-    "title": "Dossier dinscription caractre gnral",
-    "headline": "Dossier dinscription caractre gnral",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127727+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-ced0d4bc3488",
-    "title": "Inscription des Fournisseurs",
-    "headline": "Inscription des Fournisseurs",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127725+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-b94e4288cf88",
-    "title": "Lancés non encore ouverts",
-    "headline": "Lancés non encore ouverts",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127703+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-a2eebeda8c07",
-    "title": "Ouverts non encore jugés",
-    "headline": "Ouverts non encore jugés",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127722+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-ebc50e499908",
-    "title": "Attestation de Rfrence",
-    "headline": "Attestation de Rfrence",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127753+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-90fb14db58d0",
-    "title": "Afficher tous les appels d'offres",
-    "headline": "Afficher tous les appels d'offres",
-    "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
-    "sourceType": "official",
-    "published": "2026-08-25T17:49:25.127756+00:00",
-    "detected": "2026-08-25T17:49:49.044003+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 43,
-    "status": "new",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
   {

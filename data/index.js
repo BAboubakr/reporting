@@ -3,3 +3,7 @@ export { eventData } from './events.js';
 export { pipeline } from './pipeline.js';
 export { stakeholders } from './stakeholders.js';
 export { sources } from './sources.js';
+export { competitors } from './competitors.js';
+export { watchlists } from './watchlists.js';
+export { monitoring } from './monitoring.js';
+export { signals } from './signals.js';

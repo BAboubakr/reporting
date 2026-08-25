@@ -30,10 +30,6 @@ jobs:
           app_text = app.read_text(encoding='utf-8')
           patch_text = patch.read_text(encoding='utf-8')
 
-          # The supplied file is the validated patch. Some GitHub copies omit the
-          # instructional marker, so use the actual code boundaries as a fallback:
-          # constants/helpers start at FICHTNER_BLUE; the replacement handlers start
-          # at printPdf and run to the end of the patch.
           const_start = patch_text.find('const FICHTNER_BLUE')
           if const_start < 0:
               raise SystemExit('Patch constants not found')
@@ -107,7 +103,6 @@ jobs:
           while True:
               p = app_text.find("$('printPdf')")
               if p < 0: break
-              # Remove the whole listener statement, including the common one-line handler.
               end = app_text.find(';', p)
               if end < 0: raise SystemExit('Could not remove printPdf handler')
               app_text = app_text[:p] + app_text[end+1:]
@@ -115,19 +110,15 @@ jobs:
           while True:
               p = app_text.find("$('downloadPpt')")
               if p < 0: break
-              try:
-                  end = find_statement_end(app_text, p)
-              except ValueError as e:
-                  raise SystemExit(str(e))
+              end = find_statement_end(app_text, p)
               app_text = app_text[:p] + app_text[end:]
 
           app_text = app_text.rstrip() + '\n\n' + replacement + '\n'
           app.write_text(app_text, encoding='utf-8')
 
-          # Remove the earlier experimental standalone generator so there is only one report path.
           idx_text = idx.read_text(encoding='utf-8')
           idx_text = idx_text.replace("\nimport '../ppt-report.js';", '')
-          idx.write_text(idx_text, encoding='utf-8')
+          idx.write_text(idx_text.rstrip() + '\n', encoding='utf-8')
 
           html_text = html.read_text(encoding='utf-8')
           html_text = re.sub(r'<script src="ppt-report\.js[^>]*></script>', '', html_text)
@@ -144,8 +135,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm -f .github/workflows/integrate-report-generator.yml
+          git rm -f .github/workflows/integrate-report-generator.yml .report-generator-integration-trigger
           git add app.js data/index.js index.html
-          git diff --cached --check
           git commit -m "feat: brand PPTX/PDF report generator, wire to live signals, filter collector noise"
           git push

@@ -7,3 +7,5 @@ export { competitors } from './competitors.js';
 export { watchlists } from './watchlists.js';
 export { monitoring } from './monitoring.js';
 export { signals } from './signals.js';
+
+import '../ppt-report.js';

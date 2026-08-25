@@ -7,7 +7,7 @@ function formatDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?'Dat
 async function renderCompetitors(filter='all'){
  const list=document.getElementById('competitorList');if(!list)return;
  let signals=[],seed=[];try{const a=await import('./data/signals.js');signals=a.signals||[];const b=await import('./data/competitor-news.js');seed=b.competitorNews||[];}catch(e){console.error('Atlas competitor signal load failed',e);}
- const live=signals.filter(s=>s.competitor&&COMPETITORS.includes(s.competitor)&&daysOld(s.published||s.detected)<=30).map(s=>({competitor:s.competitor,type:s.signalType||'Market movement',theme:(s.categories||['Energy transition'])[0],signal:s.title,priority:s.fichtnerRelevance||(s.relevanceScore>=80?'HIGH':s.relevanceScore>=60?'MEDIUM':'WATCH'),source:s.source||'Atlas collector',url:s.url,date:s.published||s.detected,morocco:moroccoRelevant(s),relationship:'Competitor'}));
+ const live=signals.filter(s=>s.competitor&&COMPETITORS.includes(s.competitor)&&daysOld(s.published||s.detected)<=30).map(s=>({competitor:s.competitor,type:s.signalType||'Market movement',theme:(s.categories||['Energy transition'])[0],signal:s.title||s.headline,priority:s.fichtnerRelevance||(s.relevanceScore>=80?'HIGH':s.relevanceScore>=60?'MEDIUM':'WATCH'),source:s.source||'Atlas collector',url:s.url,date:s.published||s.detected,morocco:moroccoRelevant(s),relationship:'Competitor'}));
  const curated=seed.filter(s=>COMPETITORS.includes(s.competitor)&&daysOld(s.date)<=365).map(s=>({...s,morocco:moroccoRelevant(s)}));
  const all=[...live,...curated];const seen=new Set();const merged=all.filter(x=>{const key=`${x.competitor}|${x.signal}`;if(seen.has(key))return false;seen.add(key);return true;}).sort((a,b)=>(b.morocco-a.morocco)||((b.priority==='HIGH')-(a.priority==='HIGH'))||(Date.parse(b.date||'')-Date.parse(a.date||'')));
  const items=filter==='all'?merged:merged.filter(x=>x.competitor===filter);const moroccoCount=merged.filter(x=>x.morocco).length;const high=merged.filter(x=>x.priority==='HIGH'&&x.morocco).length;
@@ -23,3 +23,5 @@ const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';ma
 const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260825-1';document.body.appendChild(marketScript);
 const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);
 const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260825-1';document.body.appendChild(sourceScript);
+// Load the structured PowerPoint reporter explicitly. The previous version existed in the repo but was not loaded by the page.
+const pptScript=document.createElement('script');pptScript.src='ppt-report.js?v=20260825-3';document.body.appendChild(pptScript);

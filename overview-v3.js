@@ -1,19 +1,15 @@
 const escapeHtml = (v = '') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
 
-async function loadAtlasOverview() {
+function loadAtlasOverview() {
   const root = document.getElementById('overview');
   if (!root) return;
 
   try {
-    // Keep the overview independent from the legacy data index. This makes the
-    // command centre resilient if another data module has a bad record/export.
-    const [{ signals }, { eventData }] = await Promise.all([
-      import('./data/signals.js?v=20260826-12'),
-      import('./data/events.js?v=20260826-12')
-    ]);
-
-    const all = Array.isArray(signals) ? signals : [];
-    const events = Array.isArray(eventData) ? eventData : [];
+    // app.js loads the canonical data layer before this module executes.
+    // Use those shared objects directly instead of importing the data a second time.
+    // This avoids a fragile second module-loading path and keeps Overview resilient.
+    const all = Array.isArray(window.signals) ? window.signals : [];
+    const events = Array.isArray(window.eventData) ? window.eventData : [];
 
     const high = all.filter(s => s && (s.fichtnerRelevance === 'HIGH' || Number(s.actionabilityScore) >= 75));
     const actionable = all.filter(s => s && Number(s.actionabilityScore) >= 60);

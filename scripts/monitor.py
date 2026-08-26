@@ -1,6 +1,7 @@
 import hashlib, html, json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from smart_filter import classify
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
@@ -14,7 +15,7 @@ COMPETITOR_QUERIES = [f'{c} Morocco renewable energy' for c in COMPETITORS]
 OFFICIAL_PAGES = [('ONEE tenders','https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type='),('ONEE results','https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1'),('MASEN e-Tendering','https://etendering.masen.ma/')]
 KEYWORDS={'Solar PV':['solar','photovoltaic','pv','masen'],'BESS':['bess','battery','storage'],'Wind':['wind','eolien','éolien'],'Grid':['grid','transmission','substation','225 kv','onee'],'Regulation':['anre','regulation','tariff','law','decree','regulatory'],'Hydrogen / PtX':['hydrogen','ammonia','ptx','power-to-x','electrolysis'],'Investment':['investment','financing','funding','loan','mmdh','million','billion'],'Tender / Procurement':['tender','procurement','appel d’offres','appel d offres','consultation','prequalification'],'Manufacturing':['factory','manufacturing','module','cell','industrial']}
 SIGNAL_RULES=[('award',['awarded','won the contract','wins contract','selected','appointed','attributed','adjudicated','lauréat','retenu','attribué']),('tender',['tender','appel d’offres','appel d offres','procurement','consultation','prequalification','rfp']),('project milestone',['construction','commissioned','inaugurated','groundbreaking','financial close','commercial operation','mise en service','construction starts']),('project announcement',['project','plant','farm','facility','development','announces','launches','to develop','will build']),('investment',['investment','financing','funding','loan','invests','million','billion','mmdh']),('regulatory',['regulation','tariff','law','decree','decision','anre','regulatory']),('partnership',['partnership','agreement','memorandum','mou','joint venture','consortium','collaboration']),('manufacturing',['factory','manufacturing','module','cell','industrial plant'])]
-NOISE=['nouvel utilisateur','créer un compte','se connecter','connexion','menu','accueil','contact','recherche','newsletter','mentions légales','politique de confidentialité','cookies','subscribe','sign in','log in','home','search','0 entités publiques inscrites','tester la configuration de mon poste','soumettre une réclamation','liste des marchés attribués','liste des bons de commande attribués','annonce de programme prévisionnel','annonce de programme previsionnel','toutes les décisions de résiliation','tous les résultats définitifs','consultations et annonces','matériel accepté réseau onee','matériel accepté réseau onee','textes réglementaires et techniques','contrôle du maintien de la qualité','spécifications techniques','entreprises agréées en réseau','entreprises agres en reseau','travaux et prestations soumis agrément','travaux et prestations soumis agrement','agrément des entreprises de travaux et services','agrement des entreprises de travaux et services','constitution des dossiers de qualifications des microentreprises','qualification des microentreprises','liste des activités pouvant être confiées à des microentreprises','liste des activites pouvant etre confiees a des microentreprises']
+NOISE=['nouvel utilisateur','créer un compte','se connecter','connexion','menu','accueil','contact','recherche','newsletter','mentions légales','politique de confidentialité','cookies','subscribe','sign in','log in','home','search','0 entités publiques inscrites','tester la configuration de mon poste','soumettre une réclamation','liste des marchés attribués','liste des bons de commande attribués','annonce de programme prévisionnel','annonce de programme previsionnel','toutes les décisions de résiliation','tous les résultats définitifs','consultations et annonces','matériel accepté réseau onee','textes réglementaires et techniques','contrôle du maintien de la qualité','spécifications techniques','entreprises agréées en réseau','entreprises agres en reseau','travaux et prestations soumis agrément','travaux et prestations soumis agrement','agrément des entreprises de travaux et services','agrement des entreprises de travaux et services','constitution des dossiers de qualifications des microentreprises','qualification des microentreprises','liste des activités pouvant être confiées à des microentreprises','liste des activites pouvant etre confiees a des microentreprises']
 
 def fetch(url):
     req=urllib.request.Request(url,headers={'User-Agent':'Atlas-Morocco-Intelligence/2.0'})
@@ -28,10 +29,7 @@ def is_noise(text):
     t=normalize(text)
     if len(t)<18 or len(t)>350:return True
     if any(t==n or t.startswith(n+' ') for n in NOISE):return True
-    # Official tender portals often expose navigation labels as headings. Keep only
-    # labels that look like an actual market item when sourced from those pages.
-    nav_patterns=[r'^\d+ entit',r'^tester la configuration',r'^soumettre une reclamation',r'^liste des ',r'^toutes? les ',r'^consultations? et annonces?$',r'^textes? reglementaires',r'^controle du maintien',r'^specifications? techniques$',r'^entreprises? agrees? en reseau',r'^travaux et prestations soumis',r'^qualification des microentreprises',r'^constitution des dossiers',r'^materiel accepte reseau onee']
-    return any(re.search(p,t) for p in nav_patterns)
+    return False
 
 def google_rss(query):
     url='https://news.google.com/rss/search?'+urllib.parse.urlencode({'q':query+' when:14d','hl':'en-US','gl':'US','ceid':'US:en'})
@@ -50,12 +48,9 @@ def page_items(name,url):
     for m in re.finditer(r'<(?:a|h1|h2|h3|h4)[^>]*>(.*?)</(?:a|h1|h2|h3|h4)>',body,re.I|re.S):
         t=clean(m.group(1))
         if not is_noise(t):chunks.append(t)
-    if not chunks:
-        text=clean(body)
-        if not is_noise(text):chunks=[text[:500]]
     return [(c,url,'',datetime.now(timezone.utc).isoformat(),name,'official') for c in chunks[:30]]
 
-def classify(title,desc):
+def classify_categories(title,desc):
     t=(title+' '+desc).lower(); found=[]
     for cat,words in KEYWORDS.items():
         if any(w.lower() in t for w in words):found.append(cat)
@@ -123,7 +118,7 @@ def main():
         except Exception:pass
         key=dedupe_key(title,link)
         if key in seen:continue
-        seen.add(key);competitor=competitor_hit(title+' '+desc);categories=classify(title,desc);relevance=score(title,desc,competitor,source_type)
+        seen.add(key);competitor=competitor_hit(title+' '+desc);categories=classify_categories(title,desc);relevance=score(title,desc,competitor,source_type)
         candidates.append((title,link,desc,published,source,source_type,competitor,categories,relevance))
     unique=[]
     for row in sorted(candidates,key=lambda r:r[8],reverse=True):
@@ -138,8 +133,15 @@ def main():
     for title,link,desc,published,source,source_type,competitor,categories,relevance in unique:
         sig_type=signal_type(title,desc);stage=extract_stage(title+' '+desc);novelty_score=novelty(title,existing_titles);actionability=min(99,round(relevance*0.72+novelty_score*28));evidence_level='official source' if source_type=='official' else 'news source';why=f"{sig_type.title()} signal relevant to Morocco renewable-energy activity"+(f"; {competitor} detected" if competitor else '')
         signals.append({'id':'sig-'+dedupe_key(title,link),'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'categories':categories,'signalType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'noveltyScore':novelty_score,'status':'new','evidenceLevel':evidence_level,'evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
+    filtered=classify(signals)
+    kept=[s for s in filtered if s.get('filterDecision')=='KEEP']
+    review=[s for s in filtered if s.get('filterDecision')=='REVIEW']
+    # REVIEW items remain available for analyst inspection but are not promoted to the main signal feed.
+    for s in review:s['status']='review'
+    signals=kept
     signals.sort(key=lambda x:(x['actionabilityScore'],x['relevanceScore']),reverse=True)
     (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
-    print(f'Collected {len(rows)} raw records; filtered to {len(candidates)} candidates; stored {len(signals)} intelligence signals.')
+    (DATA/'signal-review.js').write_text('export const signalReview = '+json.dumps(review,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+    print(f'Collected {len(rows)} raw records; {len(candidates)} candidates; AI filter KEEP={len(kept)} REVIEW={len(review)} REJECT={len(filtered)-len(kept)-len(review)}.')
 
 if __name__=='__main__':main()

@@ -1,5 +1,6 @@
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
-import { signals } from './data/signals.js';
+import { signals as rawSignals } from './data/signals.js';
+import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js';
 
 const $ = id => document.getElementById(id);
 const storageKey = 'atlas-local-state-v2';
@@ -7,137 +8,42 @@ const saved = JSON.parse(localStorage.getItem(storageKey) || '{}');
 const localOpportunities = saved.opportunities || [];
 const localDevelopments = saved.developments || [];
 
+const signals = cleanSignals(rawSignals);
 const allDevelopments = () => [...localDevelopments, ...developments];
 const allPipeline = () => {
   const base = Object.fromEntries(Object.entries(pipeline).map(([k,v]) => [k, [...v]]));
   localOpportunities.forEach(o => (base[o.stage] ||= []).push(o));
   return base;
 };
-
-function persist(){
-  localStorage.setItem(storageKey, JSON.stringify({opportunities:localOpportunities, developments:localDevelopments}));
-}
-
-function escapeHtml(value=''){
-  return String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-}
+function persist(){ localStorage.setItem(storageKey, JSON.stringify({opportunities:localOpportunities, developments:localDevelopments})); }
+function escapeHtml(value=''){ return String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
 
 function renderOverview(){
   const devs = allDevelopments();
   if($('decisionGrid')) $('decisionGrid').innerHTML = [...devs].sort((a,b)=>(parseInt(b.score)||0)-(parseInt(a.score)||0)).slice(0,3).map(d=>`<article class="decision-card"><div class="card-top"><span class="badge ${d.level||'signal'}">${escapeHtml(d.state||'SIGNAL')}</span><span class="score">${escapeHtml(d.score||'—')}</span></div><h3>${escapeHtml(d.title)}</h3><p>${escapeHtml(d.text)}</p><small class="decision-action">${escapeHtml(d.action||d.evidence||'Review signal')}</small></article>`).join('');
-
   if($('eventPreview')) $('eventPreview').innerHTML = eventData.slice(0,3).map(e=>`<article class="event-mini"><div class="date-box"><b>${escapeHtml(e.day)}</b><span>${escapeHtml(e.month)}</span></div><div class="event-mini-body"><strong>${escapeHtml(e.name)}</strong><small>${escapeHtml(e.priority)}</small><p>${escapeHtml(e.detail||'Energy-transition engagement opportunity')}</p></div></article>`).join('');
-
   renderThemePulse();
 }
-
 function renderDevelopments(filter='all'){
-  const devs = allDevelopments();
-  const filtered = devs.filter(d=>{
-    const text = `${d.topic||''} ${d.title||''} ${d.text||''} ${d.state||''}`.toLowerCase();
-    if(filter==='verified') return /verified|evidence|source records/.test(text);
-    if(filter==='needs-review') return /watch|review|require verification|needs review/.test(text);
-    if(filter==='tenders') return /tender|procurement|prequalification|aoselect/.test(text);
-    if(filter==='policy') return /regulation|policy|consultation|framework|anre|law/.test(text);
-    if(filter==='grid') return /grid|transmission|onee|substation|kv/.test(text);
-    return true;
-  });
-  if($('developmentList')) $('developmentList').innerHTML = filtered.map(d=>`<article class="development-row"><span class="topic">${escapeHtml(d.topic||'SIGNAL')}</span><div class="dev-content"><h4>${escapeHtml(d.title)}</h4><p>${escapeHtml(d.text)}</p><small>${escapeHtml(d.state||'')} ${d.action?`· ${escapeHtml(d.action)}`:''}</small></div><div class="dev-meta">${escapeHtml(d.published||d.date||'')}</div></article>`).join('') || '<div class="empty-state">No developments match this filter.</div>';
-  document.querySelectorAll('.filter-row .filter').forEach(b=>b.classList.toggle('active', b.dataset.filter===filter));
+  const devs = allDevelopments(); const filtered = devs.filter(d=>{const text=`${d.topic||''} ${d.title||''} ${d.text||''} ${d.state||''}`.toLowerCase();if(filter==='verified')return /verified|evidence|source records/.test(text);if(filter==='needs-review')return /watch|review|require verification|needs review/.test(text);if(filter==='tenders')return /tender|procurement|prequalification|aoselect/.test(text);if(filter==='policy')return /regulation|policy|consultation|framework|anre|law/.test(text);if(filter==='grid')return /grid|transmission|onee|substation|kv/.test(text);return true;});if($('developmentList'))$('developmentList').innerHTML=filtered.map(d=>`<article class="development-row"><span class="topic">${escapeHtml(d.topic||'SIGNAL')}</span><div class="dev-content"><h4>${escapeHtml(d.title)}</h4><p>${escapeHtml(d.text)}</p><small>${escapeHtml(d.state||'')} ${d.action?`· ${escapeHtml(d.action)}`:''}</small></div><div class="dev-meta">${escapeHtml(d.published||d.date||'')}</div></article>`).join('')||'<div class="empty-state">No developments match this filter.</div>';document.querySelectorAll('.filter-row .filter').forEach(b=>b.classList.toggle('active',b.dataset.filter===filter));
 }
-
-function renderPipeline(){
-  const board = allPipeline();
-  if($('pipelineBoard')) $('pipelineBoard').innerHTML = Object.entries(board).map(([stage,items])=>`<section class="pipe-column"><h3>${escapeHtml(stage)}<span>${items.length}</span></h3>${items.map(i=>`<div class="pipe-item"><h4>${escapeHtml(i.name||i.title)}</h4><p>${escapeHtml(i.note||i.text||'')}</p><div class="pipe-meta"><span>${escapeHtml(i.owner||'Unassigned')}</span><span>${escapeHtml(i.due||'No due date')}</span></div></div>`).join('')}</section>`).join('');
-  const flat = Object.values(board).flat();
-  const active = flat.length;
-  const high = flat.filter(i=>/high|priority/i.test(`${i.priority||''} ${i.level||''}`)).length;
-  const due = flat.filter(i=>i.due && !/later|—/.test(i.due)).length;
-  const summary = document.querySelector('.pipeline-summary');
-  if(summary) summary.innerHTML = `<span><b>${active}</b> active</span><span><b>${high}</b> high priority</span><span><b>${due}</b> actions tracked</span>`;
-}
-
-function renderEvents(){
-  if($('eventList')) $('eventList').innerHTML = eventData.map(e=>`<article class="event-large"><div class="event-date"><b>${escapeHtml(e.day)}</b><span>${escapeHtml(e.month)}</span></div><div><h3>${escapeHtml(e.name)}</h3><p>${escapeHtml(e.detail)}</p><small class="event-priority">${escapeHtml(e.priority)}</small></div></article>`).join('');
-}
-
-function renderThemePulse(){
-  const devs = allDevelopments();
-  const buckets = [
-    ['Projects & tenders', /solar|pv|bess|storage|tender|project|construction/i],
-    ['Grid & policy', /grid|transmission|onee|anre|regulation|policy|tariff/i],
-    ['Hydrogen & PtX', /hydrogen|ammonia|ptx|power-to-x|electrolysis/i]
-  ];
-  const counts = buckets.map(([,rx])=>devs.filter(d=>rx.test(`${d.topic} ${d.title} ${d.text}`)).length);
-  const max = Math.max(1,...counts);
-  const labels = $('overview')?.querySelectorAll('.chart-labels span');
-  const bars = $('overview')?.querySelectorAll('.bars i');
-  counts.forEach((n,i)=>{ if(labels?.[i]) labels[i].textContent=`${buckets[i][0]} · ${n}`; if(bars?.[i]) bars[i].style.setProperty('--w',`${Math.max(12,Math.round(n/max*100))}%`); });
-}
-
-function renderStatic(){
-  if($('stakeholderGrid')) $('stakeholderGrid').innerHTML = stakeholders.map(s=>`<article><span class="org-type">${escapeHtml(s[1])}</span><h3>${escapeHtml(s[0])}</h3><p>${escapeHtml(s[2])}</p><small>${escapeHtml(s[3])} →</small></article>`).join('');
-  if($('sourceRows')) $('sourceRows').innerHTML = sources.map(s=>`<div class="source-row"><span>${escapeHtml(s[0])}</span><span>${escapeHtml(s[1])}</span><span>${escapeHtml(s[2])}</span><span>${escapeHtml(s[3])}</span></div>`).join('');
-}
-
-function renderAll(){ renderOverview(); renderDevelopments(activeDevelopmentFilter); renderPipeline(); renderEvents(); renderStatic(); renderCalendar(); }
-
-function setView(id){
-  document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));
-  document.querySelectorAll('.nav-item').forEach(v=>v.classList.toggle('active',v.dataset.view===id));
-  document.querySelector('.main')?.scrollTo({top:0,behavior:'smooth'});
-}
-
-document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
-document.querySelectorAll('[data-view-target]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.viewTarget)));
-
-let activeDevelopmentFilter = 'all';
-document.querySelectorAll('.filter-row .filter').forEach((b,i)=>{
-  const filters=['all','verified','needs-review','tenders','policy','grid'];
-  b.dataset.filter=filters[i] || 'all';
-  b.addEventListener('click',()=>{ activeDevelopmentFilter=b.dataset.filter; renderDevelopments(activeDevelopmentFilter); });
-});
-
-function modalApi(){
-  const modal=$('modalBackdrop');
-  const content=modal?.querySelector('.modal');
-  function close(){ if(!modal)return; modal.classList.remove('is-open'); modal.setAttribute('aria-hidden','true'); document.documentElement.style.overflow=''; document.body.style.overflow=''; }
-  function open(title,body,onSubmit){
-    if(!modal||!content)return;
-    content.innerHTML=`<button class="close-modal" aria-label="Close">×</button><p class="eyebrow">ATLAS WORKSPACE</p><h2>${escapeHtml(title)}</h2>${body}<div class="modal-actions"><button class="secondary-button" data-modal-cancel>Cancel</button><button class="new-button" data-modal-save>Save</button></div>`;
-    modal.classList.add('is-open'); modal.setAttribute('aria-hidden','false'); document.documentElement.style.overflow='hidden'; document.body.style.overflow='hidden';
-    content.querySelector('.close-modal').onclick=close; content.querySelector('[data-modal-cancel]').onclick=close; content.querySelector('[data-modal-save]').onclick=()=>{ if(onSubmit()) close(); };
-    content.querySelector('input,select,textarea')?.focus();
-  }
-  modal?.addEventListener('click',e=>{if(e.target===modal)close();}); document.addEventListener('keydown',e=>{if(e.key==='Escape')close();});
-  return {open,close};
-}
+function renderPipeline(){const board=allPipeline();if($('pipelineBoard'))$('pipelineBoard').innerHTML=Object.entries(board).map(([stage,items])=>`<section class="pipe-column"><h3>${escapeHtml(stage)}<span>${items.length}</span></h3>${items.map(i=>`<div class="pipe-item"><h4>${escapeHtml(i.name||i.title)}</h4><p>${escapeHtml(i.note||i.text||'')}</p><div class="pipe-meta"><span>${escapeHtml(i.owner||'Unassigned')}</span><span>${escapeHtml(i.due||'No due date')}</span></div></div>`).join('')}</section>`).join('');const flat=Object.values(board).flat(),summary=document.querySelector('.pipeline-summary');if(summary)summary.innerHTML=`<span><b>${flat.length}</b> active</span><span><b>${flat.filter(i=>/high|priority/i.test(`${i.priority||''} ${i.level||''}`)).length}</b> high priority</span><span><b>${flat.filter(i=>i.due&&!/later|—/.test(i.due)).length}</b> actions tracked</span>`;}
+function renderEvents(){if($('eventList'))$('eventList').innerHTML=eventData.map(e=>`<article class="event-large"><div class="event-date"><b>${escapeHtml(e.day)}</b><span>${escapeHtml(e.month)}</span></div><div><h3>${escapeHtml(e.name)}</h3><p>${escapeHtml(e.detail)}</p><small class="event-priority">${escapeHtml(e.priority)}</small></div></article>`).join('');}
+function renderThemePulse(){const devs=allDevelopments(),buckets=[['Projects & tenders',/solar|pv|bess|storage|tender|project|construction/i],['Grid & policy',/grid|transmission|onee|anre|regulation|policy|tariff/i],['Hydrogen & PtX',/hydrogen|ammonia|ptx|power-to-x|electrolysis/i]],counts=buckets.map(([,rx])=>devs.filter(d=>rx.test(`${d.topic} ${d.title} ${d.text}`)).length),max=Math.max(1,...counts),labels=$('overview')?.querySelectorAll('.chart-labels span'),bars=$('overview')?.querySelectorAll('.bars i');counts.forEach((n,i)=>{if(labels?.[i])labels[i].textContent=`${buckets[i][0]} · ${n}`;if(bars?.[i])bars[i].style.setProperty('--w',`${Math.max(12,Math.round(n/max*100))}%`);});}
+function renderStatic(){if($('stakeholderGrid'))$('stakeholderGrid').innerHTML=stakeholders.map(s=>`<article><span class="org-type">${escapeHtml(s[1])}</span><h3>${escapeHtml(s[0])}</h3><p>${escapeHtml(s[2])}</p><small>${escapeHtml(s[3])} →</small></article>`).join('');if($('sourceRows'))$('sourceRows').innerHTML=sources.map(s=>`<div class="source-row"><span>${escapeHtml(s[0])}</span><span>${escapeHtml(s[1])}</span><span>${escapeHtml(s[2])}</span><span>${escapeHtml(s[3])}</span></div>`).join('');}
+function renderAll(){renderOverview();renderDevelopments(activeDevelopmentFilter);renderPipeline();renderEvents();renderStatic();renderCalendar();}
+function setView(id){document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));document.querySelectorAll('.nav-item').forEach(v=>v.classList.toggle('active',v.dataset.view===id));document.querySelector('.main')?.scrollTo({top:0,behavior:'smooth'});}
+document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));document.querySelectorAll('[data-view-target]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.viewTarget)));
+let activeDevelopmentFilter='all';document.querySelectorAll('.filter-row .filter').forEach((b,i)=>{const filters=['all','verified','needs-review','tenders','policy','grid'];b.dataset.filter=filters[i]||'all';b.addEventListener('click',()=>{activeDevelopmentFilter=b.dataset.filter;renderDevelopments(activeDevelopmentFilter);});});
+function modalApi(){const modal=$('modalBackdrop'),content=modal?.querySelector('.modal');function close(){if(!modal)return;modal.classList.remove('is-open');modal.setAttribute('aria-hidden','true');document.documentElement.style.overflow='';document.body.style.overflow='';}function open(title,body,onSubmit){if(!modal||!content)return;content.innerHTML=`<button class="close-modal" aria-label="Close">×</button><p class="eyebrow">ATLAS WORKSPACE</p><h2>${escapeHtml(title)}</h2>${body}<div class="modal-actions"><button class="secondary-button" data-modal-cancel>Cancel</button><button class="new-button" data-modal-save>Save</button></div>`;modal.classList.add('is-open');modal.setAttribute('aria-hidden','false');document.documentElement.style.overflow='hidden';document.body.style.overflow='hidden';content.querySelector('.close-modal').onclick=close;content.querySelector('[data-modal-cancel]').onclick=close;content.querySelector('[data-modal-save]').onclick=()=>{if(onSubmit())close();};content.querySelector('input,select,textarea')?.focus();}modal?.addEventListener('click',e=>{if(e.target===modal)close();});document.addEventListener('keydown',e=>{if(e.key==='Escape')close();});return{open,close};}
 const modal=modalApi();
-
 function bindActionButtons(){
-  $('newDevelopment')?.addEventListener('click',()=>modal.open('Capture a public signal',`<p class="modal-help">Add a development manually when you have a primary source worth tracking.</p><label>Working title<input id="mTitle" required placeholder="What happened?" /></label><label>Source URL<input id="mUrl" type="url" placeholder="https://" /></label><label>Topic<select id="mTopic"><option>TENDER · SOLAR + BESS</option><option>GRID · TRANSMISSION</option><option>REGULATION · MARKET</option><option>PARTNERSHIP · PTX</option><option>INVESTMENT</option></select></label>`,()=>{const title=$('mTitle')?.value.trim(); if(!title){$('mTitle')?.focus();return false;} localDevelopments.unshift({id:`local-${Date.now()}`,topic:$('mTopic').value,title,text:'Manually captured signal. Review source evidence before treating as verified.',state:'NEEDS REVIEW',level:'watch',score:'—',action:'Review source',published:'Just now',url:$('mUrl')?.value.trim()||''}); persist(); renderAll(); return true;}));
-
-  const oppBtn=[...document.querySelectorAll('#opportunities .new-button')].find(b=>b.textContent.includes('Opportunity'));
-  oppBtn?.addEventListener('click',()=>modal.open('Add opportunity',`<p class="modal-help">Create a follow-up item from a signal. It is stored locally in this browser.</p><label>Opportunity name<input id="oName" required placeholder="e.g. Owner's engineer opportunity" /></label><label>Stage<select id="oStage"><option>New</option><option>Qualifying</option><option>Engaging</option><option>Proposal</option><option>Won</option></select></label><label>Owner<input id="oOwner" placeholder="Unassigned" /></label><label>Next action<input id="oNote" placeholder="What should happen next?" /></label><label>Due date<input id="oDue" type="date" /></label>`,()=>{const name=$('oName')?.value.trim();if(!name){$('oName')?.focus();return false;}localOpportunities.unshift({name,stage:$('oStage').value,owner:$('oOwner').value.trim()||'Unassigned',note:$('oNote').value.trim()||'Define next action',due:$('oDue').value||'—',priority:'Medium'});persist();renderPipeline();renderOverview();return true;}));
-
-  const addEvent=[...document.querySelectorAll('#events .new-button')][0];
-  addEvent?.addEventListener('click',()=>modal.open('Add engagement event',`<label>Event name<input id="eName" required placeholder="Event or meeting" /></label><label>Date<input id="eDate" type="date" /></label><label>Priority<select id="ePriority"><option>High</option><option>Medium</option><option>Watch</option></select></label><label>Details<textarea id="eDetail" rows="3" placeholder="Why does this matter?"></textarea></label>`,()=>{const name=$('eName')?.value.trim();if(!name){$('eName')?.focus();return false;}const d=new Date($('eDate')?.value||Date.now());const item={name,day:String(d.getDate()).padStart(2,'0'),month:d.toLocaleString('en',{month:'short'}),priority:$('ePriority').value,detail:$('eDetail').value.trim()||'Engagement opportunity'};eventData.unshift(item);renderEvents();renderOverview();return true;}));
+  $('newDevelopment')?.addEventListener('click',()=>modal.open('Capture a public signal',`<p class="modal-help">Add a development manually when you have a primary source worth tracking.</p><label>Working title<input id="mTitle" required placeholder="What happened?" /></label><label>Source URL<input id="mUrl" type="url" placeholder="https://" /></label><label>Topic<select id="mTopic"><option>TENDER · SOLAR + BESS</option><option>GRID · TRANSMISSION</option><option>REGULATION · MARKET</option><option>PARTNERSHIP · PTX</option><option>INVESTMENT</option></select></label>`,()=>{const title=$('mTitle')?.value.trim();if(!title){$('mTitle')?.focus();return false;}localDevelopments.unshift({id:`local-${Date.now()}`,topic:$('mTopic').value,title,text:'Manually captured signal. Review source evidence before treating as verified.',state:'NEEDS REVIEW',level:'watch',score:'—',action:'Review source',published:'Just now',url:$('mUrl')?.value.trim()||''});persist();renderAll();return true;}));
+  const oppBtn=[...document.querySelectorAll('#opportunities .new-button')].find(b=>b.textContent.includes('Opportunity'));oppBtn?.addEventListener('click',()=>modal.open('Add opportunity',`<p class="modal-help">Create a follow-up item from a signal. It is stored locally in this browser.</p><label>Opportunity name<input id="oName" required placeholder="e.g. Owner's engineer opportunity" /></label><label>Stage<select id="oStage"><option>New</option><option>Qualifying</option><option>Engaging</option><option>Proposal</option><option>Won</option></select></label><label>Owner<input id="oOwner" placeholder="Unassigned" /></label><label>Next action<input id="oNote" placeholder="What should happen next?" /></label><label>Due date<input id="oDue" type="date" /></label>`,()=>{const name=$('oName')?.value.trim();if(!name){$('oName')?.focus();return false;}localOpportunities.unshift({name,stage:$('oStage').value,owner:$('oOwner').value.trim()||'Unassigned',note:$('oNote').value.trim()||'Define next action',due:$('oDue').value||'—',priority:'Medium'});persist();renderPipeline();renderOverview();return true;}));
+  const addEvent=[...document.querySelectorAll('#events .new-button')][0];addEvent?.addEventListener('click',()=>modal.open('Add engagement event',`<label>Event name<input id="eName" required placeholder="Event or meeting" /></label><label>Date<input id="eDate" type="date" /></label><label>Priority<select id="ePriority"><option>High</option><option>Medium</option><option>Watch</option></select></label><label>Details<textarea id="eDetail" rows="3" placeholder="Why does this matter?"></textarea></label>`,()=>{const name=$('eName')?.value.trim();if(!name){$('eName')?.focus();return false;}const d=new Date($('eDate')?.value||Date.now());eventData.unshift({name,day:String(d.getDate()).padStart(2,'0'),month:d.toLocaleString('en',{month:'short'}),priority:$('ePriority').value,detail:$('eDetail').value.trim()||'Engagement opportunity'});renderEvents();renderOverview();return true;}));
 }
-
-function renderCalendar(){
-  const el=$('calendarDays'); if(!el)return;
-  const year=2026, month=8; const first=new Date(year,month,1); const days=new Date(year,month+1,0).getDate(); const offset=(first.getDay()+6)%7;
-  el.innerHTML=Array.from({length:offset+days},(_,i)=>i<offset?'<span></span>':`<button class="calendar-day">${i-offset+1}</button>`).join('');
-}
-
-function renderReportPreview(){
-  const type=$('reportType')?.value||'Weekly Intelligence Brief', period=$('reportPeriod')?.value.trim()||'Current period', classification=$('reportClassification')?.value||'';
-  if($('reportPreview')) $('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${escapeHtml(type)}</h2><small>${escapeHtml(period)} · ${escapeHtml(classification)}</small></div>`;
-}
-['reportType','reportPeriod','reportClassification'].forEach(id=>$(id)?.addEventListener('input',renderReportPreview));
-
-const mobile=document.querySelector('.mobile-menu');if(mobile)mobile.onclick=()=>document.querySelector('.sidebar').classList.toggle('open');
-
-window.__atlasReportContextReady=true;window.allDevelopments=allDevelopments;window.allPipeline=allPipeline;window.eventData=eventData;window.signals=signals;window.escapeHtml=escapeHtml;
-
+function renderCalendar(){const el=$('calendarDays');if(!el)return;const year=2026,month=8,first=new Date(year,month,1),days=new Date(year,month+1,0).getDate(),offset=(first.getDay()+6)%7;el.innerHTML=Array.from({length:offset+days},(_,i)=>i<offset?'<span></span>':`<button class="calendar-day">${i-offset+1}</button>`).join('');}
+function renderReportPreview(){const type=$('reportType')?.value||'Weekly Intelligence Brief',period=$('reportPeriod')?.value.trim()||'Current period',classification=$('reportClassification')?.value||'';if($('reportPreview'))$('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${escapeHtml(type)}</h2><small>${escapeHtml(period)} · ${escapeHtml(classification)}</small></div>`;}
+['reportType','reportPeriod','reportClassification'].forEach(id=>$(id)?.addEventListener('input',renderReportPreview));const mobile=document.querySelector('.mobile-menu');if(mobile)mobile.onclick=()=>document.querySelector('.sidebar').classList.toggle('open');
+window.__atlasReportContextReady=true;window.allDevelopments=allDevelopments;window.allPipeline=allPipeline;window.eventData=eventData;window.signals=signals;window.atlasLastUpdate=getLastSignalUpdate(signals);window.escapeHtml=escapeHtml;
 renderAll();renderReportPreview();bindActionButtons();

@@ -1,0 +1,79 @@
+name: Repair reporting runtime
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore stable app and isolate reporting engine
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          repo = Path('.')
+          app = repo / 'app.js'
+          index = repo / 'index.html'
+          bridge = repo / 'report-generator-bridge.js'
+
+          # Restore the last known-good application version from immediately before
+          # the monolithic report-generator integration.
+          import subprocess
+          stable = subprocess.check_output([
+              'git', 'show', '2a46630eb19440f1deff933116551b7e92192545:app.js'
+          ], text=True)
+
+          stable = stable.replace(
+              "import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';",
+              "import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';\nimport { signals } from './data/signals.js';"
+          )
+
+          # Remove the legacy PPT/PDF handlers from the stable app.
+          stable = re.sub(
+              r"\n\$\('printPdf'\)\?\.addEventListener\('click',\(\)=>window\.print\(\)\);.*?\n\$\('downloadPpt'\)\?\.addEventListener\('click',async\(\)=>\{.*?\n\);\n",
+              "\n",
+              stable,
+              flags=re.S
+          )
+
+          # Expose only the report context to the classic validated patch.
+          anchor = "renderAll();renderReportPreview();bindActionButtons();"
+          context = "window.__atlasReportContextReady=true;window.allDevelopments=allDevelopments;window.allPipeline=allPipeline;window.eventData=eventData;window.signals=signals;window.escapeHtml=escapeHtml;\n\n" + anchor
+          if anchor not in stable:
+              raise SystemExit('Stable app anchor not found')
+          stable = stable.replace(anchor, context, 1)
+          app.write_text(stable, encoding='utf-8')
+
+          # Load the validated patch only after app.js has executed.
+          bridge.write_text("""// Loads the validated report generator after the Atlas app module has initialized.\nconst s = document.createElement('script');\ns.src = 'report-generator-PATCH%20(2).js?v=20260826-1';\ns.async = false;\ndocument.head.appendChild(s);\n""", encoding='utf-8')
+
+          html = index.read_text(encoding='utf-8')
+          html = re.sub(r'<script type="module" src="app\.js\?v=[^"]+"></script>', '<script type="module" src="app.js?v=20260826-10"></script><script type="module" src="report-generator-bridge.js?v=20260826-1"></script>', html, count=1)
+          index.write_text(html, encoding='utf-8')
+
+          # Ensure no accidental old standalone generator is loaded.
+          html = index.read_text(encoding='utf-8')
+          if 'ppt-report.js' in html:
+              raise SystemExit('Legacy ppt-report.js must not be loaded')
+
+      - name: Remove repair workflow and commit
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -f .github/workflows/repair-reporting-runtime.yml
+          git add app.js index.html report-generator-bridge.js
+          git diff --cached --check
+          git commit -m "fix: isolate report generator from dashboard runtime"
+          git push

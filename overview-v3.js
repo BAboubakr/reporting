@@ -1,11 +1,18 @@
 const escapeHtml = (v = '') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
 
 const UI_NOISE = /^(guides d.?utilisation|outils informatiques|consultations? en cours|0 entités publiques inscrites|tester la configuration( de mon poste)?|accueil|connexion|se connecter|menu|rechercher)$/i;
+const NON_FICHTNER_ONEE_MATERIAL = /onee/i;
+const ONEE_MATERIAL_ONLY = /(?:matériel|materiel|material|equipment|qualification|qualified|homologation|technical specification|technical specs|specification|raccordement|connection|transformer|transformateur|cellule|protection|inverter|onduleur|cable|câble)/i;
+const isRelevantOverviewSignal = s => {
+  const text = `${s?.title||s?.headline||''} ${s?.summary||''} ${(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||'')}`;
+  if (NON_FICHTNER_ONEE_MATERIAL.test(text) && ONEE_MATERIAL_ONLY.test(text)) return false;
+  return true;
+};
 const cleanOverviewSignals = list => (Array.isArray(list) ? list : []).filter(s => {
   const title = String(s?.title || s?.headline || '').trim();
   if (!title || UI_NOISE.test(title)) return false;
   if (!String(s?.evidenceSnippet || s?.summary || '').trim() && /masen e-tendering/i.test(String(s?.source || ''))) return false;
-  return true;
+  return isRelevantOverviewSignal(s);
 });
 
 function atlasLastUpdate(all) {

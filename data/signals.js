@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938641+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625019+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -33,8 +33,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938636+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625015+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -59,8 +59,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938627+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625006+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -85,8 +85,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938624+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625003+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -111,8 +111,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938623+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625002+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -137,8 +137,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938619+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624999+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -163,8 +163,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938618+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624997+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -189,8 +189,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938615+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624994+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -215,8 +215,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938607+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624986+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -242,7 +242,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-15T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -268,7 +268,7 @@ export const signals = [
     "source": "European Rubber Journal",
     "sourceType": "news",
     "published": "2026-08-21T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -294,7 +294,7 @@ export const signals = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -320,7 +320,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -346,7 +346,7 @@ export const signals = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -374,7 +374,7 @@ export const signals = [
     "source": "Fortune Business Insights",
     "sourceType": "news",
     "published": "2026-08-25T12:58:09+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -400,8 +400,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938574+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624961+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -426,8 +426,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938596+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624976+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -452,8 +452,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938598+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624978+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -478,8 +478,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938600+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624980+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -504,8 +504,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938602+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624981+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -530,8 +530,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938604+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624983+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -556,8 +556,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938606+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624985+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -582,8 +582,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938612+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624991+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -608,8 +608,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938613+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624992+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -634,8 +634,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938617+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.624996+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -660,8 +660,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938621+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625000+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -686,8 +686,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938629+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625008+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -712,8 +712,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938630+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625009+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -738,8 +738,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938632+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625010+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -764,8 +764,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938633+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625012+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -790,8 +790,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938635+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625013+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -816,8 +816,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938638+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625016+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -842,8 +842,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-08-26T08:58:45.938639+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "published": "2026-08-26T09:00:24.625018+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -869,7 +869,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -895,7 +895,7 @@ export const signals = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -921,7 +921,7 @@ export const signals = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -948,7 +948,7 @@ export const signals = [
     "source": "Fibre2Fashion",
     "sourceType": "news",
     "published": "2026-08-25T13:33:52+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -974,7 +974,7 @@ export const signals = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -1001,7 +1001,7 @@ export const signals = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -1027,7 +1027,7 @@ export const signals = [
     "source": "Phenomenal World",
     "sourceType": "news",
     "published": "2026-08-13T14:14:17+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1053,7 +1053,7 @@ export const signals = [
     "source": "The Cool Down",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -1080,7 +1080,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -1106,7 +1106,7 @@ export const signals = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -1132,7 +1132,7 @@ export const signals = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1158,7 +1158,7 @@ export const signals = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1184,7 +1184,7 @@ export const signals = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -1210,7 +1210,7 @@ export const signals = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -1236,7 +1236,7 @@ export const signals = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Investment"
     ],
@@ -1262,7 +1262,7 @@ export const signals = [
     "source": "Dainik Jagran MP CG",
     "sourceType": "news",
     "published": "2026-08-26T05:42:14+00:00",
-    "detected": "2026-08-26T08:58:45.946759+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1288,7 +1288,7 @@ export const signals = [
     "source": "The Economist",
     "sourceType": "news",
     "published": "2026-08-19T20:10:04+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1313,8 +1313,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208012+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755467+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Grid"
     ],
@@ -1341,8 +1341,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208010+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755466+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1367,8 +1367,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208009+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755464+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1393,8 +1393,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208007+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755463+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1419,8 +1419,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208006+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755461+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1445,8 +1445,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208004+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755459+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1471,8 +1471,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208003+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755458+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1497,8 +1497,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208001+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755456+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1523,8 +1523,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208000+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755455+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1549,8 +1549,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207998+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755453+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1575,8 +1575,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207997+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755452+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1601,8 +1601,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207995+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755450+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1627,8 +1627,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207993+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755449+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1653,8 +1653,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207992+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755447+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1679,8 +1679,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207990+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755446+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1705,8 +1705,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207989+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755444+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1731,8 +1731,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207987+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755442+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1757,8 +1757,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207985+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755440+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1783,8 +1783,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207966+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755421+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1809,8 +1809,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.207982+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755438+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1835,8 +1835,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208013+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755469+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1861,8 +1861,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-08-26T08:56:56.208017+00:00",
-    "detected": "2026-08-26T08:57:04.525404+00:00",
+    "published": "2026-08-26T09:00:19.755472+00:00",
+    "detected": "2026-08-26T09:00:24.642861+00:00",
     "categories": [
       "Market intelligence"
     ],

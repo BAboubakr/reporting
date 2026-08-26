@@ -8,6 +8,7 @@ on:
     branches: [master]
     paths-ignore:
       - 'data/signals.js'
+      - 'data/signal-review.js'
       - 'data/monitor-status.json'
 
 permissions:
@@ -25,9 +26,12 @@ jobs:
           python-version: '3.12'
       - name: Backup existing intelligence
         run: cp data/signals.js /tmp/signals-before.js
-      - name: Collect Morocco market and competitor signals
+      - name: Collect and smart-filter Morocco market and competitor signals
         id: collect
         continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ATLAS_AI_MODEL: ${{ vars.ATLAS_AI_MODEL }}
         run: python scripts/monitor.py
       - name: Restore history and calculate monitoring health
         env:
@@ -45,9 +49,13 @@ jobs:
           merged={**old,**new}
           signals=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
           Path('data/signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+          review=[]
+          if Path('data/signal-review.js').exists():
+              m=re.search(r'export const signalReview = (.*);\s*$',Path('data/signal-review.js').read_text(encoding='utf-8'),re.S)
+              review=json.loads(m.group(1)) if m else []
           status='success' if os.environ.get('COLLECT_OUTCOME')=='success' else 'failed'
           now=datetime.now(timezone.utc).isoformat()
-          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(signals),'competitorSignals':sum(1 for x in signals if x.get('competitor')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved']}
+          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(signals),'reviewQueue':len(review),'competitorSignals':sum(1 for x in signals if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved']}
           Path('data/monitor-status.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           print(json.dumps(health,indent=2))
           PY
@@ -56,7 +64,7 @@ jobs:
         run: |
           git config user.name 'Atlas Monitor'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/signals.js data/monitor-status.json
+          git add data/signals.js data/signal-review.js data/monitor-status.json
           git diff --cached --quiet || git commit -m 'chore: update Morocco intelligence signals'
           git push
       - name: Fail if collector failed

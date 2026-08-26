@@ -8,7 +8,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-26T10:45:39.645953+00:00",
+    "detected": "2026-08-26T10:52:27.945698+00:00",
     "categories": [
       "Investment"
     ],

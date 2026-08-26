@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Fortune Business Insights",
     "sourceType": "news",
     "published": "2026-08-25T12:58:09+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -73,7 +73,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],
@@ -96,37 +96,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8c636aa39647",
-    "title": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "headline": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "summary": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUNrM2pLVlotcmdFbVNaNWd4WmY1eGFzZFYwTWh5OF9tUHBrbTBBRFVZemRsZFBhU2xZZ2t2NDFJdUdHXy1oamc2NUdHTnRzRnVzUUZNWU1uUHRocEN3dFh5dHFQZV9KaFU5ZlFVYldBTTl1TzhHa1daYWlvMWJFT1RPN3F0SncxTkhoblBSRnhlazJ4Nnd5NGVPWXE0dWRvcXhMYWt2LUplMHhnREtocWx6NkxZbENXcjVia04yNzQtMGVxVlJB?oc=5",
-    "source": "KNN India",
-    "sourceType": "news",
-    "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -135,7 +104,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],
@@ -158,6 +127,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-8c636aa39647",
+    "title": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
+    "headline": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
+    "summary": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUNrM2pLVlotcmdFbVNaNWd4WmY1eGFzZFYwTWh5OF9tUHBrbTBBRFVZemRsZFBhU2xZZ2t2NDFJdUdHXy1oamc2NUdHTnRzRnVzUUZNWU1uUHRocEN3dFh5dHFQZV9KaFU5ZlFVYldBTTl1TzhHa1daYWlvMWJFT1RPN3F0SncxTkhoblBSRnhlazJ4Nnd5NGVPWXE0dWRvcXhMYWt2LUplMHhnREtocWx6NkxZbENXcjVia04yNzQtMGVxVlJB?oc=5",
+    "source": "KNN India",
+    "sourceType": "news",
+    "published": "2026-08-24T11:44:34+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-63789c6c5334",
     "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
     "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
@@ -166,7 +166,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],
@@ -197,7 +197,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -229,7 +229,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -261,7 +261,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -284,6 +284,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-30d8d5667cc2",
+    "title": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
+    "headline": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
+    "summary": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWRyU1U4c0hWa2R3aXp3U3NZSktDTnlSajhSQjRNTDZCa2JsVHlBWkNuY2kyUmVLZHlDVDF5RDlNSkhGelFjY2V3M1B2WjZYWXZ1bDVuTm0zMWFweGJIYThITFpoTHUwLWtaTS1uVnFJWDRVd0hmM0d0SjZzSWZaTUZETkxNWHVERzRVRGttTmE3aHdUOUdVQVd0M3U0cXhPT08wN2NuUFpKRW1vczBxSHJzb0VhYUJW?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-08-26T11:23:40+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
+    "categories": [
+      "BESS"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone Morocco World News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-c1bb351713f6",
     "title": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
     "headline": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
@@ -292,7 +323,7 @@ export const signalReview = [
     "source": "The Cool Down",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -324,7 +355,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],
@@ -355,7 +386,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -386,7 +417,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],
@@ -417,7 +448,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -448,7 +479,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -479,7 +510,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-26T10:52:27.945698+00:00",
+    "detected": "2026-08-26T11:46:46.433411+00:00",
     "categories": [
       "Investment"
     ],

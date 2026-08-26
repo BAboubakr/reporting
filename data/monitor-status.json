@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "lastRun": "2026-08-26T09:06:12.921122+00:00",
-  "completedAt": "2026-08-26T09:06:12.921122+00:00",
+  "lastRun": "2026-08-26T09:09:14.798053+00:00",
+  "completedAt": "2026-08-26T09:09:14.798053+00:00",
   "frequency": "hourly",
   "sourcesChecked": 17,
-  "rawRecords": 66,
+  "rawRecords": 65,
   "newSignals": 0,
   "totalSignals": 142,
   "competitorSignals": 0,

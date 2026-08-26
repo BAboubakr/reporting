@@ -1,5 +1,36 @@
 export const signals = [
   {
+    "id": "sig-f9840e7d5671",
+    "title": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
+    "headline": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
+    "summary": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGxwclhQaXBoZ2xUZ1piRU04X1BQb2VXQ0hiSjA5NVlUTUwyWlg3UVNFcFB6b0lrcEZSQXF5Y0ZVaWJXbW1VOFpaeHBGUUUwNUxxZWJvY3ExcUJtRWxITHpyWjM1SXlJbkhzdHRyRjA0MGg5UUEzNFNJQVJla1d2M1V0Z2VKSm5oOVRvSnR1alJzQW43THBKNmRHeGlaekI4UUE4NXdGQ1VXY2RVTU1NUGlWOFRBS0lkbml0WXZDLUVCZ3c?oc=5",
+    "source": "fundsforNGOs News",
+    "sourceType": "news",
+    "published": "2026-08-20T08:56:26+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "2 event indicator(s); 1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-31e96a6b6c36",
     "title": "India Celebrates 80th Independence Day in Morocco - Morocco World News",
     "headline": "India Celebrates 80th Independence Day in Morocco - Morocco World News",
@@ -75,32 +106,6 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India and Morocco seek deeper economic partnership through joint ventures Times of Oman",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-f9840e7d5671",
-    "title": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
-    "headline": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
-    "summary": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGxwclhQaXBoZ2xUZ1piRU04X1BQb2VXQ0hiSjA5NVlUTUwyWlg3UVNFcFB6b0lrcEZSQXF5Y0ZVaWJXbW1VOFpaeHBGUUUwNUxxZWJvY3ExcUJtRWxITHpyWjM1SXlJbkhzdHRyRjA0MGg5UUEzNFNJQVJla1d2M1V0Z2VKSm5oOVRvSnR1alJzQW43THBKNmRHeGlaekI4UUE4NXdGQ1VXY2RVTU1NUGlWOFRBS0lkbml0WXZDLUVCZ3c?oc=5",
-    "source": "fundsforNGOs News",
-    "sourceType": "news",
-    "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-26T09:10:35.641399+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 48,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
   {

@@ -1,36 +1,5 @@
 export const signalReview = [
   {
-    "id": "sig-f9840e7d5671",
-    "title": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
-    "headline": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News",
-    "summary": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGxwclhQaXBoZ2xUZ1piRU04X1BQb2VXQ0hiSjA5NVlUTUwyWlg3UVNFcFB6b0lrcEZSQXF5Y0ZVaWJXbW1VOFpaeHBGUUUwNUxxZWJvY3ExcUJtRWxITHpyWjM1SXlJbkhzdHRyRjA0MGg5UUEzNFNJQVJla1d2M1V0Z2VKSm5oOVRvSnR1alJzQW43THBKNmRHeGlaekI4UUE4NXdGQ1VXY2RVTU1NUGlWOFRBS0lkbml0WXZDLUVCZ3c?oc=5",
-    "source": "fundsforNGOs News",
-    "sourceType": "news",
-    "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 48,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 60,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.55,
-    "filterReason": "quantitative detail; 2 concrete event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-2ead8c2bcca6",
     "title": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
     "headline": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
@@ -38,8 +7,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZkJ1S2VIS1QyZnU2cEhwSGJRdm1VbmlJVzUzOTBZNVROTjlOb2I4dk9jTTBhajljT2NDYTlZaUpTS3J0VkpKd1U2OV9HX0hsMmlkS3E0d1RDYmNYU1BhSzlaaFRJRVFwWXNkMS1UUjFFRnoydWZUTUc4bWtDZXhESXRia2dNZDg0MWtESENzWkw1c25tNTBOc0h3SGlsQjJwTnE2V1VLQ0ZGT3g5Wjd0Qjd2R0NZTjYzVnZHb3hVX3A3Q3JCZmhhUGlLU3l1ZFFMWExXQklWcnVxN3hJdzNCWldicEQwQXpyd1Q0LURZdDdhckszdl9OM1pRTzFvWmd2b2k4LTNOOVhuNzIxZ2tmdWhnSTQ?oc=5",
     "source": "Hitachi Energy",
     "sourceType": "news",
-    "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "published": "2026-08-24T07:00:00+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -57,10 +26,10 @@ export const signalReview = [
     "evidenceSnippet": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure Hitachi Energy",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 50,
+    "qualityScore": 52,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.45,
-    "filterReason": "quantitative detail; 1 technology indicator(s)",
+    "filterConfidence": 0.52,
+    "filterReason": "1 technology indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -72,7 +41,7 @@ export const signalReview = [
     "source": "Fortune Business Insights",
     "sourceType": "news",
     "published": "2026-08-25T12:58:09+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -89,9 +58,9 @@ export const signalReview = [
     "evidenceSnippet": "Battery Gigafactory Equipment Market Size, Share [2026-2034] Fortune Business Insights",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 49,
+    "qualityScore": 51,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.46,
+    "filterConfidence": 0.51,
     "filterReason": "2 technology indicator(s)",
     "aiReviewed": false
   },
@@ -104,7 +73,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -120,10 +89,10 @@ export const signalReview = [
     "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "1 concrete event indicator(s); 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -135,7 +104,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -151,10 +120,10 @@ export const signalReview = [
     "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "1 concrete event indicator(s); 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -166,7 +135,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -182,10 +151,41 @@ export const signalReview = [
     "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "1 concrete event indicator(s); 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-63789c6c5334",
+    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-25T06:30:00+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
     "aiReviewed": false
   },
   {
@@ -197,7 +197,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -214,10 +214,42 @@ export const signalReview = [
     "evidenceSnippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
+    "filterConfidence": 0.53,
     "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-13c7683d426f",
+    "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
+    "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
+    "summary": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHUyN2tFMUhpTG4zMGFEN0NiV29pakUwTGdnMFJ4ZWtlOU9nVlRpSldzVnJwazNkRFNURzJBM0dLYnZlQXhMX0ZwLXozVUQ1N0RYWjRLbkE2NHgyQ1IyQ0hUc1BNdlpxaVFGS2NmU2VXVHZuN0lmZXRrenFkVkVEYTV3ak5lbGFKRFlland6QlhzOER6dVY2R0oxNnR5TEdKV1A3YVJQMi02RVNEU0xaa25SeFRLQV9FcFp6TXFoWEJSSkhZaW5TSVctcWo4MFZzWHdV?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-25T08:57:00+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
+    "categories": [
+      "Solar PV",
+      "Manufacturing"
+    ],
+    "signalType": "manufacturing",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 37,
+    "actionabilityScore": 27,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
+    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 technology indicator(s)",
     "aiReviewed": false
   },
   {
@@ -229,7 +261,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -245,10 +277,10 @@ export const signalReview = [
     "evidenceSnippet": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "1 concrete event indicator(s); 1 technology indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
     "aiReviewed": false
   },
   {
@@ -260,7 +292,7 @@ export const signalReview = [
     "source": "The Cool Down",
     "sourceType": "news",
     "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -277,9 +309,9 @@ export const signalReview = [
     "evidenceSnippet": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
+    "filterConfidence": 0.53,
     "filterReason": "2 technology indicator(s)",
     "aiReviewed": false
   },
@@ -291,8 +323,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
     "source": "fundsforNGOs News",
     "sourceType": "news",
-    "published": "2026-08-17T07:12:20+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "published": "2026-08-17T07:00:00+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -308,10 +340,10 @@ export const signalReview = [
     "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 55,
+    "qualityScore": 57,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "quantitative detail; 1 concrete event indicator(s); 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.57,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -323,7 +355,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -339,10 +371,10 @@ export const signalReview = [
     "evidenceSnippet": "India and Morocco seek deeper economic partnership through joint ventures Times of Oman",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 45,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.5,
-    "filterReason": "1 concrete event indicator(s); 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -354,7 +386,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -370,10 +402,10 @@ export const signalReview = [
     "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 50,
+    "qualityScore": 52,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.45,
-    "filterReason": "quantitative detail; 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -385,7 +417,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -401,10 +433,41 @@ export const signalReview = [
     "evidenceSnippet": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 49,
+    "qualityScore": 51,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.46,
+    "filterConfidence": 0.51,
     "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-931e576cf6cb",
+    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
+    "source": "streamlinefeed.co.ke",
+    "sourceType": "news",
+    "published": "2026-08-25T12:28:50+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -416,7 +479,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-26T09:14:16.207080+00:00",
+    "detected": "2026-08-26T09:17:04.137278+00:00",
     "categories": [
       "Investment"
     ],
@@ -432,10 +495,10 @@ export const signalReview = [
     "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 50,
+    "qualityScore": 52,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.45,
-    "filterReason": "quantitative detail; 1 Morocco/location indicator(s)",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
     "aiReviewed": false
   }
 ];

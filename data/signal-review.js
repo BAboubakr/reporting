@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -134,7 +134,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -157,38 +157,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-f0d8f032395e",
-    "title": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
-    "headline": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
-    "summary": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUG9zME0zVHJHOUQzeFZ2RVVkWWd6WE1WSUtzem5xN1UtSkU3OWsydklra3FIYXN1UlBia3VkMnVOV2JlUWpDSVFFWWZtXy15dXRUVUhSRGZKdHpXY01BWnJQTkwwTTdEM3NwclI0MFRPR29XcXBYVDlzdXZWay01QnU5TDctX0lNZTlMbFhvNmdxYWl4R2RXaklqT18tU2JVbklsX21lZmNndERVMUs4MjlFWktMc042RVZTV3JZTGpwb1luWXQtcnFVQ1hYWkhBQ1E?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 37,
-    "actionabilityScore": 27,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-13c7683d426f",
     "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
     "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
@@ -197,7 +165,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -229,7 +197,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -260,7 +228,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "BESS"
     ],
@@ -283,20 +251,19 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-c1bb351713f6",
-    "title": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
-    "headline": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells - The Cool Down",
-    "summary": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1YazUyTDdSd1lwdzA5cExITVN1UkNDUEZCTlYxREE1VHoyRHBjUURhaXp1cERpbE9ZUmJPRGltX0JCWmJwdVZNLXA4M25jaVNvX3cyS0NrMGEtQXhOMVNiNUhsN2NORFM4Ym5vMmRZbGdIOGxsYTMzXzVVdHJOSXBmYkRBRkFQ?oc=5",
-    "source": "The Cool Down",
+    "id": "sig-4be9d786b9a3",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
+    "source": "Business Insider Africa",
     "sourceType": "news",
-    "published": "2026-08-13T07:00:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "published": "2026-08-27T06:00:00+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
-      "Solar PV",
-      "Manufacturing"
+      "Investment"
     ],
-    "signalType": "manufacturing",
+    "signalType": "investment",
     "projectStage": "monitoring",
     "entities": [],
     "competitor": null,
@@ -305,13 +272,44 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
-    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
-    "filterReason": "2 technology indicator(s)",
+    "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-8b845ba23d05",
+    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnlKTnk5TVprd2xmN3U2RjhGc0piQzRSRzJic05zX3MxUUdBLTBvc0hpRzNoeW02RTRwdmdYaDk3Y1RLYVVkQWduVFYxWnBHamdfVkxoUFBsdjNzcGUtRDhCcXFfZXpBV0NPaUl4ZlZJUmRlU0luNzJORVctTV9KbDkydVJxZHZqNVpzVHI0Y3drX2FkTlE?oc=5",
+    "source": "MarketsandMarkets",
+    "sourceType": "news",
+    "published": "2026-08-25T20:51:51+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 46,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.54,
+    "filterReason": "1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -323,7 +321,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -346,6 +344,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-7726498c91d8",
+    "title": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
+    "headline": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
+    "summary": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September SolarQuarter",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZl9EYTBCRWxJY09KWHpoRVo4emhJSFk3MllGc3o1QTNxbUlpQ004U0phTUU2bXJUT1JwOEZrbzVfbWc5dDJCTlNHdi0xSkNaeWREVmNtZzNPcTUzUUt4LXg2VHFhZFBMMlJxM1k3aUtwVWFpeGlDbFFFQklaakFnM01pQjdBNE9KNjU5SEY0U3JJMms0Vjloeks0WFlOZ3liSk9sT1pzS1ZJenRpTkF5QlRqX3M4d2JDdl9tZy1MeXl6NXRvdWpZT0Z5bDBRYjZLc0Q4Y0U3UDYzcWpaSTlmaTBfa2hUREpUcm1MdVAybjh6aE5QZExrczN5ekkzQ0pObEE?oc=5",
+    "source": "SolarQuarter",
+    "sourceType": "news",
+    "published": "2026-08-27T06:46:30+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "categories": [
+      "Solar PV"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September SolarQuarter",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 technology indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-62f1710fad95",
     "title": "India and Morocco seek deeper economic partnership through joint ventures - Times of Oman",
     "headline": "India and Morocco seek deeper economic partnership through joint ventures - Times of Oman",
@@ -354,7 +383,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -385,7 +414,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -408,6 +437,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-e581a4f24752",
+    "title": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
+    "headline": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
+    "summary": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission orissadiary.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0t2b0hqWGdweEdwN0VBR2UwQ3JIRzFCNzZYeWNfVnBwcG1kblN2cFBRelItRXlzWkxGR2N6d1I1SHJtYlA1NjVCZHNSTUpNZ2hEbkRxSjBXNkpzcjMzbUVLSjNSMW9sY2lTdHNHOXBPYnlLUTNsNUdlbEROQVc4bmlSUWowMmk4ZjBHUl9ZWHVGMjR1aUxadGFyZnVNNktDVDE0SDZBcVp4aDlNdmxKbVUzaXc2dU5NRWo4WTRzeHdTdllDczd2cg?oc=5",
+    "source": "orissadiary.com",
+    "sourceType": "news",
+    "published": "2026-08-27T06:53:55+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission orissadiary.com",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-527f1a85cf39",
     "title": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
     "headline": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
@@ -416,7 +476,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -439,37 +499,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-931e576cf6cb",
-    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-2878720fbcff",
     "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
     "headline": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
@@ -478,7 +507,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-26T23:35:03.196407+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
     "categories": [
       "Investment"
     ],
@@ -498,6 +527,37 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.52,
     "filterReason": "1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-931e576cf6cb",
+    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
+    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
+    "source": "streamlinefeed.co.ke",
+    "sourceType": "news",
+    "published": "2026-08-25T12:28:50+00:00",
+    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

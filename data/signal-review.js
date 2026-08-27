@@ -1,5 +1,38 @@
 export const signalReview = [
   {
+    "id": "sig-18cfcff1e963",
+    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "Renewables Now",
+    "sourceType": "news",
+    "published": "2026-08-27T11:52:18+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2ead8c2bcca6",
     "title": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
     "headline": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
@@ -8,7 +41,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -41,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -72,7 +105,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +136,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -126,6 +159,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-3a8b13ce4dda",
+    "title": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors - DD News",
+    "headline": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors - DD News",
+    "summary": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors DD News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMW5ndUZHZlVwdjEzeE1hT2cxdDk1MHNVWVJCdEtPU2xLMVZiVFVkQVA5S0Zab3BwSTBZUmg3cEJfcW5hTUp5MEtqRGg3NGd3MkJGSFhEMHNZaUppbnByb2luT19KOEpaM0gzaEtPRXBramZRX3ExSXY4dW5kOFJuUWRFbTVYUTJoVU5RNDg2UWR4bThDR3RoOTZuX0NDcXVVUkxFbDR5S08yNGE1ZlprZHUwRFItamN6TTVMcDZqbjBuSXJlZFlVVVM4cTJxMXhGU3lyQTQySGtHQQ?oc=5",
+    "source": "DD News",
+    "sourceType": "news",
+    "published": "2026-08-27T10:08:14+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors DD News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-63789c6c5334",
     "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
     "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
@@ -134,7 +198,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -157,6 +221,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-e5b071c55e04",
+    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-27T12:57:00+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-13c7683d426f",
     "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
     "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
@@ -165,7 +260,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -197,7 +292,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -228,7 +323,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "BESS"
     ],
@@ -259,7 +354,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -290,7 +385,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -321,7 +416,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -352,7 +447,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -383,7 +478,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -414,7 +509,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -437,6 +532,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-f474b8d21bee",
+    "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "headline": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "summary": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-08-25T10:08:19+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-e581a4f24752",
     "title": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
     "headline": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
@@ -445,7 +571,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -476,7 +602,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -507,7 +633,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Investment"
     ],
@@ -538,7 +664,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-27T09:51:35.698608+00:00",
+    "detected": "2026-08-27T20:31:40.616579+00:00",
     "categories": [
       "Market intelligence"
     ],

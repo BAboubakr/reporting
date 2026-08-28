@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -74,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -105,7 +105,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -136,7 +136,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -159,37 +159,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-3a8b13ce4dda",
-    "title": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors - DD News",
-    "headline": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors - DD News",
-    "summary": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors DD News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMW5ndUZHZlVwdjEzeE1hT2cxdDk1MHNVWVJCdEtPU2xLMVZiVFVkQVA5S0Zab3BwSTBZUmg3cEJfcW5hTUp5MEtqRGg3NGd3MkJGSFhEMHNZaUppbnByb2luT19KOEpaM0gzaEtPRXBramZRX3ExSXY4dW5kOFJuUWRFbTVYUTJoVU5RNDg2UWR4bThDR3RoOTZuX0NDcXVVUkxFbDR5S08yNGE1ZlprZHUwRFItamN6TTVMcDZqbjBuSXJlZFlVVVM4cTJxMXhGU3lyQTQySGtHQQ?oc=5",
-    "source": "DD News",
-    "sourceType": "news",
-    "published": "2026-08-27T10:08:14+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, pushes for greater Japanese investment in India’s semiconductor, technology sectors DD News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-63789c6c5334",
     "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
     "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
@@ -198,7 +167,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -229,7 +198,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -252,6 +221,39 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-2a1b21b05560",
+    "title": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
+    "headline": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
+    "summary": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnhDbGR5TDJNRVpUZm5HNkd1aWl4VVlHbjlYb2NCWE1LdzBsSFoxWXM0QkU3dFpPX1dyMXhReVJ5OEFfOEdvdFZROGNtWWNDZW9BazdicktON1QzMWdCblpVdUVqUGE3blJJU2tvRmF6WmF0bzJHaDBhOC1STlZOYjlEQ3BNRXhCWnowLXFDTXJjSmRBVU1xbDlOQlAtVFI5eHNueVJIOUJCeDBKS1lLZnVFR1A?oc=5",
+    "source": "safety4sea",
+    "sourceType": "news",
+    "published": "2026-08-27T09:25:10+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "DNV"
+    ],
+    "competitor": "DNV",
+    "relevanceScore": 38,
+    "actionabilityScore": 27,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; DNV detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 48,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 identifiable actor(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-13c7683d426f",
     "title": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
     "headline": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts - Big News Network.com",
@@ -260,7 +262,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -292,7 +294,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -323,7 +325,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "BESS"
     ],
@@ -354,7 +356,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -385,7 +387,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -416,7 +418,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -447,7 +449,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -478,7 +480,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -509,7 +511,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -540,7 +542,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -571,7 +573,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -594,68 +596,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-527f1a85cf39",
-    "title": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
-    "headline": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs - Devdiscourse",
-    "summary": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUF9RUFlMUTA0REVQVVd6eXpJc05hS1RhTlpwQ2o2bS1hU1JfcGU3bHFyUW10bTUtVDVMX2wwS3hMdWRLQ0xJWmtrZmpUMUVXVmJOZUdNWWpybEh0a2ZwU042S05yZUhqTExqMmtBVkhjVTNJWkxEV1M0S3phN0l1Q1RtMFFfekxZQ3huUkVIRHR2bXBJSHlZREM5NU9mYkpKaHgtLXMzNVZxcDlxX1pfMWlqUTFkdFBqY3cxYmNuV1c3RFRITE92RVVva1NKNUYxTTBESThkSDRrclpha3o0UlB30gHiAUFVX3lxTE5QX1FQWUxRMDRERVBVV3p5eklzTmFLVGFOWnBDajZtLWFTUl9wZTdscXJRbXRtNS1UNUxfbDBLeEx1ZEtDTElaa2tmalQxRVdWYk5lR01ZanJsSHRrZnBTTjZLTnJlSGpMTGoya0FWSGNVM0laTERXUzRLemE3SXVDVG0wUV96TFlDeG5SRUhEdHZtcElIeVlEQzk1T2ZiSkpoeC0tczM1VnFwOXFfWl8xaWpRMWR0UGpjdzFiY25XVzdEVEhMT3ZFVW9rU0o1RjFNMERJOGRINGtyWmFrejRSUHc?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-24T09:13:20+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 51,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.51,
-    "filterReason": "quantitative detail",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-2878720fbcff",
-    "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "headline": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "summary": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-931e576cf6cb",
     "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
     "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
@@ -664,7 +604,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],

@@ -8,7 +8,7 @@ export const signals = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signals = [
     "source": "International Water Power",
     "sourceType": "news",
     "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-08-27T20:31:40.616579+00:00",
+    "detected": "2026-08-28T05:26:11.021909+00:00",
     "categories": [
       "Market intelligence"
     ],

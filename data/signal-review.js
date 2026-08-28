@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -74,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -97,37 +97,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8c636aa39647",
-    "title": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "headline": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "summary": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUNrM2pLVlotcmdFbVNaNWd4WmY1eGFzZFYwTWh5OF9tUHBrbTBBRFVZemRsZFBhU2xZZ2t2NDFJdUdHXy1oamc2NUdHTnRzRnVzUUZNWU1uUHRocEN3dFh5dHFQZV9KaFU5ZlFVYldBTTl1TzhHa1daYWlvMWJFT1RPN3F0SncxTkhoblBSRnhlazJ4Nnd5NGVPWXE0dWRvcXhMYWt2LUplMHhnREtocWx6NkxZbENXcjVia04yNzQtMGVxVlJB?oc=5",
-    "source": "KNN India",
-    "sourceType": "news",
-    "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -136,7 +105,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -159,15 +128,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-63789c6c5334",
-    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
-    "source": "Big News Network.com",
+    "id": "sig-8c636aa39647",
+    "title": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
+    "headline": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
+    "summary": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUNrM2pLVlotcmdFbVNaNWd4WmY1eGFzZFYwTWh5OF9tUHBrbTBBRFVZemRsZFBhU2xZZ2t2NDFJdUdHXy1oamc2NUdHTnRzRnVzUUZNWU1uUHRocEN3dFh5dHFQZV9KaFU5ZlFVYldBTTl1TzhHa1daYWlvMWJFT1RPN3F0SncxTkhoblBSRnhlazJ4Nnd5NGVPWXE0dWRvcXhMYWt2LUplMHhnREtocWx6NkxZbENXcjVia04yNzQtMGVxVlJB?oc=5",
+    "source": "KNN India",
     "sourceType": "news",
-    "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "published": "2026-08-24T11:44:34+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -180,13 +149,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+    "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -198,7 +167,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -229,7 +198,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -262,7 +231,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -294,7 +263,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -325,7 +294,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "BESS"
     ],
@@ -356,7 +325,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -387,7 +356,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -418,7 +387,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -449,7 +418,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -480,7 +449,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -511,7 +480,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -542,7 +511,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Investment"
     ],
@@ -573,7 +542,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -604,7 +573,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-28T05:26:11.021909+00:00",
+    "detected": "2026-08-28T18:44:47.343971+00:00",
     "categories": [
       "Market intelligence"
     ],

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -74,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -105,7 +105,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -136,7 +136,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -167,7 +167,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -198,7 +198,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -231,7 +231,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-25T08:57:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -263,7 +263,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -294,7 +294,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "BESS"
     ],
@@ -325,7 +325,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -348,6 +348,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-fb65ac92a726",
+    "title": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "headline": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "summary": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZUx0eUVJbmlOXzVSNF9PaUpGSkdSWEV2aWgyN3ZlMUowcVB0c2R3Y2M4aVdTQmNZTFpXaXRfUy1fb2x3SmRFWWV6Y3ctUk5NS0kyRmRkX1pMb054enR5MUlWenJ1TDVQTjlyM0FBWFR6ekg2SHVIbHVxSnRXdDRtYUxwVzF6Slc3OE1ZOTBtd241YmRDMklENDBBYlREQkV1MWhoOGQwMzJnT2JUZWRXbDluRk01WTEzRWZkY2JReFBqUFA4WjRvNFA2Nm9mVFdwTnV2d3BPRmdHSkl2emFsZEo3anRjYlNTLWEyYXVKWjYzZlE?oc=5",
+    "source": "Billionaires.Africa",
+    "sourceType": "news",
+    "published": "2026-08-28T18:09:16+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-8b845ba23d05",
     "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
     "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
@@ -356,7 +387,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -387,7 +418,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -418,7 +449,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -449,7 +480,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -480,7 +511,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -511,7 +542,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Investment"
     ],
@@ -542,7 +573,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
+    "detected": "2026-08-29T02:13:13.614249+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -556,37 +587,6 @@ export const signalReview = [
     "status": "review",
     "evidenceLevel": "news source",
     "evidenceSnippet": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission orissadiary.com",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-931e576cf6cb",
-    "title": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "headline": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange - streamlinefeed.co.ke",
-    "summary": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0F4azNDS3hTYVdyWjQtTnBRNVo4Q2t2eWVZMHpDNVBQRy1DSlZ6TmlJU08tbFQ3NW15d1Vmd05UQ1dzTW9Ncng5MmRHZURFSWZabVl5Nk5wU29Sb2pULTNlRTgzd1hRVGtBaFFQUUxnVlJHYnBzR3RiSE1BcEFzLTQ0RldWTE1JdVI4UjlkV3llY1pu?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-25T12:28:50+00:00",
-    "detected": "2026-08-28T18:44:47.343971+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,

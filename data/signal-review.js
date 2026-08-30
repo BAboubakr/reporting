@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -74,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -105,7 +105,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -136,7 +136,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -167,7 +167,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -198,7 +198,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -223,37 +223,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-aa714dcdb56a",
-    "title": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
-    "headline": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure - Hydrogen Fuel News",
-    "summary": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVBOazVQdHJlTlhLLTZSRzFkVDV3WUhCdFVqak9STlE5azFobXFyYW1hbnFLbHRrR0ZUMEJrTV81ZEJXVUt2NUQtZGs4QzJYUEFhaVBKbmRhRU80SEJqTlR0c2FhV1FyczZSaDZWRUZPeVcxc0lfUEpGdTEtRjZ2R2dvUzNqdXY2VGI0aHYtLV9MTGFLaGtaMW5EV2ZqWXB1UTNMdU5uM2ZGRHljaDVtMHd2NXZRYmtMXzlmR2dLZw?oc=5",
-    "source": "Hydrogen Fuel News",
-    "sourceType": "news",
-    "published": "2026-08-23T21:31:07+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
-    "categories": [
-      "Hydrogen / PtX"
-    ],
-    "signalType": "partnership",
-    "projectStage": "announcement",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
-    "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-30d8d5667cc2",
     "title": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
     "headline": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
@@ -262,7 +231,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "BESS"
     ],
@@ -293,7 +262,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -324,7 +293,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -355,7 +324,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -386,7 +355,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -417,7 +386,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -448,7 +417,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -479,7 +448,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -510,7 +479,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -541,7 +510,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],

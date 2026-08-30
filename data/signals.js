@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGxwclhQaXBoZ2xUZ1piRU04X1BQb2VXQ0hiSjA5NVlUTUwyWlg3UVNFcFB6b0lrcEZSQXF5Y0ZVaWJXbW1VOFpaeHBGUUUwNUxxZWJvY3ExcUJtRWxITHpyWjM1SXlJbkhzdHRyRjA0MGg5UUEzNFNJQVJla1d2M1V0Z2VKSm5oOVRvSnR1alJzQW43THBKNmRHeGlaekI4UUE4NXdGQ1VXY2RVTU1NUGlWOFRBS0lkbml0WXZDLUVCZ3c?oc=5",
     "source": "fundsforNGOs News",
     "sourceType": "news",
-    "published": "2026-08-20T08:56:26+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "published": "2026-08-20T07:00:00+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signals = [
     "source": "International Water Power",
     "sourceType": "news",
     "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-08-30T12:55:35.929885+00:00",
+    "detected": "2026-08-30T17:31:10.100041+00:00",
     "categories": [
       "Market intelligence"
     ],

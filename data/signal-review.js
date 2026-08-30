@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -40,8 +40,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZkJ1S2VIS1QyZnU2cEhwSGJRdm1VbmlJVzUzOTBZNVROTjlOb2I4dk9jTTBhajljT2NDYTlZaUpTS3J0VkpKd1U2OV9HX0hsMmlkS3E0d1RDYmNYU1BhSzlaaFRJRVFwWXNkMS1UUjFFRnoydWZUTUc4bWtDZXhESXRia2dNZDg0MWtESENzWkw1c25tNTBOc0h3SGlsQjJwTnE2V1VLQ0ZGT3g5Wjd0Qjd2R0NZTjYzVnZHb3hVX3A3Q3JCZmhhUGlLU3l1ZFFMWExXQklWcnVxN3hJdzNCWldicEQwQXpyd1Q0LURZdDdhckszdl9OM1pRTzFvWmd2b2k4LTNOOVhuNzIxZ2tmdWhnSTQ?oc=5",
     "source": "Hitachi Energy",
     "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "published": "2026-08-17T07:00:00+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Grid",
       "Investment",
@@ -74,7 +74,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -105,7 +105,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -136,7 +136,7 @@ export const signalReview = [
     "source": "KNN India",
     "sourceType": "news",
     "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -167,7 +167,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -198,7 +198,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -231,7 +231,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "BESS"
     ],
@@ -262,7 +262,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -293,7 +293,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -324,7 +324,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -355,7 +355,7 @@ export const signalReview = [
     "source": "fundsforNGOs News",
     "sourceType": "news",
     "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -386,7 +386,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -417,7 +417,7 @@ export const signalReview = [
     "source": "Times of Oman",
     "sourceType": "news",
     "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -448,7 +448,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -479,7 +479,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Investment"
     ],
@@ -502,6 +502,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-f474b8d21bee",
+    "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "headline": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+    "summary": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-08-25T10:08:19+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-e581a4f24752",
     "title": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
     "headline": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
@@ -510,7 +541,7 @@ export const signalReview = [
     "source": "orissadiary.com",
     "sourceType": "news",
     "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-30T21:08:38.561389+00:00",
+    "detected": "2026-08-30T23:31:10.390961+00:00",
     "categories": [
       "Market intelligence"
     ],

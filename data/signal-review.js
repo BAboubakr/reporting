@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -33,39 +33,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2ead8c2bcca6",
-    "title": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
-    "headline": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
-    "summary": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure Hitachi Energy",
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZkJ1S2VIS1QyZnU2cEhwSGJRdm1VbmlJVzUzOTBZNVROTjlOb2I4dk9jTTBhajljT2NDYTlZaUpTS3J0VkpKd1U2OV9HX0hsMmlkS3E0d1RDYmNYU1BhSzlaaFRJRVFwWXNkMS1UUjFFRnoydWZUTUc4bWtDZXhESXRia2dNZDg0MWtESENzWkw1c25tNTBOc0h3SGlsQjJwTnE2V1VLQ0ZGT3g5Wjd0Qjd2R0NZTjYzVnZHb3hVX3A3Q3JCZmhhUGlLU3l1ZFFMWExXQklWcnVxN3hJdzNCWldicEQwQXpyd1Q0LURZdDdhckszdl9OM1pRTzFvWmd2b2k4LTNOOVhuNzIxZ2tmdWhnSTQ?oc=5",
-    "source": "Hitachi Energy",
-    "sourceType": "news",
-    "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Grid",
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 45,
-    "actionabilityScore": 32,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure Hitachi Energy",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 technology indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-be6a10ccf717",
     "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
     "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
@@ -74,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -97,6 +64,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-da41a6b7af34",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
+    "source": "Devdiscourse",
+    "sourceType": "news",
+    "published": "2026-08-31T12:55:17+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -105,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -128,37 +126,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8c636aa39647",
-    "title": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "headline": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India",
-    "summary": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUNrM2pLVlotcmdFbVNaNWd4WmY1eGFzZFYwTWh5OF9tUHBrbTBBRFVZemRsZFBhU2xZZ2t2NDFJdUdHXy1oamc2NUdHTnRzRnVzUUZNWU1uUHRocEN3dFh5dHFQZV9KaFU5ZlFVYldBTTl1TzhHa1daYWlvMWJFT1RPN3F0SncxTkhoblBSRnhlazJ4Nnd5NGVPWXE0dWRvcXhMYWt2LUplMHhnREtocWx6NkxZbENXcjVia04yNzQtMGVxVlJB?oc=5",
-    "source": "KNN India",
-    "sourceType": "news",
-    "published": "2026-08-24T11:44:34+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-e5b071c55e04",
     "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
     "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
@@ -167,7 +134,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -190,6 +157,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-a5c83f22e9e8",
+    "title": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
+    "headline": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
+    "summary": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVE1IQV9OQ1RKNldUQ3k2cW5WLXdKaGtJZ2NZNzZjSEljaWpRWDUwWEZCNXBCQUg4R0duZ3FOZ1NJcFBDRTczbndrMi1KOGJxY2hDWlVjODJNN1Bmc2wzc0o2bWR3VjJlRXRjbzFveGEwUlNqNGtNYjZVTnRVaGFQRk9Cd3V2LTBsaTRiQjVIOVl4LUtBVHduNEhYTWY3WjdUdTNORGdLaHRuUENyR3N3aVZaMVBBN0JhOFNvVE93?oc=5",
+    "source": "Menafn",
+    "sourceType": "news",
+    "published": "2026-08-31T12:00:52+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 46,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.54,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2a1b21b05560",
     "title": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
     "headline": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
@@ -198,7 +196,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -223,6 +221,101 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-3db3736cef9c",
+    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFppSGRaRFplVjRkSlV5WWRoQUNfZ2FpTFNMdUphM1J0LXItQ3g4cnpYS1dPQTFKQmdRQi01TXFDRS1uRXVMVXBBVXlQVU9YNFJIV2ZLUmNoWXNCS2tacWt6OU12TTMtMS1oYXBhaTZGaXUxNXRZTkFVQi1BaDdDejUxcUZKVjVXbWJqYXVjbGw0Y29fQVZWWmZBVWkyclFrLWFuNm1USm9jUjhYY1BwQWhNZ2FpY2F6alJFRklJVVFHTldaeWlsaWlHM0Z5b2NGc2F0R1BSeWJIRkxFSDgzdmZVR0FvTm5VTFEwZ2ln?oc=5",
+    "source": "Africa Sustainability Matters",
+    "sourceType": "news",
+    "published": "2026-08-31T06:13:26+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 37,
+    "actionabilityScore": 27,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-47862910d429",
+    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
+    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
+    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
+    "source": "EIN News",
+    "sourceType": "news",
+    "published": "2026-08-31T10:48:00+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 56,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.56,
+    "filterReason": "1 event indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-8aba8e0f1542",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
+    "source": "EIN News",
+    "sourceType": "news",
+    "published": "2026-08-31T10:49:00+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "BESS",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 61,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.61,
+    "filterReason": "2 technology indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-30d8d5667cc2",
     "title": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
     "headline": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
@@ -231,7 +324,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "BESS"
     ],
@@ -254,6 +347,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-bc52380ba4ce",
+    "title": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
+    "headline": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
+    "summary": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 mvapulse.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjVRMGRRNUM5Ri1QWG5rNVFkWWctU1gwWUE0X1ZUMGhseF9LTnhfVXRiX1kzV0ZYQnBzbHJYcC1KZmhuRjJkU3c1WHRaYmJ1bXpnNGUxMHlkNm1kZ0hsZXphOHAzSmVVYTZfeUVlTzg3Z2ttbkdiTlBjYlJNOVA0THdISWNKSzFOSnc?oc=5",
+    "source": "mvapulse.com",
+    "sourceType": "news",
+    "published": "2026-08-31T07:31:36+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "categories": [
+      "Solar PV"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 mvapulse.com",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 44,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.56,
+    "filterReason": "1 technology indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -262,7 +386,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -293,7 +417,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -324,7 +448,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -347,37 +471,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-e1bf80102621",
-    "title": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
-    "headline": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
-    "summary": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
-    "source": "fundsforNGOs News",
-    "sourceType": "news",
-    "published": "2026-08-17T07:00:00+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-7726498c91d8",
     "title": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
     "headline": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
@@ -386,7 +479,7 @@ export const signalReview = [
     "source": "SolarQuarter",
     "sourceType": "news",
     "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -409,37 +502,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-62f1710fad95",
-    "title": "India and Morocco seek deeper economic partnership through joint ventures - Times of Oman",
-    "headline": "India and Morocco seek deeper economic partnership through joint ventures - Times of Oman",
-    "summary": "India and Morocco seek deeper economic partnership through joint ventures Times of Oman",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlVXQlcxQkZfekVhM0ZoQWdyYzc2RlMwSlhOOFZjNzQ5VFhVYW0yTnp6cl9aX2laQnpnclItdnVfLU9FNEwyejAyLV9PRC1VeEFvZ0RlNnZUbkNqeWNpSWtENlZPVEMxb2t2aDEwLTZfRUdiYTUxVUlhckJyWVhNdXJSLXNtR1J6Qk5fNC0xRThJWE5FSElPbHBEdXVobGxTdzNtSTNzLTJQV3M3T1N6dmVn?oc=5",
-    "source": "Times of Oman",
-    "sourceType": "news",
-    "published": "2026-08-24T10:58:00+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "partnership",
-    "projectStage": "announcement",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India and Morocco seek deeper economic partnership through joint ventures Times of Oman",
-    "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-e542db5e6735",
     "title": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
     "headline": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
@@ -448,7 +510,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -479,7 +541,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
+    "detected": "2026-08-31T13:54:31.893446+00:00",
     "categories": [
       "Investment"
     ],
@@ -499,68 +561,6 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.52,
     "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-f474b8d21bee",
-    "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
-    "headline": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
-    "summary": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-25T10:08:19+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-e581a4f24752",
-    "title": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
-    "headline": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission - orissadiary.com",
-    "summary": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission orissadiary.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0t2b0hqWGdweEdwN0VBR2UwQ3JIRzFCNzZYeWNfVnBwcG1kblN2cFBRelItRXlzWkxGR2N6d1I1SHJtYlA1NjVCZHNSTUpNZ2hEbkRxSjBXNkpzcjMzbUVLSjNSMW9sY2lTdHNHOXBPYnlLUTNsNUdlbEROQVc4bmlSUWowMmk4ZjBHUl9ZWHVGMjR1aUxadGFyZnVNNktDVDE0SDZBcVp4aDlNdmxKbVUzaXc2dU5NRWo4WTRzeHdTdllDczd2cg?oc=5",
-    "source": "orissadiary.com",
-    "sourceType": "news",
-    "published": "2026-08-27T06:53:55+00:00",
-    "detected": "2026-08-31T05:38:22.278823+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Minister of State for Commerce and Industry and Electronics & Information Technology Shri Jitin Prasada Concludes Official Visit to Morocco; Co-Chairs 7th India–Morocco Joint Commission orissadiary.com",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

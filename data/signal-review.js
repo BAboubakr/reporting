@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -64,15 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
+    "id": "sig-8f8d082f96eb",
     "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
     "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
     "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV30gHTAUFVX3lxTE1naTVnQ3Z6RG5mcnRwVFdtQlVCN0NxMC1IOEJ6RjBwRjlmY3JweDBkU3NlRnpWYTNRQXQ5c1VaWjUwM1JUR2J1LUd2TFE3STBDbzBCRnNkRDd4Z3ZkSDhraklnbjdveVNVdEdlSG9RRldGQmZKck43NlRmRVlDUW5naFNpRjBNSXNWVzI1LXA0UEo3Y2p2ZEhKTFloTG5oQWR6NWlLRWpGZmFkOWJlek9Vb0IzQ3lHRmdwQVRzVktLUExkOVZwa3lyNEdCMmFOSXZxZXc?oc=5",
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -134,7 +134,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -165,7 +165,7 @@ export const signalReview = [
     "source": "Menafn",
     "sourceType": "news",
     "published": "2026-08-31T12:00:52+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -221,15 +221,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-3db3736cef9c",
-    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
-    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
-    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "id": "sig-1cb97c814a5a",
+    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
+    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
+    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFppSGRaRFplVjRkSlV5WWRoQUNfZ2FpTFNMdUphM1J0LXItQ3g4cnpYS1dPQTFKQmdRQi01TXFDRS1uRXVMVXBBVXlQVU9YNFJIV2ZLUmNoWXNCS2tacWt6OU12TTMtMS1oYXBhaTZGaXUxNXRZTkFVQi1BaDdDejUxcUZKVjVXbWJqYXVjbGw0Y29fQVZWWmZBVWkyclFrLWFuNm1USm9jUjhYY1BwQWhNZ2FpY2F6alJFRklJVVFHTldaeWlsaWlHM0Z5b2NGc2F0R1BSeWJIRkxFSDgzdmZVR0FvTm5VTFEwZ2ln?oc=5",
-    "source": "Africa Sustainability Matters",
+    "source": "africasustainabilitymatters.com",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -243,7 +243,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -261,7 +261,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -292,7 +292,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -316,37 +316,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-30d8d5667cc2",
-    "title": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
-    "headline": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone - Morocco World News",
-    "summary": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWRyU1U4c0hWa2R3aXp3U3NZSktDTnlSajhSQjRNTDZCa2JsVHlBWkNuY2kyUmVLZHlDVDF5RDlNSkhGelFjY2V3M1B2WjZYWXZ1bDVuTm0zMWFweGJIYThITFpoTHUwLWtaTS1uVnFJWDRVd0hmM0d0SjZzSWZaTUZETkxNWHVERzRVRGttTmE3aHdUOUdVQVd0M3U0cXhPT08wN2NuUFpKRW1vczBxSHJzb0VhYUJW?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-26T11:23:40+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
-    "categories": [
-      "BESS"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "CNGR Morocco Battery Plant Reaches Thousand-Ton Production Milestone Morocco World News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-bc52380ba4ce",
     "title": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
     "headline": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
@@ -355,7 +324,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -386,7 +355,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -417,7 +386,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -448,7 +417,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -471,37 +440,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-7726498c91d8",
-    "title": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
-    "headline": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September - SolarQuarter",
-    "summary": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September SolarQuarter",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZl9EYTBCRWxJY09KWHpoRVo4emhJSFk3MllGc3o1QTNxbUlpQ004U0phTUU2bXJUT1JwOEZrbzVfbWc5dDJCTlNHdi0xSkNaeWREVmNtZzNPcTUzUUt4LXg2VHFhZFBMMlJxM1k3aUtwVWFpeGlDbFFFQklaakFnM01pQjdBNE9KNjU5SEY0U3JJMms0Vjloeks0WFlOZ3liSk9sT1pzS1ZJenRpTkF5QlRqX3M4d2JDdl9tZy1MeXl6NXRvdWpZT0Z5bDBRYjZLc0Q4Y0U3UDYzcWpaSTlmaTBfa2hUREpUcm1MdVAybjh6aE5QZExrczN5ekkzQ0pObEE?oc=5",
-    "source": "SolarQuarter",
-    "sourceType": "news",
-    "published": "2026-08-27T06:46:30+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
-    "categories": [
-      "Solar PV"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Over 1,500 Global Energy Companies Confirm for the 50th Edition of Middle East Energy and Intersolar Middle East in Dubai This September SolarQuarter",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 technology indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-e542db5e6735",
     "title": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
     "headline": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
@@ -510,7 +448,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],
@@ -541,7 +479,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-31T13:54:31.893446+00:00",
+    "detected": "2026-08-31T20:07:14.044896+00:00",
     "categories": [
       "Investment"
     ],

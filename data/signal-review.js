@@ -1,14 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "id": "sig-18cfcff1e963",
+    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
+    "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -23,7 +23,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -33,15 +33,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-0bffc9582ddd",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - moroccoworldnews.com",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - moroccoworldnews.com",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation moroccoworldnews.com",
+    "id": "sig-be6a10ccf717",
+    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "moroccoworldnews.com",
+    "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -54,7 +54,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation moroccoworldnews.com",
+    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -134,7 +134,7 @@ export const signalReview = [
     "source": "bignewsnetwork.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -165,7 +165,7 @@ export const signalReview = [
     "source": "Menafn",
     "sourceType": "news",
     "published": "2026-08-31T12:00:52+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -229,7 +229,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -261,7 +261,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -292,7 +292,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -324,7 +324,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -355,7 +355,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -386,7 +386,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -417,7 +417,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -448,7 +448,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],
@@ -479,7 +479,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Investment"
     ],

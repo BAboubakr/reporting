@@ -8,7 +8,7 @@ export const signals = [
     "source": "International Water Power",
     "sourceType": "news",
     "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-08-31T23:52:22.038077+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -30,6 +30,39 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.79,
     "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-c8dd7dc66e44",
+    "title": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
+    "headline": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
+    "summary": "Worley-led team to help advance 1-GW Ontario pumped storage project Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1ZJQVVDR0Y1VE1ZLWhyaEt3SWJVWTM0SGhxaHJzMTd4M2tFR1M1UTh3Z3k3VGFYRDJrVFlzZEQ0Nk5nSG1HbUJmaEZfQ29BbDh2NktqRzJuU3R5YlNkalJuOGg1MDlqN21vb3IyamJLV2FjaHYzbjhFNk1fTkpkOVlVYTY3ZDhKZS1fRm02d1NUdlN2eVpULWpIbkZBSHZwZm1XaEZqRWJHaTg?oc=5",
+    "source": "Renewables Now",
+    "sourceType": "news",
+    "published": "2026-08-26T04:55:51+00:00",
+    "detected": "2026-09-01T05:11:49.084881+00:00",
+    "categories": [
+      "BESS"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "Worley"
+    ],
+    "competitor": "Worley",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Worley-led team to help advance 1-GW Ontario pumped storage project Renewables Now",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; Worley detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 69,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.69,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
     "aiReviewed": false
   },
   {

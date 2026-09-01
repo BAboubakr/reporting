@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -126,15 +126,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-a5c83f22e9e8",
-    "title": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
-    "headline": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
-    "summary": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVE1IQV9OQ1RKNldUQ3k2cW5WLXdKaGtJZ2NZNzZjSEljaWpRWDUwWEZCNXBCQUg4R0duZ3FOZ1NJcFBDRTczbndrMi1KOGJxY2hDWlVjODJNN1Bmc2wzc0o2bWR3VjJlRXRjbzFveGEwUlNqNGtNYjZVTnRVaGFQRk9Cd3V2LTBsaTRiQjVIOVl4LUtBVHduNEhYTWY3WjdUdTNORGdLaHRuUENyR3N3aVZaMVBBN0JhOFNvVE93?oc=5",
-    "source": "Menafn",
+    "id": "sig-e5b071c55e04",
+    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
+    "source": "Big News Network.com",
     "sourceType": "news",
-    "published": "2026-08-31T12:00:52+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "published": "2026-08-27T12:57:00+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -147,12 +147,12 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
+    "qualityScore": 42,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
+    "filterConfidence": 0.58,
     "filterReason": "1 event indicator(s)",
     "aiReviewed": false
   },
@@ -165,7 +165,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -197,7 +197,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -228,7 +228,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -260,7 +260,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -291,7 +291,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -322,7 +322,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -353,7 +353,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -384,7 +384,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Investment"
     ],
@@ -415,7 +415,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-01T18:32:41.085133+00:00",
+    "detected": "2026-09-01T21:48:20.458556+00:00",
     "categories": [
       "Market intelligence"
     ],

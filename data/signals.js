@@ -8,7 +8,7 @@ export const signals = [
     "source": "International Water Power",
     "sourceType": "news",
     "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-09-01T05:11:49.084881+00:00",
+    "detected": "2026-09-01T09:57:13.732686+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-26T04:55:51+00:00",
-    "detected": "2026-09-01T05:11:49.084881+00:00",
+    "detected": "2026-09-01T09:57:13.732686+00:00",
     "categories": [
       "BESS"
     ],

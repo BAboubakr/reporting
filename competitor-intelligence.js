@@ -28,3 +28,4 @@ const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';so
 const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260901-1';document.body.appendChild(sourceScript);
 const pptCheck=document.createElement('script');pptCheck.src='ppt-engine-check.js?v=20260901-1';document.body.appendChild(pptCheck);
 const pptScript=document.createElement('script');pptScript.src='ppt-report.js?v=20260901-1';document.body.appendChild(pptScript);
+const refreshScript=document.createElement('script');refreshScript.type='module';refreshScript.src='signal-refresh.js?v=20260901-1';document.body.appendChild(refreshScript);

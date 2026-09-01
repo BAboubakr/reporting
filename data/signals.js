@@ -8,7 +8,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-26T04:55:51+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "BESS"
     ],

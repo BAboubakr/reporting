@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -103,7 +103,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -134,7 +134,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -157,15 +157,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-7d4299dad77a",
-    "title": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - menafn.com",
-    "headline": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - menafn.com",
-    "summary": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders menafn.com",
+    "id": "sig-a5c83f22e9e8",
+    "title": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
+    "headline": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders - Menafn",
+    "summary": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVE1IQV9OQ1RKNldUQ3k2cW5WLXdKaGtJZ2NZNzZjSEljaWpRWDUwWEZCNXBCQUg4R0duZ3FOZ1NJcFBDRTczbndrMi1KOGJxY2hDWlVjODJNN1Bmc2wzc0o2bWR3VjJlRXRjbzFveGEwUlNqNGtNYjZVTnRVaGFQRk9Cd3V2LTBsaTRiQjVIOVl4LUtBVHduNEhYTWY3WjdUdTNORGdLaHRuUENyR3N3aVZaMVBBN0JhOFNvVE93?oc=5",
-    "source": "menafn.com",
+    "source": "Menafn",
     "sourceType": "news",
     "published": "2026-08-31T12:00:52+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -178,7 +178,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders menafn.com",
+    "evidenceSnippet": "Gujarat Woos Big Ticket Investments As CM Patel Holds VGGS 2027 Talks With Industry Leaders Menafn",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 46,
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -228,7 +228,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -259,7 +259,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -291,7 +291,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -322,7 +322,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -353,7 +353,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -376,15 +376,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8b845ba23d05",
-    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "id": "sig-16be8e95da49",
+    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 marketsandmarkets.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnlKTnk5TVprd2xmN3U2RjhGc0piQzRSRzJic05zX3MxUUdBLTBvc0hpRzNoeW02RTRwdmdYaDk3Y1RLYVVkQWduVFYxWnBHamdfVkxoUFBsdjNzcGUtRDhCcXFfZXpBV0NPaUl4ZlZJUmRlU0luNzJORVctTV9KbDkydVJxZHZqNVpzVHI0Y3drX2FkTlE?oc=5",
-    "source": "MarketsandMarkets",
+    "source": "marketsandmarkets.com",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -397,7 +397,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 marketsandmarkets.com",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 46,
@@ -415,7 +415,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -446,7 +446,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Investment"
     ],
@@ -477,7 +477,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-01T13:34:24.370781+00:00",
+    "detected": "2026-09-01T13:38:16.309670+00:00",
     "categories": [
       "Market intelligence"
     ],

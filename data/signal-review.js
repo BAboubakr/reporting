@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -64,15 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8f8d082f96eb",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "id": "sig-55cc6de4a32b",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV30gHTAUFVX3lxTE1naTVnQ3Z6RG5mcnRwVFdtQlVCN0NxMC1IOEJ6RjBwRjlmY3JweDBkU3NlRnpWYTNRQXQ5c1VaWjUwM1JUR2J1LUd2TFE3STBDbzBCRnNkRDd4Z3ZkSDhraklnbjdveVNVdEdlSG9RRldGQmZKck43NlRmRVlDUW5naFNpRjBNSXNWVzI1LXA0UEo3Y2p2ZEhKTFloTG5oQWR6NWlLRWpGZmFkOWJlek9Vb0IzQ3lHRmdwQVRzVktLUExkOVZwa3lyNEdCMmFOSXZxZXc?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -85,7 +85,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -95,15 +95,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "id": "sig-dcca22a888f0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -116,44 +116,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-e5b071c55e04",
-    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
     "aiReviewed": false
   },
   {
@@ -165,7 +134,7 @@ export const signalReview = [
     "source": "Menafn",
     "sourceType": "news",
     "published": "2026-08-31T12:00:52+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -196,7 +165,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -228,7 +197,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -259,7 +228,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -291,7 +260,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -322,7 +291,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -353,7 +322,7 @@ export const signalReview = [
     "source": "Billionaires.Africa",
     "sourceType": "news",
     "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -384,7 +353,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -415,7 +384,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],
@@ -446,7 +415,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
+    "detected": "2026-09-01T11:34:28.804995+00:00",
     "categories": [
       "Investment"
     ],

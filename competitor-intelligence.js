@@ -1,10 +1,5 @@
 const COMPETITORS=['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA','JESA'];
-const ALIASES={
-  'AFRY':['afry'],Artelia:['artelia'],Tractebel:['tractebel','engie'],
-  'Mott MacDonald':['mott macdonald','mott macdonald group'],'WSP':['wsp'],Worley:['worley'],
-  Egis:['egis'],'ILF Consulting Engineers':['ilf consulting engineers','ilf'],DNV:['dnv'],
-  NOVEC:['novec'],'INGEMA':['ingema'],'JESA':['jesa','jesa s.a','jesa sa']
-};
+const ALIASES={'AFRY':['afry'],Artelia:['artelia'],Tractebel:['tractebel','engie'],'Mott MacDonald':['mott macdonald','mott macdonald group'],'WSP':['wsp'],Worley:['worley'],Egis:['egis'],'ILF Consulting Engineers':['ilf consulting engineers','ilf'],DNV:['dnv'],NOVEC:['novec'],INGEMA:['ingema'],JESA:['jesa','jesa s.a','jesa sa']};
 const norm=v=>String(v||'').toLowerCase();
 const textOf=s=>norm(`${s.title||s.headline||s.signal||''} ${s.summary||''} ${(s.entities||[]).join(' ')} ${s.competitor||''} ${s.source||''}`);
 const detectCompetitor=s=>{if(s.competitor&&COMPETITORS.includes(s.competitor))return s.competitor;const t=textOf(s);return COMPETITORS.find(c=>ALIASES[c].some(a=>t.includes(a)))||null;};
@@ -31,4 +26,5 @@ const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';ma
 const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260825-1';document.body.appendChild(marketScript);
 const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);
 const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260901-1';document.body.appendChild(sourceScript);
+const pptCheck=document.createElement('script');pptCheck.src='ppt-engine-check.js?v=20260901-1';document.body.appendChild(pptCheck);
 const pptScript=document.createElement('script');pptScript.src='ppt-report.js?v=20260901-1';document.body.appendChild(pptScript);

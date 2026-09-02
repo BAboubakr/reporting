@@ -9,14 +9,16 @@ const DEVELOPMENT_TERMS = /\b(project|plant|farm|contract|tender|procurement|awa
 const FOREIGN_ONLY = /\b(india|indian|japan|japanese|ontario|canada|australia|germany|german|france|french|united kingdom|usa|united states|brazil|china|chinese|south africa|egypt|saudi arabia|uae|united arab emirates)\b/i;
 
 const isRelevantOverviewSignal = s => {
-  const text = `${s?.title||s?.headline||''} ${s?.summary||''} ${(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||'')} ${s?.evidenceSnippet||''} ${s?.whyItMatters||''}`;
-  if (NON_FICHTNER_ONEE_MATERIAL.test(text) && ONEE_MATERIAL_ONLY.test(text)) return false;
+  // Morocco relevance must be established from source-derived evidence, not analyst-generated text.
+  const sourceText = `${s?.title||s?.headline||''} ${s?.summary||''} ${(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||'')} ${s?.evidenceSnippet||''} ${(Array.isArray(s?.entities)?s.entities.join(' '):s?.entities||'')} ${s?.source||''}`;
+  const analysisText = `${sourceText} ${s?.whyItMatters||''}`;
+  if (NON_FICHTNER_ONEE_MATERIAL.test(analysisText) && ONEE_MATERIAL_ONLY.test(analysisText)) return false;
   if (UI_NOISE.test(String(s?.title || s?.headline || '').trim())) return false;
   // The Overview is a Morocco intelligence feed: foreign-only stories must never surface here.
-  if (!MOROCCO_TERMS.test(text)) return false;
-  if (!ENERGY_TERMS.test(text)) return false;
-  if (!DEVELOPMENT_TERMS.test(text)) return false;
-  if (FOREIGN_ONLY.test(text) && !MOROCCO_TERMS.test(text)) return false;
+  if (!MOROCCO_TERMS.test(sourceText)) return false;
+  if (!ENERGY_TERMS.test(sourceText)) return false;
+  if (!DEVELOPMENT_TERMS.test(sourceText)) return false;
+  if (FOREIGN_ONLY.test(sourceText) && !MOROCCO_TERMS.test(sourceText)) return false;
   return true;
 };
 

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "India's News.Net",
     "sourceType": "news",
     "published": "2026-08-25T23:27:00+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -133,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -227,7 +227,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -258,7 +258,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -289,7 +289,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Investment"
     ],
@@ -320,7 +320,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "detected": "2026-09-02T09:50:55.532717+00:00",
     "categories": [
       "Market intelligence"
     ],

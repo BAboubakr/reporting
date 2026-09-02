@@ -1,0 +1,2 @@
+Atlas deployment trigger — 2026-09-02.
+This file is intentionally harmless and exists to force a fresh GitHub Pages deployment from the master branch.

@@ -1,5 +1,36 @@
 export const signalReview = [
   {
+    "id": "sig-5b3860f9517a",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
+    "source": "JEC - Connecting the World with Composites",
+    "sourceType": "news",
+    "published": "2026-09-01T13:02:45+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-be6a10ccf717",
     "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
     "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
@@ -8,7 +39,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +70,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment"
     ],
@@ -62,15 +93,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-f61b6e3f08c0",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - India's News.Net",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - India's News.Net",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement India's News.Net",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3AxdnlZSjZaLUhtZk0ydTBpOVJqNFNkSlNhejFVX0ptd1NEQ1NocjZrdXkwRmVYN05qMWZEUk92ZEFGRmlsWXBlSV8wSlFTcVVDS1dQSmdtZ2FNYTBMcDkya1hkYUMwTS05alN6X2l0aVBhYUM4MmhnUVVadmxIOUQ5X2YwcXFjbTJOU3ZtVHIxWTdVazRGcnhFSURRQUh4c3M2VnRZbDl2ZUZrU1N5bnZPMEpRc3NHTjBNRU82djNVLWpYa082YXBqM2VxejNGNDlJaURKUU1MeTNsZ1BRODRVemtJZnM?oc=5",
-    "source": "India's News.Net",
+    "id": "sig-4b27ebdf37e0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
+    "source": "Big News Network.com",
     "sourceType": "news",
-    "published": "2026-08-25T23:27:00+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "published": "2026-08-25T16:57:00+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment"
     ],
@@ -83,7 +114,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement India's News.Net",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -101,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -125,37 +156,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-47862910d429",
-    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
-    "source": "EIN News",
-    "sourceType": "news",
-    "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 56,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.56,
-    "filterReason": "1 event indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-8aba8e0f1542",
     "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
     "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -219,15 +219,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-4be9d786b9a3",
-    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "id": "sig-a164e987ebff",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
-    "source": "Business Insider Africa",
+    "source": "africa.businessinsider.com",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment"
     ],
@@ -240,7 +240,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -258,7 +258,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -281,15 +281,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2551981422f6",
-    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "id": "sig-34591778fb0d",
+    "title": "China’s Shengtai plans $230 million green textile park in Morocco - en.hespress.com",
+    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - en.hespress.com",
+    "summary": "China’s Shengtai plans $230 million green textile park in Morocco en.hespress.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
-    "source": "HESPRESS English - Morocco News",
+    "source": "en.hespress.com",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Investment"
     ],
@@ -302,7 +302,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco en.hespress.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -320,7 +320,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T09:50:55.532717+00:00",
+    "detected": "2026-09-02T12:36:52.219943+00:00",
     "categories": [
       "Market intelligence"
     ],

@@ -1,14 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-18cfcff1e963",
-    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "id": "sig-5b6e8d760fff",
+    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "Renewables Now",
+    "source": "renewablesnow.com",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -23,7 +23,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment"
     ],
@@ -64,15 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
+    "id": "sig-b363f14c9a2c",
+    "title": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
+    "headline": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
+    "summary": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUVzcVRKWXVzVGxJcm04aHdoakw2Qm10aVBUbHdKQ2tnRHNGLVRTUkR5a1NSQms3ZHp2NGNqME1xMExZWVA1Qmx6a0xWV2JobGZmLURvcGhZWkNWSGlhNE52MDZPeDR5d3dFdFNvSG1wYmhoMVJJbUszeGR5MjVuUDQtLXpSZG1NSi1UY2s0TmpiVHZ6YUJOekliZU84X1FnWFFVX3lZdnR1NW1OckIxd0g0QUVQRUN0TTZ4UndYWWlsdEs3ZkdlV0tzaUwzclg3ZEVMQy1YYmlxZGtOOXRsYXRISTk4WWthSHY40gHvAUFVX3lxTE1lTVdubm1ndXZTcERlbDU1VTZyX1Zhc25EWXViUEgxeWRseWRPTDg1TXlwZlZuZElrMmpTNFVCaENYaXdIazNkWDNkM1NhS1BFTTZtc24taDVMa01VUVZJVzllVUlUUVB5U2tyd3l1ZzBveWlRSFZfQ0JDQ0pRQ0g5NXAwYjhtUzhjaG1IcGxLcFZtZ20tbThfZWxWT0JzR090NUZPdEctdzJqLWVLY3lJVXAzMU8yckxzU0pGWnBzMnZXY1JzYkdxek5IbDdZRmdhSDVZNlV1X21Rd05DSFNaQUlzNDhKcWM3THNWM1hR?oc=5",
+    "source": "The Tribune",
     "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "published": "2026-08-25T11:38:12+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment"
     ],
@@ -85,7 +85,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
+    "evidenceSnippet": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -95,46 +95,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-30d4f07fa82a",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
-    "source": "bignewsnetwork.com",
-    "sourceType": "news",
-    "published": "2026-08-25T16:57:00+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-635fc680d0c3",
-    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
-    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
-    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
+    "id": "sig-e5b071c55e04",
+    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
-    "source": "bignewsnetwork.com",
+    "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment"
     ],
@@ -147,7 +116,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,
@@ -165,7 +134,7 @@ export const signalReview = [
     "source": "safety4sea",
     "sourceType": "news",
     "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -198,7 +167,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -222,15 +191,46 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8aba8e0f1542",
-    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "id": "sig-77e61b62770c",
+    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
+    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
+    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
+    "source": "einnews.com",
+    "sourceType": "news",
+    "published": "2026-08-31T10:48:00+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 56,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.56,
+    "filterReason": "1 event indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-50c8c2584093",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
-    "source": "EIN News",
+    "source": "einnews.com",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -244,7 +244,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 61,
@@ -262,7 +262,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -285,15 +285,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-4be9d786b9a3",
-    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "id": "sig-a164e987ebff",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
-    "source": "Business Insider Africa",
+    "source": "africa.businessinsider.com",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment"
     ],
@@ -306,13 +306,44 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-fb65ac92a726",
+    "title": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "headline": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "summary": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZUx0eUVJbmlOXzVSNF9PaUpGSkdSWEV2aWgyN3ZlMUowcVB0c2R3Y2M4aVdTQmNZTFpXaXRfUy1fb2x3SmRFWWV6Y3ctUk5NS0kyRmRkX1pMb054enR5MUlWenJ1TDVQTjlyM0FBWFR6ekg2SHVIbHVxSnRXdDRtYUxwVzF6Slc3OE1ZOTBtd241YmRDMklENDBBYlREQkV1MWhoOGQwMzJnT2JUZWRXbDluRk01WTEzRWZkY2JReFBqUFA4WjRvNFA2Nm9mVFdwTnV2d3BPRmdHSkl2emFsZEo3anRjYlNTLWEyYXVKWjYzZlE?oc=5",
+    "source": "Billionaires.Africa",
+    "sourceType": "news",
+    "published": "2026-08-28T18:09:16+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -324,7 +355,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -355,7 +386,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Investment"
     ],
@@ -386,7 +417,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T18:44:41.927835+00:00",
+    "detected": "2026-09-02T21:51:26.614772+00:00",
     "categories": [
       "Market intelligence"
     ],

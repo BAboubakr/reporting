@@ -1,35 +1,33 @@
 export const signalReview = [
   {
-    "id": "sig-18cfcff1e963",
-    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "Renewables Now",
+    "id": "sig-5b3860f9517a",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
+    "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
-    "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "published": "2026-09-01T13:02:45+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
-      "Market intelligence"
+      "Investment"
     ],
-    "signalType": "project announcement",
+    "signalType": "investment",
     "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -41,7 +39,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment"
     ],
@@ -64,46 +62,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-635fc680d0c3",
-    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
-    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
-    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
-    "source": "bignewsnetwork.com",
-    "sourceType": "news",
-    "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-cba7d9fd3f76",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - indiasnews.net",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - indiasnews.net",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement indiasnews.net",
+    "id": "sig-f61b6e3f08c0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - India's News.Net",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - India's News.Net",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement India's News.Net",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3AxdnlZSjZaLUhtZk0ydTBpOVJqNFNkSlNhejFVX0ptd1NEQ1NocjZrdXkwRmVYN05qMWZEUk92ZEFGRmlsWXBlSV8wSlFTcVVDS1dQSmdtZ2FNYTBMcDkya1hkYUMwTS05alN6X2l0aVBhYUM4MmhnUVVadmxIOUQ5X2YwcXFjbTJOU3ZtVHIxWTdVazRGcnhFSURRQUh4c3M2VnRZbDl2ZUZrU1N5bnZPMEpRc3NHTjBNRU82djNVLWpYa082YXBqM2VxejNGNDlJaURKUU1MeTNsZ1BRODRVemtJZnM?oc=5",
-    "source": "indiasnews.net",
+    "source": "India's News.Net",
     "sourceType": "news",
     "published": "2026-08-25T23:27:00+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment"
     ],
@@ -116,7 +83,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement indiasnews.net",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement India's News.Net",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -134,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -166,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment"
     ],
@@ -197,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -229,7 +196,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -260,7 +227,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment"
     ],
@@ -283,6 +250,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-fb65ac92a726",
+    "title": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "headline": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
+    "summary": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZUx0eUVJbmlOXzVSNF9PaUpGSkdSWEV2aWgyN3ZlMUowcVB0c2R3Y2M4aVdTQmNZTFpXaXRfUy1fb2x3SmRFWWV6Y3ctUk5NS0kyRmRkX1pMb054enR5MUlWenJ1TDVQTjlyM0FBWFR6ekg2SHVIbHVxSnRXdDRtYUxwVzF6Slc3OE1ZOTBtd241YmRDMklENDBBYlREQkV1MWhoOGQwMzJnT2JUZWRXbDluRk01WTEzRWZkY2JReFBqUFA4WjRvNFA2Nm9mVFdwTnV2d3BPRmdHSkl2emFsZEo3anRjYlNTLWEyYXVKWjYzZlE?oc=5",
+    "source": "Billionaires.Africa",
+    "sourceType": "news",
+    "published": "2026-08-28T18:09:16+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-8b845ba23d05",
     "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
     "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
@@ -291,7 +289,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -314,6 +312,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-4be9d786b9a3",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
+    "source": "Business Insider Africa",
+    "sourceType": "news",
+    "published": "2026-08-27T06:00:00+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2551981422f6",
     "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
     "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
@@ -322,7 +351,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Investment"
     ],
@@ -353,7 +382,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "detected": "2026-09-02T04:44:18.357529+00:00",
     "categories": [
       "Market intelligence"
     ],

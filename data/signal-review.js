@@ -1,14 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-5b3860f9517a",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
-    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "JEC - Connecting the World with Composites",
+    "id": "sig-be6a10ccf717",
+    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
+    "source": "Morocco World News",
     "sourceType": "news",
-    "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "published": "2026-08-24T07:00:00+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -21,7 +21,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "India's News.Net",
     "sourceType": "news",
     "published": "2026-08-25T23:27:00+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -133,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -196,7 +196,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -219,68 +219,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-e542db5e6735",
-    "title": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
-    "headline": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years - Business Insider Africa",
-    "summary": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSm5OSTRoRnVzYldISVJKSndzcFhuWGNlU0kzNDJnZlpUSXIzN1hlRGZlSnVPY2pWaWRxWWhYSU85N2N6ckFrVlFQOGIycDFhampJejZNTFlhNFNnb0x5WndQUnViaUU0UnprazdxbWdZRVJCeFliaS0tRm5qaHU0Q3hnMHpUc0x1Y0RrWWVTejItXy1QVUQ5c3FKemR1NVVRcWNPR3Q1OTdwODFXaXRCaksxSmxwRWVPLWMtc1cyMVFZTFppWFAtQnVCdjRrMDE2Ry16RWhQaw?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco’s phosphate giant plans $450 million US fertiliser plant, America’s first in more than 40 years Business Insider Africa",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-8b845ba23d05",
-    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnlKTnk5TVprd2xmN3U2RjhGc0piQzRSRzJic05zX3MxUUdBLTBvc0hpRzNoeW02RTRwdmdYaDk3Y1RLYVVkQWduVFYxWnBHamdfVkxoUFBsdjNzcGUtRDhCcXFfZXpBV0NPaUl4ZlZJUmRlU0luNzJORVctTV9KbDkydVJxZHZqNVpzVHI0Y3drX2FkTlE?oc=5",
-    "source": "MarketsandMarkets",
-    "sourceType": "news",
-    "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
-    "filterReason": "1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -289,7 +227,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -312,6 +250,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-8b845ba23d05",
+    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnlKTnk5TVprd2xmN3U2RjhGc0piQzRSRzJic05zX3MxUUdBLTBvc0hpRzNoeW02RTRwdmdYaDk3Y1RLYVVkQWduVFYxWnBHamdfVkxoUFBsdjNzcGUtRDhCcXFfZXpBV0NPaUl4ZlZJUmRlU0luNzJORVctTV9KbDkydVJxZHZqNVpzVHI0Y3drX2FkTlE?oc=5",
+    "source": "MarketsandMarkets",
+    "sourceType": "news",
+    "published": "2026-08-25T20:51:51+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 46,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.54,
+    "filterReason": "1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2551981422f6",
     "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
     "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
@@ -320,7 +289,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Investment"
     ],
@@ -351,7 +320,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T07:08:57.066312+00:00",
+    "detected": "2026-09-02T09:39:52.284525+00:00",
     "categories": [
       "Market intelligence"
     ],

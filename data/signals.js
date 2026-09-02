@@ -8,7 +8,7 @@ export const signals = [
     "source": "International Water Power",
     "sourceType": "news",
     "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-09-02T14:31:15.340694+00:00",
+    "detected": "2026-09-02T18:44:41.927835+00:00",
     "categories": [
       "Market intelligence"
     ],

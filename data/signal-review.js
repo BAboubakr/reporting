@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -33,37 +33,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-8f8d082f96eb",
     "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
     "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
@@ -72,7 +41,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment"
     ],
@@ -95,46 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-25T11:43:45+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-e5b071c55e04",
-    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "id": "sig-635fc680d0c3",
+    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
+    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - bignewsnetwork.com",
+    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
-    "source": "Big News Network.com",
+    "source": "bignewsnetwork.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment"
     ],
@@ -147,13 +85,44 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape bignewsnetwork.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.58,
     "filterReason": "1 event indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-cba7d9fd3f76",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - indiasnews.net",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - indiasnews.net",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement indiasnews.net",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3AxdnlZSjZaLUhtZk0ydTBpOVJqNFNkSlNhejFVX0ptd1NEQ1NocjZrdXkwRmVYN05qMWZEUk92ZEFGRmlsWXBlSV8wSlFTcVVDS1dQSmdtZ2FNYTBMcDkya1hkYUMwTS05alN6X2l0aVBhYUM4MmhnUVVadmxIOUQ5X2YwcXFjbTJOU3ZtVHIxWTdVazRGcnhFSURRQUh4c3M2VnRZbDl2ZUZrU1N5bnZPMEpRc3NHTjBNRU82djNVLWpYa082YXBqM2VxejNGNDlJaURKUU1MeTNsZ1BRODRVemtJZnM?oc=5",
+    "source": "indiasnews.net",
+    "sourceType": "news",
+    "published": "2026-08-25T23:27:00+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement indiasnews.net",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -165,7 +134,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -197,7 +166,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment"
     ],
@@ -228,7 +197,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -260,7 +229,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -291,7 +260,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-29T11:03:52+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment"
     ],
@@ -322,7 +291,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -345,37 +314,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-4be9d786b9a3",
-    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-2551981422f6",
     "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
     "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
@@ -384,7 +322,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Investment"
     ],
@@ -415,7 +353,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-01T21:48:20.458556+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
     "categories": [
       "Market intelligence"
     ],

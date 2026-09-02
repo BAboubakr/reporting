@@ -1,5 +1,38 @@
 export const signals = [
   {
+    "id": "sig-fd6f35706f36",
+    "title": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
+    "headline": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
+    "summary": "AFRY appointed to 191MW Thana Plaun hydropower project in India International Water Power",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlZRZkh4d3lraXRVMHB5dVJGdVNiOUhzUk0zR0NCTDZhT0VmN1BiXzF5UzZqdG41X2NUTkVNak9lNlhVYVVORGJ2TjlOX1JaYWJKaU9yOTFGclNCNEdKRDdNWmN6azVpZVNvZFk3T3pTNmhUVDMxNV9WLWRyYkh5b004UElndFhDQlVMMDZ3NWlKZ1Jxb0xHZWFvQkdTYXA5V2hiWXIzUQ?oc=5",
+    "source": "International Water Power",
+    "sourceType": "news",
+    "published": "2026-08-27T14:55:42+00:00",
+    "detected": "2026-09-02T00:16:25.034357+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "AFRY appointed to 191MW Thana Plaun hydropower project in India International Water Power",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 79,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.79,
+    "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-c8dd7dc66e44",
     "title": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
     "headline": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
@@ -30,39 +63,6 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.69,
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-fd6f35706f36",
-    "title": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
-    "headline": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
-    "summary": "AFRY appointed to 191MW Thana Plaun hydropower project in India International Water Power",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlZRZkh4d3lraXRVMHB5dVJGdVNiOUhzUk0zR0NCTDZhT0VmN1BiXzF5UzZqdG41X2NUTkVNak9lNlhVYVVORGJ2TjlOX1JaYWJKaU9yOTFGclNCNEdKRDdNWmN6azVpZVNvZFk3T3pTNmhUVDMxNV9WLWRyYkh5b004UElndFhDQlVMMDZ3NWlKZ1Jxb0xHZWFvQkdTYXA5V2hiWXIzUQ?oc=5",
-    "source": "International Water Power",
-    "sourceType": "news",
-    "published": "2026-08-27T14:55:42+00:00",
-    "detected": "2026-09-01T10:09:14.280001+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY appointed to 191MW Thana Plaun hydropower project in India International Water Power",
-    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 79,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.79,
-    "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
     "aiReviewed": false
   },
   {

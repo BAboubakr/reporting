@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "India's News.Net",
     "sourceType": "news",
     "published": "2026-08-25T23:27:00+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment"
     ],
@@ -93,48 +93,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2a1b21b05560",
-    "title": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
-    "headline": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
-    "summary": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnhDbGR5TDJNRVpUZm5HNkd1aWl4VVlHbjlYb2NCWE1LdzBsSFoxWXM0QkU3dFpPX1dyMXhReVJ5OEFfOEdvdFZROGNtWWNDZW9BazdicktON1QzMWdCblpVdUVqUGE3blJJU2tvRmF6WmF0bzJHaDBhOC1STlZOYjlEQ3BNRXhCWnowLXFDTXJjSmRBVU1xbDlOQlAtVFI5eHNueVJIOUJCeDBKS1lLZnVFR1A?oc=5",
-    "source": "safety4sea",
-    "sourceType": "news",
-    "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "DNV"
-    ],
-    "competitor": "DNV",
-    "relevanceScore": 38,
-    "actionabilityScore": 27,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; DNV detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 48,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 identifiable actor(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-1cb97c814a5a",
-    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
-    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
-    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
+    "id": "sig-3db3736cef9c",
+    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFppSGRaRFplVjRkSlV5WWRoQUNfZ2FpTFNMdUphM1J0LXItQ3g4cnpYS1dPQTFKQmdRQi01TXFDRS1uRXVMVXBBVXlQVU9YNFJIV2ZLUmNoWXNCS2tacWt6OU12TTMtMS1oYXBhaTZGaXUxNXRZTkFVQi1BaDdDejUxcUZKVjVXbWJqYXVjbGw0Y29fQVZWWmZBVWkyclFrLWFuNm1USm9jUjhYY1BwQWhNZ2FpY2F6alJFRklJVVFHTldaeWlsaWlHM0Z5b2NGc2F0R1BSeWJIRkxFSDgzdmZVR0FvTm5VTFEwZ2ln?oc=5",
-    "source": "africasustainabilitymatters.com",
+    "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -148,7 +115,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
+    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -166,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -198,7 +165,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -221,15 +188,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-4be9d786b9a3",
-    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "id": "sig-a164e987ebff",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
-    "source": "Business Insider Africa",
+    "source": "africa.businessinsider.com",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment"
     ],
@@ -242,7 +209,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -260,7 +227,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -291,7 +258,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Investment"
     ],
@@ -322,7 +289,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-02T12:40:02.482790+00:00",
+    "detected": "2026-09-02T12:44:39.002505+00:00",
     "categories": [
       "Market intelligence"
     ],

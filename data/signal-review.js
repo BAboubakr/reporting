@@ -1,35 +1,33 @@
 export const signalReview = [
   {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
+    "id": "sig-df9db3ca3315",
+    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
+    "source": "IndexBox",
     "sourceType": "news",
-    "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "published": "2026-09-03T10:42:00+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
-      "Market intelligence"
+      "Wind"
     ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [],
+    "competitor": null,
     "relevanceScore": 46,
     "actionabilityScore": 33,
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
+    "qualityScore": 57,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -41,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Investment"
     ],
@@ -72,7 +70,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Investment"
     ],
@@ -95,6 +93,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-4b27ebdf37e0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-25T16:57:00+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-3db3736cef9c",
     "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
     "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
@@ -103,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -135,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Investment"
     ],
@@ -166,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -198,7 +227,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -229,7 +258,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -252,20 +281,20 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-bdeebf8aa30d",
-    "title": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon - Devdiscourse",
-    "headline": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon - Devdiscourse",
-    "summary": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzNxc2JSUGVxZ24yR0VCeDNHMGZwQWhBOFA2cnJkS1JXWElQMmVtSC1xNE13c1VVanUzMWlHNVVJUi1sazU3cG1kbVg5NS1PTHNaVUZyTTY0Y2gwMkdaQ0k0WUxaT1ZVNHpKcTFXSFhiU0NINmJlX0ZQa0FGTUQ4N2dvaWdXWnlkdHR4WWotcnFfWWotdmJkQjdTVTBVbzZaTmtNdFBLWEhxZlpRNTM1RU1GcEpacVAwc283ZEVmS3gxYk44cnllRUl30gHKAUFVX3lxTE83M3FzYlJQZXFnbjJHRUJ4M0cwZnBBaEE4UDZycmRLUldYSVAyZW1ILXE0TXdzVVVqdTMxaUc1VUlSLWxrNTdwbWRtWDk1LU9Mc1pVRnJNNjRjaDAyR1pDSTRZTFpPVlU0ekpxMVdIWGJTQ0g2YmVfRlBrQUZNRDg3Z29pZ1daeWR0dHhZai1ycV9Zai12YmRCN1NVMFVvNlpOa010UEtYSHFmWlE1MzVFTUZwSlpxUDBzbzdkRWZLeDFiTjhyeWVFSXc?oc=5",
+    "id": "sig-9afb3bd05123",
+    "title": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
+    "headline": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
+    "summary": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQtIB4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQg?oc=5",
     "source": "Devdiscourse",
     "sourceType": "news",
-    "published": "2026-09-01T05:09:07+00:00",
-    "detected": "2026-09-03T10:01:17.329004+00:00",
+    "published": "2026-09-01T11:19:50+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
     "categories": [
-      "Investment"
+      "Market intelligence"
     ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
+    "signalType": "project announcement",
+    "projectStage": "development",
     "entities": [],
     "competitor": null,
     "relevanceScore": 28,
@@ -273,13 +302,44 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "evidenceSnippet": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
+    "qualityScore": 42,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "quantitative detail",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-a0d91149e8f3",
+    "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
+    "headline": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
+    "summary": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGNsUVVDclctMkxLWkpWZC0zNjdXTmFEODBORl9HWHdIMXl1NDlBNkp2TXRCV25ENGxxT2h3NjV4Zl9iZWNkbjVTemNlYnR4bWJ1cGNxZ0t6MXBydWIxNHdSYmFaN0FDcmpTdXR3WnplWWFrc1dNYUtVekplZWNfVEhWM1YyZnlJQnZFYVdCS3pTc2VYWVhFQWhubEFsZVdUZnBfdUdiekF1a054d3ZYZF9yemFtekNLYXh3elYwUkhYR0Va?oc=5",
+    "source": "rivieramm.com",
+    "sourceType": "news",
+    "published": "2026-09-03T11:03:22+00:00",
+    "detected": "2026-09-03T11:17:05.628450+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

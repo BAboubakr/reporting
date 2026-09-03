@@ -1,5 +1,37 @@
 export const signals = [
   {
+    "id": "sig-601f3e2497c3",
+    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+    "source": "Offshore Magazine",
+    "sourceType": "news",
+    "published": "2026-09-03T20:25:50+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "categories": [
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-fd6f35706f36",
     "title": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
     "headline": "AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",

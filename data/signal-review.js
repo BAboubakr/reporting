@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,48 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
-    "sourceType": "news",
-    "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-f84574b795a0",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
+    "id": "sig-5b3860f9517a",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "jeccomposites.com",
+    "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Investment"
     ],
@@ -85,7 +52,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -103,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Investment"
     ],
@@ -134,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Investment"
     ],
@@ -157,15 +124,46 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-1cb97c814a5a",
-    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
-    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
-    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
+    "id": "sig-30d4f07fa82a",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
+    "source": "bignewsnetwork.com",
+    "sourceType": "news",
+    "published": "2026-08-25T16:57:00+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-3db3736cef9c",
+    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
+    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFppSGRaRFplVjRkSlV5WWRoQUNfZ2FpTFNMdUphM1J0LXItQ3g4cnpYS1dPQTFKQmdRQi01TXFDRS1uRXVMVXBBVXlQVU9YNFJIV2ZLUmNoWXNCS2tacWt6OU12TTMtMS1oYXBhaTZGaXUxNXRZTkFVQi1BaDdDejUxcUZKVjVXbWJqYXVjbGw0Y29fQVZWWmZBVWkyclFrLWFuNm1USm9jUjhYY1BwQWhNZ2FpY2F6alJFRklJVVFHTldaeWlsaWlHM0Z5b2NGc2F0R1BSeWJIRkxFSDgzdmZVR0FvTm5VTFEwZ2ln?oc=5",
-    "source": "africasustainabilitymatters.com",
+    "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -179,7 +177,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
+    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -197,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Investment"
     ],
@@ -228,7 +226,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -260,7 +258,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -291,7 +289,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -322,7 +320,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -345,15 +343,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-a0d91149e8f3",
+    "id": "sig-0b13c838f9fc",
     "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
     "headline": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
     "summary": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGNsUVVDclctMkxLWkpWZC0zNjdXTmFEODBORl9HWHdIMXl1NDlBNkp2TXRCV25ENGxxT2h3NjV4Zl9iZWNkbjVTemNlYnR4bWJ1cGNxZ0t6MXBydWIxNHdSYmFaN0FDcmpTdXR3WnplWWFrc1dNYUtVekplZWNfVEhWM1YyZnlJQnZFYVdCS3pTc2VYWVhFQWhubEFsZVdUZnBfdUdiekF1a054d3ZYZF9yemFtekNLYXh3elYwUkhYR0Va?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
     "source": "rivieramm.com",
     "sourceType": "news",
     "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-03T18:41:56.451108+00:00",
+    "detected": "2026-09-03T21:44:23.684404+00:00",
     "categories": [
       "Wind"
     ],

@@ -1,47 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
-    "sourceType": "news",
-    "published": "2026-08-27T11:52:18+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-5b3860f9517a",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "id": "sig-f84574b795a0",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "JEC - Connecting the World with Composites",
+    "source": "jeccomposites.com",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Investment"
     ],
@@ -54,7 +21,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -64,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-524b76b12512",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
+    "id": "sig-da41a6b7af34",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "devdiscourse.com",
+    "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Investment"
     ],
@@ -85,7 +52,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -103,7 +70,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -127,15 +94,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-77e61b62770c",
-    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
-    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
-    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
+    "id": "sig-47862910d429",
+    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
+    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
+    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
-    "source": "einnews.com",
+    "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Investment"
     ],
@@ -148,7 +115,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
+    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 56,
@@ -158,15 +125,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-50c8c2584093",
-    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
-    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
-    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
+    "id": "sig-8aba8e0f1542",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
-    "source": "einnews.com",
+    "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -180,7 +147,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 61,
@@ -198,7 +165,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -229,7 +196,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -252,20 +219,20 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-29a01699450e",
-    "title": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - devdiscourse.com",
-    "headline": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - devdiscourse.com",
-    "summary": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth devdiscourse.com",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQtIB4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQg?oc=5",
-    "source": "devdiscourse.com",
+    "id": "sig-bdeebf8aa30d",
+    "title": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon - Devdiscourse",
+    "headline": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon - Devdiscourse",
+    "summary": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzNxc2JSUGVxZ24yR0VCeDNHMGZwQWhBOFA2cnJkS1JXWElQMmVtSC1xNE13c1VVanUzMWlHNVVJUi1sazU3cG1kbVg5NS1PTHNaVUZyTTY0Y2gwMkdaQ0k0WUxaT1ZVNHpKcTFXSFhiU0NINmJlX0ZQa0FGTUQ4N2dvaWdXWnlkdHR4WWotcnFfWWotdmJkQjdTVTBVbzZaTmtNdFBLWEhxZlpRNTM1RU1GcEpacVAwc283ZEVmS3gxYk44cnllRUl30gHKAUFVX3lxTE83M3FzYlJQZXFnbjJHRUJ4M0cwZnBBaEE4UDZycmRLUldYSVAyZW1ILXE0TXdzVVVqdTMxaUc1VUlSLWxrNTdwbWRtWDk1LU9Mc1pVRnJNNjRjaDAyR1pDSTRZTFpPVlU0ekpxMVdIWGJTQ0g2YmVfRlBrQUZNRDg3Z29pZ1daeWR0dHhZai1ycV9Zai12YmRCN1NVMFVvNlpOa010UEtYSHFmWlE1MzVFTUZwSlpxUDBzbzdkRWZLeDFiTjhyeWVFSXc?oc=5",
+    "source": "Devdiscourse",
     "sourceType": "news",
-    "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "published": "2026-09-01T05:09:07+00:00",
+    "detected": "2026-09-03T09:36:23.737252+00:00",
     "categories": [
-      "Market intelligence"
+      "Investment"
     ],
-    "signalType": "project announcement",
-    "projectStage": "development",
+    "signalType": "investment",
+    "projectStage": "monitoring",
     "entities": [],
     "competitor": null,
     "relevanceScore": 28,
@@ -273,13 +240,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth devdiscourse.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "evidenceSnippet": "€500 Million Microcredit Push Backs Women Entrepreneurs in Brazil’s Amazon Devdiscourse",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "quantitative detail",
     "aiReviewed": false
   }
 ];

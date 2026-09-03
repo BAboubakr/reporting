@@ -1,5 +1,38 @@
 export const signalReview = [
   {
+    "id": "sig-5b6e8d760fff",
+    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "renewablesnow.com",
+    "sourceType": "news",
+    "published": "2026-08-27T11:52:18+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-5b3860f9517a",
     "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
     "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
@@ -8,7 +41,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Investment"
     ],
@@ -31,15 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "id": "sig-524b76b12512",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Investment"
     ],
@@ -52,108 +85,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-4b27ebdf37e0",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Big News Network.com",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-25T16:57:00+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-63789c6c5334",
-    "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "headline": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
-    "summary": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-25T06:30:00+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-2a1b21b05560",
-    "title": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
-    "headline": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey - safety4sea",
-    "summary": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnhDbGR5TDJNRVpUZm5HNkd1aWl4VVlHbjlYb2NCWE1LdzBsSFoxWXM0QkU3dFpPX1dyMXhReVJ5OEFfOEdvdFZROGNtWWNDZW9BazdicktON1QzMWdCblpVdUVqUGE3blJJU2tvRmF6WmF0bzJHaDBhOC1STlZOYjlEQ3BNRXhCWnowLXFDTXJjSmRBVU1xbDlOQlAtVFI5eHNueVJIOUJCeDBKS1lLZnVFR1A?oc=5",
-    "source": "safety4sea",
-    "sourceType": "news",
-    "published": "2026-08-27T09:25:10+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "DNV"
-    ],
-    "competitor": "DNV",
-    "relevanceScore": 38,
-    "actionabilityScore": 27,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "DNV Maritime Forecast to 2050: Uncertainty must not stall shipping’s decarbonization journey safety4sea",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; DNV detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 48,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 identifiable actor(s)",
     "aiReviewed": false
   },
   {
@@ -165,7 +103,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -189,15 +127,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-47862910d429",
-    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
+    "id": "sig-77e61b62770c",
+    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
+    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - einnews.com",
+    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
-    "source": "EIN News",
+    "source": "einnews.com",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Investment"
     ],
@@ -210,7 +148,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
+    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline einnews.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 56,
@@ -220,15 +158,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8aba8e0f1542",
-    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "id": "sig-50c8c2584093",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - einnews.com",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
-    "source": "EIN News",
+    "source": "einnews.com",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -242,7 +180,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand einnews.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 61,
@@ -260,7 +198,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -283,37 +221,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-fb65ac92a726",
-    "title": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
-    "headline": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports - Billionaires.Africa",
-    "summary": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZUx0eUVJbmlOXzVSNF9PaUpGSkdSWEV2aWgyN3ZlMUowcVB0c2R3Y2M4aVdTQmNZTFpXaXRfUy1fb2x3SmRFWWV6Y3ctUk5NS0kyRmRkX1pMb054enR5MUlWenJ1TDVQTjlyM0FBWFR6ekg2SHVIbHVxSnRXdDRtYUxwVzF6Slc3OE1ZOTBtd241YmRDMklENDBBYlREQkV1MWhoOGQwMzJnT2JUZWRXbDluRk01WTEzRWZkY2JReFBqUFA4WjRvNFA2Nm9mVFdwTnV2d3BPRmdHSkl2emFsZEo3anRjYlNTLWEyYXVKWjYzZlE?oc=5",
-    "source": "Billionaires.Africa",
-    "sourceType": "news",
-    "published": "2026-08-28T18:09:16+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "King Mohammed VI's Morocco hits $4.4 billion in trade with India as the two nations eye $2.6 billion in untapped exports Billionaires.Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-8b845ba23d05",
     "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
     "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
@@ -322,7 +229,7 @@ export const signalReview = [
     "source": "MarketsandMarkets",
     "sourceType": "news",
     "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -345,15 +252,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-9afb3bd05123",
-    "title": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
-    "headline": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
-    "summary": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
+    "id": "sig-29a01699450e",
+    "title": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - devdiscourse.com",
+    "headline": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - devdiscourse.com",
+    "summary": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQtIB4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQg?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-03T05:49:43.250937+00:00",
+    "detected": "2026-09-03T09:32:37.761615+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -366,7 +273,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
+    "evidenceSnippet": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth devdiscourse.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,

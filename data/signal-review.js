@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-5b3860f9517a",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "id": "sig-f84574b795a0",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "JEC - Connecting the World with Composites",
+    "source": "jeccomposites.com",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment"
     ],
@@ -52,7 +52,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment"
     ],
@@ -124,6 +124,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-15d225332f5f",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+    "source": "Devdiscourse",
+    "sourceType": "news",
+    "published": "2026-08-25T07:00:00+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-3db3736cef9c",
     "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
     "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
@@ -132,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +226,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -227,7 +258,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -250,15 +281,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-ed0dd7af87ba",
-    "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - offshoreWIND.biz",
-    "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - offshoreWIND.biz",
-    "summary": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm offshoreWIND.biz",
+    "id": "sig-b4558c154fb8",
+    "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
+    "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
+    "summary": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2NHSkJRLVZ1eG4wSTk5MUpNMldWSUxXQzF1aDJzMkI5emhqVVZRdkM0dHFkQW4xMDdqNEZVZm1JcFRlZ25FbExXLXh5X19UOVdXUkdWcEsyQVRQR1FfZE4wdUJaeVdHZktiRzhmRDVXTURZTUNaSmwtYnFVSlJoUXUxUnB5N0F5UWRJMjhyMjh1d3Zuby1xelROUVBzcDhPdHVvdEhmUDY4eGJ1S0pUc3dvUzhjbkpIUGpsQ2NERzk3VUE?oc=5",
-    "source": "offshoreWIND.biz",
+    "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Wind"
     ],
@@ -271,7 +302,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm offshoreWIND.biz",
+    "evidenceSnippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 57,
@@ -289,7 +320,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Investment"
     ],
@@ -312,37 +343,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-9afb3bd05123",
-    "title": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
-    "headline": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth - Devdiscourse",
-    "summary": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQtIB4AFBVV95cUxPTUdUWnNpemNvUjRyTG5ySmpQYnhwc2xhTWp6TnVwWV94YmttekVZOUxYRU5QSWdtdy1DNmp6NGdJR3NlR004M3dyV1lOMmZxbENrVk9nZGtWLWY0b0dnRmF6bjFOd3E2RkI1V0ExM19pQlV3ZWFJaXlRcl9DOEhXSjgwUUhQOWZXX0dCdm5UUWNWMVBLMlkzVkFsLVplRmNwNG1kRzFWbmJ6S0ZtakJkZjVNUmo3QVoxR3NhZjBkMHE5WXJHT2E0dnpKcEQzQ0VDMm4tRVc5R0gwLVkzWGlIQg?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Raising Revenue Right: How Smarter Tax Systems Can Finance Development Without Hurting Growth Devdiscourse",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-0b13c838f9fc",
     "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
     "headline": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
@@ -351,7 +351,7 @@ export const signalReview = [
     "source": "rivieramm.com",
     "sourceType": "news",
     "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-04T04:36:35.247756+00:00",
+    "detected": "2026-09-04T09:41:16.778320+00:00",
     "categories": [
       "Wind"
     ],

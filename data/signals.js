@@ -1,5 +1,37 @@
 export const signals = [
   {
+    "id": "sig-9647dafd1ca5",
+    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - offshore-mag.com",
+    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - offshore-mag.com",
+    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project offshore-mag.com",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+    "source": "offshore-mag.com",
+    "sourceType": "news",
+    "published": "2026-09-03T22:16:50+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "categories": [
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project offshore-mag.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-601f3e2497c3",
     "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
     "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",

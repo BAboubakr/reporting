@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "indexbox.io",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -218,38 +218,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8aba8e0f1542",
-    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
-    "source": "EIN News",
-    "sourceType": "news",
-    "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
-    "categories": [
-      "BESS",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 61,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.61,
-    "filterReason": "2 technology indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-bc52380ba4ce",
     "title": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
     "headline": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
@@ -258,7 +226,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -289,7 +257,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Wind"
     ],
@@ -319,8 +287,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
     "source": "Business Insider Africa",
     "sourceType": "news",
-    "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Investment"
     ],
@@ -351,7 +319,7 @@ export const signalReview = [
     "source": "rivieramm.com",
     "sourceType": "news",
     "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Wind"
     ],
@@ -374,6 +342,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-2278fed3c06a",
+    "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+    "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+    "summary": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-09-04T12:47:41+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-21eef0e7ad9a",
     "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
     "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
@@ -382,7 +381,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:40:05+00:00",
-    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "detected": "2026-09-04T14:23:47.758203+00:00",
     "categories": [
       "Wind"
     ],

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Investment"
     ],
@@ -124,37 +124,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-30d4f07fa82a",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - bignewsnetwork.com",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXB1dkh3T0pLQnl1dzk4RjVUTWMyZHlJYVQxMlVid3BtRzY3UjBtQU1FOGt1ZmFNRHFNTU03U0V6WldwTElpQ01tRVV2SEljZTN4azYxWnRrdkhXbTR2ZENkQTB0NDQ0MzhZVkZxVTlVVFJDbmViR2NSZEQyV0pvUm42NW1vR1NoMFBDckhYVFB4OTFmUEV3NGJ1bGlzTV9EUmdseTRSVVhlMU9yV0M4OHZwZFg1SG95LUR2c0ZJLTZYOERrR3JtVktQVlpqZ0FwNUVsMG1zSjktQXBiRDFJcThCd3dUdUkybnU0dw?oc=5",
-    "source": "bignewsnetwork.com",
-    "sourceType": "news",
-    "published": "2026-08-25T16:57:00+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement bignewsnetwork.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-3db3736cef9c",
     "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
     "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
@@ -163,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -258,7 +227,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -281,19 +250,19 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8b845ba23d05",
-    "title": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "headline": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-    "summary": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnlKTnk5TVprd2xmN3U2RjhGc0piQzRSRzJic05zX3MxUUdBLTBvc0hpRzNoeW02RTRwdmdYaDk3Y1RLYVVkQWduVFYxWnBHamdfVkxoUFBsdjNzcGUtRDhCcXFfZXpBV0NPaUl4ZlZJUmRlU0luNzJORVctTV9KbDkydVJxZHZqNVpzVHI0Y3drX2FkTlE?oc=5",
-    "source": "MarketsandMarkets",
+    "id": "sig-4be9d786b9a3",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
+    "source": "Business Insider Africa",
     "sourceType": "news",
-    "published": "2026-08-25T20:51:51+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "published": "2026-08-27T06:00:00+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
-      "Market intelligence"
+      "Investment"
     ],
-    "signalType": "market movement",
+    "signalType": "investment",
     "projectStage": "monitoring",
     "entities": [],
     "competitor": null,
@@ -302,13 +271,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Hydrochloric Acid Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
+    "qualityScore": 47,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
-    "filterReason": "1 Morocco/location indicator(s)",
+    "filterConfidence": 0.53,
+    "filterReason": "quantitative detail",
     "aiReviewed": false
   },
   {
@@ -320,7 +289,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-09-01T11:19:50+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -351,7 +320,7 @@ export const signalReview = [
     "source": "rivieramm.com",
     "sourceType": "news",
     "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Wind"
     ],

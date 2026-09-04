@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T20:25:50+00:00",
-    "detected": "2026-09-03T21:44:23.684404+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -29,6 +29,39 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-ea11dff9846a",
+    "title": "AFRY appointed to 191MW Thana Plaun hydropower project in India - waterpowermagazine.com",
+    "headline": "AFRY appointed to 191MW Thana Plaun hydropower project in India - waterpowermagazine.com",
+    "summary": "AFRY appointed to 191MW Thana Plaun hydropower project in India waterpowermagazine.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlZRZkh4d3lraXRVMHB5dVJGdVNiOUhzUk0zR0NCTDZhT0VmN1BiXzF5UzZqdG41X2NUTkVNak9lNlhVYVVORGJ2TjlOX1JaYWJKaU9yOTFGclNCNEdKRDdNWmN6azVpZVNvZFk3T3pTNmhUVDMxNV9WLWRyYkh5b004UElndFhDQlVMMDZ3NWlKZ1Jxb0xHZWFvQkdTYXA5V2hiWXIzUQ?oc=5",
+    "source": "waterpowermagazine.com",
+    "sourceType": "news",
+    "published": "2026-08-27T14:55:42+00:00",
+    "detected": "2026-09-04T00:07:42.599858+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "AFRY appointed to 191MW Thana Plaun hydropower project in India waterpowermagazine.com",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 79,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.79,
+    "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
     "aiReviewed": false
   },
   {

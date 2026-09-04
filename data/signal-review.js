@@ -1,14 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-df9db3ca3315",
-    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "id": "sig-9241c37711de",
+    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - indexbox.io",
+    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - indexbox.io",
+    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics indexbox.io",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
-    "source": "IndexBox",
+    "source": "indexbox.io",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Wind"
     ],
@@ -21,7 +21,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics indexbox.io",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 57,
@@ -31,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-f84574b795a0",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - jeccomposites.com",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
+    "id": "sig-5b3860f9517a",
+    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
+    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "jeccomposites.com",
+    "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -52,7 +52,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment jeccomposites.com",
+    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -258,7 +258,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -289,7 +289,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Wind"
     ],
@@ -320,7 +320,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T06:00:00+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Investment"
     ],
@@ -351,7 +351,7 @@ export const signalReview = [
     "source": "rivieramm.com",
     "sourceType": "news",
     "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-04T09:41:16.778320+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
     "categories": [
       "Wind"
     ],
@@ -365,6 +365,37 @@ export const signalReview = [
     "status": "review",
     "evidenceLevel": "news source",
     "evidenceSnippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-21eef0e7ad9a",
+    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkhDUE5NWm53bVNSa01TUXNydmE4a2daYjFvdHl3c1V3c3VxMjdFenVPUE1NdXhTMTdFTGNYYUFSSnU5S3l0ZDB6dnpOMTFrNHFzcFVKY3RfSFlBSVdzaEh6OUxod3RBWVM2TkhoZEZCbDNnVUZ1MExuNFlEMzItVkxjalRwX19CRDkxTWNLY1QzX1REZHBkRzlvMmQ?oc=5",
+    "source": "Yabiladi.com",
+    "sourceType": "news",
+    "published": "2026-09-04T09:40:05+00:00",
+    "detected": "2026-09-04T09:55:36.442061+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,

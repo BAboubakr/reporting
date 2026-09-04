@@ -1,13 +1,13 @@
 {
   "status": "success",
-  "lastRun": "2026-09-04T09:41:16.862722+00:00",
-  "completedAt": "2026-09-04T09:41:16.862722+00:00",
+  "lastRun": "2026-09-04T09:55:36.538111+00:00",
+  "completedAt": "2026-09-04T09:55:36.538111+00:00",
   "frequency": "hourly",
   "sourcesChecked": 17,
-  "rawRecords": 14,
+  "rawRecords": 15,
   "newSignals": 0,
   "totalSignals": 146,
-  "reviewQueue": 12,
+  "reviewQueue": 13,
   "competitorSignals": 3,
   "aiFilterEnabled": false,
   "errors": []

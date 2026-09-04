@@ -1,14 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-9241c37711de",
-    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - indexbox.io",
-    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - indexbox.io",
-    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics indexbox.io",
+    "id": "sig-df9db3ca3315",
+    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
-    "source": "indexbox.io",
+    "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Wind"
     ],
@@ -21,7 +21,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics indexbox.io",
+    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 57,
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment"
     ],
@@ -93,37 +93,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -132,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment"
     ],
@@ -163,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +195,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -257,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +257,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Investment"
     ],
@@ -311,20 +280,20 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-0b13c838f9fc",
-    "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
-    "headline": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
-    "summary": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-    "source": "rivieramm.com",
+    "id": "sig-2551981422f6",
+    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
+    "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
-    "published": "2026-09-03T11:03:22+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "published": "2026-08-24T09:26:05+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
-      "Wind"
+      "Investment"
     ],
-    "signalType": "project announcement",
-    "projectStage": "development",
+    "signalType": "investment",
+    "projectStage": "monitoring",
     "entities": [],
     "competitor": null,
     "relevanceScore": 28,
@@ -332,13 +301,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -350,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Wind"
     ],
@@ -381,7 +350,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:40:05+00:00",
-    "detected": "2026-09-04T14:23:47.758203+00:00",
+    "detected": "2026-09-04T18:25:27.205659+00:00",
     "categories": [
       "Wind"
     ],

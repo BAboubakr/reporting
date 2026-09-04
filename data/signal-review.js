@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind"
     ],
@@ -249,6 +249,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-c2b9e2443028",
+    "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "headline": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "summary": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+    "source": "Agenzia Nova",
+    "sourceType": "news",
+    "published": "2026-09-04T09:54:36+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -257,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -288,7 +319,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +350,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind"
     ],
@@ -350,7 +381,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:40:05+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind"
     ],

@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -39,8 +39,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVktczFjRE5yYXhIVjRDSVRVM3VNQ3JSRFhWLVM3bi1zTFRrZUNJa2dhaDB5M3JqaTB0UlBnWjlieHc5VE52bnNWTkJqYS1hWGlKdzAwU25Md0pfVXNpT1d4UzdkaXc0dnIzTjdmbU54WlVjakkxeGg5REpTRXdPV0lNQlNGV1Izcng3a3Y3Yll3MklVNHFKb3FnOEgwYXBWeUhoRlcyUElqck0wU2VCeGUxQ0tqTkNF?oc=5",
     "source": "The North Africa Post",
     "sourceType": "news",
-    "published": "2026-09-04T12:31:10+00:00",
-    "detected": "2026-09-04T18:25:27.205659+00:00",
+    "published": "2026-09-04T12:05:10+00:00",
+    "detected": "2026-09-04T21:31:04.987245+00:00",
     "categories": [
       "Wind"
     ],

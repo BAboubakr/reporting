@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -93,15 +93,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "id": "sig-524b76b12512",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -114,7 +114,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -124,15 +124,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "id": "sig-dcca22a888f0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -145,7 +145,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "The Nation Newspaper",
     "sourceType": "news",
     "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -194,7 +194,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -311,15 +311,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-b4558c154fb8",
-    "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-    "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-    "summary": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
+    "id": "sig-ed0dd7af87ba",
+    "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - offshorewind.biz",
+    "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - offshorewind.biz",
+    "summary": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm offshorewind.biz",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM2NHSkJRLVZ1eG4wSTk5MUpNMldWSUxXQzF1aDJzMkI5emhqVVZRdkM0dHFkQW4xMDdqNEZVZm1JcFRlZ25FbExXLXh5X19UOVdXUkdWcEsyQVRQR1FfZE4wdUJaeVdHZktiRzhmRDVXTURZTUNaSmwtYnFVSlJoUXUxUnB5N0F5UWRJMjhyMjh1d3Zuby1xelROUVBzcDhPdHVvdEhmUDY4eGJ1S0pUc3dvUzhjbkpIUGpsQ2NERzk3VUE?oc=5",
-    "source": "Offshore Wind",
+    "source": "offshorewind.biz",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Wind"
     ],
@@ -332,7 +332,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
+    "evidenceSnippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm offshorewind.biz",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 57,
@@ -350,7 +350,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -373,15 +373,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2551981422f6",
-    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "id": "sig-34591778fb0d",
+    "title": "China’s Shengtai plans $230 million green textile park in Morocco - en.hespress.com",
+    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - en.hespress.com",
+    "summary": "China’s Shengtai plans $230 million green textile park in Morocco en.hespress.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
-    "source": "HESPRESS English - Morocco News",
+    "source": "en.hespress.com",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Investment"
     ],
@@ -394,7 +394,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco en.hespress.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -411,8 +411,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE9OR19POGtNd2FaUHpQc2ZFa1ZJRnV0RjA0bW4zc0ttYkpRc0NTTTRrWVJyOXl2NGJGTTRhTTJIc0hjLWNleVRfRlZISWR3amQ4X1F2TXhJQUdQdjZqbEVuUVFINkFfWl9IU0N5ekJPRWRKZGZSRFhOX3VlX1BLdm1HWHJhbGxtXzIxQXJNYVdhNmUxYTRYVlBsSG00Nml3ZUkzTWRZaG96UTNvTldGdldoVENRZGotWm9pUDN3MHRadw?oc=5",
     "source": "Morocco World News",
     "sourceType": "news",
-    "published": "2026-09-05T14:54:14+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "published": "2026-09-05T14:54:41+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -443,7 +443,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +474,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-05T18:20:05.923057+00:00",
+    "detected": "2026-09-05T21:16:05.138422+00:00",
     "categories": [
       "Wind"
     ],

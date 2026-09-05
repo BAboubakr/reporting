@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +319,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +350,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Wind"
     ],
@@ -373,15 +373,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-21eef0e7ad9a",
+    "id": "sig-78399fca15ad",
     "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
     "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
     "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkhDUE5NWm53bVNSa01TUXNydmE4a2daYjFvdHl3c1V3c3VxMjdFenVPUE1NdXhTMTdFTGNYYUFSSnU5S3l0ZDB6dnpOMTFrNHFzcFVKY3RfSFlBSVdzaEh6OUxod3RBWVM2TkhoZEZCbDNnVUZ1MExuNFlEMzItVkxjalRwX19CRDkxTWNLY1QzX1REZHBkRzlvMmQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRlS1h5NmkzemFnX0NOUXJUN01ITzdRT0ktVEtKM2h0QUpkc3Zsd1FSTlkzMnQ0QWpURGM1X1JTUGVrQXZpN1g3NEFZTXAzTTZ2LWpmR0twMmJWVUg3TkVPMGs0aTc2Q1N5cWFhbHN5QnlNNkppUDgwT056SXRvQlp0Y2p1TGkzdTM2Q19nZ0xxZ0F3cDJ3M3VJdDM?oc=5",
     "source": "Yabiladi.com",
     "sourceType": "news",
-    "published": "2026-09-04T09:40:05+00:00",
-    "detected": "2026-09-04T21:31:04.987245+00:00",
+    "published": "2026-09-04T09:59:33+00:00",
+    "detected": "2026-09-05T00:07:55.056958+00:00",
     "categories": [
       "Wind"
     ],

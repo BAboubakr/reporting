@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -124,15 +124,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-3db3736cef9c",
-    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
-    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
-    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "id": "sig-1cb97c814a5a",
+    "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
+    "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - africasustainabilitymatters.com",
+    "summary": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFppSGRaRFplVjRkSlV5WWRoQUNfZ2FpTFNMdUphM1J0LXItQ3g4cnpYS1dPQTFKQmdRQi01TXFDRS1uRXVMVXBBVXlQVU9YNFJIV2ZLUmNoWXNCS2tacWt6OU12TTMtMS1oYXBhaTZGaXUxNXRZTkFVQi1BaDdDejUxcUZKVjVXbWJqYXVjbGw0Y29fQVZWWmZBVWkyclFrLWFuNm1USm9jUjhYY1BwQWhNZ2FpY2F6alJFRklJVVFHTldaeWlsaWlHM0Z5b2NGc2F0R1BSeWJIRkxFSDgzdmZVR0FvTm5VTFEwZ2ln?oc=5",
-    "source": "Africa Sustainability Matters",
+    "source": "africasustainabilitymatters.com",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -146,7 +146,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity Africa Sustainability Matters",
+    "evidenceSnippet": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity africasustainabilitymatters.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +319,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T09:26:05+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +350,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Wind"
     ],
@@ -381,7 +381,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-05T00:07:55.056958+00:00",
+    "detected": "2026-09-05T04:32:19.109556+00:00",
     "categories": [
       "Wind"
     ],

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -93,6 +93,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-da41a6b7af34",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
+    "source": "Devdiscourse",
+    "sourceType": "news",
+    "published": "2026-08-31T12:55:17+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -101,7 +132,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -124,37 +155,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-33c1a40f62ec",
-    "title": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
-    "headline": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
-    "summary": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQdIBtgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQQ?oc=5",
-    "source": "The Nation Newspaper",
-    "sourceType": "news",
-    "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
-    "categories": [
-      "Manufacturing"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": "WSP",
-    "relevanceScore": 38,
-    "actionabilityScore": 27,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; WSP detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 44,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.56,
-    "filterReason": "1 identifiable actor(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-3db3736cef9c",
     "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
     "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -218,6 +218,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-1cae52231b6a",
+    "title": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
+    "headline": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
+    "summary": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ Hydrogen Fuel News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFpiMjFxVFpOQjRLVlduSVJ3cHl3VHJEcW9qTlhjcDU1NEp3ck9NekxQRWhlbzZsbUV3MzhLY0p1c3ZqcEJXd3lsWXlKb1FzN1hfWVVxVThiZkVvenBxTno5aGdJRGlPdWFBRExuR1NrdVlnSFpua0VSNWhBZEVER3Rha281SkhuTVlpdDZwV2xKV1J5UHZWZzVIenlYTXVCaWRNYmtlcnliX0t4bmphY0JCWlVnUzdtbnR1b2wyWQ?oc=5",
+    "source": "Hydrogen Fuel News",
+    "sourceType": "news",
+    "published": "2026-09-05T10:52:09+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
+    "categories": [
+      "Hydrogen / PtX"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ Hydrogen Fuel News",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.53,
+    "filterReason": "2 technology indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-bc52380ba4ce",
     "title": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
     "headline": "Africa Solar Capacity Additions Set to Hit 17 GW in 2026 - mvapulse.com",
@@ -226,7 +257,7 @@ export const signalReview = [
     "source": "mvapulse.com",
     "sourceType": "news",
     "published": "2026-08-31T07:31:36+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -257,7 +288,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +319,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Wind"
     ],
@@ -319,7 +350,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +381,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Investment"
     ],
@@ -373,6 +404,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-094760812f9b",
+    "title": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
+    "headline": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
+    "summary": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE9OR19POGtNd2FaUHpQc2ZFa1ZJRnV0RjA0bW4zc0ttYkpRc0NTTTRrWVJyOXl2NGJGTTRhTTJIc0hjLWNleVRfRlZISWR3amQ4X1F2TXhJQUdQdjZqbEVuUVFINkFfWl9IU0N5ekJPRWRKZGZSRFhOX3VlX1BLdm1HWHJhbGxtXzIxQXJNYVdhNmUxYTRYVlBsSG00Nml3ZUkzTWRZaG96UTNvTldGdldoVENRZGotWm9pUDN3MHRadw?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-09-05T14:54:14+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "partnership",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME Morocco World News",
+    "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2278fed3c06a",
     "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
     "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
@@ -381,7 +443,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Wind"
     ],
@@ -404,15 +466,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-53045f5c1a90",
-    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
-    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
-    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
+    "id": "sig-78399fca15ad",
+    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRlS1h5NmkzemFnX0NOUXJUN01ITzdRT0ktVEtKM2h0QUpkc3Zsd1FSTlkzMnQ0QWpURGM1X1JTUGVrQXZpN1g3NEFZTXAzTTZ2LWpmR0twMmJWVUg3TkVPMGs0aTc2Q1N5cWFhbHN5QnlNNkppUDgwT056SXRvQlp0Y2p1TGkzdTM2Q19nZ0xxZ0F3cDJ3M3VJdDM?oc=5",
-    "source": "es.yabiladi.com",
+    "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-05T12:45:09.367064+00:00",
+    "detected": "2026-09-05T16:06:23.225157+00:00",
     "categories": [
       "Wind"
     ],
@@ -425,7 +487,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
+    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,

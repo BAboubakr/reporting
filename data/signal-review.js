@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -124,6 +124,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-33c1a40f62ec",
+    "title": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
+    "headline": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
+    "summary": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQdIBtgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQQ?oc=5",
+    "source": "The Nation Newspaper",
+    "sourceType": "news",
+    "published": "2026-09-05T07:27:25+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "categories": [
+      "Manufacturing"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": "WSP",
+    "relevanceScore": 38,
+    "actionabilityScore": 27,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; WSP detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 44,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.56,
+    "filterReason": "1 identifiable actor(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-3db3736cef9c",
     "title": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
     "headline": "SBM Bank Kenya backs $17 million green energy manufacturing expansion as East Africa builds local clean-tech capacity - Africa Sustainability Matters",
@@ -132,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +226,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -218,6 +249,38 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-8aba8e0f1542",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
+    "source": "EIN News",
+    "sourceType": "news",
+    "published": "2026-08-31T10:49:00+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "categories": [
+      "BESS",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 61,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.61,
+    "filterReason": "2 technology indicator(s); quantitative detail",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-b4558c154fb8",
     "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
     "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
@@ -226,7 +289,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Wind"
     ],
@@ -249,37 +312,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-c2b9e2443028",
-    "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-    "headline": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-    "summary": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
-    "source": "Agenzia Nova",
-    "sourceType": "news",
-    "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
-    "categories": [
-      "Wind"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -288,7 +320,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +351,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +382,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -381,7 +413,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Investment"
     ],
@@ -412,7 +444,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +475,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Wind"
     ],
@@ -466,15 +498,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-78399fca15ad",
-    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
-    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
-    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
+    "id": "sig-53045f5c1a90",
+    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
+    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
+    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRlS1h5NmkzemFnX0NOUXJUN01ITzdRT0ktVEtKM2h0QUpkc3Zsd1FSTlkzMnQ0QWpURGM1X1JTUGVrQXZpN1g3NEFZTXAzTTZ2LWpmR0twMmJWVUg3TkVPMGs0aTc2Q1N5cWFhbHN5QnlNNkppUDgwT056SXRvQlp0Y2p1TGkzdTM2Q19nZ0xxZ0F3cDJ3M3VJdDM?oc=5",
-    "source": "Yabiladi.com",
+    "source": "es.yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-06T21:22:55.327134+00:00",
+    "detected": "2026-09-06T23:56:18.093866+00:00",
     "categories": [
       "Wind"
     ],
@@ -487,7 +519,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
+    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -93,15 +93,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "id": "sig-524b76b12512",
+    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - devdiscourse.com",
+    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -114,7 +114,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
+    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -124,15 +124,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "id": "sig-dcca22a888f0",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - devdiscourse.com",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
+    "source": "devdiscourse.com",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -145,7 +145,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement devdiscourse.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "The Nation Newspaper",
     "sourceType": "news",
     "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -194,7 +194,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -249,15 +249,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-5e5c9db1bb0f",
-    "title": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - hydrogenfuelnews.com",
-    "headline": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - hydrogenfuelnews.com",
-    "summary": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ hydrogenfuelnews.com",
+    "id": "sig-1cae52231b6a",
+    "title": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
+    "headline": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
+    "summary": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ Hydrogen Fuel News",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFpiMjFxVFpOQjRLVlduSVJ3cHl3VHJEcW9qTlhjcDU1NEp3ck9NekxQRWhlbzZsbUV3MzhLY0p1c3ZqcEJXd3lsWXlKb1FzN1hfWVVxVThiZkVvenBxTno5aGdJRGlPdWFBRExuR1NrdVlnSFpua0VSNWhBZEVER3Rha281SkhuTVlpdDZwV2xKV1J5UHZWZzVIenlYTXVCaWRNYmtlcnliX0t4bmphY0JCWlVnUzdtbnR1b2wyWQ?oc=5",
-    "source": "hydrogenfuelnews.com",
+    "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -270,13 +270,45 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ hydrogenfuelnews.com",
+    "evidenceSnippet": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ Hydrogen Fuel News",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "2 technology indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-8aba8e0f1542",
+    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
+    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
+    "source": "EIN News",
+    "sourceType": "news",
+    "published": "2026-08-31T10:49:00+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
+    "categories": [
+      "BESS",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 61,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.61,
+    "filterReason": "2 technology indicator(s); quantitative detail",
     "aiReviewed": false
   },
   {
@@ -288,7 +320,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],
@@ -311,6 +343,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-c2b9e2443028",
+    "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "headline": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "summary": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+    "source": "Agenzia Nova",
+    "sourceType": "news",
+    "published": "2026-09-04T09:54:36+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -319,7 +382,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +413,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Investment"
     ],
@@ -381,7 +444,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -412,7 +475,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +506,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +537,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],

@@ -8,7 +8,7 @@ export const signals = [
     "source": "The North Africa Post",
     "sourceType": "news",
     "published": "2026-09-04T12:05:10+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-06T05:58:46.060612+00:00",
+    "detected": "2026-09-06T10:59:56.341581+00:00",
     "categories": [
       "Wind",
       "Investment"

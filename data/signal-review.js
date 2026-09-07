@@ -1,5 +1,36 @@
 export const signalReview = [
   {
+    "id": "sig-df9db3ca3315",
+    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
+    "source": "IndexBox",
+    "sourceType": "news",
+    "published": "2026-09-03T10:42:00+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-5b3860f9517a",
     "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
     "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
@@ -8,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Investment"
     ],
@@ -31,77 +62,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
+    "id": "sig-17e32fc65e81",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
+    "source": "ANI News",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Investment"
     ],
@@ -114,13 +83,44 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-e5b071c55e04",
+    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
+    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-08-27T12:57:00+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
     "aiReviewed": false
   },
   {
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "The Nation Newspaper",
     "sourceType": "news",
     "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -249,38 +249,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-8aba8e0f1542",
-    "title": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "headline": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand - EIN News",
-    "summary": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdndhdk9IU0I3YU9yNkhocTBNejBJckxHUEVHMFZhaGJtX2FLbEIzM1k0Z2VHZkVxbTBIc1pJY05Va3kzaUFtOHo1X2ZKM29OckJNMzlpWlMxWE9vaFBaampEZUhVaGlDXzB3cnhyMVJPLVp0WUNoTkFEMTFtT3NxbllNVUFDYXd0SVBRdUlFVFFQQi13TGN0aWNWYWM5R1lPMklNRTZ1b1J5VC1BMDVJYk95WVVvaGpXcm1TR0F5WjgtR21UQUs1dlNWYVBaTVUxWFAxWnk5OVE4UQ?oc=5",
-    "source": "EIN News",
-    "sourceType": "news",
-    "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "BESS",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Battery Market to Reach USD 854.90 Billion by 2035, Driven by EV Revolution and Energy Storage Demand EIN News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 61,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.61,
-    "filterReason": "2 technology indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-b4558c154fb8",
     "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
     "headline": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
@@ -289,7 +257,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Wind"
     ],
@@ -312,6 +280,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-c2b9e2443028",
+    "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "headline": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+    "summary": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+    "source": "Agenzia Nova",
+    "sourceType": "news",
+    "published": "2026-09-04T09:54:36+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-4be9d786b9a3",
     "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
     "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
@@ -320,7 +319,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Investment"
     ],
@@ -343,37 +342,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2551981422f6",
-    "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "headline": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
-    "summary": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
-    "source": "HESPRESS English - Morocco News",
-    "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-094760812f9b",
     "title": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
     "headline": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
@@ -382,7 +350,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -405,37 +373,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-2878720fbcff",
-    "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "headline": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
-    "summary": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
-    "source": "streamlinefeed.co.ke",
-    "sourceType": "news",
-    "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-2278fed3c06a",
     "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
     "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
@@ -444,7 +381,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Wind"
     ],
@@ -467,46 +404,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-76be4dc7b3c4",
-    "title": "EIB backs feasibility study for Morocco’s first offshore wind farm - HESPRESS English - Morocco News",
-    "headline": "EIB backs feasibility study for Morocco’s first offshore wind farm - HESPRESS English - Morocco News",
-    "summary": "EIB backs feasibility study for Morocco’s first offshore wind farm HESPRESS English - Morocco News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWswZ0tFdEl6RFlXTDlXS21EZFFNZmFGU3YwZFVsLUg2TnB4cFNuSUlmYkF0M3FWdU5wNDBfQTg4ekF4MmFJVUlERHUxbl9WRWUxUDJySmhPNjVXQjZNTE1WbG81YXlJeHF1NURKZmRnYjNtTk9maVc4OGsxaGxNOEV4NWJ5TUhIN0RVcHBhMHZzeFYxdXlVa2tVVm14S2VyZks0?oc=5",
-    "source": "HESPRESS English - Morocco News",
-    "sourceType": "news",
-    "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
-    "categories": [
-      "Wind"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "EIB backs feasibility study for Morocco’s first offshore wind farm HESPRESS English - Morocco News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-78399fca15ad",
+    "id": "sig-a41e4e937ff3",
     "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
     "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
     "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRlS1h5NmkzemFnX0NOUXJUN01ITzdRT0ktVEtKM2h0QUpkc3Zsd1FSTlkzMnQ0QWpURGM1X1JTUGVrQXZpN1g3NEFZTXAzTTZ2LWpmR0twMmJWVUg3TkVPMGs0aTc2Q1N5cWFhbHN5QnlNNkppUDgwT056SXRvQlp0Y2p1TGkzdTM2Q19nZ0xxZ0F3cDJ3M3VJdDM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYm9kYWJULWd6cUJ5czl3alVDZlZKVmgzRDhscW55aEJ5VDlTUnh0bVVPbXZ1ZGhuNWxua2VUcHFDb0xjeHdLbDZRa1dvZkZYbjNmYkNIRDlrVHVlOHEzSWxzdURnZExSWUdwbzY2UnlzNnBFZUZ6VGFDR25FanlmU0tmd3BvZXJsWWllTmY0ZnV4blNfdER3c0l6RXZwUQ?oc=5",
     "source": "Yabiladi.com",
     "sourceType": "news",
-    "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "published": "2026-09-04T12:31:03+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Wind"
     ],
@@ -526,6 +432,37 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.52,
     "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-76be4dc7b3c4",
+    "title": "EIB backs feasibility study for Morocco’s first offshore wind farm - HESPRESS English - Morocco News",
+    "headline": "EIB backs feasibility study for Morocco’s first offshore wind farm - HESPRESS English - Morocco News",
+    "summary": "EIB backs feasibility study for Morocco’s first offshore wind farm HESPRESS English - Morocco News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWswZ0tFdEl6RFlXTDlXS21EZFFNZmFGU3YwZFVsLUg2TnB4cFNuSUlmYkF0M3FWdU5wNDBfQTg4ekF4MmFJVUlERHUxbl9WRWUxUDJySmhPNjVXQjZNTE1WbG81YXlJeHF1NURKZmRnYjNtTk9maVc4OGsxaGxNOEV4NWJ5TUhIN0RVcHBhMHZzeFYxdXlVa2tVVm14S2VyZks0?oc=5",
+    "source": "HESPRESS English - Morocco News",
+    "sourceType": "news",
+    "published": "2026-09-05T22:11:26+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "EIB backs feasibility study for Morocco’s first offshore wind farm HESPRESS English - Morocco News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

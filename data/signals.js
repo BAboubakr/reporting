@@ -8,7 +8,7 @@ export const signals = [
     "source": "The North Africa Post",
     "sourceType": "news",
     "published": "2026-09-04T12:05:10+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-07T04:44:03.088154+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -60,6 +60,37 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-db4691a0f4ad",
+    "title": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
+    "headline": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
+    "summary": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckpacGhwa0lDU2NGWElSbUp6Z09tQkRHM01RaHJZd3VjMnB2NzBMcmRja0xiOWJLNWQyWVZGRHQxZW1UQTZFOVNnNkpDbE1keVdCQlRsUWFDc1IxY2pkNXcxcVltUHZOQTBrbWFORlRHMW1OLW5Wbk1kUFRycjhyVS1uWjdpNkcxVFE2M19FUm1uSHBsUzZwNFRfbkcxeUcxY2llQ3BHbw?oc=5",
+    "source": "African Energy",
+    "sourceType": "news",
+    "published": "2026-09-07T10:13:09+00:00",
+    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "categories": [
+      "BESS"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 60,
+    "actionabilityScore": 43,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 72,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.72,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); concrete action relationship",
     "aiReviewed": false
   },
   {

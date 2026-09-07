@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "The Nation Newspaper",
     "sourceType": "news",
     "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -163,7 +163,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:49:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "BESS",
       "Investment"
@@ -289,7 +289,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Wind"
     ],
@@ -320,7 +320,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -351,7 +351,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -382,7 +382,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -413,7 +413,7 @@ export const signalReview = [
     "source": "streamlinefeed.co.ke",
     "sourceType": "news",
     "published": "2026-08-24T09:20:31+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Investment"
     ],
@@ -444,7 +444,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Wind"
     ],
@@ -475,7 +475,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Wind"
     ],
@@ -498,15 +498,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-53045f5c1a90",
-    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
-    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - es.yabiladi.com",
-    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
+    "id": "sig-78399fca15ad",
+    "title": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "headline": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm - Yabiladi.com",
+    "summary": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRlS1h5NmkzemFnX0NOUXJUN01ITzdRT0ktVEtKM2h0QUpkc3Zsd1FSTlkzMnQ0QWpURGM1X1JTUGVrQXZpN1g3NEFZTXAzTTZ2LWpmR0twMmJWVUg3TkVPMGs0aTc2Q1N5cWFhbHN5QnlNNkppUDgwT056SXRvQlp0Y2p1TGkzdTM2Q19nZ0xxZ0F3cDJ3M3VJdDM?oc=5",
-    "source": "es.yabiladi.com",
+    "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T09:59:33+00:00",
-    "detected": "2026-09-06T23:56:18.093866+00:00",
+    "detected": "2026-09-07T04:44:03.088154+00:00",
     "categories": [
       "Wind"
     ],
@@ -519,7 +519,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm es.yabiladi.com",
+    "evidenceSnippet": "EIB appoints OWC-led consortium to study Morocco’s first offshore wind farm Yabiladi.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,

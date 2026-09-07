@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment"
     ],
@@ -62,15 +62,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-17e32fc65e81",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-    "source": "ANI News",
+    "id": "sig-15d225332f5f",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+    "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment"
     ],
@@ -83,7 +83,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -342,6 +342,37 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-b3ebb7565a6c",
+    "title": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 - Morocco World News",
+    "headline": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 - Morocco World News",
+    "summary": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzZzY1E4YVQ4dVZEZldLTVJDQ0p4WUN6M2x3bFZMU3R4dTVUOUt3V1NnQWRVVDl1RGVuRDczUUhlajdoTVdZbG9pWDRCbTVFR2NEZzFIS1o3ZFBLLU1iZk1fZlU2QzF3TTRJWmQzcGRSUlBBR0tGdUtJTmtGbVVHR29mSmwxdjhsYmVLRmd1UFdDUnpia2ZEbWw0bDlFQnhSNnVMUVNlOHFrb2dUM1lIRHplRGUyX3M?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-09-03T16:32:11+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 Morocco World News",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 46,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.54,
+    "filterReason": "1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-a32890b83ee8",
     "title": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
     "headline": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
@@ -350,7 +381,7 @@ export const signalReview = [
     "source": "HackMD",
     "sourceType": "news",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -381,7 +412,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -411,8 +442,8 @@ export const signalReview = [
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGRIOUlOb1p5bTdSNzkwZ2JSTkVQWlNzXzZ6V1FtaTlwNGdPR0JvdmxqUU9mNDg1TzBfZUEzNjU2NFFMUHA2RnY0cjZiR05pZEhsZ01iVTYwT2NTc2RvclV5b1hYV3NjUE9DNkVZeXY2cm9jZDh1enNBNFBYVG0yUS1NSjVjVUpVQzVHQmZxUE84QWZlMXVwbWZqSmo2N0hSeUV0TEx1aVFmeTdkVGJ3?oc=5",
     "source": "TGS 4C Offshore",
     "sourceType": "news",
-    "published": "2026-09-07T15:45:54+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "published": "2026-09-07T21:19:02+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +474,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +505,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +536,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T20:35:20.877415+00:00",
+    "detected": "2026-09-07T23:31:22.655234+00:00",
     "categories": [
       "Wind"
     ],

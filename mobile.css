@@ -1,42 +1,27 @@
 /* Atlas mobile layout */
-@media (max-width: 700px){
-  html,body{width:100%;max-width:100%;overflow-x:hidden}
-  .app-shell{display:block!important;height:100dvh!important}
-  .main{width:100%!important;min-width:0!important;height:100dvh!important;overflow:hidden!important}
-  .topbar{height:58px!important;padding:9px 12px!important;position:relative!important;z-index:20}
-  .mobile-menu{display:flex!important;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;color:#102a43;font-size:21px}
-  .content{width:100%!important;max-width:none!important;padding:22px 14px 44px!important;overflow-x:hidden!important}
-  .hero-row{grid-template-columns:1fr!important;gap:22px!important}
-  .hero-row h1{font-size:38px!important;letter-spacing:-1.2px!important}
-  .metric-grid{grid-template-columns:1fr!important}
-  .metric{border-right:0!important;border-bottom:1px solid #dfe5ec!important;min-height:96px!important;padding:16px 18px!important}
-  .metric:last-child{border-bottom:0!important}
-  .decision-grid,.lower-grid,.event-layout,.market-grid{grid-template-columns:1fr!important}
-  .decision-card{min-height:0!important}
-  .page-heading{display:block!important}
-  .page-heading h1{font-size:32px!important}
-  .page-heading .new-button{width:100%;margin-top:14px}
-  .filter-row{width:100%!important;max-width:100%;overflow-x:auto;scrollbar-width:none}
-  .filter-row::-webkit-scrollbar{display:none}
-  .filter{white-space:nowrap}
-  .development-row{grid-template-columns:1fr!important;padding:15px!important}
-  .dev-meta{text-align:left!important;margin-top:5px}
-  .pipeline-summary{flex-wrap:wrap}
-  .pipeline-board{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}
-  .pipe-column{min-width:280px!important;scroll-snap-align:start}
-  .event-large{grid-template-columns:58px 1fr!important;gap:12px!important}
-  .calendar-card,.event-list-panel,.panel{padding:16px!important}
-  .source-table{overflow-x:auto!important}
-  .source-row,.source-head{min-width:650px}
-  .reporting-layout{grid-template-columns:1fr!important}
-  .report-controls,.report-preview{min-width:0!important}
-  .report-controls .new-button,.report-controls .secondary-button{width:100%;margin-top:8px}
-  .modal{width:calc(100vw - 28px)!important;max-width:none!important;max-height:90dvh;overflow:auto}
-  .sidebar{position:fixed!important;left:0!important;top:0!important;bottom:0!important;width:min(290px,86vw)!important;height:100dvh!important;transform:translateX(-105%);transition:transform .22s ease;z-index:1000!important;box-shadow:12px 0 30px rgba(0,0,0,.2)}
-  .sidebar.open{transform:translateX(0)!important}
-  .atlas-mobile-overlay{position:fixed;inset:0;background:rgba(10,25,39,.42);z-index:999;opacity:0;pointer-events:none;transition:opacity .2s}
-  .atlas-mobile-overlay.open{opacity:1;pointer-events:auto}
-  .brand{padding:20px 18px 16px}
-  .source-head{display:grid!important}
+@media (max-width:700px){
+ html,body{width:100%;max-width:100%;overflow-x:hidden}
+ .app-shell{display:block!important;height:100dvh!important}
+ .main{width:100%!important;min-width:0!important;height:100dvh!important;overflow:hidden!important}
+ .topbar{height:58px!important;padding:9px 12px!important;position:relative!important;z-index:20}
+ .mobile-menu{display:flex!important;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;color:#102a43;font-size:21px}
+ .content{width:100%!important;max-width:none!important;box-sizing:border-box!important;padding:22px 14px 44px!important;overflow-x:hidden!important}
+ .hero-row{grid-template-columns:1fr!important;gap:22px!important}.hero-row h1{font-size:38px!important;letter-spacing:-1.2px!important}
+ .metric-grid,.decision-grid,.lower-grid,.event-layout,.market-grid,.stakeholder-grid,.watchlist-grid,.reporting-layout{grid-template-columns:1fr!important}
+ .metric{border-right:0!important;border-bottom:1px solid #dfe5ec!important;min-height:96px!important;padding:16px 18px!important}.metric:last-child{border-bottom:0!important}
+ .page-heading{display:block!important}.page-heading h1{font-size:32px!important;line-height:1.05!important}.page-heading .new-button{width:100%;margin-top:14px}
+ .filter-row{width:100%!important;max-width:100%;overflow-x:auto;scrollbar-width:none}.filter-row::-webkit-scrollbar{display:none}.filter{white-space:nowrap}
+ .development-row{grid-template-columns:1fr!important;padding:15px!important}.dev-meta{text-align:left!important;margin-top:5px}
+ .pipeline-summary{flex-wrap:wrap}.pipeline-board{display:flex!important;overflow-x:auto!important;scroll-snap-type:x mandatory;padding-bottom:8px}.pipe-column{min-width:280px!important;scroll-snap-align:start}
+ .event-large{grid-template-columns:58px 1fr!important;gap:12px!important}.calendar-card,.event-list-panel,.panel{padding:16px!important}
+ .source-table{overflow-x:auto!important;max-width:100%}.source-row,.source-head{min-width:650px}
+ .report-controls,.report-preview{min-width:0!important}.report-controls .new-button,.report-controls .secondary-button{width:100%;margin-top:8px}
+ .report-cover{min-height:320px!important;padding:28px!important;box-sizing:border-box!important}.report-cover h2{font-size:28px!important;line-height:1.08!important}
+ .competitor-layout{grid-template-columns:1fr!important}.competitor-kpis{grid-template-columns:1fr 1fr!important}.competitor-kpis article{min-width:0!important}.competitor-list{overflow-x:hidden!important}.competitor-card{width:100%!important;box-sizing:border-box!important}
+ .modal{width:calc(100vw - 28px)!important;max-width:none!important;max-height:90dvh;overflow:auto}
+ .sidebar{position:fixed!important;left:0!important;top:0!important;bottom:0!important;width:min(290px,86vw)!important;height:100dvh!important;transform:translateX(-105%);transition:transform .22s ease;z-index:1000!important;box-shadow:12px 0 30px rgba(0,0,0,.2);overflow-y:auto}
+ .sidebar.open{transform:translateX(0)!important}.atlas-mobile-overlay{position:fixed;inset:0;background:rgba(10,25,39,.42);z-index:999;opacity:0;pointer-events:none;transition:opacity .2s}.atlas-mobile-overlay.open{opacity:1;pointer-events:auto}
+ .brand{padding:20px 18px 16px}.source-head{display:grid!important}
+ .atlas-refresh-status{display:none!important}.section-refresh-meta{font-size:11px!important;margin-top:8px!important}
 }
 @media (min-width:701px){.atlas-mobile-overlay{display:none!important}}

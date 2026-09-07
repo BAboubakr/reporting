@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Investment"
     ],
@@ -62,15 +62,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-17e32fc65e81",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-    "source": "ANI News",
+    "id": "sig-15d225332f5f",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+    "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Investment"
     ],
@@ -83,75 +83,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
     "filterDecision": "REVIEW",
     "filterConfidence": 0.53,
     "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-e5b071c55e04",
-    "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
-    "summary": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcVVZT3pSNWQxUlh0bnNYb2Z0ZWg0eFhwajJCellXY0xjSHNJSFZ3OHZrdXhBd0NUUmRmVno1Tm9RQjlycUZLckltRzBTMGVrRGZMZFlqbEV3Ny12Vmt1blluTjQxM0JjaVc1LUV4RVVqbWFnLWZqN2VDNFRCVmJUWVhLMVYwYzV0M2lRcE5CQTV4d0JtcVpGcXljUzRwQVktV1JVV3BTNGYzZ1NDODlvUUFDOHdVVWU2ZGg3V0lzMDd1OWNhTHd0WFljYTlxSG9USFM1UmNJcE1yM1ItekcyeDI2bTdQNm9GblRjQ1FsOTJMNkdSTUJvdkZsNmpMNk5t?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-33c1a40f62ec",
-    "title": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
-    "headline": "The green industrial shift: Competition for leadership in the new climate economy - The Nation Newspaper",
-    "summary": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQdIBtgFBVV95cUxORlJGSnFvU0hFWVlZaklySDgxQ0VGcXl6ZlZWV0pCMWFyc2RwNWU4SEtaTUVxbTc2Yl84TUcxeFZjaWM5OWtHcVJaLXB3UmNSTFpfakFlMmdiallYT2h6QlJGRlZwYkJ1dGVobGUzSFZsZWZzSFc1UkE3dE5tY2UtZVhPYVR0bFVlWnJaRDRfTW95dUFWbVR0SkR1aTFsd1dobTRUWEhsZWx6OVJrazdPS3NRWWVkQQ?oc=5",
-    "source": "The Nation Newspaper",
-    "sourceType": "news",
-    "published": "2026-09-05T07:27:25+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
-    "categories": [
-      "Manufacturing"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": "WSP",
-    "relevanceScore": 38,
-    "actionabilityScore": 27,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "The green industrial shift: Competition for leadership in the new climate economy The Nation Newspaper",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; WSP detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 44,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.56,
-    "filterReason": "1 identifiable actor(s)",
     "aiReviewed": false
   },
   {
@@ -163,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -195,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +164,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -257,7 +195,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +226,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],
@@ -319,7 +257,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Investment"
     ],
@@ -350,7 +288,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -373,6 +311,99 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-a32890b83ee8",
+    "title": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
+    "headline": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
+    "summary": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zOWJkOERRVGFuZEk4SzRqZFdxN2dKQ25yc1liUTdSVm1GREZaZm1KWXZ0WjhKc01wZi1wWUxaQi01c2J5dzJaZFktT2JQMktBLWNLSGUwNDZXc09UMGl6bWdn?oc=5",
+    "source": "HackMD",
+    "sourceType": "news",
+    "published": "2026-09-06T07:00:00+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 46,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.54,
+    "filterReason": "1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-9964422bf7f7",
+    "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
+    "headline": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
+    "summary": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
+    "source": "Energy Global",
+    "sourceType": "news",
+    "published": "2026-09-07T14:00:32+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-a22c0bd82471",
+    "title": "OWC to support the development of Morocco’s first offshore wind farm - TGS 4C Offshore",
+    "headline": "OWC to support the development of Morocco’s first offshore wind farm - TGS 4C Offshore",
+    "summary": "OWC to support the development of Morocco’s first offshore wind farm TGS 4C Offshore",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGRIOUlOb1p5bTdSNzkwZ2JSTkVQWlNzXzZ6V1FtaTlwNGdPR0JvdmxqUU9mNDg1TzBfZUEzNjU2NFFMUHA2RnY0cjZiR05pZEhsZ01iVTYwT2NTc2RvclV5b1hYV3NjUE9DNkVZeXY2cm9jZDh1enNBNFBYVG0yUS1NSjVjVUpVQzVHQmZxUE84QWZlMXVwbWZqSmo2N0hSeUV0TEx1aVFmeTdkVGJ3?oc=5",
+    "source": "TGS 4C Offshore",
+    "sourceType": "news",
+    "published": "2026-09-07T15:45:54+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 28,
+    "actionabilityScore": 20,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "OWC to support the development of Morocco’s first offshore wind farm TGS 4C Offshore",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-2278fed3c06a",
     "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
     "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
@@ -381,7 +412,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],
@@ -412,7 +443,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +474,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T11:33:45.862496+00:00",
+    "detected": "2026-09-07T16:29:26.010469+00:00",
     "categories": [
       "Wind"
     ],

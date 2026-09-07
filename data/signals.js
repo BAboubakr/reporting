@@ -8,7 +8,7 @@ export const signals = [
     "source": "The North Africa Post",
     "sourceType": "news",
     "published": "2026-09-04T12:05:10+00:00",
-    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "detected": "2026-09-07T11:26:08.975727+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "detected": "2026-09-07T11:26:08.975727+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -71,7 +71,7 @@ export const signals = [
     "source": "African Energy",
     "sourceType": "news",
     "published": "2026-09-07T10:13:09+00:00",
-    "detected": "2026-09-07T10:20:51.786765+00:00",
+    "detected": "2026-09-07T11:26:08.975727+00:00",
     "categories": [
       "BESS"
     ],

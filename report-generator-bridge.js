@@ -1,4 +1,0 @@
-// Atlas reporting bridge: load the functional V2 generator and keep the modal hidden unless explicitly opened.
-function guardAtlasModal(){const modal=document.getElementById('modalBackdrop');if(!modal)return;if(!modal.classList.contains('is-open')){modal.setAttribute('aria-hidden','true');modal.style.display='none'}else{modal.style.display='flex'}}
-function loadReportGenerator(){guardAtlasModal();const s=document.createElement('script');s.src='report-generator-v2.js?v=20260903-1';s.async=false;document.head.appendChild(s)}
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(loadReportGenerator,400),{once:true});else setTimeout(loadReportGenerator,400);window.addEventListener('load',guardAtlasModal,{once:true});

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "ANI News",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -350,7 +350,7 @@ export const signalReview = [
     "source": "HackMD",
     "sourceType": "news",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -381,7 +381,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -412,7 +412,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T15:45:54+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +443,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +474,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +505,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T19:49:40.398796+00:00",
+    "detected": "2026-09-07T20:35:20.877415+00:00",
     "categories": [
       "Wind"
     ],

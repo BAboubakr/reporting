@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "description": "Permanent Atlas intelligence archive. The monitoring workflow merges every observed signal here by stable signal id and never applies the 250-item current-feed limit to this archive.",
+  "updatedAt": null,
+  "signals": []
+}

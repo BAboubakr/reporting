@@ -10,6 +10,7 @@ on:
       - 'data/signals.js'
       - 'data/signal-review.js'
       - 'data/monitor-status.json'
+      - 'data/archive/signals.json'
 
 permissions:
   contents: write
@@ -33,7 +34,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ATLAS_AI_MODEL: ${{ vars.ATLAS_AI_MODEL }}
         run: python scripts/monitor.py
-      - name: Restore history and calculate monitoring health
+      - name: Restore history, update permanent archive and calculate monitoring health
         env:
           COLLECT_OUTCOME: ${{ steps.collect.outcome }}
         run: |
@@ -41,31 +42,54 @@ jobs:
           import json, os, re
           from datetime import datetime, timezone
           from pathlib import Path
-          def load(path):
-              m=re.search(r'export const signals = (.*);\s*$',Path(path).read_text(encoding='utf-8'),re.S)
+          def load_js(path):
+              p=Path(path)
+              if not p.exists(): return []
+              m=re.search(r'export const signals = (.*);\s*$',p.read_text(encoding='utf-8'),re.S)
               return json.loads(m.group(1)) if m else []
-          old={x['id']:x for x in load('/tmp/signals-before.js')}
-          new={x['id']:x for x in load('data/signals.js')}
+          old={x['id']:x for x in load_js('/tmp/signals-before.js') if x.get('id')}
+          new={x['id']:x for x in load_js('data/signals.js') if x.get('id')}
           merged={**old,**new}
-          signals=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
-          Path('data/signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+          current=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
+          Path('data/signals.js').write_text('export const signals = '+json.dumps(current,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+
+          # Permanent archive: every signal ever observed, keyed by stable id.
+          # Unlike the current feed, this file is never truncated to 250 items.
+          archive_path=Path('data/archive/signals.json')
+          archive_path.parent.mkdir(parents=True,exist_ok=True)
+          try:
+              archive_doc=json.loads(archive_path.read_text(encoding='utf-8'))
+              archived={x['id']:x for x in archive_doc.get('signals',[]) if x.get('id')}
+          except Exception:
+              archived={}
+          archived.update(old)
+          archived.update(new)
+          now=datetime.now(timezone.utc).isoformat()
+          archive_doc={
+              'version':1,
+              'description':'Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.',
+              'updatedAt':now,
+              'totalSignals':len(archived),
+              'signals':sorted(archived.values(),key=lambda x:x.get('detected',''),reverse=True)
+          }
+          archive_path.write_text(json.dumps(archive_doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
           review=[]
           if Path('data/signal-review.js').exists():
               m=re.search(r'export const signalReview = (.*);\s*$',Path('data/signal-review.js').read_text(encoding='utf-8'),re.S)
               review=json.loads(m.group(1)) if m else []
           status='success' if os.environ.get('COLLECT_OUTCOME')=='success' else 'failed'
-          now=datetime.now(timezone.utc).isoformat()
-          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(signals),'reviewQueue':len(review),'competitorSignals':sum(1 for x in signals if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved']}
+          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(current),'archivedSignals':len(archived),'reviewQueue':len(review),'competitorSignals':sum(1 for x in current if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved and archive retained']}
           Path('data/monitor-status.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           print(json.dumps(health,indent=2))
           PY
-      - name: Commit updated intelligence and health status
+      - name: Commit updated intelligence, permanent archive and health status
         if: always()
         run: |
           git config user.name 'Atlas Monitor'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/signals.js data/signal-review.js data/monitor-status.json
-          git diff --cached --quiet || git commit -m 'chore: update Morocco intelligence signals'
+          git add data/signals.js data/signal-review.js data/monitor-status.json data/archive/signals.json
+          git diff --cached --quiet || git commit -m 'chore: update Morocco intelligence archive'
           git push
       - name: Fail if collector failed
         if: steps.collect.outcome != 'success'

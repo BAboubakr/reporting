@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "JEC - Connecting the World with Composites",
     "sourceType": "news",
     "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +70,7 @@ export const signalReview = [
     "source": "ANI News",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +101,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +132,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +164,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +195,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -226,7 +226,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +257,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +288,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Investment"
     ],
@@ -311,15 +311,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-34a04ad48656",
-    "title": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - moroccoworldnews.com",
-    "headline": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - moroccoworldnews.com",
-    "summary": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME moroccoworldnews.com",
+    "id": "sig-094760812f9b",
+    "title": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
+    "headline": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME - Morocco World News",
+    "summary": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE9OR19POGtNd2FaUHpQc2ZFa1ZJRnV0RjA0bW4zc0ttYkpRc0NTTTRrWVJyOXl2NGJGTTRhTTJIc0hjLWNleVRfRlZISWR3amQ4X1F2TXhJQUdQdjZqbEVuUVFINkFfWl9IU0N5ekJPRWRKZGZSRFhOX3VlX1BLdm1HWHJhbGxtXzIxQXJNYVdhNmUxYTRYVlBsSG00Nml3ZUkzTWRZaG96UTNvTldGdldoVENRZGotWm9pUDN3MHRadw?oc=5",
-    "source": "moroccoworldnews.com",
+    "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -332,7 +332,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME moroccoworldnews.com",
+    "evidenceSnippet": "Chinese Cable Maker Xinhongye Plans Morocco Joint Venture With French ACOME Morocco World News",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,
@@ -350,7 +350,7 @@ export const signalReview = [
     "source": "HackMD",
     "sourceType": "news",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -381,7 +381,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -412,7 +412,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T15:45:54+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -435,15 +435,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-34bf88d50a15",
-    "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - moroccoworldnews.com",
-    "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - moroccoworldnews.com",
-    "summary": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm moroccoworldnews.com",
+    "id": "sig-2278fed3c06a",
+    "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+    "headline": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+    "summary": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-    "source": "moroccoworldnews.com",
+    "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -456,7 +456,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm moroccoworldnews.com",
+    "evidenceSnippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 57,
@@ -474,7 +474,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +505,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T19:39:28.813726+00:00",
+    "detected": "2026-09-07T19:40:41.068664+00:00",
     "categories": [
       "Wind"
     ],

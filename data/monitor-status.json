@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "lastRun": "2026-09-07T11:26:09.078030+00:00",
-  "completedAt": "2026-09-07T11:26:09.078030+00:00",
+  "lastRun": "2026-09-07T11:33:45.956190+00:00",
+  "completedAt": "2026-09-07T11:33:45.956190+00:00",
   "frequency": "hourly",
   "sourcesChecked": 17,
   "rawRecords": 18,

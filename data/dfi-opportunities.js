@@ -1,5 +1,5 @@
 // Development-finance opportunity intelligence for Morocco.
-// Only currently open procurement opportunities are displayed in Atlas.
+// Raw records may be retained here, but Atlas should only surface records that are currently actionable.
 export const dfiInstitutions = [
   {id:'afdb', name:'African Development Bank', short:'AfDB', priority:5, focus:'Energy, power, renewable energy, grids, SEFA, infrastructure'},
   {id:'kfw', name:'KfW', short:'KfW', priority:5, focus:'Climate, energy, renewable energy, energy efficiency, infrastructure'},
@@ -14,16 +14,30 @@ export const dfiInstitutions = [
 
 export const dfiOpportunities = [
   {
-    id:'isdb-step-el-menzel-works-2026', institution:'isdb', country:'Morocco', status:'open', stage:'Procurement / works',
+    id:'isdb-step-el-menzel-works-2026', institution:'isdb', country:'Morocco', status:'open', stage:'Project-stage trigger',
     title:'STEP El Menzel — detailed design, equipment, construction, installation and commissioning', sector:'Pumped hydro / storage / grid',
     client:'ONEE – Branche Electricité', project:'STEP El Menzel', reference:'MAR1062',
-    deadline:'2026-09-30', relevance:84, fit:'High',
+    deadline:'2026-09-30', relevance:84, fit:'High', opportunityType:'project-stage trigger',
     scope:'Execution studies, equipment supply, construction, installation and commissioning.',
     source:'https://www.isdb.org/project-procurement/fr/appels-doffres/2026/spn/pour-les-etudes-dexecution-la-fourniture-des-equipements-la-construction',
     rationale:'Not a consulting tender itself, but a strong project-stage trigger for owner’s engineer, technical advisory, supervision and adjacent consulting opportunities.',
     tags:['storage','pumped hydro','construction','commissioning','ONEE']
   }
 ];
+
+const today=new Date();
+today.setHours(0,0,0,0);
+
+const deadlineIsCurrent=o=>{
+  if(!o?.deadline)return false;
+  const d=new Date(`${o.deadline}T23:59:59`);
+  return !Number.isNaN(d.getTime()) && d>=today;
+};
+
+// Single source of truth for the live DFI view: expired or non-actionable records never surface.
+export const openDfiOpportunities = dfiOpportunities
+  .filter(o=>o.country==='Morocco' && o.status==='open' && deadlineIsCurrent(o))
+  .sort((a,b)=>b.relevance-a.relevance);
 
 export const dfiWatchRules = {
   priorityInstitutions:['afdb','kfw','afd','eib','world-bank','isdb','ebrd','eu','giz'],

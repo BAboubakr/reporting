@@ -1,6 +1,8 @@
 export const eventData = [
   {
     id:'evt-004',
+    date:'2026-09-24',
+    endDate:'2026-09-25',
     day:'24–25',
     month:'SEP',
     name:'German-African Green Hydrogen Forum 2026',
@@ -11,6 +13,8 @@ export const eventData = [
   },
   {
     id:'evt-005',
+    date:'2026-09-28',
+    endDate:'2026-09-30',
     day:'28–30',
     month:'SEP',
     name:'ERDD 2026 — International Congress on Renewable Energy, Environment & Sustainable Development',
@@ -21,6 +25,8 @@ export const eventData = [
   },
   {
     id:'evt-006',
+    date:'2026-10-14',
+    endDate:'2026-10-17',
     day:'14–17',
     month:'OCT',
     name:'Global Green Event 2026',

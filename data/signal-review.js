@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,37 +31,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-5b3860f9517a",
-    "title": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "headline": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment - JEC - Connecting the World with Composites",
-    "summary": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
-    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMC1DanN3LWFTaEtLbTItZmt0dDJFc1NfZEE0czEzU0xHNGlGcHlMZUViamdsSjNxbllBWFVNZTZaSHNtQkMxNVBUbGdEdUp0UE5ualdLNWt1SVFwclhRQ3FKNW1qMmVlcnJ4WFVIeUhSRW5NSUVKc1dpanExSjBsdWU3UjlrWGh1TmtLREExa2ptTzZaeXl3WTJLQWRTeE92NHVNNzlXWHFyV2R0U2xsckFQUy1IWDlrZ21PbGdoZjIyWVBLd3Fjdmlfd2I2NGV5VUJLNERialpTb0I5MV9NUjE1LXJuNlQwelBGR2xQWUllYUdKajFVWWdWdzdUcEFZYUtfZ2pjeVgzSXVJeVdRc1F3akktMXdoVGhsRnpJaUJBU1dxYW1FNHg5MjV2eU8tbmFvc2hZZmd6OFJWMEFhYnNmTWJxRzFQSFNxZG55b1NyTVN0akFiWEhnSEpZd3Jlc3ZDUmIzWQ?oc=5",
-    "source": "JEC - Connecting the World with Composites",
-    "sourceType": "news",
-    "published": "2026-09-01T13:02:45+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "[MAG EXCLUSIVE] Morocco, a strategic gateway for composite materials investment JEC - Connecting the World with Composites",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-15d225332f5f",
     "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
     "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
@@ -70,7 +39,7 @@ export const signalReview = [
     "source": "Devdiscourse",
     "sourceType": "news",
     "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +70,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +164,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -226,7 +195,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +226,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -280,15 +249,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-4be9d786b9a3",
-    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - Business Insider Africa",
-    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "id": "sig-a164e987ebff",
+    "title": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "headline": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India - africa.businessinsider.com",
+    "summary": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xOUWdaRFNBYkthazJwTHRKVkRySjExRk9qbXJUbDdNZXJaZ2pRTV8wVkJjZEF3OHVaMWN5VTVfWXB0Mmk4S0V0SWxjbERqZTBKaDNRdUZIWTVlczhSVno0VVp0YnhVZnNydkZaTUJnaXhZYUdndEFTWTQ4OHh4TEhfdG5WdDMwVG5QZEhWMWd5Z3czc1N4VVV5N0t2U3dla25EUmlFRzVWMkxtQVQtcTRGaUFGY3hNYTdQdjNQd1JFN2lSdHhocjVRRkpMdkpRQzFzS01B?oc=5",
-    "source": "Business Insider Africa",
+    "source": "africa.businessinsider.com",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Investment"
     ],
@@ -301,7 +270,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India Business Insider Africa",
+    "evidenceSnippet": "Africa’s richest king leads an economy that just hit $4.4 billion in trade with Asia’s third-largest economy, India africa.businessinsider.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -319,7 +288,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -350,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-03T16:32:11+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -373,15 +342,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-a32890b83ee8",
-    "title": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
-    "headline": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
-    "summary": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
+    "id": "sig-6dad670ecd16",
+    "title": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - hackmd.io",
+    "headline": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - hackmd.io",
+    "summary": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide hackmd.io",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zOWJkOERRVGFuZEk4SzRqZFdxN2dKQ25yc1liUTdSVm1GREZaZm1KWXZ0WjhKc01wZi1wWUxaQi01c2J5dzJaZFktT2JQMktBLWNLSGUwNDZXc09UMGl6bWdn?oc=5",
-    "source": "HackMD",
+    "source": "hackmd.io",
     "sourceType": "news",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -394,7 +363,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
+    "evidenceSnippet": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide hackmd.io",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 46,
@@ -412,7 +381,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +412,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T21:19:02+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +443,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +474,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],
@@ -536,7 +505,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-07T23:31:22.655234+00:00",
+    "detected": "2026-09-08T04:39:06.834475+00:00",
     "categories": [
       "Wind"
     ],

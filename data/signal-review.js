@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-da41a6b7af34",
-    "title": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "headline": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? - Devdiscourse",
-    "summary": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3A1THU3dU5hb3pCUnluQVlwX2lZMklkc3hjcnRNMjhzN1VPazF6UnNlRTk2Z0FqYlFXd2pkTGE4ak11bFdDT29kME5HM0JhelhLTVQxV3RJNGVrOTg4R2VERDB4S3J6cWJvdkFWZUd6Y05yNjdNTFhOZW9lekIzVGw1aFF0dURqbmpFY21KMWFNNjdHbmVMeXYydHozczRjaFdVRHc3QnNpeG5uVWU0cnpSbkY4bEQ3MXpSMWRtc3MxNkx1djVsLTYxQ2dqQdIB0wFBVV95cUxNZ2k1Z0N2ekRuZnJ0cFRXbUJVQjdDcTAtSDhCekYwcEY5ZmNycHgwZFNzZUZ6VmEzUUF0OXNVWlo1MDNSVEdidS1HdkxRN0kwQ28wQkZzZEQ3eGd2ZEg4a2pJZ243b3lTVXRHZUhvUUZXRkJmSnJONzZUZkVZQ1FuZ2hTaUYwTUlzVlcyNS1wNFBKN2NqdmRISkxZaExuaEFkejVpS0VqRmZhZDliZXpPVW9CM0N5R0ZncEFUc1ZLS1BMZDlWcGt5cjRHQjJhTkl2cWV3?oc=5",
-    "source": "Devdiscourse",
+    "id": "sig-b363f14c9a2c",
+    "title": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
+    "headline": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
+    "summary": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUVzcVRKWXVzVGxJcm04aHdoakw2Qm10aVBUbHdKQ2tnRHNGLVRTUkR5a1NSQms3ZHp2NGNqME1xMExZWVA1Qmx6a0xWV2JobGZmLURvcGhZWkNWSGlhNE52MDZPeDR5d3dFdFNvSG1wYmhoMVJJbUszeGR5MjVuUDQtLXpSZG1NSi1UY2s0TmpiVHZ6YUJOekliZU84X1FnWFFVX3lZdnR1NW1OckIxd0g0QUVQRUN0TTZ4UndYWWlsdEs3ZkdlV0tzaUwzclg3ZEVMQy1YYmlxZGtOOXRsYXRISTk4WWthSHY40gHvAUFVX3lxTE1lTVdubm1ndXZTcERlbDU1VTZyX1Zhc25EWXViUEgxeWRseWRPTDg1TXlwZlZuZElrMmpTNFVCaENYaXdIazNkWDNkM1NhS1BFTTZtc24taDVMa01VUVZJVzllVUlUUVB5U2tyd3l1ZzBveWlRSFZfQ0JDQ0pRQ0g5NXAwYjhtUzhjaG1IcGxLcFZtZ20tbThfZWxWT0JzR090NUZPdEctdzJqLWVLY3lJVXAzMU8yckxzU0pGWnBzMnZXY1JzYkdxek5IbDdZRmdhSDVZNlV1X21Rd05DSFNaQUlzNDhKcWM3THNWM1hR?oc=5",
+    "source": "The Tribune",
     "sourceType": "news",
-    "published": "2026-08-31T12:55:17+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "published": "2026-08-25T11:38:12+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Investment"
     ],
@@ -52,38 +52,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Wants to Be More Than a Green Export Hub: Can Chinese Investment Deliver? Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-17e32fc65e81",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-    "source": "ANI News",
-    "sourceType": "news",
-    "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "evidenceSnippet": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -101,7 +70,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Investment"
     ],
@@ -132,7 +101,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -164,7 +133,7 @@ export const signalReview = [
     "source": "EIN News",
     "sourceType": "news",
     "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Investment"
     ],
@@ -195,7 +164,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -226,7 +195,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +226,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +257,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Investment"
     ],
@@ -319,7 +288,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -350,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-03T16:32:11+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -381,7 +350,7 @@ export const signalReview = [
     "source": "HackMD",
     "sourceType": "news",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -412,7 +381,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +412,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T21:19:02+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +443,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +474,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],
@@ -536,7 +505,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-08T06:41:13.921182+00:00",
+    "detected": "2026-09-08T07:23:33.104457+00:00",
     "categories": [
       "Wind"
     ],

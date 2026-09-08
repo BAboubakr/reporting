@@ -1,67 +1,5 @@
 export const signalReview = [
   {
-    "id": "sig-3a3902c39f12",
-    "title": "From Capital To Capacity: Africa Investment Perspectives For 2026 - trendsnafrica.com",
-    "headline": "From Capital To Capacity: Africa Investment Perspectives For 2026 - trendsnafrica.com",
-    "summary": "From Capital To Capacity: Africa Investment Perspectives For 2026 trendsnafrica.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUdKaGI0ZDBjRWVyZHZiY2Qwb2J1ZUxhWjMzOW9wMS1wY1R2V1Q1NjA5RVdKUER4VGpIcEhXeXJrVVA2anlKLWdXYTdaS3Fhdms0dVZ4M1puWnBrcmJxSGstM3RkZmMtXzJla0Nvd0wzRmRZMFF4Wi0wZGppQmpjLUg2TE5Va0duRkg1WXdTNjUwdm4taUHSAZ4BQVVfeXFMT05NcVZaWERzTVI3WmdOZDQ1NUdNZDN1ZFdqRlBQLXZiVDMxUlBzc1pNSlJWZ1Y4bG9RRUoxSFF6bGdqeHRxWER1WXNudmlwd2JlUFdpaG1qVzB1bUpTdlRRQmhhNExqNmVPeUM5U1hkb01WbnVmX2poVE9tZlpzbFJPTG4xNV9qQWJjcnFIcThHVmExaVRfTWdwLTJuN3c?oc=5",
-    "source": "trendsnafrica.com",
-    "sourceType": "news",
-    "published": "2026-09-07T14:58:39+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "From Capital To Capacity: Africa Investment Perspectives For 2026 trendsnafrica.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-b363f14c9a2c",
-    "title": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
-    "headline": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
-    "summary": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUVzcVRKWXVzVGxJcm04aHdoakw2Qm10aVBUbHdKQ2tnRHNGLVRTUkR5a1NSQms3ZHp2NGNqME1xMExZWVA1Qmx6a0xWV2JobGZmLURvcGhZWkNWSGlhNE52MDZPeDR5d3dFdFNvSG1wYmhoMVJJbUszeGR5MjVuUDQtLXpSZG1NSi1UY2s0TmpiVHZ6YUJOekliZU84X1FnWFFVX3lZdnR1NW1OckIxd0g0QUVQRUN0TTZ4UndYWWlsdEs3ZkdlV0tzaUwzclg3ZEVMQy1YYmlxZGtOOXRsYXRISTk4WWthSHY40gHvAUFVX3lxTE1lTVdubm1ndXZTcERlbDU1VTZyX1Zhc25EWXViUEgxeWRseWRPTDg1TXlwZlZuZElrMmpTNFVCaENYaXdIazNkWDNkM1NhS1BFTTZtc24taDVMa01VUVZJVzllVUlUUVB5U2tyd3l1ZzBveWlRSFZfQ0JDQ0pRQ0g5NXAwYjhtUzhjaG1IcGxLcFZtZ20tbThfZWxWT0JzR090NUZPdEctdzJqLWVLY3lJVXAzMU8yckxzU0pGWnBzMnZXY1JzYkdxek5IbDdZRmdhSDVZNlV1X21Rd05DSFNaQUlzNDhKcWM3THNWM1hR?oc=5",
-    "source": "The Tribune",
-    "sourceType": "news",
-    "published": "2026-08-25T11:38:12+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-e5b071c55e04",
     "title": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
     "headline": "Piyush Goyal concludes Japan visit, says strong interest by Japanese businesses for India, robotics investment deal takes shape - Big News Network.com",
@@ -70,7 +8,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +39,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -133,7 +71,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -164,7 +102,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],
@@ -195,7 +133,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Investment"
     ],
@@ -226,7 +164,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -257,7 +195,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],
@@ -288,7 +226,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T21:19:02+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],
@@ -319,7 +257,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],
@@ -350,7 +288,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],
@@ -381,7 +319,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "Wind"
     ],

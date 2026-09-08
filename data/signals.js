@@ -8,7 +8,7 @@ export const signals = [
     "source": "African Energy",
     "sourceType": "news",
     "published": "2026-09-07T10:27:18+00:00",
-    "detected": "2026-09-08T09:43:27.362822+00:00",
+    "detected": "2026-09-08T12:56:08.000630+00:00",
     "categories": [
       "BESS"
     ],

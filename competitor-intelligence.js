@@ -1,10 +1,8 @@
 const COMPETITORS=['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA','JESA'];
-const ALIASES={'AFRY':['afry'],Artelia:['artelia'],Tractebel:['tractebel','engie'],'Mott MacDonald':['mott macdonald','mott macdonald group'],'WSP':['wsp'],Worley:['worley'],Egis:['egis'],'ILF Consulting Engineers':['ilf consulting engineers','ilf'],DNV:['dnv'],NOVEC:['novec'],INGEMA:['ingema'],JESA:['jesa','jesa s.a','jesa sa']};
+const ALIASES={'AFRY':['afry'],Artelia:['artelia'],Tractebel:['tractebel','engie'],'Mott MacDonald':['mott macdonald','mott macdonald group'],'WSP':['wsp'],Worley:['worley'],Egis:['egis'],'ILF Consulting Engineers':['ilf consulting engineers','ilf'],DNV:['dnv'],'NOVEC':['novec'],'INGEMA':['ingema'],'JESA':['jesa','jesa s.a','jesa sa']};
 const norm=v=>String(v||'').toLowerCase();
 const textOf=s=>norm(`${s.title||s.headline||s.signal||''} ${s.summary||''} ${(s.entities||[]).join(' ')} ${s.competitor||''} ${s.source||''}`);
 const detectCompetitor=s=>{if(s.competitor&&COMPETITORS.includes(s.competitor))return s.competitor;const t=textOf(s);return COMPETITORS.find(c=>ALIASES[c].some(a=>t.includes(a)))||null;};
-// Competitor Intelligence is Morocco-first: a competitor mention alone is NOT enough.
-// Accept explicit Morocco markers or strong Morocco-specific entities/programmes.
 const moroccoRelevant=s=>s.morocco===true||/\b(morocco|maroc|masen|onee|anre|ocp|rabat|casablanca|laayoune|dakhla|tanger|fes|fez|oujda|kenitra|chefchaouen|taza|guercif|ouarzazate|ifrane|benguerir|phosboucraa|jorf lasfar|midelt|noor|guelmim|boujdour|tarfaya|nador|safi|el jadida)\b/.test(textOf(s));
 const daysOld=d=>{const t=Date.parse(d||'');return Number.isFinite(t)?Math.max(0,(Date.now()-t)/86400000):999;};
 function escapeHtml(v=''){return String(v).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
@@ -12,11 +10,9 @@ function formatDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?'Dat
 async function renderCompetitors(filter='all'){
  const list=document.getElementById('competitorList');if(!list)return;
  let signals=[],seed=[];try{const a=await import('./data/signals.js');signals=a.signals||[];const b=await import('./data/competitor-news.js');seed=b.competitorNews||[];}catch(e){console.error('Atlas competitor signal load failed',e);}
- // Live signals: competitor + Morocco relevance are mandatory. Global/foreign-only activity is excluded.
  const live=signals.map(s=>{const competitor=detectCompetitor(s);if(!competitor||!moroccoRelevant(s)||daysOld(s.published||s.detected)>30)return null;return {competitor,type:s.signalType||'Market movement',theme:(s.categories||['Energy transition'])[0],signal:s.title||s.headline||s.summary,priority:String(s.fichtnerRelevance||'').toUpperCase()||(s.relevanceScore>=80?'HIGH':s.relevanceScore>=60?'MEDIUM':'WATCH'),source:s.source||'Atlas collector',url:s.url,date:s.published||s.detected,morocco:true,relationship:'Competitor'};}).filter(Boolean);
- // Curated competitor news follows the same Morocco-first gate; global activity is intentionally not shown here.
  const curated=seed.map(s=>{const competitor=detectCompetitor(s)||s.competitor;if(!competitor||!moroccoRelevant(s)||daysOld(s.date)>365)return null;return {...s,competitor,morocco:true};}).filter(Boolean);
- const all=[...live,...curated];const seen=new Set();const merged=all.filter(x=>{const key=`${x.competitor}|${x.signal}`;if(seen.has(key))return false;seen.add(key);return true;}).sort((a,b)=>((b.priority==='HIGH')-(a.priority==='HIGH'))||(Date.parse(b.date||'')-Date.parse(a.date||'')));
+ const all=[...live,...curated];const seen=new Set();const merged=all.filter(x=>{const key=`${x.competitor}|${String(x.signal||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}`;if(seen.has(key))return false;seen.add(key);return true;}).sort((a,b)=>((b.priority==='HIGH')-(a.priority==='HIGH'))||(Date.parse(b.date||'')-Date.parse(a.date||'')));
  const items=filter==='all'?merged:merged.filter(x=>x.competitor===filter);const moroccoCount=merged.length;const high=merged.filter(x=>x.priority==='HIGH').length;
  document.getElementById('competitorCount').textContent=COMPETITORS.length;document.getElementById('competitorSignals').textContent=moroccoCount;document.getElementById('competitorHigh').textContent=high;
  if(!items.length){const selected=filter==='all'?'the monitored competitors':filter;list.innerHTML=`<div class="empty-state"><strong>No recent Morocco signal for ${selected}.</strong><p>Atlas monitors competitor activity continuously, but only activity with a demonstrated Morocco connection is shown in Competitor Intelligence.</p></div>`;return;}
@@ -31,5 +27,6 @@ const marketScript=document.createElement('script');marketScript.src='market-int
 const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);
 const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260901-1';document.body.appendChild(sourceScript);
 const pptCheck=document.createElement('script');pptCheck.src='ppt-engine-check.js?v=20260901-1';document.body.appendChild(pptCheck);
-const pptScript=document.createElement('script');pptScript.src='ppt-report.js?v=20260901-1';document.body.appendChild(pptScript);
+// V4 is the sole PowerPoint generator. Legacy ppt-report.js was removed because it could override the reporting button.
+const pptScript=document.createElement('script');pptScript.type='module';pptScript.src='report-generator-v4.js?v=20260908-1';document.body.appendChild(pptScript);
 const refreshScript=document.createElement('script');refreshScript.type='module';refreshScript.src='signal-refresh.js?v=20260901-1';document.body.appendChild(refreshScript);

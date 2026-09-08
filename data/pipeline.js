@@ -7,8 +7,8 @@ const ENERGY_TERMS=/solar|pv|photovoltaic|wind|renewable|bess|battery|storage|hy
 const ACTIONABLE_TERMS=/award|awarded|selected|contract|tender|procurement|prequalification|rfp|rfq|eoi|feasibility|study|pre-feasibility|development|construction|investment|commission|project/i;
 
 const signals=cleanSignals(rawSignals);
-const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d;};
 const clean=v=>String(v||'').replace(/\s+/g,' ').trim();
+const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d;};
 const signalText=s=>clean(`${s.title||s.headline||''} ${s.summary||''} ${(s.entities||[]).join(' ')} ${s.projectStage||''} ${s.signalType||''}`);
 const isEvidenceBacked=s=>{const t=signalText(s);return MOROCCO_TERMS.test(t)&&ENERGY_TERMS.test(t)&&ACTIONABLE_TERMS.test(t)&&Number(s.relevanceScore||0)>=60&&Number(s.actionabilityScore||0)>=40;};
 
@@ -16,6 +16,7 @@ function futureEvents(){
   const now=new Date(); now.setHours(0,0,0,0);
   return eventData.filter(e=>e.verified===true).map(e=>({...e,_date:dateValue(e.date)})).filter(e=>e._date&&e._date>=now).sort((a,b)=>a._date-b._date);
 }
+
 function signalOpportunities(){
   const cutoff=new Date(); cutoff.setDate(cutoff.getDate()-30);
   return signals.filter(s=>{const d=dateValue(s.published||s.detected);return d&&d>=cutoff&&isEvidenceBacked(s)})

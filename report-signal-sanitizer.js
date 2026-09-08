@@ -1,5 +1,5 @@
-// Reporting data gate: sanitize the canonical signals module before any report consumer reads it.
-import { signals } from './data/signals.js';
+// Reporting data gate: sanitize the exact signals module instance consumed by V4.
+import { signals } from './data/signals.js?report=V4-20260908';
 const stop=new Set('the a an and or to of in on for with from by as at is are was were be this that team help advance appointed selected project projects plant plants development renewable energy morocco maroc news now international water power renewables latest report says according'.split(' '));
 const norm=v=>String(v||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/https?:\/\/\S+/g,' ').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim();
 const tokens=s=>new Set(norm(`${s?.title||s?.headline||s?.signal||''} ${s?.summary||''} ${s?.evidenceSnippet||''}`).split(' ').filter(x=>x.length>=3&&!stop.has(x)));

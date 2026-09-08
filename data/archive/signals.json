@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-08T12:56:08.095283+00:00",
+  "updatedAt": "2026-09-08T12:58:34.735911+00:00",
   "totalSignals": 150,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "African Energy",
       "sourceType": "news",
       "published": "2026-09-07T10:27:18+00:00",
-      "detected": "2026-09-08T12:56:08.000630+00:00",
+      "detected": "2026-09-08T12:58:34.600535+00:00",
       "categories": [
         "BESS"
       ],

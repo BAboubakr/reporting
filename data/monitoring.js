@@ -1,8 +1,8 @@
 import { dfiInstitutions, dfiOpportunities, dfiWatchRules } from './dfi-opportunities.js';
 
 const monitoring = {
-  lookbackDays: 14,
-  maxItems: 80,
+  lookbackDays: 30,
+  maxItems: 120,
   marketQueries: [
     'Morocco renewable energy solar PV BESS battery wind hydrogen grid tender',
     'Morocco MASEN renewable tender project',
@@ -18,10 +18,28 @@ const monitoring = {
     'NOVEC Morocco energy renewable grid hydro','INGEMA Morocco energy engineering renewable',
     'JESA Morocco renewable energy solar OCP','JESA Morocco engineering energy infrastructure','JESA OCP solar project'
   ],
+  dfiQueries: [
+    'AfDB Morocco energy renewable consultant procurement project',
+    'KfW Morocco renewable energy consultant tender climate',
+    'AFD Maroc énergie renouvelable appel offres consultant',
+    'EIB Morocco energy technical assistance consultant procurement',
+    'World Bank Morocco energy consultant procurement renewable',
+    'IsDB Morocco energy consultant procurement ONEE renewable',
+    'EBRD Morocco energy consultant procurement renewable',
+    'EU Global Gateway Morocco energy technical assistance consultant',
+    'GIZ Morocco energy transition technical assistance consultant'
+  ],
   officialPages: [
     {name:'ONEE tenders',url:'https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=',type:'official-tender'},
     {name:'ONEE tender results',url:'https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1',type:'official-result'},
-    {name:'MASEN e-Tendering',url:'https://etendering.masen.ma/',type:'official-procurement'}
+    {name:'MASEN e-Tendering',url:'https://etendering.masen.ma/',type:'official-procurement'},
+    {name:'AfDB procurement / consultants',url:'https://www.afdb.org/en/projects-and-operations/procurement',type:'dfi-procurement'},
+    {name:'KfW procurement',url:'https://www.kfw-entwicklungsbank.de/International-financing/KfW-Development-Bank/Procurement/',type:'dfi-procurement'},
+    {name:'AFD procurement',url:'https://www.afd.fr/en/procurement',type:'dfi-procurement'},
+    {name:'EIB technical assistance procurement',url:'https://www.eib.org/en/about/procurement/technical-assistance',type:'dfi-procurement'},
+    {name:'World Bank procurement opportunities',url:'https://projects.worldbank.org/en/projects-operations/opportunities',type:'dfi-procurement'},
+    {name:'IsDB project procurement',url:'https://www.isdb.org/project-procurement',type:'dfi-procurement'},
+    {name:'EBRD procurement',url:'https://www.ebrd.com/work-with-us/procurement.html',type:'dfi-procurement'}
   ]
 };
 

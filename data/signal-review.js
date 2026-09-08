@@ -1,5 +1,36 @@
 export const signalReview = [
   {
+    "id": "sig-df9db3ca3315",
+    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
+    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
+    "source": "IndexBox",
+    "sourceType": "news",
+    "published": "2026-09-03T10:42:00+00:00",
+    "detected": "2026-09-08T21:53:24.881273+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 54,
+    "actionabilityScore": 39,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 57,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.57,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-c425d30eacae",
     "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
     "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
@@ -8,7 +39,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T18:42:40.751437+00:00",
+    "detected": "2026-09-08T21:53:24.881273+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -40,7 +71,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T18:42:40.751437+00:00",
+    "detected": "2026-09-08T21:53:24.881273+00:00",
     "categories": [
       "Investment"
     ],
@@ -71,7 +102,7 @@ export const signalReview = [
     "source": "The China-Global South Project",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T18:42:40.751437+00:00",
+    "detected": "2026-09-08T21:53:24.881273+00:00",
     "categories": [
       "BESS"
     ],

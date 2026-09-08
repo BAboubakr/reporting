@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T12:58:34.600535+00:00",
+    "detected": "2026-09-08T13:11:26.488026+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -40,7 +40,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T12:58:34.600535+00:00",
+    "detected": "2026-09-08T13:11:26.488026+00:00",
     "categories": [
       "Investment"
     ],
@@ -71,7 +71,7 @@ export const signalReview = [
     "source": "The China-Global South Project",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T12:58:34.600535+00:00",
+    "detected": "2026-09-08T13:11:26.488026+00:00",
     "categories": [
       "BESS"
     ],

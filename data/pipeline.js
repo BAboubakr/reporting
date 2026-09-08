@@ -1,6 +1,7 @@
 import { eventData } from './events.js';
 import { signals as rawSignals } from './signals.js';
 import { cleanSignals } from '../data-cleaner.js';
+import { dfiOpportunities } from './dfi-opportunities.js';
 
 const MOROCCO_TERMS=/morocco|maroc|masen|onee|anre|ocp|rabat|casablanca|laayoune|dakhla|tanger|fes|fez|oujda|kenitra|nador|safi|el jadida|jorf lasfar|midelt|noor|guelmim|boujdour|tarfaya|ouarzazate|benguerir/i;
 const ENERGY_TERMS=/solar|pv|photovoltaic|wind|renewable|bess|battery|storage|hydro|pumped|hydrogen|ammonia|electrolysis|grid|transmission|substation|power|energy/i;
@@ -23,8 +24,14 @@ function signalOpportunities(){
     .sort((a,b)=>(Number(b.actionabilityScore||0)+Number(b.relevanceScore||0))-(Number(a.actionabilityScore||0)+Number(a.relevanceScore||0)));
 }
 
+function dfiOpportunitiesForPipeline(){
+  return dfiOpportunities.filter(o=>o.country==='Morocco'&&o.relevance>=80&&['open','pipeline','forecast','upcoming','eoi','rfp','tender'].includes(o.status))
+    .sort((a,b)=>b.relevance-a.relevance);
+}
+
 const events=futureEvents();
 const projects=signalOpportunities();
+const dfiProjects=dfiOpportunitiesForPipeline();
 
 export const pipeline={
   Monitor:projects.slice(4,8).map(s=>({
@@ -32,11 +39,15 @@ export const pipeline={
     note:`Evidence-backed signal · ${clean(s.projectStage||s.signalType||'development')}. Reassess before outreach.`,
     owner:'Unassigned', due:'Rolling review', source:s.url||null, signalId:s.id, verified:true, generated:true
   })),
-  Qualify:projects.slice(0,4).map(s=>({
+  Qualify:[...dfiProjects.map(o=>({
+    name:`${o.institution.toUpperCase()} · ${clean(o.title)}`,
+    note:`DFI-backed opportunity · ${clean(o.fit)} Fichtner fit. Validate procurement route, deadline and potential partners.`,
+    owner:'Unassigned', due:o.deadline||'Rolling review', source:o.source, dfiId:o.id, verified:true, generated:true
+  })),...projects.slice(0,4).map(s=>({
     name:clean(s.title||s.headline),
     note:`Evidence-backed ${clean(s.projectStage||s.signalType||'development')} signal. Validate client, procurement route and Fichtner fit before engagement.`,
     owner:'Unassigned', due:'Within 7 days', source:s.url||null, signalId:s.id, verified:true, generated:true
-  })),
+  }))],
   Engage:events.slice(0,4).map(e=>({
     name:e.name,
     note:`Verified future event in ${clean(e.detail)}. Target meetings only where a relevant stakeholder is identifiable.`,

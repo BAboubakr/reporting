@@ -1,45 +1,14 @@
 export const signalReview = [
   {
-    "id": "sig-df9db3ca3315",
-    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
-    "source": "IndexBox",
-    "sourceType": "news",
-    "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
-    "categories": [
-      "Wind"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
-    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-b363f14c9a2c",
-    "title": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
-    "headline": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - The Tribune",
-    "summary": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
+    "id": "sig-d662bf32c239",
+    "title": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - tribuneindia.com",
+    "headline": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - tribuneindia.com",
+    "summary": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement tribuneindia.com",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUVzcVRKWXVzVGxJcm04aHdoakw2Qm10aVBUbHdKQ2tnRHNGLVRTUkR5a1NSQms3ZHp2NGNqME1xMExZWVA1Qmx6a0xWV2JobGZmLURvcGhZWkNWSGlhNE52MDZPeDR5d3dFdFNvSG1wYmhoMVJJbUszeGR5MjVuUDQtLXpSZG1NSi1UY2s0TmpiVHZ6YUJOekliZU84X1FnWFFVX3lZdnR1NW1OckIxd0g0QUVQRUN0TTZ4UndYWWlsdEs3ZkdlV0tzaUwzclg3ZEVMQy1YYmlxZGtOOXRsYXRISTk4WWthSHY40gHvAUFVX3lxTE1lTVdubm1ndXZTcERlbDU1VTZyX1Zhc25EWXViUEgxeWRseWRPTDg1TXlwZlZuZElrMmpTNFVCaENYaXdIazNkWDNkM1NhS1BFTTZtc24taDVMa01VUVZJVzllVUlUUVB5U2tyd3l1ZzBveWlRSFZfQ0JDQ0pRQ0g5NXAwYjhtUzhjaG1IcGxLcFZtZ20tbThfZWxWT0JzR090NUZPdEctdzJqLWVLY3lJVXAzMU8yckxzU0pGWnBzMnZXY1JzYkdxek5IbDdZRmdhSDVZNlV1X21Rd05DSFNaQUlzNDhKcWM3THNWM1hR?oc=5",
-    "source": "The Tribune",
+    "source": "tribuneindia.com",
     "sourceType": "news",
     "published": "2026-08-25T11:38:12+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Investment"
     ],
@@ -52,7 +21,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement The Tribune",
+    "evidenceSnippet": "MoS Jitin Prasadas Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement tribuneindia.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 47,
@@ -70,7 +39,7 @@ export const signalReview = [
     "source": "Big News Network.com",
     "sourceType": "news",
     "published": "2026-08-27T12:57:00+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Investment"
     ],
@@ -101,7 +70,7 @@ export const signalReview = [
     "source": "Africa Sustainability Matters",
     "sourceType": "news",
     "published": "2026-08-31T06:13:26+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -125,37 +94,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-47862910d429",
-    "title": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "headline": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline - EIN News",
-    "summary": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVzlDUWhEYkIycm5OVGdmMjNXd005Q2xNQVZJQTZHUEtxUDFRTlBLTkl1ekkwXzRoT1RtWHZha2pTcGN1ck9XVnZKOGpvM2ZEMWxvUGNwYjhFYXVnZjNieDdnTGhsZDh6TDlqR09xUTl6Q2FjZGxKNi02bW5GTGhQSGI4VmZ0Y3dsSms1Ul9Fa2F6d1dxSFpDVU9vNDU1OUpqTi1zTm1VS2VGYjlSN290bldDN3MwVEpQZlduQ2JKT1pyTVBpSl82RFg2NXlLcms5R0JTMnlPNW52aFZOaTdDdjRLSXB5dmQyTDZZ?oc=5",
-    "source": "EIN News",
-    "sourceType": "news",
-    "published": "2026-08-31T10:48:00+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 36,
-    "actionabilityScore": 26,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Saudi Arabia Renewable Energy Market to Reach USD 18.30 Billion by 2035, Driven by Vision & Massive Project Pipeline EIN News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 56,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.56,
-    "filterReason": "1 event indicator(s); quantitative detail",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-1cae52231b6a",
     "title": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
     "headline": "Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia & Tangier H₂O₂ - Hydrogen Fuel News",
@@ -164,7 +102,7 @@ export const signalReview = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-05T10:52:09+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -195,7 +133,7 @@ export const signalReview = [
     "source": "Offshore Wind",
     "sourceType": "news",
     "published": "2026-09-03T08:45:28+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -226,7 +164,7 @@ export const signalReview = [
     "source": "Agenzia Nova",
     "sourceType": "news",
     "published": "2026-09-04T09:54:36+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -257,7 +195,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Investment"
     ],
@@ -288,7 +226,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-05T14:54:41+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -311,68 +249,6 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-b3ebb7565a6c",
-    "title": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 - Morocco World News",
-    "headline": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 - Morocco World News",
-    "summary": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzZzY1E4YVQ4dVZEZldLTVJDQ0p4WUN6M2x3bFZMU3R4dTVUOUt3V1NnQWRVVDl1RGVuRDczUUhlajdoTVdZbG9pWDRCbTVFR2NEZzFIS1o3ZFBLLU1iZk1fZlU2QzF3TTRJWmQzcGRSUlBBR0tGdUtJTmtGbVVHR29mSmwxdjhsYmVLRmd1UFdDUnpia2ZEbWw0bDlFQnhSNnVMUVNlOHFrb2dUM1lIRHplRGUyX3M?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-09-03T16:32:11+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Messe Düsseldorf to Launch First-Ever Trade Show in Morocco in 2027 Morocco World News",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
-    "filterReason": "1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-a32890b83ee8",
-    "title": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
-    "headline": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide - HackMD",
-    "summary": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zOWJkOERRVGFuZEk4SzRqZFdxN2dKQ25yc1liUTdSVm1GREZaZm1KWXZ0WjhKc01wZi1wWUxaQi01c2J5dzJaZFktT2JQMktBLWNLSGUwNDZXc09UMGl6bWdn?oc=5",
-    "source": "HackMD",
-    "sourceType": "news",
-    "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 28,
-    "actionabilityScore": 20,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco's Top 10 Consulting Companies in 2026: A Buyer's Comparison Guide HackMD",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 46,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.54,
-    "filterReason": "1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-9964422bf7f7",
     "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
     "headline": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
@@ -381,7 +257,7 @@ export const signalReview = [
     "source": "Energy Global",
     "sourceType": "news",
     "published": "2026-09-07T14:00:32+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -412,7 +288,7 @@ export const signalReview = [
     "source": "TGS 4C Offshore",
     "sourceType": "news",
     "published": "2026-09-07T21:19:02+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -443,7 +319,7 @@ export const signalReview = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-04T12:47:41+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -474,7 +350,7 @@ export const signalReview = [
     "source": "Yabiladi.com",
     "sourceType": "news",
     "published": "2026-09-04T12:31:03+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],
@@ -505,7 +381,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-09-05T22:11:26+00:00",
-    "detected": "2026-09-08T07:32:51.781197+00:00",
+    "detected": "2026-09-08T09:23:30.738596+00:00",
     "categories": [
       "Wind"
     ],

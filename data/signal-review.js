@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
+    "detected": "2026-09-09T09:04:32.062751+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,47 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-c425d30eacae",
-    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
-    "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
-    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjFUR2JxeDByMGlhRHFEMDF2clBOVFdnRGIxem9BM2FEUDBLV3prY1I4dTI0QU1INE0tVDVNMFhqNGtHTk9nRDM2WFAwY0ZRdDZIS0VSY0M4Y0wtTHRFRGNGUDFIQUtWcVdfVnNnVC0wNjRvcmc4NTd4a09oREIwLXYyenI5b3FfVzVPeG5Wc1BmeXlFNDhFZmNHTGktbVQ1?oc=5",
-    "source": "HESPRESS English - Morocco News",
+    "id": "sig-6e857bd6af7b",
+    "title": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually - صوت الإمارات",
+    "headline": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually - صوت الإمارات",
+    "summary": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually صوت الإمارات",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVHN5dFZkU2dJNFp1Q2pwWFQ1enkzdV9GVFNwc05ScmRFLVZFLU9RWDg1dXF3TG9JbWtmZDNPaTZKYW4ySXNRemRVMFFDMG8xZWZYaWxvdFo2WWJ3V3ZxQk9XdkdtSHJjVkptYVhGWnJGLWFpWkF4MTJ2TjlTUTduTFQwMkZ4cUdzRFRpbGUtamlvV1pTLVpEVEVfdlUteU5wckFoQXROcWZsVUdEYTFxUjFXOHFFSE1ueUJCZ3AwcXZvTnBRZS1qWGdyUlVvZUcwZTBkNThqOWlDWEFYclJlTVhpTllIcmRzNW1vUmlMY0o4WWM?oc=5",
+    "source": "صوت الإمارات",
     "sourceType": "news",
-    "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
-    "categories": [
-      "Hydrogen / PtX",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 48,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-b5c43adb9b27",
-    "title": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them - Business Insider Africa",
-    "headline": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them - Business Insider Africa",
-    "summary": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaGU5QlRhalRXQWxLa3Y2TTR2azlaWWN5YkpwR2hzNHZxb281Y3lqdTVQN195ZGZvbXlBdHVqQ2F3NzhSWVlPYmVMLXhsNEpRcHBDOXdNQXBxMGdJOW4zRkhKczJwemdKWDZCbDlMVmRBeFhFRG1XTURac3hWVmdYOE1BaHN0SS1wOHpaUzhzQ2lfUzBXMnpXVmdQQnFOTE1Hb0dIcXEtT3MxajhPQjBET2NjMkRuT2k4RW9JUFlaUUlOOFNSai04a2V6cC1xdGgyN3JJZTFUUQ?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
+    "published": "2026-09-09T05:46:49+00:00",
+    "detected": "2026-09-09T09:04:32.062751+00:00",
     "categories": [
       "Investment"
     ],
@@ -84,13 +52,13 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them Business Insider Africa",
+    "evidenceSnippet": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually صوت الإمارات",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
+    "qualityScore": 52,
     "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "2 event indicator(s)",
+    "filterConfidence": 0.52,
+    "filterReason": "2 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {
@@ -102,7 +70,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
+    "detected": "2026-09-09T09:04:32.062751+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -135,7 +103,7 @@ export const signalReview = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
+    "detected": "2026-09-09T09:04:32.062751+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -156,37 +124,6 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.58,
     "filterReason": "1 technology indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-f8860427bc11",
-    "title": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
-    "headline": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
-    "summary": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa The China-Global South Project",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamNldzZFWHFrVjl3bFdXcWd6OGpMbXdkU1RHY1cxMDc2S2E0bTVZa000dTVhUjVBbHBabThvU1cwc3Mza0ctMUFFcWVlMDlIamVLVjBTUmU0cmM5bXlrcDE1SHJiNG1wUzFJZ1VkMEpYQ1hNb01jRWNSXzNhM0tjUlhwM3VIYl9aeDJCTi1OZ2tiZ095RGF1MzNB?oc=5",
-    "source": "The China-Global South Project",
-    "sourceType": "news",
-    "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T06:21:25.045539+00:00",
-    "categories": [
-      "BESS"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 44,
-    "actionabilityScore": 32,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa The China-Global South Project",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

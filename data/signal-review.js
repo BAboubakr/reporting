@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
     "categories": [
       "Wind"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -71,7 +71,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
     "categories": [
       "Investment"
     ],
@@ -102,7 +102,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -127,6 +127,38 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-5d02d591b9b6",
+    "title": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
+    "headline": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
+    "summary": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance GreentechLead",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGFaU0xCSUdQZS03OTdMME1PNEcydXNacUZxVHRIZ1pmdVZvbGpVbk1aYk9KT2g1MDNSQUtUdnRITjkteFZtSzY3b290OWg3NGJOZTVkeWlSVjQwWWhkcXNCZkxvVENieEx0Z1h3MEFZLWhubnk3YThkdlRzMnZ5ZU5tY1hyVG9HNW5rQmxZbVhnWXM5S3RNdW5NN3Nid09qTVZVd19td1pWSlBMSGlod3pSb29EREtacXg0UGFFclI?oc=5",
+    "source": "GreentechLead",
+    "sourceType": "news",
+    "published": "2026-09-06T15:06:16+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
+    "categories": [
+      "BESS",
+      "Manufacturing"
+    ],
+    "signalType": "manufacturing",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 45,
+    "actionabilityScore": 32,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance GreentechLead",
+    "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 technology indicator(s)",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-f8860427bc11",
     "title": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
     "headline": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
@@ -135,7 +167,7 @@ export const signalReview = [
     "source": "The China-Global South Project",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "detected": "2026-09-09T06:21:25.045539+00:00",
     "categories": [
       "BESS"
     ],

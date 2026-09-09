@@ -8,7 +8,7 @@ export const signals = [
     "source": "africa-energy.com",
     "sourceType": "news",
     "published": "2026-09-07T10:27:18+00:00",
-    "detected": "2026-09-09T00:17:00.551391+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
     "categories": [
       "BESS"
     ],

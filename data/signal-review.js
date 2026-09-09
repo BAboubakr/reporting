@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-09T00:17:00.551391+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-72ed0262fb18",
-    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - en.hespress.com",
-    "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - en.hespress.com",
-    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry en.hespress.com",
+    "id": "sig-c425d30eacae",
+    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
+    "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
+    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjFUR2JxeDByMGlhRHFEMDF2clBOVFdnRGIxem9BM2FEUDBLV3prY1I4dTI0QU1INE0tVDVNMFhqNGtHTk9nRDM2WFAwY0ZRdDZIS0VSY0M4Y0wtTHRFRGNGUDFIQUtWcVdfVnNnVC0wNjRvcmc4NTd4a09oREIwLXYyenI5b3FfVzVPeG5Wc1BmeXlFNDhFZmNHTGktbVQ1?oc=5",
-    "source": "en.hespress.com",
+    "source": "HESPRESS English - Morocco News",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T00:17:00.551391+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -53,7 +53,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "UNCTAD: Morocco draws investment in hydrogen, energy and industry en.hespress.com",
+    "evidenceSnippet": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -71,7 +71,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T00:17:00.551391+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
     "categories": [
       "Investment"
     ],
@@ -94,6 +94,39 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
+    "id": "sig-18cfcff1e963",
+    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "Renewables Now",
+    "sourceType": "news",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
     "id": "sig-f8860427bc11",
     "title": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
     "headline": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
@@ -102,7 +135,7 @@ export const signalReview = [
     "source": "The China-Global South Project",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-09T00:17:00.551391+00:00",
+    "detected": "2026-09-09T04:51:49.501525+00:00",
     "categories": [
       "BESS"
     ],

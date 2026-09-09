@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "صوت الإمارات",
     "sourceType": "news",
     "published": "2026-09-09T05:46:49+00:00",
-    "detected": "2026-09-09T18:38:22.189728+00:00",
+    "detected": "2026-09-09T21:43:27.959902+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-09T18:38:22.189728+00:00",
+    "detected": "2026-09-09T21:43:27.959902+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -64,15 +64,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-5d02d591b9b6",
-    "title": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
-    "headline": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
-    "summary": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance GreentechLead",
+    "id": "sig-50b0eaab3b52",
+    "title": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - greentechlead.com",
+    "headline": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - greentechlead.com",
+    "summary": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance greentechlead.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGFaU0xCSUdQZS03OTdMME1PNEcydXNacUZxVHRIZ1pmdVZvbGpVbk1aYk9KT2g1MDNSQUtUdnRITjkteFZtSzY3b290OWg3NGJOZTVkeWlSVjQwWWhkcXNCZkxvVENieEx0Z1h3MEFZLWhubnk3YThkdlRzMnZ5ZU5tY1hyVG9HNW5rQmxZbVhnWXM5S3RNdW5NN3Nid09qTVZVd19td1pWSlBMSGlod3pSb29EREtacXg0UGFFclI?oc=5",
-    "source": "GreentechLead",
+    "source": "greentechlead.com",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-09T18:38:22.189728+00:00",
+    "detected": "2026-09-09T21:43:27.959902+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -86,7 +86,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance GreentechLead",
+    "evidenceSnippet": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance greentechlead.com",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 42,

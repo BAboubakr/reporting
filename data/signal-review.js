@@ -1,36 +1,5 @@
 export const signalReview = [
   {
-    "id": "sig-df9db3ca3315",
-    "title": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "headline": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics - IndexBox",
-    "summary": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxnRm4zZTg1MktUakhMQ2tJUGFNT1piNE1UMjJLYnNZMHhqVmRkcTVIbEFMSllFbUdNNVM2UXFPVS1CWGNadFZmTmk5VjVaV054TldHeEFMUnhWWDJSSFpjVVB1bHJpTlZ0WVFpbFp4ay1NdVVmZjJvblljQ1ZtYXFXb1duQjJ0Z3BTX1NKMWtlMElzYjQ2bklXaHZxcTg?oc=5",
-    "source": "IndexBox",
-    "sourceType": "news",
-    "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-09T14:37:59.437672+00:00",
-    "categories": [
-      "Wind"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 54,
-    "actionabilityScore": 39,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco Offshore Wind Feasibility Study: OWC Consortium Selected by EIB - News and Statistics IndexBox",
-    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 57,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.57,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
     "id": "sig-6e857bd6af7b",
     "title": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually - صوت الإمارات",
     "headline": "Morocco expands green energy investments with a project to produce 100,000 tons of synthetic fuel annually - صوت الإمارات",
@@ -39,7 +8,7 @@ export const signalReview = [
     "source": "صوت الإمارات",
     "sourceType": "news",
     "published": "2026-09-09T05:46:49+00:00",
-    "detected": "2026-09-09T14:37:59.437672+00:00",
+    "detected": "2026-09-09T18:38:22.189728+00:00",
     "categories": [
       "Investment"
     ],
@@ -70,7 +39,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-09T14:37:59.437672+00:00",
+    "detected": "2026-09-09T18:38:22.189728+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -103,7 +72,7 @@ export const signalReview = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-09T14:37:59.437672+00:00",
+    "detected": "2026-09-09T18:38:22.189728+00:00",
     "categories": [
       "BESS",
       "Manufacturing"

@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "IndexBox",
     "sourceType": "news",
     "published": "2026-09-03T10:42:00+00:00",
-    "detected": "2026-09-08T21:53:24.881273+00:00",
+    "detected": "2026-09-09T00:17:00.551391+00:00",
     "categories": [
       "Wind"
     ],
@@ -31,15 +31,15 @@ export const signalReview = [
     "aiReviewed": false
   },
   {
-    "id": "sig-c425d30eacae",
-    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
-    "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - HESPRESS English - Morocco News",
-    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
+    "id": "sig-72ed0262fb18",
+    "title": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - en.hespress.com",
+    "headline": "UNCTAD: Morocco draws investment in hydrogen, energy and industry - en.hespress.com",
+    "summary": "UNCTAD: Morocco draws investment in hydrogen, energy and industry en.hespress.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjFUR2JxeDByMGlhRHFEMDF2clBOVFdnRGIxem9BM2FEUDBLV3prY1I4dTI0QU1INE0tVDVNMFhqNGtHTk9nRDM2WFAwY0ZRdDZIS0VSY0M4Y0wtTHRFRGNGUDFIQUtWcVdfVnNnVC0wNjRvcmc4NTd4a09oREIwLXYyenI5b3FfVzVPeG5Wc1BmeXlFNDhFZmNHTGktbVQ1?oc=5",
-    "source": "HESPRESS English - Morocco News",
+    "source": "en.hespress.com",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T21:53:24.881273+00:00",
+    "detected": "2026-09-09T00:17:00.551391+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -53,7 +53,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "UNCTAD: Morocco draws investment in hydrogen, energy and industry HESPRESS English - Morocco News",
+    "evidenceSnippet": "UNCTAD: Morocco draws investment in hydrogen, energy and industry en.hespress.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 52,
@@ -71,7 +71,7 @@ export const signalReview = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T21:53:24.881273+00:00",
+    "detected": "2026-09-09T00:17:00.551391+00:00",
     "categories": [
       "Investment"
     ],
@@ -102,7 +102,7 @@ export const signalReview = [
     "source": "The China-Global South Project",
     "sourceType": "news",
     "published": "2026-08-10T07:00:00+00:00",
-    "detected": "2026-09-08T21:53:24.881273+00:00",
+    "detected": "2026-09-09T00:17:00.551391+00:00",
     "categories": [
       "BESS"
     ],

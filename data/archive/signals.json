@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-09T21:43:28.108721+00:00",
+  "updatedAt": "2026-09-10T00:16:32.257695+00:00",
   "totalSignals": 150,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "African Energy",
       "sourceType": "news",
       "published": "2026-09-07T10:27:18+00:00",
-      "detected": "2026-09-09T21:43:27.959902+00:00",
+      "detected": "2026-09-10T00:16:32.092526+00:00",
       "categories": [
         "BESS"
       ],
@@ -44,7 +44,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T22:16:50+00:00",
-      "detected": "2026-09-09T21:43:27.959902+00:00",
+      "detected": "2026-09-10T00:16:32.092526+00:00",
       "categories": [
         "Wind",
         "Investment"

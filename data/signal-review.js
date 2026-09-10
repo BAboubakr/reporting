@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "صوت الإمارات",
     "sourceType": "news",
     "published": "2026-09-09T05:46:49+00:00",
-    "detected": "2026-09-10T13:43:31.603928+00:00",
+    "detected": "2026-09-10T14:28:36.414495+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-10T13:43:31.603928+00:00",
+    "detected": "2026-09-10T14:28:36.414495+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "greentechlead.com",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-10T13:43:31.603928+00:00",
+    "detected": "2026-09-10T14:28:36.414495+00:00",
     "categories": [
       "BESS",
       "Manufacturing"

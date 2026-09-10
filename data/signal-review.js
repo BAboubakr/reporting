@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "صوت الإمارات",
     "sourceType": "news",
     "published": "2026-09-09T05:46:49+00:00",
-    "detected": "2026-09-10T13:40:36.997086+00:00",
+    "detected": "2026-09-10T13:43:31.603928+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-10T13:40:36.997086+00:00",
+    "detected": "2026-09-10T13:43:31.603928+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "greentechlead.com",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-10T13:40:36.997086+00:00",
+    "detected": "2026-09-10T13:43:31.603928+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -93,37 +93,6 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.58,
     "filterReason": "1 technology indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-10T13:40:36.997086+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

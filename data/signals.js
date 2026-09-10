@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-10T14:28:36.414495+00:00",
+    "detected": "2026-09-10T18:31:01.142009+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -40,7 +40,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-26T04:55:51+00:00",
-    "detected": "2026-09-10T14:28:36.414495+00:00",
+    "detected": "2026-09-10T18:31:01.142009+00:00",
     "categories": [
       "BESS"
     ],
@@ -62,6 +62,37 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.69,
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-db4691a0f4ad",
+    "title": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
+    "headline": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
+    "summary": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckpacGhwa0lDU2NGWElSbUp6Z09tQkRHM01RaHJZd3VjMnB2NzBMcmRja0xiOWJLNWQyWVZGRHQxZW1UQTZFOVNnNkpDbE1keVdCQlRsUWFDc1IxY2pkNXcxcVltUHZOQTBrbWFORlRHMW1OLW5Wbk1kUFRycjhyVS1uWjdpNkcxVFE2M19FUm1uSHBsUzZwNFRfbkcxeUcxY2llQ3BHbw?oc=5",
+    "source": "African Energy",
+    "sourceType": "news",
+    "published": "2026-09-07T10:27:18+00:00",
+    "detected": "2026-09-10T18:31:01.142009+00:00",
+    "categories": [
+      "BESS"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 60,
+    "actionabilityScore": 43,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
+    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 72,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.72,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); concrete action relationship",
     "aiReviewed": false
   },
   {
@@ -87,37 +118,6 @@ export const signals = [
     "status": "new",
     "evidenceLevel": "news source",
     "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development africa-energy.com",
-    "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 72,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.72,
-    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); concrete action relationship",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-db4691a0f4ad",
-    "title": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
-    "headline": "Morocco: Contractor selected for major pumped hydro storage development - African Energy",
-    "summary": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckpacGhwa0lDU2NGWElSbUp6Z09tQkRHM01RaHJZd3VjMnB2NzBMcmRja0xiOWJLNWQyWVZGRHQxZW1UQTZFOVNnNkpDbE1keVdCQlRsUWFDc1IxY2pkNXcxcVltUHZOQTBrbWFORlRHMW1OLW5Wbk1kUFRycjhyVS1uWjdpNkcxVFE2M19FUm1uSHBsUzZwNFRfbkcxeUcxY2llQ3BHbw?oc=5",
-    "source": "African Energy",
-    "sourceType": "news",
-    "published": "2026-09-07T10:27:18+00:00",
-    "detected": "2026-09-10T13:43:31.603928+00:00",
-    "categories": [
-      "BESS"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 60,
-    "actionabilityScore": 43,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
     "qualityScore": 72,

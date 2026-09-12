@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-12T05:49:34.355927+00:00",
+    "detected": "2026-09-12T10:49:58.211464+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -40,7 +40,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-26T04:55:51+00:00",
-    "detected": "2026-09-12T05:49:34.355927+00:00",
+    "detected": "2026-09-12T10:49:58.211464+00:00",
     "categories": [
       "BESS"
     ],
@@ -62,6 +62,37 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.69,
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
+    "aiReviewed": false
+  },
+  {
+    "id": "sig-3c8545b5281d",
+    "title": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
+    "headline": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
+    "summary": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1hMLTljM2tiamVOUEhsamhhaEtDZWtGcmswS0ozcDV0OGN1RVFXYXZETm1pMnUydTRyVHlDOFpNVVVrSHFCdHdUY2k2eXktQ24tTTc0cDVsdHgxMFJ3SFUwT2UtTl9KcXVvV2hmSTRhM2ZPenk0OFI3Um0yQ3A5YjczWUhXNGF5NTdBbHZkLU5sd1lpZ1VRNQ?oc=5",
+    "source": "energynews.pro",
+    "sourceType": "news",
+    "published": "2026-09-08T21:09:18+00:00",
+    "detected": "2026-09-12T10:49:58.211464+00:00",
+    "categories": [
+      "Wind"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 36,
+    "actionabilityScore": 26,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   },
   {

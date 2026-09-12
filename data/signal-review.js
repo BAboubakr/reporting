@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "صوت الإمارات",
     "sourceType": "news",
     "published": "2026-09-09T05:46:49+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
+    "detected": "2026-09-12T00:20:01.490440+00:00",
     "categories": [
       "Investment"
     ],
@@ -39,7 +39,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
+    "detected": "2026-09-12T00:20:01.490440+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -72,7 +72,7 @@ export const signalReview = [
     "source": "greentechlead.com",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
+    "detected": "2026-09-12T00:20:01.490440+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -93,99 +93,6 @@ export const signalReview = [
     "filterDecision": "REVIEW",
     "filterConfidence": 0.58,
     "filterReason": "1 technology indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-24T07:00:00+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-187f1ddc11f2",
-    "title": "PM Carney’s Investment Summit Risks Leaving Canada Further Behind - Environmental Defence",
-    "headline": "PM Carney’s Investment Summit Risks Leaving Canada Further Behind - Environmental Defence",
-    "summary": "PM Carney’s Investment Summit Risks Leaving Canada Further Behind Environmental Defence",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVQzcG45dDY4YVVzS0RDTmpZRDRaSnJkdE1wUDVydmxXaWg5aHVVLUJ2YVJYVmMtNUprR3NmdWhGaFdLRFUwM2ppUnhsNHJQZDhtVHY1Q1JLQ2p1UUdVV1hqdkY2VWRxYzVBRGtub1hhSHAtcjE4UVAzSVU5Y1hwTXBqa2t1Z25WZjFiUE8xYk9MNkZXV0syYnJFY1YyZk9BbGs5OWg0ejJ5dTczWU04?oc=5",
-    "source": "Environmental Defence",
-    "sourceType": "news",
-    "published": "2026-09-11T14:48:45+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "PM Carney’s Investment Summit Risks Leaving Canada Further Behind Environmental Defence",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false
-  },
-  {
-    "id": "sig-39f7a5aed08f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - aninews.in",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - aninews.in",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement aninews.in",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-    "source": "aninews.in",
-    "sourceType": "news",
-    "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-11T21:45:31.899701+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement aninews.in",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false
   }
 ];

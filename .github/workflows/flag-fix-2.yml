@@ -1,0 +1,34 @@
+name: Fix Morocco flag with official SVG
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: ${{ !contains(github.event.head_commit.message, 'fix: use official Morocco flag SVG') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace flag with official Wikimedia SVG
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8')
+          start=s.index('.morocco-flag{')
+          end=s.index('\n</style>', start)
+          new='''.morocco-flag{display:inline-block;width:24px;height:16px;margin-right:7px;vertical-align:-3px;background:#c1272d url("https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg") center/100% 100% no-repeat;border:0;border-radius:0;position:relative;box-shadow:none}\n.morocco-flag::before,.morocco-flag::after{display:none}'''
+          p.write_text(s[:start]+new+s[end:],encoding='utf-8')
+          PY
+      - name: Commit and remove workflow
+        run: |
+          rm -f .github/workflows/flag-fix-2.yml
+          git config user.name 'Atlas Flag Fix'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html .github/workflows/flag-fix-2.yml
+          git commit -m 'fix: use official Morocco flag SVG'
+          git push

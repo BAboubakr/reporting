@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-12T00:20:01.490440+00:00",
+    "detected": "2026-09-12T05:49:34.355927+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -40,7 +40,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-26T04:55:51+00:00",
-    "detected": "2026-09-12T00:20:01.490440+00:00",
+    "detected": "2026-09-12T05:49:34.355927+00:00",
     "categories": [
       "BESS"
     ],

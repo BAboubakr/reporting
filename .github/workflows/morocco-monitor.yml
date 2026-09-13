@@ -34,9 +34,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ATLAS_AI_MODEL: ${{ vars.ATLAS_AI_MODEL }}
         run: python scripts/monitor.py
+      - name: Enrich high-value signals with multi-source public research
+        id: enrich
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ATLAS_AI_MODEL: ${{ vars.ATLAS_AI_MODEL }}
+        run: python scripts/enrich_signals.py
       - name: Restore history, update permanent archive and calculate monitoring health
         env:
           COLLECT_OUTCOME: ${{ steps.collect.outcome }}
+          ENRICH_OUTCOME: ${{ steps.enrich.outcome }}
         run: |
           python - <<'PY'
           import json, os, re
@@ -49,12 +57,20 @@ jobs:
               return json.loads(m.group(1)) if m else []
           old={x['id']:x for x in load_js('/tmp/signals-before.js') if x.get('id')}
           new={x['id']:x for x in load_js('data/signals.js') if x.get('id')}
+
+          # Preserve previously researched intelligence when the hourly collector
+          # regenerates the same signal without refreshing its enrichment.
+          for sid, previous in old.items():
+              current=new.get(sid)
+              if current and previous.get('enrichment') and not current.get('enrichment'):
+                  current['enrichment']=previous['enrichment']
+                  current['evidenceLevel']=previous.get('evidenceLevel',current.get('evidenceLevel'))
+
           merged={**old,**new}
           current=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
           Path('data/signals.js').write_text('export const signals = '+json.dumps(current,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
 
           # Permanent archive: every signal ever observed, keyed by stable id.
-          # Unlike the current feed, this file is never truncated to 250 items.
           archive_path=Path('data/archive/signals.json')
           archive_path.parent.mkdir(parents=True,exist_ok=True)
           try:
@@ -79,7 +95,7 @@ jobs:
               m=re.search(r'export const signalReview = (.*);\s*$',Path('data/signal-review.js').read_text(encoding='utf-8'),re.S)
               review=json.loads(m.group(1)) if m else []
           status='success' if os.environ.get('COLLECT_OUTCOME')=='success' else 'failed'
-          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(current),'archivedSignals':len(archived),'reviewQueue':len(review),'competitorSignals':sum(1 for x in current if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved and archive retained']}
+          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':17,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(current),'archivedSignals':len(archived),'reviewQueue':len(review),'competitorSignals':sum(1 for x in current if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'enrichmentEnabled':bool(os.environ.get('GEMINI_API_KEY')),'enrichmentRun':'success' if os.environ.get('ENRICH_OUTCOME')=='success' else 'failed','errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved and archive retained']}
           Path('data/monitor-status.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           print(json.dumps(health,indent=2))
           PY

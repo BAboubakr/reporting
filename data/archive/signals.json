@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-13T22:26:02.204509+00:00",
+  "updatedAt": "2026-09-13T22:46:14.589328+00:00",
   "totalSignals": 153,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T22:16:50+00:00",
-      "detected": "2026-09-13T22:25:59.372771+00:00",
+      "detected": "2026-09-13T22:46:10.546524+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -60,7 +60,7 @@
         "maxSources": 9
       },
       "enrichment": {
-        "researchedAt": "2026-09-13T22:25:59.548593+00:00",
+        "researchedAt": "2026-09-13T22:46:10.684287+00:00",
         "status": "public-evidence",
         "researchLevel": "L2",
         "researchLevelName": "Investigate",
@@ -81,10 +81,10 @@
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
           },
           {
-            "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+            "title": "Feasibility study for Morocco’s first offshore wind farm - windtech-international.com",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-            "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
-            "source": "Windtech International",
+            "snippet": "Feasibility study for Morocco’s first offshore wind farm windtech-international.com",
+            "source": "windtech-international.com",
             "published": "Thu, 10 Sep 2026 08:28:10 GMT",
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
           },
@@ -137,10 +137,10 @@
             "query": "Morocco wind project contractor tender"
           },
           {
-            "title": "Global Land Drilling Rigs Tracker - Westwood Global Energy Group",
+            "title": "Global Land Drilling Rigs Tracker - westwoodenergy.com",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFRnbU5sRTlmeXVjUlFWU2VVTl9VYVR2N0l1SUJJWG42WUQzSTE0VVA0Z0FoTXJpZHk2S3lhNHlMbGZvZUI1a0RZY2U3elhienZ6ZDRzRERiNnByUFBXSF9kUVlwOHZlODBMYW9JdFFwUEFNaEMtd09Wck9nOWstNjZjQ1YwdldqNlE?oc=5",
-            "snippet": "Global Land Drilling Rigs Tracker Westwood Global Energy Group",
-            "source": "Westwood Global Energy Group",
+            "snippet": "Global Land Drilling Rigs Tracker westwoodenergy.com",
+            "source": "westwoodenergy.com",
             "published": "Mon, 24 Aug 2026 07:00:00 GMT",
             "query": "Morocco wind project contractor tender"
           }
@@ -169,7 +169,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-13T22:25:59.372771+00:00",
+      "detected": "2026-09-13T22:46:10.546524+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -218,7 +218,7 @@
         "maxSources": 5
       },
       "enrichment": {
-        "researchedAt": "2026-09-13T22:25:59.548593+00:00",
+        "researchedAt": "2026-09-13T22:46:10.684287+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",

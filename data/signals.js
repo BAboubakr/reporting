@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-13T14:45:04.488993+00:00",
+    "detected": "2026-09-13T14:59:29.407020+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -21,7 +21,7 @@ export const signals = [
     "actionabilityScore": 40,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -29,7 +29,123 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "researchPriority": 70,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "consulting/advisory potential",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "enrichment": {
+      "researchedAt": "2026-09-13T14:59:29.580133+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 70,
+      "researchQueries": [
+        "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
+        "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+        "Morocco wind project contractor tender",
+        "Morocco offshore wind project developer"
+      ],
+      "sources": [
+        {
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
+          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+        },
+        {
+          "title": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1hMLTljM2tiamVOUEhsamhhaEtDZWtGcmswS0ozcDV0OGN1RVFXYXZETm1pMnUydTRyVHlDOFpNVVVrSHFCdHdUY2k2eXktQ24tTTc0cDVsdHgxMFJ3SFUwT2UtTl9KcXVvV2hmSTRhM2ZPenk0OFI3Um0yQ3A5YjczWUhXNGF5NTdBbHZkLU5sd1lpZ1VRNQ?oc=5",
+          "snippet": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
+          "source": "energynews.pro",
+          "published": "Tue, 08 Sep 2026 21:09:18 GMT",
+          "query": "Morocco wind project contractor tender"
+        },
+        {
+          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
+          "source": "Renewables Now",
+          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "query": "Morocco wind project contractor tender"
+        },
+        {
+          "title": "OWC to support the development of Morocco’s first offshore wind farm - 4C Offshore",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGRIOUlOb1p5bTdSNzkwZ2JSTkVQWlNzXzZ6V1FtaTlwNGdPR0JvdmxqUU9mNDg1TzBfZUEzNjU2NFFMUHA2RnY0cjZiR05pZEhsZ01iVTYwT2NTc2RvclV5b1hYV3NjUE9DNkVZeXY2cm9jZDh1enNBNFBYVG0yUS1NSjVjVUpVQzVHQmZxUE84QWZlMXVwbWZqSmo2N0hSeUV0TEx1aVFmeTdkVGJ3?oc=5",
+          "snippet": "OWC to support the development of Morocco’s first offshore wind farm 4C Offshore",
+          "source": "4C Offshore",
+          "published": "Mon, 07 Sep 2026 21:19:02 GMT",
+          "query": "Morocco offshore wind project developer"
+        },
+        {
+          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - energyglobal.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
+          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development energyglobal.com",
+          "source": "energyglobal.com",
+          "published": "Mon, 07 Sep 2026 14:00:32 GMT",
+          "query": "Morocco offshore wind project developer"
+        },
+        {
+          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco wind project contractor tender"
+        },
+        {
+          "title": "Global Land Drilling Rigs Tracker - Westwood Global Energy Group",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFRnbU5sRTlmeXVjUlFWU2VVTl9VYVR2N0l1SUJJWG42WUQzSTE0VVA0Z0FoTXJpZHk2S3lhNHlMbGZvZUI1a0RZY2U3elhienZ6ZDRzRERiNnByUFBXSF9kUVlwOHZlODBMYW9JdFFwUEFNaEMtd09Wck9nOWstNjZjQ1YwdldqNlE?oc=5",
+          "snippet": "Global Land Drilling Rigs Tracker Westwood Global Energy Group",
+          "source": "Westwood Global Energy Group",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "query": "Morocco wind project contractor tender"
+        }
+      ],
+      "sourceCount": 8,
+      "project": null,
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Material claims not independently confirmed in public primary sources"
+      ]
+    }
   },
   {
     "id": "sig-c8dd7dc66e44",

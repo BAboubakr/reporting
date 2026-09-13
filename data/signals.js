@@ -8,14 +8,16 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-13T22:46:10.546524+00:00",
+    "detected": "2026-09-13T22:51:29.410719+00:00",
     "categories": [
       "Wind",
       "Investment"
     ],
     "signalType": "project announcement",
     "projectStage": "development",
-    "entities": [],
+    "entities": [
+      "EIB"
+    ],
     "competitor": null,
     "relevanceScore": 56,
     "actionabilityScore": 40,
@@ -30,10 +32,12 @@ export const signals = [
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
     "aiReviewed": false,
-    "researchPriority": 70,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 95,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
     "researchPriorityReasons": [
+      "DFI decision/financing",
       "consulting/advisory potential",
       "investment/financing",
       "project development"
@@ -45,26 +49,40 @@ export const signals = [
       "competitorMove": false,
       "tender": false,
       "award": false,
-      "dfi": false,
-      "dfiDecision": false,
+      "dfi": true,
+      "dfiDecision": true,
       "majorProject": false,
       "consultingPotential": true
     },
     "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.0-entity-aware-adaptive"
     },
     "enrichment": {
-      "researchedAt": "2026-09-13T22:46:10.684287+00:00",
+      "engineVersion": "5.0-entity-aware-adaptive",
+      "researchedAt": "2026-09-13T22:51:29.587351+00:00",
       "status": "public-evidence",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 70,
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 95,
       "researchQueries": [
+        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
+        "\"Morocco Offshore Wind Feasibility Study\" contractor",
+        "\"Morocco Offshore Wind Feasibility Study\" tender",
+        "\"EIB\" Morocco Wind Investment",
+        "\"EIB\" Morocco Offshore Wind Feasibility Study",
         "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
         "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-        "Morocco wind project contractor tender",
-        "Morocco offshore wind project developer"
+        "Morocco offshore wind MASEN EIB feasibility",
+        "Morocco offshore wind Essaouira contractor",
+        "Morocco offshore wind NOVEC OWC",
+        "site:eib.org Morocco offshore wind"
       ],
       "sources": [
         {
@@ -76,12 +94,20 @@ export const signals = [
           "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
         },
         {
-          "title": "Feasibility study for Morocco’s first offshore wind farm - windtech-international.com",
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-          "snippet": "Feasibility study for Morocco’s first offshore wind farm windtech-international.com",
-          "source": "windtech-international.com",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
           "published": "Thu, 10 Sep 2026 08:28:10 GMT",
           "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
         },
         {
           "title": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
@@ -89,7 +115,7 @@ export const signals = [
           "snippet": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
           "source": "energynews.pro",
           "published": "Tue, 08 Sep 2026 21:09:18 GMT",
-          "query": "Morocco wind project contractor tender"
+          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
         },
         {
           "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
@@ -97,7 +123,15 @@ export const signals = [
           "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
           "source": "Ocean Energy Resources",
           "published": "Fri, 11 Sep 2026 13:34:20 GMT",
-          "query": "Morocco offshore wind project developer"
+          "query": "Morocco offshore wind Essaouira contractor"
+        },
+        {
+          "title": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFfa2MyWmdzNzZtLWRURkRGdGdyNWlVMlgxN25pdUpvUWRTNGcxN09iaVhhX3E2LURwWm45QVN4QWQwWVRnSC1CRlJRVC1pYWhVTjJsVWUzZGNXaElkYXppRWV0LVhXSjAwMUxJcFNNazJvc1ZYeHFlblFtX0llMTl4QmpiZDU2Q3VpaE9zY2FNT21SUnU1SjVOQjlIbmV6WFVNZ2dSVFVCZ2Ffcm03QVc4dFVTVDg?oc=5",
+          "snippet": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Fri, 11 Sep 2026 20:50:38 GMT",
+          "query": "site:eib.org Morocco offshore wind"
         },
         {
           "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
@@ -105,7 +139,15 @@ export const signals = [
           "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
           "source": "Renewables Now",
           "published": "Mon, 07 Sep 2026 09:55:19 GMT",
-          "query": "Morocco wind project contractor tender"
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+          "source": "Agenzia Nova",
+          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
         },
         {
           "title": "OWC to support the development of Morocco’s first offshore wind farm - 4C Offshore",
@@ -113,7 +155,15 @@ export const signals = [
           "snippet": "OWC to support the development of Morocco’s first offshore wind farm 4C Offshore",
           "source": "4C Offshore",
           "published": "Mon, 07 Sep 2026 21:19:02 GMT",
-          "query": "Morocco offshore wind project developer"
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
+          "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "query": "site:eib.org Morocco offshore wind"
         },
         {
           "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
@@ -121,35 +171,42 @@ export const signals = [
           "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
           "source": "rivieramm.com",
           "published": "Thu, 03 Sep 2026 11:03:22 GMT",
-          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+          "query": "\"EIB\" Morocco Wind Investment"
         },
         {
-          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
-          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
           "source": "Construction Review",
-          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "query": "Morocco wind project contractor tender"
-        },
-        {
-          "title": "Global Land Drilling Rigs Tracker - westwoodenergy.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFRnbU5sRTlmeXVjUlFWU2VVTl9VYVR2N0l1SUJJWG42WUQzSTE0VVA0Z0FoTXJpZHk2S3lhNHlMbGZvZUI1a0RZY2U3elhienZ6ZDRzRERiNnByUFBXSF9kUVlwOHZlODBMYW9JdFFwUEFNaEMtd09Wck9nOWstNjZjQ1YwdldqNlE?oc=5",
-          "snippet": "Global Land Drilling Rigs Tracker westwoodenergy.com",
-          "source": "westwoodenergy.com",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "Morocco wind project contractor tender"
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind Essaouira contractor"
         }
       ],
-      "sourceCount": 9,
-      "project": null,
-      "facts": [],
+      "sourceCount": 12,
+      "project": "Morocco Offshore Wind Feasibility Study",
+      "entities": [
+        "EIB"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0,
+            5,
+            6,
+            10
+          ]
+        }
+      ],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
+        "Track the project as a strategic development and identify awarded scope plus remaining owner’s-engineer / technical-advisory packages.",
         "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
       ],
-      "overallConfidence": "LOW",
+      "overallConfidence": "MEDIUM",
       "unresolved": [
         "Material claims not independently confirmed in public primary sources"
       ]
@@ -164,7 +221,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-13T22:46:10.546524+00:00",
+    "detected": "2026-09-13T22:51:29.410719+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -187,6 +244,7 @@ export const signals = [
     "filterConfidence": 0.52,
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
     "aiReviewed": false,
+    "project": null,
     "researchPriority": 81,
     "researchLevel": "L1",
     "researchLevelName": "Verify",
@@ -212,16 +270,23 @@ export const signals = [
       "maxQueries": 3,
       "maxSources": 5
     },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.0-entity-aware-adaptive"
+    },
     "enrichment": {
-      "researchedAt": "2026-09-13T22:46:10.684287+00:00",
+      "engineVersion": "5.0-entity-aware-adaptive",
+      "researchedAt": "2026-09-13T22:51:29.587351+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 81,
       "researchQueries": [
-        "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\"",
-        "Morocco AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-        "Morocco AFRY Market intelligence"
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+        "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\""
       ],
       "sources": [
         {
@@ -230,11 +295,247 @@ export const signals = [
           "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
           "source": "Renewables Now",
           "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "Morocco AFRY tapped for 191-MW hydropower project in India - Renewables Now"
+          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now"
         }
       ],
       "sourceCount": 1,
       "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a relationship/competitive signal and identify its exact contracted or proposed scope.",
+        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Material claims not independently confirmed in public primary sources"
+      ]
+    }
+  },
+  {
+    "id": "sig-be6a10ccf717",
+    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-08-24T07:00:00+00:00",
+    "detected": "2026-09-13T22:51:29.410719+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.0-entity-aware-adaptive"
+    },
+    "enrichment": {
+      "engineVersion": "5.0-entity-aware-adaptive",
+      "researchedAt": "2026-09-13T22:51:29.587351+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News\"",
+        "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+      ],
+      "sources": [
+        {
+          "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
+          "snippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
+          "source": "Morocco World News",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        },
+        {
+          "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
+          "snippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
+          "source": "Morocco World News",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        },
+        {
+          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
+          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+          "source": "ANI News",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        },
+        {
+          "title": "Indonesia, Morocco see stronger economic ties, trade growth - ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFZTaXFwWkdTRlZ6X3k5MUV3cE9xUmEyQmJ2OElZT1I0eU5TWnlEcXZST2FtLUM1NU9xRjBNUHRIZ21DcFB6a1NjMnBIcE5BRnEtNGFWQTFOc3YwMkNSNGVwZV9RWENhc2djT2pzUzBickFodGYzd2loZG41U01GeFZLTlZ4Szctdk9pbVU1VGpFMnNpQXIxTUpfSdIBoAFBVV95cUxObjVwUWQ1ZHptaThUTy13WXBLa2tYeDY5RmFvd2JEY2RuLXJEOHVFUGYyOWZzT3ZFOXJlS1F5S1RNWjlMdDFITVQyNHVweFhIek12MTlZZEdRdTVfZktPTkFTLTE0b3J6Um10aGVtcGROZ0ZURWtQUkhtaHd5ZlIxMXF0NjBJTmhjTjFvclVnbVVmRktZVlJpZERLSkFCNE1F?oc=5",
+          "snippet": "Indonesia, Morocco see stronger economic ties, trade growth ANTARA News",
+          "source": "ANTARA News",
+          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        }
+      ],
+      "sourceCount": 4,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Material claims not independently confirmed in public primary sources"
+      ]
+    }
+  },
+  {
+    "id": "sig-17e32fc65e81",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
+    "source": "ANI News",
+    "sourceType": "news",
+    "published": "2026-08-25T07:00:00+00:00",
+    "detected": "2026-09-13T22:51:29.410719+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.0-entity-aware-adaptive"
+    },
+    "enrichment": {
+      "engineVersion": "5.0-entity-aware-adaptive",
+      "researchedAt": "2026-09-13T22:51:29.587351+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News\"",
+        "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News"
+      ],
+      "sources": [
+        {
+          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
+          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+          "source": "ANI News",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News"
+        },
+        {
+          "title": "\"Don't be abusive\": Kiren Rijiju hits back at Pawan Khera, warns of reporting \"indiscipline conduct\" to CM Himanta Biswa Sarma - India's News.Net",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMW9MelVMVEVjN0hqMDRSd0RSbUlyT1N1eG1qVFlBUVl5Sll6Y3NScWk5V3B5aU05UkdPTjB2S21vSndLT0FSc2QxR3l3TzM3ZTl4UlJVa0w3S2h2NjJPcmJiRmowM28wNHdZMjRPdTNnZnBOS2pCNndFeU8wdnNrSk1UaW9sWGtCYlYwb1VTTTZpbDRVQ0xzcUM1Vjd1RHNTcDJPa0FVNm5lQ3VMNU81SGlNSnlIaGQ2aDB6eVJ4bGRVTmZuWmJ1ckJhWFd2T3J3VTNtc2NRUDV6WTRlYzMzWTVrSFMxUlF4ZmlDYnZGSmF6bFk?oc=5",
+          "snippet": "\"Don't be abusive\": Kiren Rijiju hits back at Pawan Khera, warns of reporting \"indiscipline conduct\" to CM Himanta Biswa Sarma India's News.Net",
+          "source": "India's News.Net",
+          "published": "Wed, 26 Aug 2026 06:28:00 GMT",
+          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News"
+        },
+        {
+          "title": "UN chief strongly condemns fatal attack on peacekeepers in South Sudan - India's News.Net",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3hDcHEzeHd5NGY5UkhHd1kydUlhU0UtSjlNcTdNaDFBa2xJUEJlcUd5R0JWT0VlVUNTcHpKRnpqOXlkTFFQYjBqY1BZeXBJVnBGNUhHUGRqOHNmWmt0TjU4bjVMVkNUdVIwSWVSMzBjMDBJdWk3ZDJQQkxueXpEV0dpUnlhN3dLWGJ4MUdmc0dmNFBXUGR0RlJBSjFCbzY1UkFnOXd5bjFuUUtxdWNtWnZB?oc=5",
+          "snippet": "UN chief strongly condemns fatal attack on peacekeepers in South Sudan India's News.Net",
+          "source": "India's News.Net",
+          "published": "Tue, 25 Aug 2026 23:27:00 GMT",
+          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News"
+        }
+      ],
+      "sourceCount": 3,
+      "project": null,
+      "entities": [],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
@@ -1286,32 +1587,6 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-be6a10ccf717",
-    "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "headline": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-    "summary": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-08-24T17:45:58+00:00",
-    "detected": "2026-08-26T09:10:35.641399+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },
   {
@@ -3560,31 +3835,6 @@ export const signals = [
     "status": "new",
     "evidenceLevel": "news source",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
-  },
-  {
-    "id": "sig-17e32fc65e81",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-    "source": "ANI News",
-    "sourceType": "news",
-    "published": "2026-08-25T11:37:00+00:00",
-    "detected": "2026-08-25T17:42:44.173292+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 40,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH"
   },

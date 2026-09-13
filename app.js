@@ -1,5 +1,5 @@
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
-import { signals as rawSignals } from './data/signals.js';
+import { signals as rawSignals } from './data/signals.js?v=20260913-2';
 import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js';
 const $=id=>document.getElementById(id),storageKey='atlas-local-state-v2',saved=JSON.parse(localStorage.getItem(storageKey)||'{}'),localOpportunities=saved.opportunities||[],localDevelopments=saved.developments||[],signals=cleanSignals(rawSignals);
 const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d};

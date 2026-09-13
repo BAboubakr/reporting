@@ -5,7 +5,7 @@ GENERIC_PATTERNS = [r"\b(?:market|tender|information|movement)\s+signal\s+releva
 EVENT_WORDS = ["awarded","won","selected","appointed","tender","procurement","contract","project","plant","farm","construction","commissioned","investment","financing","funding","agreement","partnership","regulation","law","tariff","announces","launches","develop","pre-feed","feasibility","appel d'offres","lauréat","retenu","attribué","mise en service"]
 ACTOR_WORDS = ["masen","onee","anre","ocp","iresen","amee","novec","afry","artelia","tractebel","wsp","worley","egis","fichtner","mott macdonald","dnv","ilf","kbr","ornx","green power morocco","chec"]
 TECH_WORDS = ["solar","photovoltaic","pv","bess","battery","storage","wind","eolien","grid","transmission","substation","hydrogen","ammonia","ptx","electrolysis","factory","module","cell"]
-LOCATION_WORDS = ["morocco","maroc","rabat","casablanca","fez","fès","tanger","laâyoune","laayoune","ouarzazate","dakhla","khouribga","benguerir","laâyoune"]
+LOCATION_WORDS = ["morocco","maroc","rabat","casablanca","fez","fès","tanger","laâyoune","laayoune","ouarzazate","dakhla","khouribga","benguerir"]
 ACTION_PAIRS = [("selected", "for"), ("awarded", "contract"), ("wins", "contract"), ("appointed", "for"), ("launches", "tender"), ("signed", "agreement"), ("announces", "project"), ("develop", "project")]
 
 def norm(s): return re.sub(r"\s+", " ", re.sub(r"[^\wÀ-ÿ@.-]", " ", str(s or "").lower())).strip()
@@ -26,13 +26,14 @@ def heuristic(item):
     if loc: reasons.append(f"{len(loc)} Morocco/location indicator(s)")
     if re.search(r"\b\d+(?:[.,]\d+)?\s*(?:mw|mwh|gw|mdh|mmdh|million|billion|%)\b",text,re.I): score+=10; reasons.append("quantitative detail")
     if re.search(r"\b(?:202\d|20[3-9]\d)\b",text): score+=4
-    # Strong combinations: a real actor + event + technology/project context is a high-quality development.
     if actors and events and (tech or "project" in text or "contract" in text): score+=15; reasons.append("strong actor/event/development combination")
     if any(a in text and b in text for a,b in ACTION_PAIRS): score+=10; reasons.append("concrete action relationship")
     if "@" in source and len(desc)<80: score-=25; reasons.append("mailbox/portal source without substantive evidence")
     score=max(0,min(100,score))
-    decision="KEEP" if score>=62 else ("REVIEW" if score>=42 else "REJECT")
-    return {"decision":decision,"confidence":round(min(.99,.50+abs(score-50)/100),2),"qualityScore":score,"reason":"; ".join(reasons) or "insufficient substantive evidence"}
+    # IMPORTANT: the collector must not destructively discard plausible signals.
+    # Low-confidence items go to REVIEW; only explicit boilerplate/noise is rejected.
+    decision="KEEP" if score>=45 else ("REVIEW" if score>=20 else "REVIEW")
+    return {"decision":decision,"confidence":round(min(.99,.50+abs(score-50)/100),2),"qualityScore":score,"reason":"; ".join(reasons) or "plausible signal; requires review"}
 
 def gemini_review(items):
     key=os.getenv("GEMINI_API_KEY")

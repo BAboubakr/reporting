@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from research_priority import research_priority
 
-ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; TIMEOUT=20; MAX_SIGNALS=24; MAX_RESULTS_PER_QUERY=5; ENRICHMENT_TTL_HOURS=24
+ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; TIMEOUT=20; MAX_RESULTS_PER_QUERY=5; ENRICHMENT_TTL_HOURS=24
 
 def fetch(url):
     req=urllib.request.Request(url,headers={'User-Agent':'Atlas-Morocco-Intelligence/4.0'})
@@ -87,12 +87,14 @@ def fallback_enrich(signal,evidence):
 def main():
     signals=load_signals();now=datetime.now(timezone.utc).isoformat();targets=[]
     # Every signal gets a priority decision. Only L1-L4 consume research budget.
+    # There is intentionally NO global target cap: the per-signal research level
+    # controls effort, while the 24h TTL prevents repeated work on the same signal.
     for s in signals:
         meta=research_priority(s);s['researchPriority']=meta['score'];s['researchLevel']=meta['level'];s['researchLevelName']=meta['levelName'];s['researchPriorityReasons']=meta['reasons'];s['researchTriggers']=meta['triggers'];s['researchBudget']={'maxQueries':meta['maxQueries'],'maxSources':meta['maxSources']}
         if meta['levelNumber']>0 and not already_fresh(s):targets.append((meta['levelNumber'],meta['score'],s,meta))
-    # Highest-value work goes first. Keep an hourly ceiling so low-value news
-    # cannot crowd out strategic signals.
-    targets=sorted(targets,key=lambda x:(x[0],x[1]),reverse=True)[:MAX_SIGNALS];enriched_count=0
+    # Highest-value work goes first, but every eligible signal is processed in
+    # this run. L0 signals remain intentionally monitor-only.
+    targets=sorted(targets,key=lambda x:(x[0],x[1]),reverse=True);enriched_count=0
     level_counts={}
     for level_num,score,signal,meta in targets:
         queries=make_queries(signal,level_num)[:meta['maxQueries']];evidence=[];seen=set()

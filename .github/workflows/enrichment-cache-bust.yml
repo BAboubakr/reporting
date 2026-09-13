@@ -1,0 +1,33 @@
+name: Enrichment cache bust
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  bust:
+    runs-on: ubuntu-latest
+    if: ${{ !contains(github.event.head_commit.message, 'Enrichment cache bust') }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update enrichment asset versions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text()
+          s = s.replace('app.js?v=20260913-2', 'app.js?v=20260913-3')
+          s = s.replace('signal-enrichment.js?v=20260913-1', 'signal-enrichment.js?v=20260913-2')
+          p.write_text(s)
+          PY
+          rm -f .github/workflows/enrichment-cache-bust.yml
+      - name: Commit cache-busted assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html .github/workflows/enrichment-cache-bust.yml
+          git diff --cached --quiet || git commit -m 'Enrichment cache bust'
+          git push

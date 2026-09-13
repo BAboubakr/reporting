@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-13T09:32:49.148087+00:00",
+  "updatedAt": "2026-09-13T09:40:47.570233+00:00",
   "totalSignals": 152,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T22:16:50+00:00",
-      "detected": "2026-09-13T09:32:48.922311+00:00",
+      "detected": "2026-09-13T09:40:45.156669+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -45,7 +45,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-26T04:55:51+00:00",
-      "detected": "2026-09-13T06:12:45.914337+00:00",
+      "detected": "2026-09-13T09:40:45.156669+00:00",
       "categories": [
         "BESS"
       ],
@@ -59,7 +59,7 @@
       "actionabilityScore": 33,
       "noveltyScore": 0.0,
       "status": "new",
-      "evidenceLevel": "news source",
+      "evidenceLevel": "public search evidence",
       "evidenceSnippet": "Worley-led team to help advance 1-GW Ontario pumped storage project Renewables Now",
       "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; Worley detected",
       "fichtnerRelevance": "WATCH",
@@ -67,7 +67,179 @@
       "filterDecision": "KEEP",
       "filterConfidence": 0.69,
       "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
-      "aiReviewed": false
+      "aiReviewed": false,
+      "enrichment": {
+        "researchedAt": "2026-09-13T09:40:45.324272+00:00",
+        "status": "public-evidence",
+        "researchQueries": [
+          "\"Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now\"",
+          "Morocco Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
+          "Morocco Worley BESS",
+          "Morocco pumped storage hydro project contractor",
+          "Morocco STEP pumped hydro tender",
+          "Morocco pumped storage ONEE contractor",
+          "Ifahsa pumped hydropower storage Morocco",
+          "Ifahsa contractor Morocco ONEE",
+          "site:worldbank.org Ifahsa pumped hydropower Morocco",
+          "site:onee.ma Ifahsa STEP Morocco"
+        ],
+        "sources": [
+          {
+            "title": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1ZJQVVDR0Y1VE1ZLWhyaEt3SWJVWTM0SGhxaHJzMTd4M2tFR1M1UTh3Z3k3VGFYRDJrVFlzZEQ0Nk5nSG1HbUJmaEZfQ29BbDh2NktqRzJuU3R5YlNkalJuOGg1MDlqN21vb3IyamJLV2FjaHYzbjhFNk1fTkpkOVlVYTY3ZDhKZS1fRm02d1NUdlN2eVpULWpIbkZBSHZwZm1XaEZqRWJHaTg?oc=5",
+            "snippet": "Worley-led team to help advance 1-GW Ontario pumped storage project Renewables Now",
+            "source": "Renewables Now",
+            "published": "Wed, 26 Aug 2026 04:55:51 GMT",
+            "query": "Morocco Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now"
+          },
+          {
+            "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - Pumps Africa Magazine",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTM3TnhodEdHSGctYVphekFkVXBvTEs2bEpkY0g5UXE3d2Z6ZWVkelhFR29jalB5V0tlcHZoZGwzbWhZNjQ5ZGx5UFlqU2h1bzV3LXRyU0xmSkJkRm1FN21iSTFuMEVMTTFyX18xRWJmM2dneDAzdjdFaVRtMnNxenN6MGRLb0xMd29WMG9YeHJIMlFBR0VOY2xVYkzSAaQBQVVfeXFMT1o5VC0zelp4V0xHbm0zSEk1M3ZUeG1uaXRvcUszZ3BHVWN6R0RpYkR0WmdqNDhxQVV3dktFWlpRajBVT240NS12TTFUNzdUaS1nT3ZDS1E4SGgxQzBRdF84TGxUdFdYX2x6QjZ6b0R1d2dfeXdfRVJzbGp3elIwYjV4Qk1MRTdrUUN4TTZ2VGRhaDdiX0pOWlNrcmhMYV93UUNoWTU?oc=5",
+            "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
+            "source": "Pumps Africa Magazine",
+            "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa contractor Morocco ONEE"
+          },
+          {
+            "title": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan - Construction Review",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW9sTE9SZ2RqN2dlVkdOaTNZbnNYQlFEMWdSUzJFUWk2bnBvaGJHb1pzRW5rOHkxTWRJSGlpdUc4VnlJWnhkMFZjYTZMUGVxNFFsVEJHd3drWEc1NmVPSlpZNzhEVDhYU2g5RkhyS3JZbHlMMV9IQ0VSemkxbU8ycHF3ZGY1UHFPN0ZBb2I1WU1mNHg5VHVBUDZ2aExJN2tPeXRSdFN1VWxxZHNFbnE1ZGRMVnkxNkhSQk9kU1d5ckZHQ0tL?oc=5",
+            "snippet": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan Construction Review",
+            "source": "Construction Review",
+            "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          },
+          {
+            "title": "World Bank backs Morocco pumped storage project - International Water Power",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2kxVUdLNVBxM3g5eXZTcEVTbTEtZVBYY3N1LVByT2s4OHlvdkxpbTNMSmJZRWMzU19TTkxUT21XSDFMZEVyY1BiamQ1VldOeWVfLUxBWk9ybV9URzEwRDR4X3VrWGtUTndXdW93Zlg1WXN4bFYzc2ZQak1lMmh1UXNpWUZjT3NTNUN5ay1BeGFsUQ?oc=5",
+            "snippet": "World Bank backs Morocco pumped storage project International Water Power",
+            "source": "International Water Power",
+            "published": "Thu, 02 Jul 2026 15:50:48 GMT",
+            "query": "Morocco pumped storage ONEE contractor"
+          },
+          {
+            "title": "World Bank backs 300 MW pumped-storage hydropower project in Morocco - Enerdata",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3BDWkR5QTB4WklaRXk4T3c5X2s5NV9kSEJXZlVGX3BBSVVrNGgzUG5nSGU5YzNUUkFKdzkzdlhoNnhvYndXa25ZZFM4dnJrUng1Qm04bDNoSE9pdzJLTEQzQWZ1LThURDNsd1NVOGpVOFliQ0lmWlFjeVFUVGJNQ21vZnk3SUQzclNBY3JmVzRlSElhTEFSeVdSWFAyM0c2S0llaFJ5MElKb1ZqSnc2d2ZHVFk0Q0U4bjhqc0ZJSTZLOGVn?oc=5",
+            "snippet": "World Bank backs 300 MW pumped-storage hydropower project in Morocco Enerdata",
+            "source": "Enerdata",
+            "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa pumped hydropower storage Morocco"
+          },
+          {
+            "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
+            "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
+            "source": "Energy News Network",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa pumped hydropower storage Morocco"
+          },
+          {
+            "title": "Morocco tenders 300MW El-Menzel pumped-storage plant - MEED",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNY3JYU2pJTE93eHMtc21HM3czZ2tCSkM4TFhVX0dFSnRhUWt1eXFjXzlpbS1zb0h5WEFjOW9fNTRBcFlkdlZzaC1JRnpscDU0UlFqRUQwVWQwZ3Eyck81SUsxTFJNOHlBMEJXdW0zTkRObVRLR0FkQ1R0dVRFQQ?oc=5",
+            "snippet": "Morocco tenders 300MW El-Menzel pumped-storage plant MEED",
+            "source": "MEED",
+            "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          },
+          {
+            "title": "Morocco Shifts to 300MW Ifahsa Project After 108MW Hydro Fails - Construction Review",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFktWUZDS2Vyd0lVMHcyZTVWRzdqYnozTzFpNWJXaU9fUlJkS3FLS3diWlh6OG5lOHJQOVpDelVKSm5sRkcxSTFxdnowSTlQaHUxUGFHYWVDekZLNEZGQTdRUk1zNU9URnltb0tjQXZlbmI3bEt1RGQ5Rk1rdk5yTVlPc3RxZ2xuMlE?oc=5",
+            "snippet": "Morocco Shifts to 300MW Ifahsa Project After 108MW Hydro Fails Construction Review",
+            "source": "Construction Review",
+            "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          },
+          {
+            "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
+            "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
+            "source": "Morocco World News",
+            "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          },
+          {
+            "title": "Morocco launches tender for 362 MW El Menzel pumped storage plant - Yabiladi.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWN1WWc4VE9OV0tnVldtcm4xd2xWY0FoclptQk1faFZsdS1HZ1pITW9hR1FJMk9xdkdjNWwwSVBLbmVQclAwMUJoU1oyVVRaWTg5Y1lHbERZck51YkY3S2RWbVRMVDZkS1lUUUpkMng3VmNmdFE5YWI1dDVPdDlpaVdiVGdOUW9yWjBscnhQU3lKbDhm?oc=5",
+            "snippet": "Morocco launches tender for 362 MW El Menzel pumped storage plant Yabiladi.com",
+            "source": "Yabiladi.com",
+            "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+            "query": "Morocco STEP pumped hydro tender"
+          },
+          {
+            "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco - ESS News",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJRbjA5Q3ktdl9TLS13QVRIN3VWQlN2Sk5mN0RRNTl2RThXdGJrdU1sRWpyWlVNNU5FekZWVVdKcjR6Nkcwd2Q1RmVRNVhjQmJ6OG5Za1BnUVQtTTRhQTBGRV93OFY4QnRQUkRfN19UbHZsb29EVVhoUUM4OWRJakQ1aVJnRVh3a1FPN21GaThhR1NyU1FGTVpTQmVyYno2T0J6Yndn?oc=5",
+            "snippet": "World Bank backs 300 MW pumped hydropower storage plant in Morocco ESS News",
+            "source": "ESS News",
+            "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage ONEE contractor"
+          },
+          {
+            "title": "World Bank Approves $265 Million for Morocco’s Ifahsa Hydropower Project - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXdzLVR5ck95aXVsVjFBS2RVblBpYmROWFVsVHBYVWUyWHI5MGE4ZDc3UFlDS3BPcFI4TVBJTkpOY2d5Q0NEYjFKMG1MQzBLS2F5N05BMmRfQ1pMYzEtaV9JTC16VDdMVk0xMEtDMmNraDJDc0FSMUhnWWp2ZjB4WHVxYnUtaFpLbTVLUU9rSzd0WE9Xenl3dzd6RWFRLWVnX0JKVENXRjVZRmE1MzlCX2ZEWVBxVHg5aDFF?oc=5",
+            "snippet": "World Bank Approves $265 Million for Morocco’s Ifahsa Hydropower Project Morocco World News",
+            "source": "Morocco World News",
+            "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa contractor Morocco ONEE"
+          },
+          {
+            "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+            "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
+            "source": "Reuters",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa pumped hydropower storage Morocco"
+          },
+          {
+            "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
+            "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
+            "source": "World Bank Group",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
+          }
+        ],
+        "sourceCount": 14,
+        "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
+        "facts": [
+          {
+            "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
+            "confidence": "HIGH",
+            "sourceIndexes": [
+              1,
+              2,
+              7,
+              11
+            ]
+          },
+          {
+            "claim": "Public sources report a 300 MW capacity for Ifahsa.",
+            "confidence": "HIGH",
+            "sourceIndexes": [
+              4,
+              6,
+              7,
+              10
+            ]
+          },
+          {
+            "claim": "The World Bank approved $265 million of support for the Ifahsa project.",
+            "confidence": "HIGH",
+            "sourceIndexes": [
+              1,
+              2,
+              11
+            ]
+          }
+        ],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal concerns a major Moroccan grid-flexibility and renewable-integration asset; the specific construction-award detail remains to be independently confirmed unless a primary procurement source is found.",
+        "fichtnerImplication": "Potential relevance for owner’s engineering, technical advisory, grid integration, procurement support and lender technical advisory, subject to procurement status.",
+        "recommendedActions": [
+          "Track the project as a strategic storage/grid development and identify the awarded party, scope and remaining owner’s-engineer / technical-advisory packages.",
+          "Verify the reported contractor against ONEE / World Bank procurement documentation before treating the award as confirmed."
+        ],
+        "overallConfidence": "MEDIUM",
+        "unresolved": []
+      }
     },
     {
       "id": "sig-9647dafd1ca5",

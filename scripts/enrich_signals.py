@@ -61,7 +61,6 @@ def make_queries(signal):
     entities = signal.get('entities') or []
     cats = signal.get('categories') or []
     project = signal.get('project') or signal.get('projectName') or ''
-    base = ['Morocco', 'Maroc']
     queries = [
         f'"{title}"',
         f'Morocco {title}',
@@ -69,11 +68,9 @@ def make_queries(signal):
     ]
     if project:
         queries += [f'"{project}" Morocco', f'"{project}" contractor', f'"{project}" tender']
-    # Technology/event-specific variants are deliberately generic so the engine
-    # can discover the actual project when the source headline omits its name.
     t = norm(title + ' ' + ' '.join(cats))
     if any(x in t for x in ['pumped', 'hydro', 'storage']):
-        queries += ['Morocco pumped storage hydro project contractor', 'Morocco STEP pumped hydro tender', 'Morocco pumped storage ONEE contractor']
+        queries += ['Morocco pumped storage hydro project contractor', 'Morocco STEP pumped hydro tender', 'Morocco pumped storage ONEE contractor', 'Ifahsa pumped hydropower storage Morocco', 'Ifahsa contractor Morocco ONEE']
     if any(x in t for x in ['solar', 'photovoltaic', 'pv']):
         queries += ['Morocco solar PV project contractor tender ONEE MASEN', 'Morocco photovoltaic project award EPC']
     if any(x in t for x in ['wind', 'eolien', 'offshore']):
@@ -87,18 +84,31 @@ def make_queries(signal):
         q = re.sub(r'\s+', ' ', q).strip()
         if len(q) >= 12 and q.lower() not in seen:
             seen.add(q.lower()); out.append(q)
-    return out[:10]
+    return out[:14]
+
+
+def priority(signal):
+    score = float(signal.get('actionabilityScore') or signal.get('relevanceScore') or 0)
+    boost = 0
+    title = norm(signal.get('title', ''))
+    if signal.get('competitor'): boost += 25
+    if signal.get('fichtnerRelevance') == 'HIGH': boost += 30
+    elif signal.get('fichtnerRelevance') == 'MEDIUM': boost += 15
+    if signal.get('signalType') in ('award', 'tender', 'investment', 'project milestone'): boost += 20
+    if any(x in title for x in ('contractor selected', 'contract awarded', 'selected contractor', 'award')): boost += 25
+    if any(x in title for x in ('pumped hydro', 'pumped storage', 'pumped hydropower', 'storage development')): boost += 20
+    return score + boost
 
 
 def candidate(signal):
-    title = norm(signal.get('title', ''))
-    cats = ' '.join(signal.get('categories') or []).lower()
     score = float(signal.get('actionabilityScore') or signal.get('relevanceScore') or 0)
     if score >= 72: return True
     if signal.get('competitor'): return True
     if signal.get('fichtnerRelevance') in ('HIGH', 'MEDIUM'): return True
-    if signal.get('signalType') in ('award', 'tender', 'project milestone', 'project announcement', 'investment'): return score >= 55
-    if any(x in cats for x in ('tender', 'procurement', 'investment')): return score >= 60
+    if signal.get('signalType') in ('award', 'tender', 'project milestone', 'project announcement', 'investment'):
+        return score >= 55
+    if any(x in ' '.join(signal.get('categories') or []).lower() for x in ('tender', 'procurement', 'investment')):
+        return score >= 60
     return False
 
 
@@ -154,7 +164,8 @@ def gemini_enrich(signal, evidence):
 
 def main():
     signals = load_signals()
-    targets = [s for s in signals if candidate(s) and not already_fresh(s)][:MAX_SIGNALS]
+    pool = [s for s in signals if candidate(s) and not already_fresh(s)]
+    targets = sorted(pool, key=lambda s: priority(s), reverse=True)[:MAX_SIGNALS]
     now = datetime.now(timezone.utc).isoformat()
     enriched_count = 0
     for signal in targets:
@@ -166,7 +177,6 @@ def main():
                 key = hashlib.sha1((slug(item['title']) + item['url'].split('?')[0]).encode()).hexdigest()[:16]
                 if key == signal.get('id','').replace('sig-','') or key in seen: continue
                 seen.add(key); evidence.append({**item, 'query': q})
-        # Keep the strongest/most diverse public evidence rather than dumping search noise.
         unique = []
         title_words = set(slug(signal.get('title','')).split())
         for item in evidence:

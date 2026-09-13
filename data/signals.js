@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-13T21:43:20.396320+00:00",
+    "detected": "2026-09-13T22:25:59.372771+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -55,7 +55,7 @@ export const signals = [
       "maxSources": 9
     },
     "enrichment": {
-      "researchedAt": "2026-09-13T21:43:20.570253+00:00",
+      "researchedAt": "2026-09-13T22:25:59.548593+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -116,6 +116,14 @@ export const signals = [
           "query": "Morocco offshore wind project developer"
         },
         {
+          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
+          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+          "source": "rivieramm.com",
+          "published": "Thu, 03 Sep 2026 11:03:22 GMT",
+          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+        },
+        {
           "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
           "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
@@ -132,7 +140,7 @@ export const signals = [
           "query": "Morocco wind project contractor tender"
         }
       ],
-      "sourceCount": 8,
+      "sourceCount": 9,
       "project": null,
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
@@ -156,7 +164,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-13T21:43:20.396320+00:00",
+    "detected": "2026-09-13T22:25:59.372771+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -205,7 +213,7 @@ export const signals = [
       "maxSources": 5
     },
     "enrichment": {
-      "researchedAt": "2026-09-13T21:43:20.570253+00:00",
+      "researchedAt": "2026-09-13T22:25:59.548593+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",

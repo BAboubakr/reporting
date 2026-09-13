@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-13T16:19:26.833373+00:00",
+    "detected": "2026-09-13T19:29:18.005456+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -55,7 +55,7 @@ export const signals = [
       "maxSources": 9
     },
     "enrichment": {
-      "researchedAt": "2026-09-13T16:19:26.967963+00:00",
+      "researchedAt": "2026-09-13T19:29:18.123157+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",

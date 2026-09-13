@@ -5,6 +5,7 @@ LEVELS={0:{"name":"Monitor","code":"L0","max_queries":0,"max_sources":0},1:{"nam
 COMPETITORS=["AFRY","Artelia","Tractebel","Mott MacDonald","WSP","Worley","Egis","ILF Consulting Engineers","DNV","NOVEC","INGEMA","JESA"]
 DFIS=["AfDB","African Development Bank","KfW","AFD","EIB","World Bank","IsDB","EBRD","GIZ","EU Global Gateway"]
 STRATEGIC_ACTORS=["MASEN","ONEE","ANRE","OCP","AMEE","Ministry of Energy Transition"]
+MOROCCO=["morocco","maroc","rabat","casablanca","fez","fes","tanger","tangier","laayoune","laayoune","ouarzazate","dakhla","khouribga","benguerir","temara","agadir"]
 
 def norm(v): return re.sub(r"\s+"," ",re.sub(r"[^a-z0-9àâçéèêëîïôûùüÿñæœ\s-]"," ",str(v or "").lower())).strip()
 
@@ -13,6 +14,7 @@ def research_priority(signal):
     score=float(signal.get("actionabilityScore") or 0); reasons=[]; hard=0
     hit=lambda words:any(w in text for w in words)
     fichtner="fichtner" in text
+    morocco_context=hit(MOROCCO) or any(norm(x) in text for x in STRATEGIC_ACTORS)
     competitor=bool(signal.get("competitor")) or any(norm(c) in text for c in COMPETITORS)
     dfi=any(norm(x) in text for x in DFIS)
     tender=hit(["tender","procurement","appel d offres","prequalification","rfp","consultation"])
@@ -23,12 +25,9 @@ def research_priority(signal):
     major_project=bool(re.search(r"\b(?:[2-9]\d{2}|[1-9]\d{3,})\s*(?:mw|mwh|gw|gwh)\b",text)) or hit(["major infrastructure","strategic project","national project"])
     competitor_move=competitor and hit(["contract","project","tender","appointed","selected","award","partnership","expands","wins"])
     consulting=hit(["consultant","consulting","technical assistance","owner engineer","owners engineer","advisory","feasibility","detailed studies","engineering"])
-    if fichtner:
-        score+=35; hard=max(hard,3); reasons.append("Fichtner mentioned")
-    if fichtner and (competitor or project or tender or award):
-        hard=max(hard,4); reasons.append("Fichtner + strategic development relationship")
-    if competitor:
-        score+=25; hard=max(hard,3 if competitor_move else 2); reasons.append("competitor detected")
+    if fichtner: score+=35; hard=max(hard,3); reasons.append("Fichtner mentioned")
+    if fichtner and (competitor or project or tender or award): hard=max(hard,4); reasons.append("Fichtner + strategic development relationship")
+    if competitor: score+=25; hard=max(hard,3 if competitor_move else 2); reasons.append("competitor detected")
     if competitor_move: score+=15; reasons.append("competitor move")
     if tender: score+=20; hard=max(hard,2); reasons.append("tender/procurement")
     if award: score+=25; hard=max(hard,3); reasons.append("award/contract decision")
@@ -43,5 +42,11 @@ def research_priority(signal):
     if hard==0: hard=2 if score>=72 else (1 if score>=48 else 0)
     generic=not(tender or award or dfi or competitor or fichtner or major_project or financing or consulting)
     if generic and hard<2: hard=1 if score>=45 else 0
+    # Atlas is Morocco intelligence: global competitor/market stories are cheap
+    # unless Fichtner itself is involved. This prevents global news from
+    # consuming the same budget as Morocco opportunities.
+    if not morocco_context and not fichtner and hard>1:
+        hard=1
+        reasons.append("limited Morocco context")
     meta=LEVELS[hard]
-    return {"score":score,"level":meta["code"],"levelNumber":hard,"levelName":meta["name"],"maxQueries":meta["max_queries"],"maxSources":meta["max_sources"],"reasons":reasons[:8],"triggers":{"fichtner":fichtner,"competitor":competitor,"competitorMove":competitor_move,"tender":tender,"award":award,"dfi":dfi,"dfiDecision":dfi_decision,"majorProject":major_project,"consultingPotential":consulting}}
+    return {"score":score,"level":meta["code"],"levelNumber":hard,"levelName":meta["name"],"maxQueries":meta["max_queries"],"maxSources":meta["max_sources"],"reasons":reasons[:8],"triggers":{"fichtner":fichtner,"moroccoContext":morocco_context,"competitor":competitor,"competitorMove":competitor_move,"tender":tender,"award":award,"dfi":dfi,"dfiDecision":dfi_decision,"majorProject":major_project,"consultingPotential":consulting}}

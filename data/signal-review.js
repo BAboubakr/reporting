@@ -8,7 +8,7 @@ export const signalReview = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-13T11:55:37.979159+00:00",
+    "detected": "2026-09-13T14:45:04.488993+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -41,7 +41,7 @@ export const signalReview = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-06T15:06:16+00:00",
-    "detected": "2026-09-13T11:55:37.979159+00:00",
+    "detected": "2026-09-13T14:45:04.488993+00:00",
     "categories": [
       "BESS",
       "Manufacturing"

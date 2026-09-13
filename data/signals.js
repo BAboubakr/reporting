@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-13T14:59:29.407020+00:00",
+    "detected": "2026-09-13T16:19:26.833373+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -55,7 +55,7 @@ export const signals = [
       "maxSources": 9
     },
     "enrichment": {
-      "researchedAt": "2026-09-13T14:59:29.580133+00:00",
+      "researchedAt": "2026-09-13T16:19:26.967963+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -108,12 +108,20 @@ export const signals = [
           "query": "Morocco offshore wind project developer"
         },
         {
-          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - energyglobal.com",
+          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
-          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development energyglobal.com",
-          "source": "energyglobal.com",
+          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
+          "source": "Energy Global",
           "published": "Mon, 07 Sep 2026 14:00:32 GMT",
           "query": "Morocco offshore wind project developer"
+        },
+        {
+          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
+          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+          "source": "rivieramm.com",
+          "published": "Thu, 03 Sep 2026 11:03:22 GMT",
+          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
         },
         {
           "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
@@ -132,7 +140,7 @@ export const signals = [
           "query": "Morocco wind project contractor tender"
         }
       ],
-      "sourceCount": 8,
+      "sourceCount": 9,
       "project": null,
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",

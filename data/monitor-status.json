@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "lastRun": "2026-09-14T22:12:20.713174+00:00",
-  "completedAt": "2026-09-14T22:12:20.713174+00:00",
+  "lastRun": "2026-09-14T22:24:05.244478+00:00",
+  "completedAt": "2026-09-14T22:24:05.244478+00:00",
   "frequency": "hourly",
   "sourcesChecked": 17,
   "rawRecords": 116,
@@ -16,10 +16,10 @@
   "enrichmentMode": "adaptive L0-L4 public-evidence research",
   "enrichmentRun": "success",
   "researchLevels": {
-    "0": 0,
-    "1": 2,
-    "2": 3,
-    "3": 1,
+    "0": 103,
+    "1": 21,
+    "2": 27,
+    "3": 4,
     "4": 0
   },
   "errors": []

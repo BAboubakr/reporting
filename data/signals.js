@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
     "source": "Offshore Magazine",
     "sourceType": "news",
-    "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-14T22:12:17.027410+00:00",
+    "published": "2026-09-03T22:16:50+00:00",
+    "detected": "2026-09-14T22:24:01.226493+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -66,7 +66,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T22:12:17.171028+00:00",
+      "researchedAt": "2026-09-14T22:24:01.365070+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -90,7 +90,7 @@ export const signals = [
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
           "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
           "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
           "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
         },
         {
@@ -126,14 +126,6 @@ export const signals = [
           "query": "site:eib.org Morocco offshore wind"
         },
         {
-          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
-          "source": "rivieramm.com",
-          "published": "Thu, 03 Sep 2026 11:03:22 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
           "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
           "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
@@ -142,10 +134,10 @@ export const signals = [
           "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
         },
         {
-          "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - africa.businessinsider.com",
+          "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - Business Insider Africa",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWxNbGNsRXNOUndOdkZsZVNNZDh6X3BrMHBET1UwUzRJYkk3Vlg1V0w4NFg1dU5hV1JidC1yakgtdm9rZDRMcDRaSjNCcEQzX1pRSWkwNTg3M0ZxNFJlcnB4QVlYTjVfQkNGN1B4b0V3Y1p6TGdGd2hTM3M3bFRtQ3AtOXE0VDJzY2kxNGZLOUtCb3EtT3ltZ2ZENkxJRWdHM2FseUhkVVJWYnliQVliSHZnWFNxRktnVV9JSHdHRWQzS0M0bFBZTmx1NmYxRmFOdmFwVDI3Qmo?oc=5",
-          "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion africa.businessinsider.com",
-          "source": "africa.businessinsider.com",
+          "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion Business Insider Africa",
+          "source": "Business Insider Africa",
           "published": "Wed, 17 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Morocco Wind Investment"
         },
@@ -163,7 +155,15 @@ export const signals = [
           "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
           "source": "Construction Review",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
+          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+        },
+        {
+          "title": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing - Iberdrola",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTVDdTJ6aTZDZldWdkVpRW55MzdpUFIxNXJGdDZfT1ZjMmNXemRzb3daVDlRSmJBSVZmUndyZHRsOVcyemR5VE81R2dFWFo3OGwxMjdfZWp6clZPVkxYN0FXdURZMThyb1lDVmxiWC1scUpLTXMyV0ZKODhscW1BMlFCMG1fQk5rczNHWGN3LTBpS2c4V0VFMERmei00Um9Xckk1NFJlQzhuMTA0UjEyUk5XZWdmaGwySk1WOFRsY3hpWWtHUW14ZDdB?oc=5",
+          "snippet": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing Iberdrola",
+          "source": "Iberdrola",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
         }
       ],
       "sourceCount": 10,
@@ -178,8 +178,7 @@ export const signals = [
           "sourceIndexes": [
             0,
             2,
-            3,
-            5
+            3
           ]
         }
       ],
@@ -205,7 +204,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-14T22:12:17.027410+00:00",
+    "detected": "2026-09-14T22:24:01.226493+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -262,7 +261,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T22:12:17.171028+00:00",
+      "researchedAt": "2026-09-14T22:24:01.365070+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -937,6 +936,36 @@ export const signals = [
       ],
       "overallConfidence": "MEDIUM",
       "unresolved": []
+    },
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
     }
   },
   {
@@ -955,7 +984,9 @@ export const signals = [
     ],
     "signalType": "project announcement",
     "projectStage": "development",
-    "entities": [],
+    "entities": [
+      "EIB"
+    ],
     "competitor": null,
     "relevanceScore": 56,
     "actionabilityScore": 40,
@@ -969,7 +1000,37 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 95,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "consulting/advisory potential",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-9d4e063e755d",
@@ -1002,7 +1063,37 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.69,
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-3c8545b5281d",
@@ -1033,7 +1124,35 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 46,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "consulting/advisory potential",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-db4691a0f4ad",
@@ -1064,7 +1183,35 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.72,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); concrete action relationship",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 76,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "award/contract decision",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": true,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7669d8eaeca4",
@@ -1095,7 +1242,35 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.72,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); concrete action relationship",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 76,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "award/contract decision",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": true,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-079263e9bfe6",
@@ -1112,7 +1287,9 @@ export const signals = [
     ],
     "signalType": "award",
     "projectStage": "contract award",
-    "entities": [],
+    "entities": [
+      "OWC"
+    ],
     "competitor": null,
     "relevanceScore": 46,
     "actionabilityScore": 33,
@@ -1126,7 +1303,35 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 53,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "consulting/advisory potential",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-fd6f35706f36",
@@ -1159,7 +1364,38 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.79,
     "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "award/contract decision",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "tender": false,
+      "award": true,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ea11dff9846a",
@@ -1192,7 +1428,38 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.79,
     "filterReason": "2 event indicator(s); 1 identifiable actor(s); quantitative detail; strong actor/event/development combination",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "award/contract decision",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "tender": false,
+      "award": true,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f9840e7d5671",
@@ -1223,7 +1490,35 @@ export const signals = [
     "filterDecision": "KEEP",
     "filterConfidence": 0.62,
     "filterReason": "2 event indicator(s); 1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": false
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 53,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-31e96a6b6c36",
@@ -1249,7 +1544,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India Celebrates 80th Independence Day in Morocco Morocco World News",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-97e2441a5064",
@@ -1275,7 +1595,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "ERJ Business Briefing - 2026 European Rubber Journal",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-62f1710fad95",
@@ -1301,7 +1646,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India and Morocco seek deeper economic partnership through joint ventures Times of Oman",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2ead8c2bcca6",
@@ -1329,7 +1699,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure Hitachi Energy",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 42,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-4d44291af31f",
@@ -1356,7 +1754,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Battery Gigafactory Equipment Market Size, Share [2026-2034] Fortune Business Insights",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 32,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ea7e33321bfe",
@@ -1373,7 +1796,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1382,7 +1807,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-70645b755c23",
@@ -1399,7 +1851,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 59,
@@ -1408,7 +1862,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 67,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-49a9ddd18d30",
@@ -1425,7 +1906,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1434,7 +1917,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2a90e1d07e9f",
@@ -1451,7 +1962,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1460,7 +1973,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-3d06ce77f038",
@@ -1477,7 +2017,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1486,7 +2028,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-81d8bc0731da",
@@ -1503,7 +2072,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 59,
@@ -1512,7 +2083,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 87,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7803c7e3f525",
@@ -1529,7 +2128,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1538,7 +2139,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2f75912f4866",
@@ -1555,7 +2183,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1564,7 +2194,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-4b6777b4d70a",
@@ -1581,7 +2238,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1590,7 +2249,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-50f0cccd77f9",
@@ -1607,7 +2293,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1616,7 +2304,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-d3c13b934366",
@@ -1633,7 +2348,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1642,7 +2359,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e5255d5880ff",
@@ -1659,7 +2403,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1668,7 +2414,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-0bc68b6ee31d",
@@ -1685,7 +2458,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1694,7 +2469,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-31b88e55c631",
@@ -1711,7 +2513,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1720,7 +2524,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f1795f2621b3",
@@ -1737,7 +2568,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1746,7 +2579,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-37e1b209d688",
@@ -1763,7 +2624,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -1772,7 +2635,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-8c636aa39647",
@@ -1798,7 +2689,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation KNN India",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f0d8f032395e",
@@ -1825,7 +2743,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 37,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-d052e5b1e1bc",
@@ -1851,7 +2797,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India seeks Japanese capital for technology & manufacturing growth Fibre2Fashion",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 27,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-13c7683d426f",
@@ -1878,7 +2849,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Solar parks key to green transition; power evacuation, local manufacturing need focus: Experts Big News Network.com",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 27,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-aa714dcdb56a",
@@ -1904,7 +2900,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Green hydrogen production: Bavaria forges Moroccan partnership to boost hydrogen infrastructure Hydrogen Fuel News",
     "whyItMatters": "Partnership signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 26,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-adcd96302f21",
@@ -1930,7 +2951,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Kate Mackenzie & Tim Sahay | Green Strategy in Africa Phenomenal World",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-c1bb351713f6",
@@ -1957,7 +3003,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Africa's solar build-out is moving closer to home, but most panels still rely on Chinese cells The Cool Down",
     "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e1bf80102621",
@@ -1983,7 +3054,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 38,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2551981422f6",
@@ -2009,7 +3108,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 30,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-527f1a85cf39",
@@ -2035,7 +3161,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030; Set to generate 4,000 jobs Devdiscourse",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-931e576cf6cb",
@@ -2061,7 +3212,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India and Morocco Sign Strategic Trade Pacts to Double Bilateral Exchange streamlinefeed.co.ke",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2878720fbcff",
@@ -2087,7 +3263,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 30,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-15d225332f5f",
@@ -2113,7 +3316,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-63789c6c5334",
@@ -2139,7 +3369,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-07c8f6e2716a",
@@ -2165,7 +3423,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Piyush Goyal Hails Young Entrepreneurs, Pushes India-Japan Ties Dainik Jagran MP CG",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-252a63586184",
@@ -2191,7 +3474,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Chinese firms are wrapping their supply chains around the globe The Economist",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-54df338f5bba",
@@ -2220,7 +3528,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 66,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f15cd4d29cfc",
@@ -2237,7 +3573,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2246,7 +3584,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-47b074115678",
@@ -2263,7 +3628,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2272,7 +3639,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-3562b54b95b9",
@@ -2289,7 +3683,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2298,7 +3694,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-001545c2b3c3",
@@ -2327,7 +3750,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM"
+    "fichtnerRelevance": "MEDIUM",
+    "project": null,
+    "researchPriority": 76,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-1f53210c2d04",
@@ -2344,7 +3795,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2353,7 +3806,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e43e38196d82",
@@ -2370,7 +3850,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2379,7 +3861,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f364a4186557",
@@ -2396,7 +3906,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2405,7 +3917,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-50cde3cba328",
@@ -2422,7 +3961,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2431,7 +3972,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-27cfe14da459",
@@ -2448,7 +4016,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2457,7 +4027,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-5b2960cbddb6",
@@ -2474,7 +4071,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2483,7 +4082,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-6c30a31da7db",
@@ -2511,7 +4137,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 46,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e9ea8d9d2688",
@@ -2528,7 +4181,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2537,7 +4192,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f807a1b10185",
@@ -2554,7 +4236,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2563,7 +4247,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-46a640b2975e",
@@ -2580,7 +4291,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2589,7 +4302,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-aeab8f03330b",
@@ -2606,7 +4346,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2615,7 +4357,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-bb9403a72259",
@@ -2632,7 +4401,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2641,7 +4412,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-6db591c0c3d1",
@@ -2658,7 +4456,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2667,7 +4467,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e49c04b328b2",
@@ -2684,7 +4511,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2693,7 +4522,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e4d8cf16687a",
@@ -2710,7 +4566,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2719,7 +4577,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-23aaf9c765c7",
@@ -2736,7 +4621,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2745,7 +4632,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ced0d4bc3488",
@@ -2762,7 +4676,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2771,7 +4687,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-b94e4288cf88",
@@ -2788,7 +4731,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2797,7 +4742,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-a2eebeda8c07",
@@ -2814,7 +4786,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2823,7 +4797,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ebc50e499908",
@@ -2840,7 +4841,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2849,7 +4852,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-90fb14db58d0",
@@ -2866,7 +4896,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2875,7 +4907,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-524fe2866f13",
@@ -2901,7 +4960,32 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Dangote Refinery And Nigeria’s Economic Awakening pmexpressng.com",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 20,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-aecb43e689a8",
@@ -2929,7 +5013,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 46,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-76bd14914b11",
@@ -2946,7 +5057,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2955,7 +5068,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-6dddbc8ab00b",
@@ -2972,7 +5112,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -2981,7 +5123,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-70c4341932c3",
@@ -2998,7 +5167,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3007,7 +5178,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-93a4dddeb524",
@@ -3024,7 +5222,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3033,7 +5233,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-afff725461d0",
@@ -3050,7 +5277,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3059,7 +5288,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-cf48ebd80563",
@@ -3076,7 +5332,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3085,7 +5343,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-182cf59c3e2b",
@@ -3102,7 +5387,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3111,7 +5398,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-a907095695f6",
@@ -3128,7 +5442,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3137,7 +5453,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-66d8c40333aa",
@@ -3154,7 +5497,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3163,7 +5508,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-8d6bb3df1de4",
@@ -3180,7 +5552,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3189,7 +5563,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-5dd353f09815",
@@ -3206,7 +5607,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3215,7 +5618,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-0b84f19ae6a0",
@@ -3232,7 +5662,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3241,7 +5673,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-65e48009238b",
@@ -3258,7 +5717,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3267,7 +5728,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-645a8a68ecb0",
@@ -3284,7 +5772,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3293,7 +5783,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-0cd1fde107c2",
@@ -3310,7 +5827,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3319,7 +5838,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-272b518a6402",
@@ -3336,7 +5882,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3345,7 +5893,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-fe5d4a018b90",
@@ -3362,7 +5937,9 @@ export const signals = [
     ],
     "signalType": "award",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3371,7 +5948,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-cb91f4653ac9",
@@ -3388,7 +5992,9 @@ export const signals = [
     ],
     "signalType": "award",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3397,7 +6003,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-623e6c73aa47",
@@ -3414,7 +6047,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3423,7 +6058,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-8555ba035598",
@@ -3440,7 +6102,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3449,7 +6113,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-6c79c12f3070",
@@ -3466,7 +6157,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3475,7 +6168,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-75a133b3af80",
@@ -3492,7 +6212,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3501,7 +6223,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ca587982165c",
@@ -3518,7 +6268,9 @@ export const signals = [
     ],
     "signalType": "tender",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3527,7 +6279,35 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 59,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-8913ca0c5ce2",
@@ -3544,7 +6324,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "MASEN"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3553,7 +6335,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-c6092006d330",
@@ -3570,7 +6379,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3579,7 +6390,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-70562c0165da",
@@ -3596,7 +6434,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3605,7 +6445,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-125661eb0e51",
@@ -3622,7 +6489,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 59,
@@ -3631,7 +6500,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 67,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-294ad6e82cef",
@@ -3648,7 +6544,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3657,7 +6555,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7f2e3d2f2fa7",
@@ -3674,7 +6599,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3683,7 +6610,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-4260ad896ae9",
@@ -3700,7 +6654,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3709,7 +6665,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ced3662e2d6f",
@@ -3726,7 +6709,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3735,7 +6720,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-756bf8491e4e",
@@ -3761,7 +6773,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets ABC News - Breaking News, Latest News and Videos",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 28,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-b5336bdb8c60",
@@ -3778,7 +6817,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3787,7 +6828,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f2f78e9769a7",
@@ -3804,7 +6872,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3813,7 +6883,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-9a7535df9243",
@@ -3830,7 +6927,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 59,
@@ -3839,7 +6938,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 67,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-0326c00f555e",
@@ -3856,7 +6982,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3865,7 +6993,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f91168e77571",
@@ -3882,7 +7037,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3891,7 +7048,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-12aa8ac40cda",
@@ -3908,7 +7092,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3917,7 +7103,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-b660af091c06",
@@ -3934,7 +7147,9 @@ export const signals = [
     ],
     "signalType": "market movement",
     "projectStage": "monitoring",
-    "entities": [],
+    "entities": [
+      "ONEE"
+    ],
     "competitor": null,
     "relevanceScore": 43,
     "actionabilityScore": 31,
@@ -3943,7 +7158,34 @@ export const signals = [
     "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f474b8d21bee",
@@ -3969,7 +7211,34 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 30,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-55b1aa1733b9",
@@ -3996,7 +7265,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment Africa Sustainability Matters",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ded7355ea28e",
@@ -4021,7 +7318,35 @@ export const signals = [
     "evidenceLevel": "news source",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "project": null,
+    "researchPriority": 50,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-fbdd9bbe62b6",
@@ -4038,7 +7363,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-c5afaac14ed7",
@@ -4055,7 +7410,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e0d41acdaa37",
@@ -4072,7 +7457,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-cfb025bf9ed2",
@@ -4089,7 +7504,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-a21bd5158722",
@@ -4106,7 +7551,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-d4c52a42b71a",
@@ -4123,7 +7598,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-33924d345b42",
@@ -4140,7 +7645,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "ONEE"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7720668c6e0f",
@@ -4157,7 +7692,35 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-3ed189c7d0bf",
@@ -4174,7 +7737,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-b072fe909b64",
@@ -4192,7 +7781,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-effaf8468caa",
@@ -4209,7 +7824,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-f5e4748e0e3b",
@@ -4226,7 +7867,36 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-64870d166f80",
@@ -4243,7 +7913,36 @@ export const signals = [
     "relevanceScore": 52,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 18,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-673024bd6a8c",
@@ -4260,7 +7959,35 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-49f9174b1350",
@@ -4277,7 +8004,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-ded1e5269ff8",
@@ -4294,7 +8047,35 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7c45a910456e",
@@ -4311,7 +8092,35 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-1c6d1f2201ba",
@@ -4328,7 +8137,35 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-971409834d24",
@@ -4346,7 +8183,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-235da87e6cf0",
@@ -4363,7 +8226,36 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 18,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-2668dc3deef0",
@@ -4381,7 +8273,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-453f1d841d81",
@@ -4398,7 +8316,35 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-5fbda3a26d65",
@@ -4415,7 +8361,35 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-72af76a6ef9c",
@@ -4434,7 +8408,36 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-7c83308b6340",
@@ -4451,7 +8454,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-eb07386c00bd",
@@ -4469,7 +8498,36 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-4bbea356b874",
@@ -4486,7 +8544,33 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-e40690327548",
@@ -4503,7 +8587,33 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 0,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-6fcacbc33c27",
@@ -4521,7 +8631,36 @@ export const signals = [
     "relevanceScore": 46,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [],
+    "project": null,
+    "researchPriority": 10,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-387ec864ced6",
@@ -4538,7 +8677,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-a91597116da3",
@@ -4555,7 +8724,37 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   },
   {
     "id": "sig-0edc623a7a54",
@@ -4572,6 +8771,36 @@ export const signals = [
     "relevanceScore": 40,
     "status": "new",
     "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH"
+    "fichtnerRelevance": "WATCH",
+    "entities": [
+      "MASEN"
+    ],
+    "project": null,
+    "researchPriority": 8,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "engineVersion": "5.0-entity-aware-adaptive"
+    }
   }
 ];

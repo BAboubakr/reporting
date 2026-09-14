@@ -8,7 +8,7 @@ export const signals = [
     "source": "Offshore Magazine",
     "sourceType": "news",
     "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-14T22:24:01.226493+00:00",
+    "detected": "2026-09-14T22:26:03.986575+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -66,7 +66,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T22:24:01.365070+00:00",
+      "researchedAt": "2026-09-14T22:26:04.162744+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -118,6 +118,14 @@ export const signals = [
           "query": "\"EIB\" Morocco Wind Investment"
         },
         {
+          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+          "source": "Agenzia Nova",
+          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
+          "query": "Morocco offshore wind NOVEC OWC"
+        },
+        {
           "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
           "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
@@ -166,7 +174,7 @@ export const signals = [
           "query": "\"EIB\" Morocco Wind Investment"
         }
       ],
-      "sourceCount": 10,
+      "sourceCount": 11,
       "project": "Morocco Offshore Wind Feasibility Study",
       "entities": [
         "EIB"
@@ -204,7 +212,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-14T22:24:01.226493+00:00",
+    "detected": "2026-09-14T22:26:03.986575+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -261,7 +269,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T22:24:01.365070+00:00",
+      "researchedAt": "2026-09-14T22:26:04.162744+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",

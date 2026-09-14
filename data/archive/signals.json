@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-14T14:05:56.734066+00:00",
+  "updatedAt": "2026-09-14T19:23:53.372922+00:00",
   "totalSignals": 155,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T22:16:50+00:00",
-      "detected": "2026-09-14T14:05:51.663287+00:00",
+      "detected": "2026-09-14T19:23:49.580078+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -71,7 +71,7 @@
       },
       "enrichment": {
         "engineVersion": "5.0-entity-aware-adaptive",
-        "researchedAt": "2026-09-14T14:05:51.804473+00:00",
+        "researchedAt": "2026-09-14T19:23:49.758124+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -97,14 +97,6 @@
             "source": "Offshore Magazine",
             "published": "Thu, 03 Sep 2026 22:16:50 GMT",
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
-          },
-          {
-            "title": "EIB backs feasibility study for Morocco’s first offshore wind farm - HESPRESS English - Morocco News",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWswZ0tFdEl6RFlXTDlXS21EZFFNZmFGU3YwZFVsLUg2TnB4cFNuSUlmYkF0M3FWdU5wNDBfQTg4ekF4MmFJVUlERHUxbl9WRWUxUDJySmhPNjVXQjZNTE1WbG81YXlJeHF1NURKZmRnYjNtTk9maVc4OGsxaGxNOEV4NWJ5TUhIN0RVcHBhMHZzeFYxdXlVa2tVVm14S2VyZks0?oc=5",
-            "snippet": "EIB backs feasibility study for Morocco’s first offshore wind farm HESPRESS English - Morocco News",
-            "source": "HESPRESS English - Morocco News",
-            "published": "Sat, 05 Sep 2026 22:11:26 GMT",
-            "query": "Morocco offshore wind NOVEC OWC"
           },
           {
             "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
@@ -152,22 +144,14 @@
             "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
             "source": "HESPRESS English - Morocco News",
             "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-          },
-          {
-            "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - africa.businessinsider.com",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWxNbGNsRXNOUndOdkZsZVNNZDh6X3BrMHBET1UwUzRJYkk3Vlg1V0w4NFg1dU5hV1JidC1yakgtdm9rZDRMcDRaSjNCcEQzX1pRSWkwNTg3M0ZxNFJlcnB4QVlYTjVfQkNGN1B4b0V3Y1p6TGdGd2hTM3M3bFRtQ3AtOXE0VDJzY2kxNGZLOUtCb3EtT3ltZ2ZENkxJRWdHM2FseUhkVVJWYnliQVliSHZnWFNxRktnVV9JSHdHRWQzS0M0bFBZTmx1NmYxRmFOdmFwVDI3Qmo?oc=5",
-            "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion africa.businessinsider.com",
-            "source": "africa.businessinsider.com",
-            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
-            "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
-            "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
-            "source": "Windtech International",
-            "published": "Mon, 14 Sep 2026 08:29:01 GMT",
+            "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - Business Insider Africa",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWxNbGNsRXNOUndOdkZsZVNNZDh6X3BrMHBET1UwUzRJYkk3Vlg1V0w4NFg1dU5hV1JidC1yakgtdm9rZDRMcDRaSjNCcEQzX1pRSWkwNTg3M0ZxNFJlcnB4QVlYTjVfQkNGN1B4b0V3Y1p6TGdGd2hTM3M3bFRtQ3AtOXE0VDJzY2kxNGZLOUtCb3EtT3ltZ2ZENkxJRWdHM2FseUhkVVJWYnliQVliSHZnWFNxRktnVV9JSHdHRWQzS0M0bFBZTmx1NmYxRmFOdmFwVDI3Qmo?oc=5",
+            "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion Business Insider Africa",
+            "source": "Business Insider Africa",
+            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
@@ -179,6 +163,14 @@
             "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
           },
           {
+            "title": "EIB President: Morocco attracts growing confidence from international investors - HESPRESS English - Morocco News",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQVp4Y1U2dUE4Zmw1NVZDRFR5S05PdGdxUXZXV1RqR0t4TTBCdmN0REF5RGtWYlhmdER5aE0zeXotazF2TmdCdkNleTZnMWIxMGdCeXhRbVBfcGlTLTNTVGdYQ1lLVXh1cHNtTm8zQ01CYlg0OEVkTldTNmsyYU1Zc2w0V25BMWt4LW9LTDR0MVQzX202S3NxX2FMeHNBeDdxeHNHS2FybnZ0RW9DMlcwSkxPcUY?oc=5",
+            "snippet": "EIB President: Morocco attracts growing confidence from international investors HESPRESS English - Morocco News",
+            "source": "HESPRESS English - Morocco News",
+            "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+          },
+          {
             "title": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing - Iberdrola",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTVDdTJ6aTZDZldWdkVpRW55MzdpUFIxNXJGdDZfT1ZjMmNXemRzb3daVDlRSmJBSVZmUndyZHRsOVcyemR5VE81R2dFWFo3OGwxMjdfZWp6clZPVkxYN0FXdURZMThyb1lDVmxiWC1scUpLTXMyV0ZKODhscW1BMlFCMG1fQk5rczNHWGN3LTBpS2c4V0VFMERmei00Um9Xckk1NFJlQzhuMTA0UjEyUk5XZWdmaGwySk1WOFRsY3hpWWtHUW14ZDdB?oc=5",
             "snippet": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing Iberdrola",
@@ -187,7 +179,7 @@
             "query": "\"EIB\" Morocco Wind Investment"
           }
         ],
-        "sourceCount": 12,
+        "sourceCount": 11,
         "project": "Morocco Offshore Wind Feasibility Study",
         "entities": [
           "EIB"
@@ -198,9 +190,8 @@
             "confidence": "HIGH",
             "sourceIndexes": [
               0,
-              1,
-              3,
-              4
+              2,
+              3
             ]
           }
         ],
@@ -226,7 +217,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-14T14:05:51.663287+00:00",
+      "detected": "2026-09-14T19:23:49.580078+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -283,7 +274,7 @@
       },
       "enrichment": {
         "engineVersion": "5.0-entity-aware-adaptive",
-        "researchedAt": "2026-09-14T14:05:51.804473+00:00",
+        "researchedAt": "2026-09-14T19:23:49.758124+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",

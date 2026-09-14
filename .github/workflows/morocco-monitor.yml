@@ -47,9 +47,12 @@ jobs:
           ENRICH_OUTCOME: ${{ steps.enrich.outcome }}
         run: |
           python - <<'PY'
-          import json, os, re
+          import json, os, re, sys
           from datetime import datetime, timezone
           from pathlib import Path
+          sys.path.insert(0,'scripts')
+          from enrich_signals import infer_entities, infer_project
+          from research_priority import research_priority
           def load_js(path):
               p=Path(path)
               if not p.exists(): return []
@@ -64,14 +67,30 @@ jobs:
                   current['evidenceLevel']=previous.get('evidenceLevel',current.get('evidenceLevel'))
           merged={**old,**new}
           current=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
+
+          # The collector writes only newly collected signals. Reclassify the
+          # merged feed so restored historical signals keep a real L0-L4
+          # research level instead of falling back to a missing/implicit L0.
+          for signal in current:
+              infer_entities(signal)
+              signal['project']=infer_project(signal) or signal.get('project')
+              meta=research_priority(signal)
+              signal['researchPriority']=meta['score']
+              signal['researchLevel']=meta['level']
+              signal['researchLevelName']=meta['levelName']
+              signal['researchPriorityReasons']=meta['reasons']
+              signal['researchTriggers']=meta['triggers']
+              signal['researchBudget']={'maxQueries':meta['maxQueries'],'maxSources':meta['maxSources']}
+              existing=signal.get('researchEligibility') or {}
+              signal['researchEligibility']={**existing,'eligible':meta['levelNumber']>0,'engineVersion':existing.get('engineVersion','5.0-entity-aware-adaptive')}
+
           Path('data/signals.js').write_text('export const signals = '+json.dumps(current,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
           archive_path=Path('data/archive/signals.json'); archive_path.parent.mkdir(parents=True,exist_ok=True)
           try:
               archive_doc=json.loads(archive_path.read_text(encoding='utf-8')); archived={x['id']:x for x in archive_doc.get('signals',[]) if x.get('id')}
           except Exception: archived={}
           archived.update(old); archived.update(new); now=datetime.now(timezone.utc).isoformat()
-          archive_doc={'version':1,'description':'Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.','updatedAt':now,'totalSignals':len(archived),'signals':sorted(archived.values(),key=lambda x:x.get('detected',''),reverse=True)}
-          archive_path.write_text(json.dumps(archive_doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          archive_path.write_text(json.dumps({'version':1,'description':'Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.','updatedAt':now,'totalSignals':len(archived),'signals':sorted(archived.values(),key=lambda x:x.get('detected',''),reverse=True)},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           review=[]
           if Path('data/signal-review.js').exists():
               m=re.search(r'export const signalReview = (.*);\s*$',Path('data/signal-review.js').read_text(encoding='utf-8'),re.S); review=json.loads(m.group(1)) if m else []

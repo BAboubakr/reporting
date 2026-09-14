@@ -7,8 +7,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
     "source": "Offshore Magazine",
     "sourceType": "news",
-    "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-14T22:26:03.986575+00:00",
+    "published": "2026-09-03T07:00:00+00:00",
+    "detected": "2026-09-14T23:09:26.187750+00:00",
     "categories": [
       "Wind",
       "Investment"
@@ -66,7 +66,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T22:26:04.162744+00:00",
+      "researchedAt": "2026-09-14T23:09:26.324789+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -90,7 +90,7 @@ export const signals = [
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
           "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
           "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
           "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
         },
         {
@@ -99,7 +99,7 @@ export const signals = [
           "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
           "source": "Morocco World News",
           "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
+          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
         },
         {
           "title": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project - European Investment Bank",
@@ -110,20 +110,12 @@ export const signals = [
           "query": "site:eib.org Morocco offshore wind"
         },
         {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+          "title": "OWC wins EIB contract for Morocco offshore wind study - renewablesnow.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study renewablesnow.com",
+          "source": "renewablesnow.com",
           "published": "Mon, 07 Sep 2026 09:55:19 GMT",
           "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
-          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-          "source": "Agenzia Nova",
-          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
-          "query": "Morocco offshore wind NOVEC OWC"
         },
         {
           "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
@@ -134,6 +126,14 @@ export const signals = [
           "query": "site:eib.org Morocco offshore wind"
         },
         {
+          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - rivieramm.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
+          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development rivieramm.com",
+          "source": "rivieramm.com",
+          "published": "Thu, 03 Sep 2026 11:03:22 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
           "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
           "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
@@ -142,10 +142,10 @@ export const signals = [
           "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
         },
         {
-          "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - Business Insider Africa",
+          "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - africa.businessinsider.com",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWxNbGNsRXNOUndOdkZsZVNNZDh6X3BrMHBET1UwUzRJYkk3Vlg1V0w4NFg1dU5hV1JidC1yakgtdm9rZDRMcDRaSjNCcEQzX1pRSWkwNTg3M0ZxNFJlcnB4QVlYTjVfQkNGN1B4b0V3Y1p6TGdGd2hTM3M3bFRtQ3AtOXE0VDJzY2kxNGZLOUtCb3EtT3ltZ2ZENkxJRWdHM2FseUhkVVJWYnliQVliSHZnWFNxRktnVV9JSHdHRWQzS0M0bFBZTmx1NmYxRmFOdmFwVDI3Qmo?oc=5",
-          "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion Business Insider Africa",
-          "source": "Business Insider Africa",
+          "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion africa.businessinsider.com",
+          "source": "africa.businessinsider.com",
           "published": "Wed, 17 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Morocco Wind Investment"
         },
@@ -163,7 +163,7 @@ export const signals = [
           "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
           "source": "Construction Review",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+          "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
           "title": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing - Iberdrola",
@@ -186,7 +186,8 @@ export const signals = [
           "sourceIndexes": [
             0,
             2,
-            3
+            3,
+            5
           ]
         }
       ],
@@ -198,6 +199,111 @@ export const signals = [
         "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
       ],
       "overallConfidence": "MEDIUM",
+      "unresolved": [
+        "Material claims not independently confirmed in public primary sources"
+      ]
+    }
+  },
+  {
+    "id": "sig-5b6e8d760fff",
+    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "renewablesnow.com",
+    "sourceType": "news",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-14T23:09:26.187750+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.0-entity-aware-adaptive"
+    },
+    "enrichment": {
+      "engineVersion": "5.0-entity-aware-adaptive",
+      "researchedAt": "2026-09-14T23:09:26.324789+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
+      ],
+      "sources": [
+        {
+          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+          "source": "renewablesnow.com",
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a relationship/competitive signal and identify its exact contracted or proposed scope.",
+        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
       "unresolved": [
         "Material claims not independently confirmed in public primary sources"
       ]
@@ -516,111 +622,6 @@ export const signals = [
       "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
-        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Material claims not independently confirmed in public primary sources"
-      ]
-    }
-  },
-  {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
-    "sourceType": "news",
-    "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-14T01:07:04.383350+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 81,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": true,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.0-entity-aware-adaptive"
-    },
-    "enrichment": {
-      "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T01:07:04.565346+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 81,
-      "researchQueries": [
-        "\"AFRY\" Morocco Market intelligence",
-        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
-      ],
-      "sources": [
-        {
-          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-          "source": "renewablesnow.com",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "AFRY"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track AFRY as a relationship/competitive signal and identify its exact contracted or proposed scope.",
         "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
       ],
       "overallConfidence": "LOW",

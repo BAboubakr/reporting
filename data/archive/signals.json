@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-15T01:29:45.524232+00:00",
+  "updatedAt": "2026-09-15T07:46:54.394676+00:00",
   "totalSignals": 155,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T22:16:50+00:00",
-      "detected": "2026-09-15T01:29:42.317324+00:00",
+      "detected": "2026-09-15T07:46:48.462323+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -71,7 +71,7 @@
       },
       "enrichment": {
         "engineVersion": "5.0-entity-aware-adaptive",
-        "researchedAt": "2026-09-15T01:29:42.493974+00:00",
+        "researchedAt": "2026-09-15T07:46:48.599988+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -99,11 +99,27 @@
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
           },
           {
-            "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+            "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+            "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+            "source": "Windtech International",
+            "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+          },
+          {
+            "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - moroccoworldnews.com",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-            "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
-            "source": "Morocco World News",
+            "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm moroccoworldnews.com",
+            "source": "moroccoworldnews.com",
             "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+            "query": "\"EIB\" Morocco Wind Investment"
+          },
+          {
+            "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
+            "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
+            "source": "Ocean Energy Resources",
+            "published": "Fri, 11 Sep 2026 13:34:20 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
@@ -123,36 +139,20 @@
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
-            "title": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. - eib.org",
+            "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
+            "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
+            "source": "European Investment Bank",
+            "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+            "query": "site:eib.org Morocco offshore wind"
+          },
+          {
+            "title": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. - European Investment Bank",
             "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPWU5SUE9vT1pSRmZqdkNWMmdQUi1CQ1pUWFlDLTVIUFE3NFBGd3d4SENZdkl4Q3FSQ094RFZZNUpDNnJfVU9DTVM4X1dHbU5ZdUpNSF9fTDlHTWo2RExmc25vLW5IS1NhOTBWQlZzRjVxNXc1QnFWcWQyLWw0ODc1NXZGWU96Wnlpa0tqaDdobG9yckhZX2dIdDVDb1ZCRnF6d21KNDd6bnAxQ1JiYUJQc0dRZHNkNGZLVGlPMGQtc19aV2FaSjFqLTNOd3ZJQkZPcHFlU3VlUl9KVHlOQVM5SGlIQXIya3pfbG5NU1EwQTlnMFpnTW1jcTVtTF8xTnlMMnJPMXptSl90RTM4YUFESmxIaHh3MXJCS2RBUmR6VUZlWWZaeVN3ckUza2M?oc=5",
-            "snippet": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. eib.org",
-            "source": "eib.org",
+            "snippet": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. European Investment Bank",
+            "source": "European Investment Bank",
             "published": "Mon, 07 Sep 2026 18:56:33 GMT",
             "query": "site:eib.org Morocco offshore wind"
-          },
-          {
-            "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
-            "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
-            "source": "HESPRESS English - Morocco News",
-            "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-          },
-          {
-            "title": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project - eib.org",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFfa2MyWmdzNzZtLWRURkRGdGdyNWlVMlgxN25pdUpvUWRTNGcxN09iaVhhX3E2LURwWm45QVN4QWQwWVRnSC1CRlJRVC1pYWhVTjJsVWUzZGNXaElkYXppRWV0LVhXSjAwMUxJcFNNazJvc1ZYeHFlblFtX0llMTl4QmpiZDU2Q3VpaE9zY2FNT21SUnU1SjVOQjlIbmV6WFVNZ2dSVFVCZ2Ffcm03QVc4dFVTVDg?oc=5",
-            "snippet": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project eib.org",
-            "source": "eib.org",
-            "published": "Fri, 11 Sep 2026 20:50:38 GMT",
-            "query": "site:eib.org Morocco offshore wind"
-          },
-          {
-            "title": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion - africa.businessinsider.com",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWxNbGNsRXNOUndOdkZsZVNNZDh6X3BrMHBET1UwUzRJYkk3Vlg1V0w4NFg1dU5hV1JidC1yakgtdm9rZDRMcDRaSjNCcEQzX1pRSWkwNTg3M0ZxNFJlcnB4QVlYTjVfQkNGN1B4b0V3Y1p6TGdGd2hTM3M3bFRtQ3AtOXE0VDJzY2kxNGZLOUtCb3EtT3ltZ2ZENkxJRWdHM2FseUhkVVJWYnliQVliSHZnWFNxRktnVV9JSHdHRWQzS0M0bFBZTmx1NmYxRmFOdmFwVDI3Qmo?oc=5",
-            "snippet": "Africa’s second-largest economy lands $801 million in European Union backing for major power-grid expansion africa.businessinsider.com",
-            "source": "africa.businessinsider.com",
-            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-            "query": "\"EIB\" Morocco Wind Investment"
           },
           {
             "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
@@ -168,7 +168,7 @@
             "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
             "source": "Construction Review",
             "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-            "query": "Morocco offshore wind MASEN EIB feasibility"
+            "query": "Morocco offshore wind Essaouira contractor"
           }
         ],
         "sourceCount": 10,
@@ -182,8 +182,7 @@
             "confidence": "HIGH",
             "sourceIndexes": [
               0,
-              2,
-              6
+              4
             ]
           }
         ],
@@ -209,7 +208,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-15T01:29:42.317324+00:00",
+      "detected": "2026-09-15T07:46:48.462323+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -266,7 +265,7 @@
       },
       "enrichment": {
         "engineVersion": "5.0-entity-aware-adaptive",
-        "researchedAt": "2026-09-15T01:29:42.493974+00:00",
+        "researchedAt": "2026-09-15T07:46:48.599988+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",

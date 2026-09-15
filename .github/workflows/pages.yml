@@ -3,6 +3,8 @@ name: Deploy Atlas to GitHub Pages
 on:
   push:
     branches: [master]
+  schedule:
+    - cron: '32 * * * *'
   workflow_dispatch:
 
 permissions:

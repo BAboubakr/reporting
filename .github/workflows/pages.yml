@@ -34,3 +34,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Pages deployment intentionally runs from the latest repository state so
+# hourly monitor commits are published even when they originate from GITHUB_TOKEN.

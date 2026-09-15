@@ -17,6 +17,7 @@ export const watchlists = {
     {name:'ILF Consulting Engineers',url:'https://www.ilf.com/',priority:'HIGH'},
     {name:'DNV',url:'https://www.dnv.com/',priority:'HIGH'},
     {name:'NOVEC',url:'https://www.novec.ma/',priority:'HIGH'},
-    {name:'INGEMA',url:'https://www.novec.ma/historique/',priority:'MEDIUM',note:'Tracked as an engineering legacy/name signal; INGEMA was integrated into NOVEC in 2009.'}
+    {name:'INGEMA',url:'https://www.novec.ma/historique/',priority:'MEDIUM',note:'Tracked as an engineering legacy/name signal; INGEMA was integrated into NOVEC in 2009.'},
+    {name:'RINA',url:'https://www.rina.org/',priority:'HIGH',note:'Added after Morocco market-entry signal; monitor energy transition, infrastructure, hydrogen, ports and certification activity.'}
   ]
 };

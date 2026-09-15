@@ -9,7 +9,8 @@ LOOKBACK_DAYS = 30
 MAX_ITEMS = 120
 TIMEOUT = 20
 
-COMPETITORS = ['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA','JESA']
+# Strategic engineering / consulting competitors monitored directly.
+COMPETITORS = ['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA','JESA','RINA']
 MARKET_QUERIES = ['Morocco renewable energy solar PV BESS battery wind hydrogen grid tender','Morocco MASEN renewable tender project','Morocco ONEE grid transmission renewable tender','Morocco ANRE electricity regulation renewable','Morocco green hydrogen ammonia PtX investment','Morocco renewable energy manufacturing investment']
 DFI_QUERIES = [
     'AfDB Morocco energy renewable consultant procurement project',
@@ -23,6 +24,18 @@ DFI_QUERIES = [
     'GIZ Morocco energy transition technical assistance consultant'
 ]
 COMPETITOR_QUERIES = [f'{c} Morocco renewable energy' for c in COMPETITORS]
+# Discovery queries are deliberately broader than the named competitor list.
+# Their purpose is to catch a new international engineering/consulting entrant
+# before Atlas has been manually taught its name.
+DISCOVERY_QUERIES = [
+    'Morocco renewable energy engineering consultancy new office subsidiary',
+    'Morocco energy consulting firm opens office Casablanca',
+    'Morocco engineering company establishes subsidiary renewable energy',
+    'Morocco engineering consultancy expands Africa office energy transition',
+    'Morocco renewable energy consultant market entry international firm',
+    'Morocco green hydrogen engineering consultancy new presence',
+    'Morocco infrastructure engineering firm Casablanca office expansion'
+]
 OFFICIAL_PAGES = [
     ('ONEE tenders','https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type='),
     ('ONEE results','https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1'),
@@ -36,15 +49,14 @@ OFFICIAL_PAGES = [
     ('EBRD procurement','https://www.ebrd.com/work-with-us/procurement.html')
 ]
 KEYWORDS={'Solar PV':['solar','photovoltaic','pv','masen'],'BESS':['bess','battery','storage'],'Wind':['wind','eolien','éolien'],'Grid':['grid','transmission','substation','225 kv','onee'],'Regulation':['anre','regulation','tariff','law','decree','regulatory'],'Hydrogen / PtX':['hydrogen','ammonia','ptx','power-to-x','electrolysis'],'Investment':['investment','financing','funding','loan','mmdh','million','billion'],'Tender / Procurement':['tender','procurement','appel d’offres','appel d offres','consultation','prequalification'],'Manufacturing':['factory','manufacturing','module','cell','industrial']}
-SIGNAL_RULES=[('award',['awarded','won the contract','wins contract','selected','appointed','attributed','adjudicated','lauréat','retenu','attribué']),('tender',['tender','appel d’offres','appel d offres','procurement','consultation','prequalification','rfp']),('project milestone',['construction','commissioned','inaugurated','groundbreaking','financial close','commercial operation','mise en service','construction starts']),('project announcement',['project','plant','farm','facility','development','announces','launches','to develop','will build']),('investment',['investment','financing','funding','loan','invests','million','billion','mmdh']),('regulatory',['regulation','tariff','law','decree','decision','anre','regulatory']),('partnership',['partnership','agreement','memorandum','mou','joint venture','consortium','collaboration']),('manufacturing',['factory','manufacturing','module','cell','industrial plant'])]
+SIGNAL_RULES=[('market entry',['opens office','opening office','new office','establishes office','establishes subsidiary','launches morocco','morocco subsidiary','morocco sarl','registered in casablanca','expands presence','market entry','local entity','local office']),('award',['awarded','won the contract','wins contract','selected','appointed','attributed','adjudicated','lauréat','retenu','attribué']),('tender',['tender','appel d’offres','appel d offres','procurement','consultation','prequalification','rfp']),('project milestone',['construction','commissioned','inaugurated','groundbreaking','financial close','commercial operation','mise en service','construction starts']),('project announcement',['project','plant','farm','facility','development','announces','launches','to develop','will build']),('investment',['investment','financing','funding','loan','invests','million','billion','mmdh']),('regulatory',['regulation','tariff','law','decree','decision','anre','regulatory']),('partnership',['partnership','agreement','memorandum','mou','joint venture','consortium','collaboration']),('manufacturing',['factory','manufacturing','module','cell','industrial plant'])]
 NOISE=['nouvel utilisateur','créer un compte','se connecter','connexion','menu','accueil','contact','recherche','newsletter','mentions légales','politique de confidentialité','cookies','subscribe','sign in','log in','home','search','0 entités publiques inscrites','tester la configuration de mon poste','soumettre une réclamation','liste des marchés attribués','liste des bons de commande attribués','annonce de programme prévisionnel','annonce de programme previsionnel','toutes les décisions de résiliation','tous les résultats définitifs','consultations et annonces','matériel accepté réseau onee','textes réglementaires et techniques','contrôle du maintien de la qualité','spécifications techniques','entreprises agréées en réseau','entreprises agres en reseau','travaux et prestations soumis agrément','travaux et prestations soumis agrement','agrément des entreprises de travaux et services','agrement des entreprises de travaux et services','constitution des dossiers de qualifications des microentreprises','qualification des microentreprises','liste des activités pouvant être confiées à des microentreprises','liste des activites pouvant etre confiees a des microentreprises']
 
 def fetch(url):
-    req=urllib.request.Request(url,headers={'User-Agent':'Atlas-Morocco-Intelligence/2.1'})
+    req=urllib.request.Request(url,headers={'User-Agent':'Atlas-Morocco-Intelligence/2.2'})
     with urllib.request.urlopen(req,timeout=TIMEOUT) as r:return r.read()
 
 def clean(text):return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',text or ''))).strip()
-
 def normalize(text):return re.sub(r'\s+',' ',re.sub(r'[^a-z0-9àâçéèêëîïôûùüÿñæœ\s-]',' ',(text or '').lower())).strip()
 
 def is_noise(text):
@@ -103,7 +115,7 @@ def extract_stage(text):
     return 'monitoring'
 
 def score(title,desc,competitor,source_type):
-    t=(title+' '+desc).lower();s=28;weights={'tender':14,'contract':14,'awarded':18,'selected':18,'investment':12,'financing':14,'project':8,'masen':10,'onee':10,'hydrogen':8,'bess':10,'battery':8,'grid':8,'regulation':12,'anre':12,'factory':9,'manufacturing':9,'construction':10,'consultant':10,'technical assistance':12,'feasibility':8,'procurement':12}
+    t=(title+' '+desc).lower();s=28;weights={'tender':14,'contract':14,'awarded':18,'selected':18,'investment':12,'financing':14,'project':8,'masen':10,'onee':10,'hydrogen':8,'bess':10,'battery':8,'grid':8,'regulation':12,'anre':12,'factory':9,'manufacturing':9,'construction':10,'consultant':10,'technical assistance':12,'feasibility':8,'procurement':12,'office':16,'subsidiary':18,'morocco sarl':20,'market entry':20,'expands presence':16}
     for w,v in weights.items():
         if w in t:s+=v
     if source_type=='official':s+=15
@@ -130,7 +142,7 @@ def dedupe_key(title,link):return hashlib.sha1((normalize(title)+'|'+link.split(
 
 def main():
     rows=[]
-    for q in MARKET_QUERIES+DFI_QUERIES+COMPETITOR_QUERIES:rows+=google_rss(q)
+    for q in MARKET_QUERIES+DFI_QUERIES+COMPETITOR_QUERIES+DISCOVERY_QUERIES:rows+=google_rss(q)
     for name,url in OFFICIAL_PAGES:rows+=page_items(name,url)
     cutoff=datetime.now(timezone.utc)-timedelta(days=LOOKBACK_DAYS);seen=set();candidates=[]
     for title,link,desc,pub,source,source_type in rows:

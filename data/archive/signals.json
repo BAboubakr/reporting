@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-15T20:56:17.607947+00:00",
+  "updatedAt": "2026-09-15T21:24:21.272618+00:00",
   "totalSignals": 159,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "RINA",
       "sourceType": "official",
       "published": "2026-09-01T00:00:00+00:00",
-      "detected": "2026-09-15T20:56:09.109858+00:00",
+      "detected": "2026-09-15T21:24:13.456400+00:00",
       "categories": [
         "Investment",
         "Hydrogen / PtX",
@@ -74,7 +74,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T20:56:09.249797+00:00",
+        "researchedAt": "2026-09-15T21:24:13.632539+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -142,14 +142,6 @@
             "query": "Morocco pumped storage hydro project contractor"
           },
           {
-            "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-            "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-            "source": "Morocco World News",
-            "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-            "query": "Morocco pumped storage hydro project contractor"
-          },
-          {
             "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
             "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
@@ -198,7 +190,7 @@
             "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
           }
         ],
-        "sourceCount": 13,
+        "sourceCount": 12,
         "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
         "entities": [
           "RINA",
@@ -214,7 +206,7 @@
             "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
             "confidence": "HIGH",
             "sourceIndexes": [
-              9
+              8
             ]
           }
         ],
@@ -239,7 +231,7 @@
       "source": "Morocco World News",
       "sourceType": "news",
       "published": "2026-09-14T12:17:49+00:00",
-      "detected": "2026-09-15T20:56:09.109858+00:00",
+      "detected": "2026-09-15T21:24:13.456400+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -297,7 +289,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T20:56:09.249797+00:00",
+        "researchedAt": "2026-09-15T21:24:13.632539+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -401,7 +393,7 @@
       "source": "Business Insider Africa",
       "sourceType": "news",
       "published": "2026-09-07T07:00:00+00:00",
-      "detected": "2026-09-15T20:56:09.109858+00:00",
+      "detected": "2026-09-15T21:24:13.456400+00:00",
       "categories": [
         "Investment",
         "Manufacturing"
@@ -456,7 +448,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T20:56:09.249797+00:00",
+        "researchedAt": "2026-09-15T21:24:13.632539+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -500,7 +492,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-15T20:56:09.109858+00:00",
+      "detected": "2026-09-15T21:24:13.456400+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -558,7 +550,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T20:56:09.249797+00:00",
+        "researchedAt": "2026-09-15T21:24:13.632539+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",

@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-15T17:19:29.973579+00:00",
+    "detected": "2026-09-15T18:13:52.454291+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T17:19:30.092262+00:00",
+      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -145,6 +145,14 @@ export const signals = [
           "query": "Morocco pumped storage hydro project contractor"
         },
         {
+          "title": "World Bank backs 300 MW pumped-storage hydropower project in Morocco - Enerdata",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3BDWkR5QTB4WklaRXk4T3c5X2s5NV9kSEJXZlVGX3BBSVVrNGgzUG5nSGU5YzNUUkFKdzkzdlhoNnhvYndXa25ZZFM4dnJrUng1Qm04bDNoSE9pdzJLTEQzQWZ1LThURDNsd1NVOGpVOFliQ0lmWlFjeVFUVGJNQ21vZnk3SUQzclNBY3JmVzRlSElhTEFSeVdSWFAyM0c2S0llaFJ5MElKb1ZqSnc2d2ZHVFk0Q0U4bjhqc0ZJSTZLOGVn?oc=5",
+          "snippet": "World Bank backs 300 MW pumped-storage hydropower project in Morocco Enerdata",
+          "source": "Enerdata",
+          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
           "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
           "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
@@ -166,14 +174,6 @@ export const signals = [
           "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
           "source": "Pumps Africa Magazine",
           "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
-        },
-        {
-          "title": "Morocco secures World Bank support for hydropower storage project - The Arab Weekly",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjl4elVUS0tOMjVPTmxNeVhPcXZlcmU3VkJqclRZS1lsUndmVVVaZlhMUEprZU93SHRUbkRRRjFpbnRXSG9ZNEhiUWJMVS13dkhlcDg1UF9aVm8xVS01Yi16TTJ5bm9HVVYtTWpPXzQzRjNHeDh0NV9LTXJtemlSSGs0NFRVaFhjanRTRHpERGk?oc=5",
-          "snippet": "Morocco secures World Bank support for hydropower storage project The Arab Weekly",
-          "source": "The Arab Weekly",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
@@ -209,7 +209,7 @@ export const signals = [
           "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
           "confidence": "HIGH",
           "sourceIndexes": [
-            9
+            10
           ]
         }
       ],
@@ -223,6 +223,470 @@ export const signals = [
       ],
       "overallConfidence": "HIGH",
       "unresolved": []
+    }
+  },
+  {
+    "id": "sig-2e5b5dc23dc3",
+    "title": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+    "headline": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+    "summary": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlWbklqNjRFSG45V1hsb3lETXdNYjYtbUlQZU42c1hoMC1OMGhXMXoySEhmRVFaei1qSC0zcV9LbXA2QnFfLXV2MVhiRWFKT0NHSW9hWF9GdjNvOHQwTjZUUkxXd1FBMmNIdElkX1RueG90dll6NDhNdE5YaVA5ZmZiSTFNSkhXbUpJcmRDb1JrcWFZcDFKRXhGQVljWkl6RlRvY2hxN1VjZ1NrOUtwWVlSOXV5eUFZdnpF?oc=5",
+    "source": "Morocco World News",
+    "sourceType": "news",
+    "published": "2026-09-14T12:17:49+00:00",
+    "detected": "2026-09-15T18:13:52.454291+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "RINA",
+      "Casablanca"
+    ],
+    "competitor": "RINA",
+    "relevanceScore": 56,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; RINA detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "2 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 92,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "consulting/advisory potential"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": true,
+      "competitorMove": true,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 92,
+      "researchQueries": [
+        "\"RINA\" Morocco Market intelligence",
+        "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+        "\"Casablanca\" Morocco Market intelligence",
+        "\"Casablanca\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+        "\"Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News\"",
+        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News official",
+        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News subsidiary",
+        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News Casablanca office",
+        "Morocco engineering consulting market entry RINA Casablanca",
+        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News procurement"
+      ],
+      "sources": [
+        {
+          "title": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlWbklqNjRFSG45V1hsb3lETXdNYjYtbUlQZU42c1hoMC1OMGhXMXoySEhmRVFaei1qSC0zcV9LbXA2QnFfLXV2MVhiRWFKT0NHSW9hWF9GdjNvOHQwTjZUUkxXd1FBMmNIdElkX1RueG90dll6NDhNdE5YaVA5ZmZiSTFNSkhXbUpJcmRDb1JrcWFZcDFKRXhGQVljWkl6RlRvY2hxN1VjZ1NrOUtwWVlSOXV5eUFZdnpF?oc=5",
+          "snippet": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
+          "source": "Morocco World News",
+          "published": "Mon, 14 Sep 2026 12:17:49 GMT",
+          "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
+        },
+        {
+          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - lbbonline.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
+          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA lbbonline.com",
+          "source": "lbbonline.com",
+          "published": "Tue, 08 Sep 2026 13:39:45 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
+          "title": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTnBNLUNzYW85TERZNFhtNkZuSk82ZEpXNEFDbEpJdkdhZlZJWDJSYVpZOWFCMUEwRDFPQzZ6WS1FNWZ3MDRjcVNxVmFDd0s4V3RUOVFOOTllYmN4ZHVCbUVSclZYZndBSjhRYmNra1JHZw?oc=5",
+          "snippet": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+          "source": "Revelio Labs",
+          "published": "Thu, 30 Jul 2026 00:08:12 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
+          "title": "Oracle establishes second Morocco R&D hub - Intelligent CIO",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYS05dVg1TzlaUUFDb29Mb21jREFUZGtxSzI2Z0R5eTlkOXkzeXFoNFJuWkViWGNKQ3RoeS10MDV0RGZjWHRIa2FWbU93MXM3YmgwOS1hRC1LVjBPOUdCUWdiN0ZKM1A5YUQxRExfQjBtSVFYZzlja3oyLTNpb3ExZGhCR19JUUw4bldNV1JFQkFLb01z?oc=5",
+          "snippet": "Oracle establishes second Morocco R&D hub Intelligent CIO",
+          "source": "Intelligent CIO",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
+          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
+          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
+          "source": "Modern Diplomacy",
+          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
+          "title": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 - Africa Intelligence",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb285RWpSTG9kbERzVTVtLXpNdGFxNlZMTWFwMDVvOXJudFZ3b01Kb2g5TVUwV1E5SmNndkpWaG5IUUFrdFRpVF83TUM4NGYxSzNOdkJkVTZPM2d4QzhVU2pIMlp3N3kyZXhVbzNPYzZ2eGI3Q0ttRWd6bDFNOHhkR0hRRHhYUUxRRlc1a28xZFlSdjF1TXU4M3p4OG54QmJhVWtVZk40bXBBOGRoeHBsUHp5VXVOUTZBeE9CMGhzR0FnU1huY0RsbFlFckVOckNhVDh0Skpoc2F4NFhhektXT056b1FJRzNDbGx2MVRBdTQtQzdiTXc?oc=5",
+          "snippet": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 Africa Intelligence",
+          "source": "Africa Intelligence",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        }
+      ],
+      "sourceCount": 6,
+      "project": null,
+      "entities": [
+        "RINA",
+        "Casablanca"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track RINA Morocco as a strategic competitor market-entry signal and map its energy-transition, infrastructure and certification activity.",
+        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-769a7679d8aa",
+    "title": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
+    "headline": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
+    "summary": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkVuZlFKM1AtZnliam1lOFNYcHRZSnktbkxJeDJrTUdjU1JNNll1aFFsWHExMXVRaXphbUxCSnFKOXJQazRQODl6UnZMUHNndHBkcDlUU3g5eU8xeDVtNE1WcW1wRlcwSDRQbzJsWElCaXJfRHlJWkxRTjR5U1FIMV90ZktPR25kd0lTc0loLVNtNXNaaFlnUk1icDFGVEhoSzFURUJKaUFfNTRKUUVqcHJuaEhEOWVSUTdGZlhNNDctT1NZRmJ5V3d6dDM0ckVY?oc=5",
+    "source": "Business Insider Africa",
+    "sourceType": "news",
+    "published": "2026-09-07T07:00:00+00:00",
+    "detected": "2026-09-15T18:13:52.454291+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 49,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); quantitative detail",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 45,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 45,
+      "researchQueries": [
+        "\"Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa\"",
+        "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
+      ],
+      "sources": [
+        {
+          "title": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkVuZlFKM1AtZnliam1lOFNYcHRZSnktbkxJeDJrTUdjU1JNNll1aFFsWHExMXVRaXphbUxCSnFKOXJQazRQODl6UnZMUHNndHBkcDlUU3g5eU8xeDVtNE1WcW1wRlcwSDRQbzJsWElCaXJfRHlJWkxRTjR5U1FIMV90ZktPR25kd0lTc0loLVNtNXNaaFlnUk1icDFGVEhoSzFURUJKaUFfNTRKUUVqcHJuaEhEOWVSUTdGZlhNNDctT1NZRmJ5V3d6dDM0ckVY?oc=5",
+          "snippet": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
+          "source": "Business Insider Africa",
+          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-15d225332f5f",
+    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+    "source": "Devdiscourse",
+    "sourceType": "news",
+    "published": "2026-08-25T07:00:00+00:00",
+    "detected": "2026-09-15T18:13:52.454291+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 40,
+    "actionabilityScore": 29,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse\"",
+        "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
+      ],
+      "sources": [
+        {
+          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+          "source": "Devdiscourse",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-5b6e8d760fff",
+    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "renewablesnow.com",
+    "sourceType": "news",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-15T18:13:52.454291+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
+      ],
+      "sources": [
+        {
+          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+          "source": "renewablesnow.com",
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -323,364 +787,6 @@ export const signals = [
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
         "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-2e5b5dc23dc3",
-    "title": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-    "headline": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-    "summary": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlWbklqNjRFSG45V1hsb3lETXdNYjYtbUlQZU42c1hoMC1OMGhXMXoySEhmRVFaei1qSC0zcV9LbXA2QnFfLXV2MVhiRWFKT0NHSW9hWF9GdjNvOHQwTjZUUkxXd1FBMmNIdElkX1RueG90dll6NDhNdE5YaVA5ZmZiSTFNSkhXbUpJcmRDb1JrcWFZcDFKRXhGQVljWkl6RlRvY2hxN1VjZ1NrOUtwWVlSOXV5eUFZdnpF?oc=5",
-    "source": "Morocco World News",
-    "sourceType": "news",
-    "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-15T17:19:29.973579+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "RINA",
-      "Casablanca"
-    ],
-    "competitor": "RINA",
-    "relevanceScore": 56,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; RINA detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.53,
-    "filterReason": "2 Morocco/location indicator(s)",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 92,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "consulting/advisory potential"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": true,
-      "competitorMove": true,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T17:19:30.092262+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 92,
-      "researchQueries": [
-        "\"RINA\" Morocco Market intelligence",
-        "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-        "\"Casablanca\" Morocco Market intelligence",
-        "\"Casablanca\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-        "\"Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News\"",
-        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News official",
-        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News subsidiary",
-        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News Casablanca office",
-        "Morocco engineering consulting market entry RINA Casablanca",
-        "Morocco Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News procurement"
-      ],
-      "sources": [
-        {
-          "title": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVlWbklqNjRFSG45V1hsb3lETXdNYjYtbUlQZU42c1hoMC1OMGhXMXoySEhmRVFaei1qSC0zcV9LbXA2QnFfLXV2MVhiRWFKT0NHSW9hWF9GdjNvOHQwTjZUUkxXd1FBMmNIdElkX1RueG90dll6NDhNdE5YaVA5ZmZiSTFNSkhXbUpJcmRDb1JrcWFZcDFKRXhGQVljWkl6RlRvY2hxN1VjZ1NrOUtwWVlSOXV5eUFZdnpF?oc=5",
-          "snippet": "Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 14 Sep 2026 12:17:49 GMT",
-          "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
-        },
-        {
-          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - Little Black Book | LBBOnline",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
-          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA Little Black Book | LBBOnline",
-          "source": "Little Black Book | LBBOnline",
-          "published": "Tue, 08 Sep 2026 13:39:45 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTnBNLUNzYW85TERZNFhtNkZuSk82ZEpXNEFDbEpJdkdhZlZJWDJSYVpZOWFCMUEwRDFPQzZ6WS1FNWZ3MDRjcVNxVmFDd0s4V3RUOVFOOTllYmN4ZHVCbUVSclZYZndBSjhRYmNra1JHZw?oc=5",
-          "snippet": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
-          "source": "Revelio Labs",
-          "published": "Thu, 30 Jul 2026 00:08:12 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "Oracle establishes second Morocco R&D hub - Intelligent CIO",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYS05dVg1TzlaUUFDb29Mb21jREFUZGtxSzI2Z0R5eTlkOXkzeXFoNFJuWkViWGNKQ3RoeS10MDV0RGZjWHRIa2FWbU93MXM3YmgwOS1hRC1LVjBPOUdCUWdiN0ZKM1A5YUQxRExfQjBtSVFYZzlja3oyLTNpb3ExZGhCR19JUUw4bldNV1JFQkFLb01z?oc=5",
-          "snippet": "Oracle establishes second Morocco R&D hub Intelligent CIO",
-          "source": "Intelligent CIO",
-          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
-          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
-          "source": "Modern Diplomacy",
-          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "Awards for Excellence national winners 2026: Morocco - Euromoney",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTRmcWxWZGxaV1diUGJEWGh0c3JseVlsV1JBMmZYSUs2ZHVxYnFhLUNOZjcwVUU3SEs3SU1RMHZKNTRPNlZJU2xIWXBLb2thZGZuMDhSWk5pSmRscWlFalktSzBIakF0YnNxdXdTbDJSYlZ3OHA4ZTE2dHNkSnNTTlVPNjZ0V1FiWDk1dFhORUpvaThqeWljVVRXLUd1OFhRQmt0eFQxZER5TENJdTVvVXJR?oc=5",
-          "snippet": "Awards for Excellence national winners 2026: Morocco Euromoney",
-          "source": "Euromoney",
-          "published": "Fri, 17 Jul 2026 12:10:35 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        }
-      ],
-      "sourceCount": 6,
-      "project": null,
-      "entities": [
-        "RINA",
-        "Casablanca"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track RINA Morocco as a strategic competitor market-entry signal and map its energy-transition, infrastructure and certification activity.",
-        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
-    }
-  },
-  {
-    "id": "sig-769a7679d8aa",
-    "title": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
-    "headline": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
-    "summary": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkVuZlFKM1AtZnliam1lOFNYcHRZSnktbkxJeDJrTUdjU1JNNll1aFFsWHExMXVRaXphbUxCSnFKOXJQazRQODl6UnZMUHNndHBkcDlUU3g5eU8xeDVtNE1WcW1wRlcwSDRQbzJsWElCaXJfRHlJWkxRTjR5U1FIMV90ZktPR25kd0lTc0loLVNtNXNaaFlnUk1icDFGVEhoSzFURUJKaUFfNTRKUUVqcHJuaEhEOWVSUTdGZlhNNDctT1NZRmJ5V3d6dDM0ckVY?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-15T17:19:29.973579+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 49,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); quantitative detail",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 45,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T17:19:30.092262+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 45,
-      "researchQueries": [
-        "\"Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa\"",
-        "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
-      ],
-      "sources": [
-        {
-          "title": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkVuZlFKM1AtZnliam1lOFNYcHRZSnktbkxJeDJrTUdjU1JNNll1aFFsWHExMXVRaXphbUxCSnFKOXJQazRQODl6UnZMUHNndHBkcDlUU3g5eU8xeDVtNE1WcW1wRlcwSDRQbzJsWElCaXJfRHlJWkxRTjR5U1FIMV90ZktPR25kd0lTc0loLVNtNXNaaFlnUk1icDFGVEhoSzFURUJKaUFfNTRKUUVqcHJuaEhEOWVSUTdGZlhNNDctT1NZRmJ5V3d6dDM0ckVY?oc=5",
-          "snippet": "Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-15d225332f5f",
-    "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-    "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-    "source": "Devdiscourse",
-    "sourceType": "news",
-    "published": "2026-08-25T07:00:00+00:00",
-    "detected": "2026-09-15T17:19:29.973579+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 40,
-    "actionabilityScore": 29,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 39,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "investment/financing"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T17:19:30.092262+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 39,
-      "researchQueries": [
-        "\"MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse\"",
-        "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
-      ],
-      "sources": [
-        {
-          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-          "source": "Devdiscourse",
-          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "LOW",
@@ -1062,112 +1168,6 @@ export const signals = [
       ],
       "overallConfidence": "MEDIUM",
       "unresolved": []
-    }
-  },
-  {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
-    "sourceType": "news",
-    "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-15T13:35:27.255447+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 81,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": true,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T13:35:27.396128+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 81,
-      "researchQueries": [
-        "\"AFRY\" Morocco Market intelligence",
-        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
-      ],
-      "sources": [
-        {
-          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-          "source": "renewablesnow.com",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "AFRY"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
     }
   },
   {

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-15T17:17:28.709169+00:00",
+  "updatedAt": "2026-09-15T17:19:39.304744+00:00",
   "totalSignals": 159,
   "signals": [
     {
@@ -13,7 +13,7 @@
       "source": "RINA",
       "sourceType": "official",
       "published": "2026-09-01T00:00:00+00:00",
-      "detected": "2026-09-15T17:17:22.012596+00:00",
+      "detected": "2026-09-15T17:19:29.973579+00:00",
       "categories": [
         "Investment",
         "Hydrogen / PtX",
@@ -74,7 +74,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T17:17:22.193171+00:00",
+        "researchedAt": "2026-09-15T17:19:30.092262+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -239,7 +239,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-15T17:17:22.012596+00:00",
+      "detected": "2026-09-15T17:19:29.973579+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -297,7 +297,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T17:17:22.193171+00:00",
+        "researchedAt": "2026-09-15T17:19:30.092262+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -345,7 +345,7 @@
       "source": "Morocco World News",
       "sourceType": "news",
       "published": "2026-09-14T12:17:49+00:00",
-      "detected": "2026-09-15T17:17:22.012596+00:00",
+      "detected": "2026-09-15T17:19:29.973579+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -403,7 +403,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T17:17:22.193171+00:00",
+        "researchedAt": "2026-09-15T17:19:30.092262+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -455,10 +455,10 @@
             "query": "\"Casablanca\" Morocco Market intelligence"
           },
           {
-            "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - moderndiplomacy.eu",
+            "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
-            "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism moderndiplomacy.eu",
-            "source": "moderndiplomacy.eu",
+            "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
+            "source": "Modern Diplomacy",
             "published": "Tue, 14 Jul 2026 07:00:00 GMT",
             "query": "\"Casablanca\" Morocco Market intelligence"
           },
@@ -507,7 +507,7 @@
       "source": "Business Insider Africa",
       "sourceType": "news",
       "published": "2026-09-07T07:00:00+00:00",
-      "detected": "2026-09-15T17:17:22.012596+00:00",
+      "detected": "2026-09-15T17:19:29.973579+00:00",
       "categories": [
         "Investment",
         "Manufacturing"
@@ -562,7 +562,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T17:17:22.193171+00:00",
+        "researchedAt": "2026-09-15T17:19:30.092262+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -579,6 +579,103 @@
             "source": "Business Insider Africa",
             "published": "Mon, 07 Sep 2026 07:00:00 GMT",
             "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
+          }
+        ],
+        "sourceCount": 1,
+        "project": null,
+        "entities": [],
+        "facts": [],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "LOW",
+        "unresolved": [
+          "Insufficient public evidence to verify the material claim."
+        ]
+      }
+    },
+    {
+      "id": "sig-15d225332f5f",
+      "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+      "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+      "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+      "source": "Devdiscourse",
+      "sourceType": "news",
+      "published": "2026-08-25T07:00:00+00:00",
+      "detected": "2026-09-15T17:19:29.973579+00:00",
+      "categories": [
+        "Investment"
+      ],
+      "signalType": "investment",
+      "projectStage": "monitoring",
+      "entities": [],
+      "competitor": null,
+      "relevanceScore": 40,
+      "actionabilityScore": 29,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+      "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 47,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.53,
+      "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 39,
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriorityReasons": [
+        "investment/financing"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": true,
+        "competitor": false,
+        "competitorMove": false,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": false
+      },
+      "researchBudget": {
+        "maxQueries": 7,
+        "maxSources": 9
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-15T17:19:30.092262+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L2",
+        "researchLevelName": "Investigate",
+        "researchPriority": 39,
+        "researchQueries": [
+          "\"MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse\"",
+          "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
+        ],
+        "sources": [
+          {
+            "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+            "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+            "source": "Devdiscourse",
+            "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+            "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
           }
         ],
         "sourceCount": 1,
@@ -4132,60 +4229,6 @@
       "fichtnerRelevance": "WATCH",
       "project": null,
       "researchPriority": 30,
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriorityReasons": [
-        "investment/financing"
-      ],
-      "researchTriggers": {
-        "fichtner": false,
-        "moroccoContext": true,
-        "competitor": false,
-        "competitorMove": false,
-        "marketEntry": false,
-        "tender": false,
-        "award": false,
-        "dfi": false,
-        "dfiDecision": false,
-        "majorProject": false,
-        "consultingPotential": false
-      },
-      "researchBudget": {
-        "maxQueries": 7,
-        "maxSources": 9
-      },
-      "researchEligibility": {
-        "eligible": true,
-        "engineVersion": "5.0-entity-aware-adaptive"
-      }
-    },
-    {
-      "id": "sig-15d225332f5f",
-      "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-      "headline": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
-      "summary": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
-      "source": "Devdiscourse",
-      "sourceType": "news",
-      "published": "2026-08-25T11:43:45+00:00",
-      "detected": "2026-08-26T09:10:35.641399+00:00",
-      "categories": [
-        "Investment"
-      ],
-      "signalType": "investment",
-      "projectStage": "monitoring",
-      "entities": [],
-      "competitor": null,
-      "relevanceScore": 40,
-      "actionabilityScore": 29,
-      "noveltyScore": 0.0,
-      "status": "new",
-      "evidenceLevel": "news source",
-      "evidenceSnippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
-      "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-      "fichtnerRelevance": "WATCH",
-      "project": null,
-      "researchPriority": 39,
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
       "researchPriorityReasons": [

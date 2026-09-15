@@ -7,13 +7,25 @@ const moroccoRelevant=s=>s.morocco===true||/\b(morocco|maroc|masen|onee|anre|ocp
 const daysOld=d=>{const t=Date.parse(d||'');return Number.isFinite(t)?Math.max(0,(Date.now()-t)/86400000):999;};
 function escapeHtml(v=''){return String(v).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
 function formatDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?'Date unavailable':d.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}
+function isMarketEntry(x){const t=norm(`${x.signal||''} ${x.theme||''} ${x.type||''}`);return /(market entry|morocco subsidiary|moroccan subsidiary|morocco sarl|registered in casablanca|opens? (a )?morocco|launch of rina morocco|local entity|local office|expands presence|new office|established.*morocco)/.test(t);}
+function dedupeCompetitorSignals(items){
+ const groups=new Map();
+ for(const x of items){
+  const group=isMarketEntry(x)?`${x.competitor}|market-entry`:`${x.competitor}|${String(x.signal||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}`;
+  const previous=groups.get(group);
+  if(!previous){groups.set(group,x);continue;}
+  const p=v=>v==='HIGH'?3:v==='MEDIUM'?2:v==='WATCH'?1:0;
+  if(p(x.priority)>p(previous.priority)||(p(x.priority)===p(previous.priority)&&Date.parse(x.date||'')>Date.parse(previous.date||'')))groups.set(group,x);
+ }
+ return [...groups.values()];
+}
 async function renderCompetitors(filter='all'){
  const list=document.getElementById('competitorList');if(!list)return;
  let signals=[],seed=[];try{const a=await import('./data/signals.js');signals=a.signals||[];const b=await import('./data/competitor-news.js');seed=b.competitorNews||[];}catch(e){console.error('Atlas competitor signal load failed',e);}
  const live=signals.map(s=>{const competitor=detectCompetitor(s);if(!competitor||!moroccoRelevant(s)||daysOld(s.published||s.detected)>30)return null;return {competitor,type:s.signalType||'Market movement',theme:(s.categories||['Energy transition'])[0],signal:s.title||s.headline||s.summary,priority:String(s.fichtnerRelevance||'').toUpperCase()||(s.relevanceScore>=80?'HIGH':s.relevanceScore>=60?'MEDIUM':'WATCH'),source:s.source||'Atlas collector',url:s.url,date:s.published||s.detected,morocco:true,relationship:'Competitor'};}).filter(Boolean);
  const curated=seed.map(s=>{const competitor=detectCompetitor(s)||s.competitor;if(!competitor||!moroccoRelevant(s)||daysOld(s.date)>365)return null;return {...s,competitor,morocco:true};}).filter(Boolean);
- const all=[...live,...curated];const seen=new Set();const merged=all.filter(x=>{const key=`${x.competitor}|${String(x.signal||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}`;if(seen.has(key))return false;seen.add(key);return true;}).sort((a,b)=>((b.priority==='HIGH')-(a.priority==='HIGH'))||(Date.parse(b.date||'')-Date.parse(a.date||'')));
- const items=filter==='all'?merged:merged.filter(x=>x.competitor===filter);const moroccoCount=merged.length;const high=merged.filter(x=>x.priority==='HIGH').length;
+ const all=dedupeCompetitorSignals([...live,...curated]).sort((a,b)=>((b.priority==='HIGH')-(a.priority==='HIGH'))||(Date.parse(b.date||'')-Date.parse(a.date||'')));
+ const items=filter==='all'?all:all.filter(x=>x.competitor===filter);const moroccoCount=all.length;const high=all.filter(x=>x.priority==='HIGH').length;
  document.getElementById('competitorCount').textContent=COMPETITORS.length;document.getElementById('competitorSignals').textContent=moroccoCount;document.getElementById('competitorHigh').textContent=high;
  if(!items.length){const selected=filter==='all'?'the monitored competitors':filter;list.innerHTML=`<div class="empty-state"><strong>No recent Morocco signal for ${selected}.</strong><p>Atlas monitors competitor activity continuously, but only activity with a demonstrated Morocco connection is shown in Competitor Intelligence.</p></div>`;return;}
  list.innerHTML=items.map(x=>`<article class="competitor-row is-morocco"><div class="competitor-logo">${escapeHtml(x.competitor.split(' ').map(w=>w[0]).join('').slice(0,3))}</div><div class="competitor-main"><div class="competitor-meta"><strong>${escapeHtml(x.competitor)}</strong><span class="competitor-priority ${norm(x.priority)}">${escapeHtml(x.priority)}</span><span>${escapeHtml(x.type)}</span><span class="signal-region">MOROCCO</span></div><h4>${escapeHtml(x.theme)}</h4><p>${escapeHtml(x.signal)}</p><small>${escapeHtml(x.source)} · ${escapeHtml(formatDate(x.date))}${x.relationship?` · ${escapeHtml(x.relationship)}`:''} · <a href="${escapeHtml(x.url||'#')}" target="_blank" rel="noopener">Evidence ↗</a></small></div></article>`).join('');

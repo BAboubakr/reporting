@@ -1,115 +1,9 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-15T12:19:46.651478+00:00",
+  "updatedAt": "2026-09-15T13:35:36.809036+00:00",
   "totalSignals": 158,
   "signals": [
-    {
-      "id": "sig-18cfcff1e963",
-      "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-      "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-      "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-      "source": "Renewables Now",
-      "sourceType": "news",
-      "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-15T12:19:36.412925+00:00",
-      "categories": [
-        "Market intelligence"
-      ],
-      "signalType": "project announcement",
-      "projectStage": "monitoring",
-      "entities": [
-        "AFRY"
-      ],
-      "competitor": "AFRY",
-      "relevanceScore": 46,
-      "actionabilityScore": 33,
-      "noveltyScore": 0.0,
-      "status": "new",
-      "evidenceLevel": "public search evidence",
-      "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-      "fichtnerRelevance": "WATCH",
-      "qualityScore": 52,
-      "filterDecision": "KEEP",
-      "filterConfidence": 0.52,
-      "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-      "aiReviewed": false,
-      "project": null,
-      "researchPriority": 81,
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriorityReasons": [
-        "competitor detected",
-        "competitor move",
-        "project development",
-        "limited Morocco context"
-      ],
-      "researchTriggers": {
-        "fichtner": false,
-        "moroccoContext": false,
-        "competitor": true,
-        "competitorMove": true,
-        "marketEntry": false,
-        "tender": false,
-        "award": false,
-        "dfi": false,
-        "dfiDecision": false,
-        "majorProject": false,
-        "consultingPotential": false
-      },
-      "researchBudget": {
-        "maxQueries": 3,
-        "maxSources": 5
-      },
-      "researchEligibility": {
-        "eligible": true,
-        "willResearch": true,
-        "reason": "missing/stale/old-engine enrichment",
-        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-      },
-      "enrichment": {
-        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T12:19:36.592416+00:00",
-        "status": "public-evidence",
-        "researchLevel": "L1",
-        "researchLevelName": "Verify",
-        "researchPriority": 81,
-        "researchQueries": [
-          "\"AFRY\" Morocco Market intelligence",
-          "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-          "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\""
-        ],
-        "sources": [
-          {
-            "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-            "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-            "source": "Renewables Now",
-            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-            "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now"
-          }
-        ],
-        "sourceCount": 1,
-        "project": null,
-        "entities": [
-          "AFRY"
-        ],
-        "facts": [],
-        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-        "interpretation": "The signal was researched according to its assigned adaptive level.",
-        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-        "recommendedActions": [
-          "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-        ],
-        "overallConfidence": "LOW",
-        "unresolved": [
-          "Insufficient public evidence to verify the material claim."
-        ]
-      }
-    },
     {
       "id": "sig-601f3e2497c3",
       "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
@@ -119,7 +13,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T07:00:00+00:00",
-      "detected": "2026-09-15T12:19:36.412925+00:00",
+      "detected": "2026-09-15T13:35:27.255447+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -178,7 +72,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T12:19:36.592416+00:00",
+        "researchedAt": "2026-09-15T13:35:27.396128+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -198,10 +92,10 @@
         ],
         "sources": [
           {
-            "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+            "title": "OWC wins EIB contract for Morocco offshore wind study - renewablesnow.com",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-            "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-            "source": "Renewables Now",
+            "snippet": "OWC wins EIB contract for Morocco offshore wind study renewablesnow.com",
+            "source": "renewablesnow.com",
             "published": "Mon, 07 Sep 2026 09:55:19 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
@@ -332,7 +226,7 @@
       "source": "RINA",
       "sourceType": "official",
       "published": "2026-09-01T00:00:00+00:00",
-      "detected": "2026-09-15T12:19:36.412925+00:00",
+      "detected": "2026-09-15T13:35:27.255447+00:00",
       "categories": [
         "Investment",
         "Hydrogen / PtX",
@@ -393,7 +287,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T12:19:36.592416+00:00",
+        "researchedAt": "2026-09-15T13:35:27.396128+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -550,7 +444,7 @@
       "source": "moroccoworldnews.com",
       "sourceType": "news",
       "published": "2026-09-14T12:17:49+00:00",
-      "detected": "2026-09-15T12:19:36.412925+00:00",
+      "detected": "2026-09-15T13:35:27.255447+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -608,7 +502,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-15T12:19:36.592416+00:00",
+        "researchedAt": "2026-09-15T13:35:27.396128+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -660,10 +554,10 @@
             "query": "\"Casablanca\" Morocco Market intelligence"
           },
           {
-            "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
+            "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - moderndiplomacy.eu",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
-            "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
-            "source": "Modern Diplomacy",
+            "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism moderndiplomacy.eu",
+            "source": "moderndiplomacy.eu",
             "published": "Tue, 14 Jul 2026 07:00:00 GMT",
             "query": "\"Casablanca\" Morocco Market intelligence"
           },
@@ -701,6 +595,218 @@
         ],
         "overallConfidence": "MEDIUM",
         "unresolved": []
+      }
+    },
+    {
+      "id": "sig-5b6e8d760fff",
+      "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+      "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+      "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+      "source": "renewablesnow.com",
+      "sourceType": "news",
+      "published": "2026-08-27T07:00:00+00:00",
+      "detected": "2026-09-15T13:35:27.255447+00:00",
+      "categories": [
+        "Market intelligence"
+      ],
+      "signalType": "project announcement",
+      "projectStage": "monitoring",
+      "entities": [
+        "AFRY"
+      ],
+      "competitor": "AFRY",
+      "relevanceScore": 46,
+      "actionabilityScore": 33,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 52,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.52,
+      "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 81,
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriorityReasons": [
+        "competitor detected",
+        "competitor move",
+        "project development",
+        "limited Morocco context"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": false,
+        "competitor": true,
+        "competitorMove": true,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": false
+      },
+      "researchBudget": {
+        "maxQueries": 3,
+        "maxSources": 5
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-15T13:35:27.396128+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L1",
+        "researchLevelName": "Verify",
+        "researchPriority": 81,
+        "researchQueries": [
+          "\"AFRY\" Morocco Market intelligence",
+          "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+          "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
+        ],
+        "sources": [
+          {
+            "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+            "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+            "source": "renewablesnow.com",
+            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+            "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
+          }
+        ],
+        "sourceCount": 1,
+        "project": null,
+        "entities": [
+          "AFRY"
+        ],
+        "facts": [],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
+          "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "LOW",
+        "unresolved": [
+          "Insufficient public evidence to verify the material claim."
+        ]
+      }
+    },
+    {
+      "id": "sig-18cfcff1e963",
+      "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+      "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+      "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+      "source": "Renewables Now",
+      "sourceType": "news",
+      "published": "2026-08-27T07:00:00+00:00",
+      "detected": "2026-09-15T12:19:36.412925+00:00",
+      "categories": [
+        "Market intelligence"
+      ],
+      "signalType": "project announcement",
+      "projectStage": "monitoring",
+      "entities": [
+        "AFRY"
+      ],
+      "competitor": "AFRY",
+      "relevanceScore": 46,
+      "actionabilityScore": 33,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 52,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.52,
+      "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 81,
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriorityReasons": [
+        "competitor detected",
+        "competitor move",
+        "project development",
+        "limited Morocco context"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": false,
+        "competitor": true,
+        "competitorMove": true,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": false
+      },
+      "researchBudget": {
+        "maxQueries": 3,
+        "maxSources": 5
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-15T12:19:36.592416+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L1",
+        "researchLevelName": "Verify",
+        "researchPriority": 81,
+        "researchQueries": [
+          "\"AFRY\" Morocco Market intelligence",
+          "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+          "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\""
+        ],
+        "sources": [
+          {
+            "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+            "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+            "source": "Renewables Now",
+            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+            "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now"
+          }
+        ],
+        "sourceCount": 1,
+        "project": null,
+        "entities": [
+          "AFRY"
+        ],
+        "facts": [],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
+          "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "LOW",
+        "unresolved": [
+          "Insufficient public evidence to verify the material claim."
+        ]
       }
     },
     {
@@ -1076,110 +1182,6 @@
         ],
         "overallConfidence": "MEDIUM",
         "unresolved": []
-      }
-    },
-    {
-      "id": "sig-5b6e8d760fff",
-      "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-      "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-      "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-      "source": "renewablesnow.com",
-      "sourceType": "news",
-      "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-15T11:07:24.071040+00:00",
-      "categories": [
-        "Market intelligence"
-      ],
-      "signalType": "project announcement",
-      "projectStage": "monitoring",
-      "entities": [
-        "AFRY"
-      ],
-      "competitor": "AFRY",
-      "relevanceScore": 46,
-      "actionabilityScore": 33,
-      "noveltyScore": 0.0,
-      "status": "new",
-      "evidenceLevel": "public search evidence",
-      "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-      "fichtnerRelevance": "WATCH",
-      "qualityScore": 52,
-      "filterDecision": "KEEP",
-      "filterConfidence": 0.52,
-      "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-      "aiReviewed": false,
-      "enrichment": {
-        "engineVersion": "5.0-entity-aware-adaptive",
-        "researchedAt": "2026-09-14T23:09:26.324789+00:00",
-        "status": "public-evidence",
-        "researchLevel": "L1",
-        "researchLevelName": "Verify",
-        "researchPriority": 81,
-        "researchQueries": [
-          "\"AFRY\" Morocco Market intelligence",
-          "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-          "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
-        ],
-        "sources": [
-          {
-            "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-            "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-            "source": "renewablesnow.com",
-            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-            "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
-          }
-        ],
-        "sourceCount": 1,
-        "project": null,
-        "entities": [
-          "AFRY"
-        ],
-        "facts": [],
-        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-        "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
-        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-        "recommendedActions": [
-          "Track AFRY as a relationship/competitive signal and identify its exact contracted or proposed scope.",
-          "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
-        ],
-        "overallConfidence": "LOW",
-        "unresolved": [
-          "Material claims not independently confirmed in public primary sources"
-        ]
-      },
-      "project": null,
-      "researchPriority": 81,
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriorityReasons": [
-        "competitor detected",
-        "competitor move",
-        "project development",
-        "limited Morocco context"
-      ],
-      "researchTriggers": {
-        "fichtner": false,
-        "moroccoContext": false,
-        "competitor": true,
-        "competitorMove": true,
-        "marketEntry": false,
-        "tender": false,
-        "award": false,
-        "dfi": false,
-        "dfiDecision": false,
-        "majorProject": false,
-        "consultingPotential": false
-      },
-      "researchBudget": {
-        "maxQueries": 3,
-        "maxSources": 5
-      },
-      "researchEligibility": {
-        "eligible": true,
-        "engineVersion": "5.0-entity-aware-adaptive"
       }
     },
     {

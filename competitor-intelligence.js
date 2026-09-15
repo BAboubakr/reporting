@@ -5,20 +5,10 @@ const textOf=s=>norm(`${s.title||s.headline||s.signal||''} ${s.summary||''} ${(s
 const detectCompetitor=s=>{if(s.competitor&&COMPETITORS.includes(s.competitor))return s.competitor;const t=textOf(s);return COMPETITORS.find(c=>ALIASES[c].some(a=>t.includes(a)))||null;};
 const moroccoRelevant=s=>s.morocco===true||/\b(morocco|maroc|masen|onee|anre|ocp|rabat|casablanca|laayoune|dakhla|tanger|fes|fez|oujda|kenitra|chefchaouen|taza|guercif|ouarzazate|ifrane|benguerir|phosboucraa|jorf lasfar|midelt|noor|guelmim|boujdour|tarfaya|nador|safi|el jadida)\b/.test(textOf(s));
 const daysOld=d=>{const t=Date.parse(d||'');return Number.isFinite(t)?Math.max(0,(Date.now()-t)/86400000):999;};
-function escapeHtml(v=''){return String(v).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
+function escapeHtml(v=''){return String(v).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c]));}
 function formatDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?'Date unavailable':d.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'});}
-function isMarketEntry(x){const t=norm(`${x.signal||''} ${x.theme||''} ${x.type||''}`);return /(market entry|morocco subsidiary|moroccan subsidiary|morocco sarl|registered in casablanca|opens? (a )?morocco|launch of rina morocco|local entity|local office|expands presence|new office|established.*morocco)/.test(t);}
-function dedupeCompetitorSignals(items){
- const groups=new Map();
- for(const x of items){
-  const group=isMarketEntry(x)?`${x.competitor}|market-entry`:`${x.competitor}|${String(x.signal||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}`;
-  const previous=groups.get(group);
-  if(!previous){groups.set(group,x);continue;}
-  const p=v=>v==='HIGH'?3:v==='MEDIUM'?2:v==='WATCH'?1:0;
-  if(p(x.priority)>p(previous.priority)||(p(x.priority)===p(previous.priority)&&Date.parse(x.date||'')>Date.parse(previous.date||'')))groups.set(group,x);
- }
- return [...groups.values()];
-}
+function isMarketEntry(x){const t=norm(`${x.signal||''} ${x.theme||''} ${x.type||''}`);return /(market entry|market-entry|morocco(?:n)? subsidiary|subsidiary (?:in|for) casablanca|opens? (?:a )?moroccan|launch(?:es|ed)? .*morocco|morocco sarl|registered in casablanca|local entity|local office|expands presence|new office|established .*morocco)/.test(t);}
+function dedupeCompetitorSignals(items){const groups=new Map();for(const x of items){const group=isMarketEntry(x)?`${x.competitor}|market-entry`:`${x.competitor}|${String(x.signal||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}`;const previous=groups.get(group);if(!previous){groups.set(group,x);continue;}const p=v=>v==='HIGH'?3:v==='MEDIUM'?2:v==='WATCH'?1:0;if(p(x.priority)>p(previous.priority)||(p(x.priority)===p(previous.priority)&&Date.parse(x.date||'')>Date.parse(previous.date||'')))groups.set(group,x);}return [...groups.values()];}
 async function renderCompetitors(filter='all'){
  const list=document.getElementById('competitorList');if(!list)return;
  let signals=[],seed=[];try{const a=await import('./data/signals.js');signals=a.signals||[];const b=await import('./data/competitor-news.js');seed=b.competitorNews||[];}catch(e){console.error('Atlas competitor signal load failed',e);}
@@ -34,6 +24,20 @@ const cf=document.getElementById('competitorFilter');
 if(cf){cf.innerHTML='<option value="all">All competitors</option>'+COMPETITORS.map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');cf.addEventListener('change',()=>renderCompetitors(cf.value));}
 document.getElementById('refreshCompetitors')?.addEventListener('click',()=>renderCompetitors(cf?.value||'all'));
 renderCompetitors();
+
+/* Developments v4: replace the dense row layout with decision-ready cards. */
+const devStyle=document.createElement('link');devStyle.rel='stylesheet';devStyle.href='developments-v4.css?v=20260915-1';document.head.appendChild(devStyle);
+function renderDevelopmentsV4(){
+ const list=document.getElementById('developmentList');if(!list)return;
+ const source=window.allDevelopments?window.allDevelopments():[];
+ const active=(document.querySelector('.filter-row .filter.active')?.dataset.filter)||'all';
+ const match=(x)=>{const t=`${x.topic||''} ${x.title||''} ${x.text||''} ${x.state||''} ${x.project||''}`.toLowerCase();if(active==='verified')return /verified|evidence|source records|official source|primary source|news source/.test(t);if(active==='needs-review')return /watch|review|require verification|needs review/.test(t);if(active==='tenders')return /tender|procurement|prequalification|ao select/.test(t);if(active==='policy')return /regulation|policy|consultation|framework|anre|law/.test(t);if(active==='grid')return /grid|transmission|onee|substation|kv/.test(t);return true;};
+ const seen=new Set();
+ const items=source.filter(match).filter(x=>{const key=(x.signalId||x.id||'')+'|'+String(x.title||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();if(seen.has(key))return false;seen.add(key);return true;}).sort((a,b)=>Date.parse(b.published||b.date||0)-Date.parse(a.published||a.date||0)).slice(0,40);
+ list.innerHTML=items.length?items.map(x=>{const level=x.level||'watch';const state=x.state||'WATCH';const score=x.score||'—';const evidence=x.evidence||'Source evidence';const project=x.project||'';const url=x.url||'';return `<article class="development-card ${escapeHtml(level)}"><div class="dev-top"><span class="dev-topic">${escapeHtml(x.topic||'MARKET SIGNAL')}</span><span class="dev-score">${escapeHtml(score)}</span></div><div class="dev-state">${escapeHtml(state)}</div><h3 class="dev-title">${escapeHtml(x.title||'Untitled market development')}</h3><p class="dev-summary">${escapeHtml(x.text||'Morocco renewable-energy market signal.')}</p>${project?`<div class="dev-project"><b>Project</b> · ${escapeHtml(project)}</div>`:''}<div class="dev-bottom"><div class="dev-meta">${escapeHtml(x.published||x.date||'Date unavailable')} · ${escapeHtml(evidence)}</div>${url?`<a class="dev-evidence" href="${escapeHtml(url)}" target="_blank" rel="noopener">Evidence ↗</a>`:`<span class="dev-action">${escapeHtml(x.action||'Review signal')}</span>`}</div></article>`;}).join(''):'<div class="development-empty"><strong>No developments match this filter.</strong><br>Try another topic or broaden the evidence view.</div>';
+}
+const devFilters=document.querySelectorAll('.filter-row .filter');devFilters.forEach(b=>b.addEventListener('click',()=>setTimeout(renderDevelopmentsV4,0)));setTimeout(renderDevelopmentsV4,0);
+
 const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';marketStyle.href='styles-market-v3.css?v=20260825-1';document.head.appendChild(marketStyle);
 const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260825-1';document.body.appendChild(marketScript);
 const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);

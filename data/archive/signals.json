@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-16T16:58:47.240758+00:00",
-  "totalSignals": 163,
+  "updatedAt": "2026-09-16T20:09:32.585018+00:00",
+  "totalSignals": 164,
   "signals": [
     {
       "id": "sig-rina-morocco-market-entry-20260901",
@@ -13,7 +13,7 @@
       "source": "RINA",
       "sourceType": "official",
       "published": "2026-09-01T00:00:00+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Investment",
         "Hydrogen / PtX",
@@ -74,7 +74,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -94,12 +94,20 @@
         ],
         "sources": [
           {
+            "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+            "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa hydrogenfuelnews.com",
+            "source": "hydrogenfuelnews.com",
+            "published": "Sat, 12 Sep 2026 13:11:06 GMT",
+            "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
+          },
+          {
             "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
             "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
             "source": "Hydrogen Fuel News",
             "published": "Sat, 12 Sep 2026 13:11:06 GMT",
-            "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
+            "query": "Morocco RINA strengthens its presence in Africa with the launch of RINA Morocco"
           },
           {
             "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -126,18 +134,18 @@
             "query": "Morocco Power to X tender project"
           },
           {
-            "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - constructionreviewonline.com",
+            "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
-            "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support constructionreviewonline.com",
-            "source": "constructionreviewonline.com",
+            "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+            "source": "Construction Review",
             "published": "Mon, 20 Jul 2026 07:00:00 GMT",
             "query": "Morocco Power to X tender project"
           },
           {
-            "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - constructionreviewonline.com",
+            "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
-            "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco constructionreviewonline.com",
-            "source": "constructionreviewonline.com",
+            "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+            "source": "Construction Review",
             "published": "Mon, 13 Jul 2026 07:00:00 GMT",
             "query": "Morocco pumped storage hydro project contractor"
           },
@@ -158,6 +166,14 @@
             "query": "Ifahsa pumped hydropower storage Morocco"
           },
           {
+            "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+            "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
+            "source": "Reuters",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "query": "Ifahsa pumped hydropower storage Morocco"
+          },
+          {
             "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco - ESS News",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJRbjA5Q3ktdl9TLS13QVRIN3VWQlN2Sk5mN0RRNTl2RThXdGJrdU1sRWpyWlVNNU5FekZWVVdKcjR6Nkcwd2Q1RmVRNVhjQmJ6OG5Za1BnUVQtTTRhQTBGRV93OFY4QnRQUkRfN19UbHZsb29EVVhoUUM4OWRJakQ1aVJnRVh3a1FPN21GaThhR1NyU1FGTVpTQmVyYno2T0J6Yndn?oc=5",
             "snippet": "World Bank backs 300 MW pumped hydropower storage plant in Morocco ESS News",
@@ -174,14 +190,6 @@
             "query": "Ifahsa pumped hydropower storage Morocco"
           },
           {
-            "title": "Morocco secures World Bank support for hydropower storage project - The Arab Weekly",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjl4elVUS0tOMjVPTmxNeVhPcXZlcmU3VkJqclRZS1lsUndmVVVaZlhMUEprZU93SHRUbkRRRjFpbnRXSG9ZNEhiUWJMVS13dkhlcDg1UF9aVm8xVS01Yi16TTJ5bm9HVVYtTWpPXzQzRjNHeDh0NV9LTXJtemlSSGs0NFRVaFhjanRTRHpERGk?oc=5",
-            "snippet": "Morocco secures World Bank support for hydropower storage project The Arab Weekly",
-            "source": "The Arab Weekly",
-            "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-            "query": "Ifahsa pumped hydropower storage Morocco"
-          },
-          {
             "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
             "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
@@ -190,7 +198,7 @@
             "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
           }
         ],
-        "sourceCount": 12,
+        "sourceCount": 13,
         "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
         "entities": [
           "RINA",
@@ -201,14 +209,15 @@
             "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
             "confidence": "HIGH",
             "sourceIndexes": [
-              0
+              0,
+              1
             ]
           },
           {
             "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
             "confidence": "HIGH",
             "sourceIndexes": [
-              9
+              11
             ]
           }
         ],
@@ -233,7 +242,7 @@
       "source": "Morocco World News",
       "sourceType": "news",
       "published": "2026-09-14T12:17:49+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -291,7 +300,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -395,7 +404,7 @@
       "source": "Business Insider Africa",
       "sourceType": "news",
       "published": "2026-09-07T07:00:00+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Investment",
         "Manufacturing"
@@ -450,7 +459,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -502,7 +511,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -560,7 +569,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -608,7 +617,7 @@
       "source": "GreentechLead",
       "sourceType": "news",
       "published": "2026-09-13T09:39:52+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Solar PV",
         "BESS",
@@ -666,7 +675,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -752,7 +761,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T07:00:00+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -811,7 +820,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -855,6 +864,14 @@
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
+            "title": "The European Investment Bank announces a €365 million transport package for Morocco. - Agenzia Nova",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHF2TklxOTR5azBYNGlmb29qOElTZkhNWXNVbS1lZEFfTUZfenh1ZC0yc2JFVGRQaFVpTUNOazVIVTZjdko0ZEcwWDVnSDB3MXpnU1ppenlXZWd6RXYwVlhGV3dvMVNyS1VaY2ZoVUlyS0t6Y0xJcTBvN3l0ZlUtN0FtTnVHV2VBLVA2OVBVZFpOVF93WDFjeGpoR1RweEo1enNyczU2TnNMRUVFRVdwNjUwY3FTYWx3S1VhMFRXN2xRYmJBdHlB?oc=5",
+            "snippet": "The European Investment Bank announces a €365 million transport package for Morocco. Agenzia Nova",
+            "source": "Agenzia Nova",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "query": "\"EIB\" Morocco Wind Investment"
+          },
+          {
             "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
             "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
@@ -868,7 +885,7 @@
             "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
             "source": "Windtech International",
             "published": "Thu, 10 Sep 2026 08:28:10 GMT",
-            "query": "\"EIB\" Morocco Wind Investment"
+            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
           },
           {
             "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
@@ -879,10 +896,10 @@
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
           },
           {
-            "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - constructionreviewonline.com",
+            "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
-            "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support constructionreviewonline.com",
-            "source": "constructionreviewonline.com",
+            "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+            "source": "Construction Review",
             "published": "Mon, 20 Jul 2026 07:00:00 GMT",
             "query": "Morocco offshore wind MASEN EIB feasibility"
           },
@@ -911,7 +928,7 @@
             "query": "site:eib.org Morocco offshore wind"
           }
         ],
-        "sourceCount": 10,
+        "sourceCount": 11,
         "project": "Morocco Offshore Wind Feasibility Study",
         "entities": [
           "EIB"
@@ -923,9 +940,9 @@
             "sourceIndexes": [
               0,
               2,
-              4,
               5,
-              7
+              6,
+              8
             ]
           }
         ],
@@ -949,7 +966,7 @@
       "source": "Hitachi Energy",
       "sourceType": "news",
       "published": "2026-09-16T01:25:44+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
       "categories": [
         "Investment",
         "Manufacturing"
@@ -1004,7 +1021,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-16T16:58:36.798564+00:00",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -1023,11 +1040,11 @@
             "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
           },
           {
-            "title": "Hitachi Energy and Eve Air Mobility accelerate electrification infrastructure powering urban air mobility at scale - Hitachi Energy",
-            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdm9CdkdQbWVSOWg0TThqQVpFVTVMS2d1Szl2NUhHQ3o3a1U5TXo1ckZrUndyMUJhdGtPZnpHLTVMMmg0eVVFakZOUDI0dmduNTZXb1JNODVndHd3QUlueEd2Rk8tOFBWUG52SmNOZUs2Zm9FXzZYZXBmNFFmYzF2RW52TzZJZ3RIVm5BVW5Xa3RtQUtOS0liaUR5eVlnMzJvYk9CVGl4S010cFJMWm1URXl0Rl9jaVcwS2FpWE8xakpHaXVqUGE5bC1FbEt0MTNiWlBzX3hPRUg4N3ZlN3lyTGZZNk1JN0xBeWJSQ2l5Y1BnYjdETGRXWUFOeXpxeTNMRWdHTlNUWkxrMkxJa1BrdA?oc=5",
-            "snippet": "Hitachi Energy and Eve Air Mobility accelerate electrification infrastructure powering urban air mobility at scale Hitachi Energy",
+            "title": "Hitachi Energy delivers reliable power to Grand Egyptian Museum with dry-type transformers - Hitachi Energy",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZHZxWmhXc3l3cm5VSDU4WHFpMDVNSlZsU2dRaVk4U2VpRGwwMWcwamJybnNPSHdMRFZ6QkljT1JMUml5Wi1jaDhVNWEyWmRzTEdGQXYybHcteHl3ODQ5MlhxS3FNUFdyVFJKTXk1T1EzRFNYWm1zM29EdDBSaURmMGs4V2pKUnFlTmVoNE12aUw2N1pFQzNPMzBMSXhOTURDM1RqM0hOQXRJaHRBLXJGcnJ5MnpsQW5yeFNxSDVTaERvcGxQR0dxbk1WZUdhU2J5ek9WMnRSSXlSQkgwaFVWcVBOTXZtbjV0?oc=5",
+            "snippet": "Hitachi Energy delivers reliable power to Grand Egyptian Museum with dry-type transformers Hitachi Energy",
             "source": "Hitachi Energy",
-            "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+            "published": "Mon, 06 Jul 2026 07:00:00 GMT",
             "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
           }
         ],
@@ -1045,6 +1062,236 @@
         "unresolved": [
           "Insufficient public evidence to verify the material claim."
         ]
+      }
+    },
+    {
+      "id": "sig-e4ccb6d9235b",
+      "title": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis - industrytoday.co.uk",
+      "headline": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis - industrytoday.co.uk",
+      "summary": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis industrytoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHhZM3laRjV6WFZoU25LRFlYUUVZcXV4ZkVyTi1WLVl1ZEptYUU2TEJ1dkZDWVBaLUdTOHI5U0VVSUZZdG1XeDJkQm1XRVRKMmU1SG50Vmh5MG1qX1pfVlJEenNfcnI5SmM0dkVPWm4wOWQzMVRrUl8tZGdFUWpLQldENjZlOHJhMFVkWC0xRXh2S3FBc2hsNzdyMlIxVEkxTlRlRzFONG9tSmx3NDZza2F1cEZpYS1DbzhkVTdaUjAyR0RZbEdsTXZB?oc=5",
+      "source": "industrytoday.co.uk",
+      "sourceType": "news",
+      "published": "2026-09-16T12:25:13+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
+      "categories": [
+        "Manufacturing"
+      ],
+      "signalType": "manufacturing",
+      "projectStage": "development",
+      "entities": [],
+      "competitor": null,
+      "relevanceScore": 45,
+      "actionabilityScore": 32,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "news source",
+      "evidenceSnippet": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis industrytoday.co.uk",
+      "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 46,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.54,
+      "filterReason": "1 event indicator(s)",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 44,
+      "researchLevel": "L0",
+      "researchLevelName": "Monitor",
+      "researchPriorityReasons": [
+        "consulting/advisory potential"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": false,
+        "competitor": false,
+        "competitorMove": false,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": true
+      },
+      "researchBudget": {
+        "maxQueries": 0,
+        "maxSources": 0
+      },
+      "researchEligibility": {
+        "eligible": false,
+        "willResearch": false,
+        "reason": "L0 monitor-only",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      }
+    },
+    {
+      "id": "sig-c61cb4f482d7",
+      "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com",
+      "headline": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com",
+      "summary": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa hydrogenfuelnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+      "source": "hydrogenfuelnews.com",
+      "sourceType": "news",
+      "published": "2026-09-12T13:11:06+00:00",
+      "detected": "2026-09-16T20:09:18.559658+00:00",
+      "categories": [
+        "Hydrogen / PtX"
+      ],
+      "signalType": "project announcement",
+      "projectStage": "monitoring",
+      "entities": [
+        "RINA"
+      ],
+      "competitor": "RINA",
+      "relevanceScore": 46,
+      "actionabilityScore": 33,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa hydrogenfuelnews.com",
+      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; RINA detected",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 52,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.52,
+      "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 58,
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriorityReasons": [
+        "competitor detected"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": true,
+        "competitor": true,
+        "competitorMove": false,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": false
+      },
+      "researchBudget": {
+        "maxQueries": 7,
+        "maxSources": 9
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-16T20:09:18.739630+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L2",
+        "researchLevelName": "Investigate",
+        "researchPriority": 58,
+        "researchQueries": [
+          "\"RINA\" Morocco Hydrogen / PtX",
+          "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com",
+          "\"RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com\"",
+          "Morocco RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com",
+          "Morocco green hydrogen ammonia project investor contractor",
+          "Morocco Power to X tender project",
+          "Morocco pumped storage hydro project contractor"
+        ],
+        "sources": [
+          {
+            "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+            "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
+            "source": "Hydrogen Fuel News",
+            "published": "Sat, 12 Sep 2026 13:11:06 GMT",
+            "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com"
+          },
+          {
+            "title": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure - Hydrogen Fuel News",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ5d3hmS3RmXzZsdUhUaDJiYVpjREtGSVZXUExjckZYbGdnUTdOZEY4Q2prcHZqOEpXd1FiWkRtY3hxdGhvT3FvZGZtNVdmQ1pDZGZ6QzJucWJsLXRBcDN6ellFS1hQaUFwQnpvWkMwM2JFWmVvU0o0LTRQbG5tZ0VZNENiNUh6MDY4RXp4Q0JDdTJNRFFqSTlFRmdxcUVJZGhPQlQtV3FJcmhrOHc?oc=5",
+            "snippet": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure Hydrogen Fuel News",
+            "source": "Hydrogen Fuel News",
+            "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+            "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - hydrogenfuelnews.com"
+          },
+          {
+            "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
+            "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
+            "source": "Discovery Alert",
+            "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+            "query": "Morocco green hydrogen ammonia project investor contractor"
+          },
+          {
+            "title": "The growing wave of investment berthing in Akwa Ibom State - Business News Nigeria",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ19XX2VuUDFSYkVqQU4xY0w4WDdEOU5TQUJOdnhTUXhrN0oxX0xnQnRrSE1WN0VWVFh2c1NpVHYzdGlUU3FWYjRUU3BSMlJSek9YX1I2cExiQjYtcnVrcEpRZE1wbkFVdzAxYzg3T3ppYVd5RG9RcDd4T2RUaV9MZndRU01kMF9aV0xuVVdfcXZveFlYX1BCZHdjYw?oc=5",
+            "snippet": "The growing wave of investment berthing in Akwa Ibom State Business News Nigeria",
+            "source": "Business News Nigeria",
+            "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+            "query": "Morocco green hydrogen ammonia project investor contractor"
+          },
+          {
+            "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09xVktGeW9KSU8zeUNjOG1jU2pjN0lMTmdzZWsyTWpVWFZxR0tCRTA4U0RkdmtqSGNIdE9IdnFlSlpTVjNYUXJ1SWVlWWs4TXM5Y1NXaTFtQ29yTzJ5QXlxLWlSYS1pS0JGMzA5VTBUdXJ0SS1uNUhJVWRUalB1dXNiVFR1VmprVjB3Qm92YXRuWWlYbEZTb21VVHlQNFhjbFhHRzNSRDB1YV9SUnNjZi0wR1hvaFZMMUtMTlM0SjNveFR0Mmw0eA?oc=5",
+            "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform Morocco World News",
+            "source": "Morocco World News",
+            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+            "query": "Morocco Power to X tender project"
+          },
+          {
+            "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+            "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+            "source": "Construction Review",
+            "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+            "query": "Morocco Power to X tender project"
+          },
+          {
+            "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+            "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+            "source": "Construction Review",
+            "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          },
+          {
+            "title": "Morocco tenders 300MW El-Menzel pumped-storage plant - MEED",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNY3JYU2pJTE93eHMtc21HM3czZ2tCSkM4TFhVX0dFSnRhUWt1eXFjXzlpbS1zb0h5WEFjOW9fNTRBcFlkdlZzaC1JRnpscDU0UlFqRUQwVWQwZ3Eyck81SUsxTFJNOHlBMEJXdW0zTkRObVRLR0FkQ1R0dVRFQQ?oc=5",
+            "snippet": "Morocco tenders 300MW El-Menzel pumped-storage plant MEED",
+            "source": "MEED",
+            "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+            "query": "Morocco pumped storage hydro project contractor"
+          }
+        ],
+        "sourceCount": 8,
+        "project": null,
+        "entities": [
+          "RINA"
+        ],
+        "facts": [
+          {
+            "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
+            "confidence": "HIGH",
+            "sourceIndexes": [
+              0
+            ]
+          }
+        ],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
+          "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "MEDIUM",
+        "unresolved": []
       }
     },
     {
@@ -1214,67 +1461,6 @@
         ],
         "overallConfidence": "MEDIUM",
         "unresolved": []
-      }
-    },
-    {
-      "id": "sig-e4ccb6d9235b",
-      "title": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis - industrytoday.co.uk",
-      "headline": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis - industrytoday.co.uk",
-      "summary": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis industrytoday.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHhZM3laRjV6WFZoU25LRFlYUUVZcXV4ZkVyTi1WLVl1ZEptYUU2TEJ1dkZDWVBaLUdTOHI5U0VVSUZZdG1XeDJkQm1XRVRKMmU1SG50Vmh5MG1qX1pfVlJEenNfcnI5SmM0dkVPWm4wOWQzMVRrUl8tZGdFUWpLQldENjZlOHJhMFVkWC0xRXh2S3FBc2hsNzdyMlIxVEkxTlRlRzFONG9tSmx3NDZza2F1cEZpYS1DbzhkVTdaUjAyR0RZbEdsTXZB?oc=5",
-      "source": "industrytoday.co.uk",
-      "sourceType": "news",
-      "published": "2026-09-16T12:25:50+00:00",
-      "detected": "2026-09-16T16:58:36.655301+00:00",
-      "categories": [
-        "Manufacturing"
-      ],
-      "signalType": "manufacturing",
-      "projectStage": "development",
-      "entities": [],
-      "competitor": null,
-      "relevanceScore": 45,
-      "actionabilityScore": 32,
-      "noveltyScore": 0.0,
-      "status": "new",
-      "evidenceLevel": "news source",
-      "evidenceSnippet": "Zinc Ingot Manufacturing Feasibility Study Report 2026: Setup Cost and Business Plan Analysis industrytoday.co.uk",
-      "whyItMatters": "Manufacturing signal relevant to Morocco renewable-energy activity",
-      "fichtnerRelevance": "WATCH",
-      "qualityScore": 46,
-      "filterDecision": "KEEP",
-      "filterConfidence": 0.54,
-      "filterReason": "1 event indicator(s)",
-      "aiReviewed": false,
-      "project": null,
-      "researchPriority": 44,
-      "researchLevel": "L0",
-      "researchLevelName": "Monitor",
-      "researchPriorityReasons": [
-        "consulting/advisory potential"
-      ],
-      "researchTriggers": {
-        "fichtner": false,
-        "moroccoContext": false,
-        "competitor": false,
-        "competitorMove": false,
-        "marketEntry": false,
-        "tender": false,
-        "award": false,
-        "dfi": false,
-        "dfiDecision": false,
-        "majorProject": false,
-        "consultingPotential": true
-      },
-      "researchBudget": {
-        "maxQueries": 0,
-        "maxSources": 0
-      },
-      "researchEligibility": {
-        "eligible": false,
-        "willResearch": false,
-        "reason": "L0 monitor-only",
-        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
       }
     },
     {

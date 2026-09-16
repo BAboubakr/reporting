@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-15T21:24:13.456400+00:00",
+    "detected": "2026-09-16T00:23:31.048121+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T21:24:13.632539+00:00",
+      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -226,7 +226,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-15T21:24:13.456400+00:00",
+    "detected": "2026-09-16T00:23:31.048121+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -284,7 +284,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T21:24:13.632539+00:00",
+      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -344,10 +344,10 @@ export const signals = [
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 - Africa Intelligence",
+          "title": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 - africaintelligence.com",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb285RWpSTG9kbERzVTVtLXpNdGFxNlZMTWFwMDVvOXJudFZ3b01Kb2g5TVUwV1E5SmNndkpWaG5IUUFrdFRpVF83TUM4NGYxSzNOdkJkVTZPM2d4QzhVU2pIMlp3N3kyZXhVbzNPYzZ2eGI3Q0ttRWd6bDFNOHhkR0hRRHhYUUxRRlc1a28xZFlSdjF1TXU4M3p4OG54QmJhVWtVZk40bXBBOGRoeHBsUHp5VXVOUTZBeE9CMGhzR0FnU1huY0RsbFlFckVOckNhVDh0Skpoc2F4NFhhektXT056b1FJRzNDbGx2MVRBdTQtQzdiTXc?oc=5",
-          "snippet": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 Africa Intelligence",
-          "source": "Africa Intelligence",
+          "snippet": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 africaintelligence.com",
+          "source": "africaintelligence.com",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         }
@@ -388,7 +388,7 @@ export const signals = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-15T21:24:13.456400+00:00",
+    "detected": "2026-09-16T00:23:31.048121+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -443,7 +443,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T21:24:13.632539+00:00",
+      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -487,7 +487,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-15T21:24:13.456400+00:00",
+    "detected": "2026-09-16T00:23:31.048121+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -545,7 +545,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T21:24:13.632539+00:00",
+      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -582,6 +582,150 @@ export const signals = [
       "unresolved": [
         "Insufficient public evidence to verify the material claim."
       ]
+    }
+  },
+  {
+    "id": "sig-7a148bc8679f",
+    "title": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead",
+    "headline": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead",
+    "summary": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments GreentechLead",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjhfaFV1VHNiV1VTeVd6YWNPUDNWZFJ4Ry1SczE2QWQ3ci1xdVZ4ajd0bFg0QmhNRWItMGppSjBudk1HZUxBWWw2TGRxMGxJSUFhaWtjZERMYzQzR0VhNWMyR3NMNnZiVVMwaVlGRmFFZFUwbnVNMTF6ZzFObnJReEpYQXd6UjlqVmx3aTNHcjVYaG5QWm5VaVNkWTNKZ2l1ZlRpRG5tNFBGcC1zSDJ3cUZoaF9tV21CY0YySXlQRGM5U1FWTWpseXhCYw?oc=5",
+    "source": "GreentechLead",
+    "sourceType": "news",
+    "published": "2026-09-13T09:39:52+00:00",
+    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "categories": [
+      "Solar PV",
+      "BESS",
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments GreentechLead",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 66,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.66,
+    "filterReason": "2 event indicator(s); 3 technology indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 53,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 53,
+      "researchQueries": [
+        "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\"",
+        "Morocco Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead",
+        "Morocco offshore wind MASEN EIB feasibility"
+      ],
+      "sources": [
+        {
+          "title": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjhfaFV1VHNiV1VTeVd6YWNPUDNWZFJ4Ry1SczE2QWQ3ci1xdVZ4ajd0bFg0QmhNRWItMGppSjBudk1HZUxBWWw2TGRxMGxJSUFhaWtjZERMYzQzR0VhNWMyR3NMNnZiVVMwaVlGRmFFZFUwbnVNMTF6ZzFObnJReEpYQXd6UjlqVmx3aTNHcjVYaG5QWm5VaVNkWTNKZ2l1ZlRpRG5tNFBGcC1zSDJ3cUZoaF9tV21CY0YySXlQRGM5U1FWTWpseXhCYw?oc=5",
+          "snippet": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments GreentechLead",
+          "source": "GreentechLead",
+          "published": "Sun, 13 Sep 2026 09:39:52 GMT",
+          "query": "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\""
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
+          "source": "Renewables Now",
+          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
+          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
+          "source": "Ocean Energy Resources",
+          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [],
+      "facts": [
+        {
+          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
     }
   },
   {

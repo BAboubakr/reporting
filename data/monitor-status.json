@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "lastRun": "2026-09-15T21:24:21.272618+00:00",
-  "completedAt": "2026-09-15T21:24:21.272618+00:00",
+  "lastRun": "2026-09-16T00:23:38.510769+00:00",
+  "completedAt": "2026-09-16T00:23:38.510769+00:00",
   "frequency": "hourly",
   "sourcesChecked": 17,
   "rawRecords": 117,
   "newSignals": 0,
-  "totalSignals": 159,
-  "archivedSignals": 159,
-  "reviewQueue": 113,
+  "totalSignals": 160,
+  "archivedSignals": 160,
+  "reviewQueue": 112,
   "competitorSignals": 9,
   "aiFilterEnabled": false,
   "aiSynthesisEnabled": false,
@@ -17,7 +17,7 @@
   "enrichmentRun": "success",
   "researchLevels": {
     "0": 103,
-    "1": 22,
+    "1": 23,
     "2": 27,
     "3": 7,
     "4": 0

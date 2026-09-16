@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-16T06:03:44.456672+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -89,10 +89,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
-          "source": "discoveryalert.com.au",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
+          "source": "Discovery Alert",
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
@@ -218,7 +218,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-16T06:03:44.456672+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -276,7 +276,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -380,7 +380,7 @@ export const signals = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-16T06:03:44.456672+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -435,7 +435,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -452,9 +452,17 @@ export const signals = [
           "source": "Business Insider Africa",
           "published": "Mon, 07 Sep 2026 07:00:00 GMT",
           "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
+        },
+        {
+          "title": "Indian billionaire Ravi Jaipuria joins Dangote and Dewji with $32 million investment in a 52-acre beverage plant in East Africa - Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYjJMTmhWZ3JkYk5EanVlb0tMaXhEcFVHbVBNQ2pzRWhBNm5tMThyY1dZTlVMTTBvcW1GRFlCT1VLQjZvWTFkYjZwVXRyRmpDQ3FMc3l2WWstZ0o0ZEVtdnlqVGJkVVhZV0owQnd1NGk1NXRLTE16UVhFbWJkdllsVnQwZUxwYkhnQ2V6UUZubVN5MG1kOHZzR0xpQTYzRjdHT2Y4dFdrbHFtOEZOcktIQ3RNa21ESDlES3dMYUZKY0pVOVNPQzAwU0RjX1B6VmUx?oc=5",
+          "snippet": "Indian billionaire Ravi Jaipuria joins Dangote and Dewji with $32 million investment in a 52-acre beverage plant in East Africa Business Insider Africa",
+          "source": "Business Insider Africa",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "project": null,
       "entities": [],
       "facts": [],
@@ -479,7 +487,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-16T06:03:44.456672+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -537,7 +545,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -585,7 +593,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-16T06:03:44.456672+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -643,7 +651,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -661,6 +669,14 @@ export const signals = [
           "source": "GreentechLead",
           "published": "Sun, 13 Sep 2026 09:39:52 GMT",
           "query": "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\""
+        },
+        {
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
           "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
@@ -685,14 +701,6 @@ export const signals = [
           "source": "Renewables Now",
           "published": "Mon, 07 Sep 2026 09:55:19 GMT",
           "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
-          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
-          "source": "Ocean Energy Resources",
-          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
         }
       ],
       "sourceCount": 5,
@@ -714,6 +722,211 @@ export const signals = [
       "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-601f3e2497c3",
+    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+    "source": "Offshore Magazine",
+    "sourceType": "news",
+    "published": "2026-09-03T07:00:00+00:00",
+    "detected": "2026-09-16T11:37:39.789702+00:00",
+    "categories": [
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 56,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 95,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "consulting/advisory potential",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-16T11:37:39.972657+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 95,
+      "researchQueries": [
+        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
+        "\"Morocco Offshore Wind Feasibility Study\" contractor",
+        "\"Morocco Offshore Wind Feasibility Study\" tender",
+        "\"EIB\" Morocco Wind Investment",
+        "\"EIB\" Morocco Offshore Wind Feasibility Study",
+        "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
+        "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+        "Morocco offshore wind MASEN EIB feasibility",
+        "Morocco offshore wind Essaouira contractor",
+        "site:eib.org Morocco offshore wind",
+        "site:masen.ma offshore wind Morocco"
+      ],
+      "sources": [
+        {
+          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
+          "source": "Renewables Now",
+          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing - Iberdrola",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTVDdTJ6aTZDZldWdkVpRW55MzdpUFIxNXJGdDZfT1ZjMmNXemRzb3daVDlRSmJBSVZmUndyZHRsOVcyemR5VE81R2dFWFo3OGwxMjdfZWp6clZPVkxYN0FXdURZMThyb1lDVmxiWC1scUpLTXMyV0ZKODhscW1BMlFCMG1fQk5rczNHWGN3LTBpS2c4V0VFMERmei00Um9Xckk1NFJlQzhuMTA0UjEyUk5XZWdmaGwySk1WOFRsY3hpWWtHUW14ZDdB?oc=5",
+          "snippet": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing Iberdrola",
+          "source": "Iberdrola",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
+          "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
+          "source": "Windtech International",
+          "published": "Mon, 14 Sep 2026 08:29:01 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
+          "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
+          "source": "HESPRESS English - Morocco News",
+          "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+        },
+        {
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira - Puente de Mando",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ta2JRRE9jLWtmTkZBZ0stUzh3SkxNU051LWplVW0wdl9FdElIdDBjXzRVZWN2NUxubDBYMnFVOGdfNTFSZC04U0JfY0wxcW9YM2w1Z3pBV00yd2lsS2NDekFHRVIzNi1xT3lPU3BtOHRFTFRzRUlEelR3?oc=5",
+          "snippet": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira Puente de Mando",
+          "source": "Puente de Mando",
+          "published": "Tue, 15 Sep 2026 07:06:20 GMT",
+          "query": "Morocco offshore wind Essaouira contractor"
+        },
+        {
+          "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWllGcXBERC0tbjJVRElWcDZISXYtemJ3OUhOT3EyQ2tacFRkbXBkbnp0Z2NtT1lHNE9ndmNnUkxHakJxM3JFT1pBOVNyeVdLaWZOTWlsTlVsUlFnc1RCTDA0enVDb0RWZjFsN2QtQWZLek4tRjdFWTVxaC1tUGJNZFBjUU1ZYm1nQlhDZUJ4YmJ3UlpkekVVNDM1QlI1b0hwMWJkWUFBV1lxNGpIblJCM0Q5QmtZdGJGOGF6d29NZEU1N3JIemY3Vw?oc=5",
+          "snippet": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Tue, 15 Sep 2026 06:22:09 GMT",
+          "query": "site:eib.org Morocco offshore wind"
+        },
+        {
+          "title": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFfa2MyWmdzNzZtLWRURkRGdGdyNWlVMlgxN25pdUpvUWRTNGcxN09iaVhhX3E2LURwWm45QVN4QWQwWVRnSC1CRlJRVC1pYWhVTjJsVWUzZGNXaElkYXppRWV0LVhXSjAwMUxJcFNNazJvc1ZYeHFlblFtX0llMTl4QmpiZDU2Q3VpaE9zY2FNT21SUnU1SjVOQjlIbmV6WFVNZ2dSVFVCZ2Ffcm03QVc4dFVTVDg?oc=5",
+          "snippet": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Fri, 11 Sep 2026 20:50:38 GMT",
+          "query": "site:eib.org Morocco offshore wind"
+        }
+      ],
+      "sourceCount": 11,
+      "project": "Morocco Offshore Wind Feasibility Study",
+      "entities": [
+        "EIB"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0,
+            3,
+            5,
+            6,
+            8
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "MEDIUM",
@@ -921,219 +1134,6 @@ export const signals = [
       "unresolved": [
         "Insufficient public evidence to verify the material claim."
       ]
-    }
-  },
-  {
-    "id": "sig-601f3e2497c3",
-    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-    "source": "Offshore Magazine",
-    "sourceType": "news",
-    "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-15T13:35:27.255447+00:00",
-    "categories": [
-      "Wind",
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 56,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 62,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.62,
-    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false,
-    "project": "Morocco Offshore Wind Feasibility Study",
-    "researchPriority": 95,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "consulting/advisory potential",
-      "investment/financing",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T13:35:27.396128+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 95,
-      "researchQueries": [
-        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
-        "\"Morocco Offshore Wind Feasibility Study\" contractor",
-        "\"Morocco Offshore Wind Feasibility Study\" tender",
-        "\"EIB\" Morocco Wind Investment",
-        "\"EIB\" Morocco Offshore Wind Feasibility Study",
-        "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
-        "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-        "Morocco offshore wind MASEN EIB feasibility",
-        "Morocco offshore wind Essaouira contractor",
-        "site:eib.org Morocco offshore wind",
-        "site:masen.ma offshore wind Morocco"
-      ],
-      "sources": [
-        {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - renewablesnow.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study renewablesnow.com",
-          "source": "renewablesnow.com",
-          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing - Iberdrola",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTVDdTJ6aTZDZldWdkVpRW55MzdpUFIxNXJGdDZfT1ZjMmNXemRzb3daVDlRSmJBSVZmUndyZHRsOVcyemR5VE81R2dFWFo3OGwxMjdfZWp6clZPVkxYN0FXdURZMThyb1lDVmxiWC1scUpLTXMyV0ZKODhscW1BMlFCMG1fQk5rczNHWGN3LTBpS2c4V0VFMERmei00Um9Xckk1NFJlQzhuMTA0UjEyUk5XZWdmaGwySk1WOFRsY3hpWWtHUW14ZDdB?oc=5",
-          "snippet": "Iberdrola strengthens the development of the Labraza wind farm with €29 million in EIB financing Iberdrola",
-          "source": "Iberdrola",
-          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
-          "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
-          "source": "Windtech International",
-          "published": "Mon, 14 Sep 2026 08:29:01 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
-          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
-          "source": "Ocean Energy Resources",
-          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - moroccoworldnews.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm moroccoworldnews.com",
-          "source": "moroccoworldnews.com",
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
-          "source": "Windtech International",
-          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
-          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-        },
-        {
-          "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
-          "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
-          "source": "HESPRESS English - Morocco News",
-          "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-        },
-        {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
-        },
-        {
-          "title": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira - Puente de Mando",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ta2JRRE9jLWtmTkZBZ0stUzh3SkxNU051LWplVW0wdl9FdElIdDBjXzRVZWN2NUxubDBYMnFVOGdfNTFSZC04U0JfY0wxcW9YM2w1Z3pBV00yd2lsS2NDekFHRVIzNi1xT3lPU3BtOHRFTFRzRUlEelR3?oc=5",
-          "snippet": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira Puente de Mando",
-          "source": "Puente de Mando",
-          "published": "Tue, 15 Sep 2026 07:06:20 GMT",
-          "query": "Morocco offshore wind Essaouira contractor"
-        },
-        {
-          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
-          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
-          "source": "Construction Review",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind Essaouira contractor"
-        },
-        {
-          "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
-          "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
-          "source": "European Investment Bank",
-          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-          "query": "site:eib.org Morocco offshore wind"
-        },
-        {
-          "title": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPWU5SUE9vT1pSRmZqdkNWMmdQUi1CQ1pUWFlDLTVIUFE3NFBGd3d4SENZdkl4Q3FSQ094RFZZNUpDNnJfVU9DTVM4X1dHbU5ZdUpNSF9fTDlHTWo2RExmc25vLW5IS1NhOTBWQlZzRjVxNXc1QnFWcWQyLWw0ODc1NXZGWU96Wnlpa0tqaDdobG9yckhZX2dIdDVDb1ZCRnF6d21KNDd6bnAxQ1JiYUJQc0dRZHNkNGZLVGlPMGQtc19aV2FaSjFqLTNOd3ZJQkZPcHFlU3VlUl9KVHlOQVM5SGlIQXIya3pfbG5NU1EwQTlnMFpnTW1jcTVtTF8xTnlMMnJPMXptSl90RTM4YUFESmxIaHh3MXJCS2RBUmR6VUZlWWZaeVN3ckUza2M?oc=5",
-          "snippet": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project. European Investment Bank",
-          "source": "European Investment Bank",
-          "published": "Mon, 07 Sep 2026 18:56:33 GMT",
-          "query": "site:eib.org Morocco offshore wind"
-        }
-      ],
-      "sourceCount": 12,
-      "project": "Morocco Offshore Wind Feasibility Study",
-      "entities": [
-        "EIB"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0,
-            3,
-            4,
-            5,
-            7
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
     }
   },
   {

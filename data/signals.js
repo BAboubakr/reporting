@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "detected": "2026-09-16T06:03:44.456672+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -89,10 +89,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
-          "source": "Discovery Alert",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
+          "source": "discoveryalert.com.au",
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
@@ -175,17 +175,9 @@ export const signals = [
           "source": "World Bank Group",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
-        },
-        {
-          "title": "Hydropower - World Bank Group",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YX0tIS0pidThUaF9qQ3JNbE9NbmNtR1RNaXF3eWNXWjl4bXAyYzBORTV3MjNlMExzaW5qX002OGM3cEpvV2hmRXIyaUVCS3RPbmxUcWszT2ZLMUJTdjBFaVp5dkR2SkE?oc=5",
-          "snippet": "Hydropower World Bank Group",
-          "source": "World Bank Group",
-          "published": "Sat, 27 Jun 2026 05:14:43 GMT",
-          "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
         }
       ],
-      "sourceCount": 12,
+      "sourceCount": 11,
       "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
       "entities": [
         "RINA",
@@ -226,7 +218,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "detected": "2026-09-16T06:03:44.456672+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -284,7 +276,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -344,10 +336,10 @@ export const signals = [
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 - africaintelligence.com",
+          "title": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 - Africa Intelligence",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb285RWpSTG9kbERzVTVtLXpNdGFxNlZMTWFwMDVvOXJudFZ3b01Kb2g5TVUwV1E5SmNndkpWaG5IUUFrdFRpVF83TUM4NGYxSzNOdkJkVTZPM2d4QzhVU2pIMlp3N3kyZXhVbzNPYzZ2eGI3Q0ttRWd6bDFNOHhkR0hRRHhYUUxRRlc1a28xZFlSdjF1TXU4M3p4OG54QmJhVWtVZk40bXBBOGRoeHBsUHp5VXVOUTZBeE9CMGhzR0FnU1huY0RsbFlFckVOckNhVDh0Skpoc2F4NFhhektXT056b1FJRzNDbGx2MVRBdTQtQzdiTXc?oc=5",
-          "snippet": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 africaintelligence.com",
-          "source": "africaintelligence.com",
+          "snippet": "Morocco • Coveted by European intelligence services, ChapsVision attempts to win over political elite - 21/07/2026 Africa Intelligence",
+          "source": "Africa Intelligence",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         }
@@ -388,7 +380,7 @@ export const signals = [
     "source": "Business Insider Africa",
     "sourceType": "news",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "detected": "2026-09-16T06:03:44.456672+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -443,7 +435,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -487,7 +479,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "detected": "2026-09-16T06:03:44.456672+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -545,7 +537,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -593,7 +585,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-16T00:23:31.048121+00:00",
+    "detected": "2026-09-16T06:03:44.456672+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -651,7 +643,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-16T00:23:31.225418+00:00",
+      "researchedAt": "2026-09-16T06:03:44.634831+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",

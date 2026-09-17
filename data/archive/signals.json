@@ -1,8 +1,8 @@
 {
   "version": 1,
   "description": "Permanent Atlas intelligence archive. One latest record is retained for every observed signal id; unlike the current feed, this archive is never truncated.",
-  "updatedAt": "2026-09-17T07:42:12.120693+00:00",
-  "totalSignals": 165,
+  "updatedAt": "2026-09-17T13:30:22.491069+00:00",
+  "totalSignals": 166,
   "signals": [
     {
       "id": "sig-rina-morocco-market-entry-20260901",
@@ -13,7 +13,7 @@
       "source": "RINA",
       "sourceType": "official",
       "published": "2026-09-01T00:00:00+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Investment",
         "Hydrogen / PtX",
@@ -74,7 +74,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -134,6 +134,14 @@
             "query": "Morocco Power to X tender project"
           },
           {
+            "title": "Renewables news: OCP Group, Elevated Materials, Masdar - GreentechLead",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFBiYnQ1NFVjZ1FJaWhFbnNkeVlkYjA5Y203ZWx6b0I0X2NDTlItTlRNWTIwSW1OX1RzcXdqQlJsRll0dzcwQTJOS0F2T21PWG9Ga043MnpJQTV3STh5S1pUZTQzbmVBLWVaektzWnUzcFVnQ1FpMllJVmpEX01YM0tqMHhsQnF1NkZ5OGppLWZKRlU1Q0RxMTlsMA?oc=5",
+            "snippet": "Renewables news: OCP Group, Elevated Materials, Masdar GreentechLead",
+            "source": "GreentechLead",
+            "published": "Wed, 16 Sep 2026 04:58:31 GMT",
+            "query": "Morocco Power to X tender project"
+          },
+          {
             "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
             "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
@@ -150,10 +158,10 @@
             "query": "Morocco pumped storage hydro project contractor"
           },
           {
-            "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
+            "title": "Morocco builds pumped storage to hold its solar and wind output - energy-news-network.com",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
-            "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
-            "source": "Energy News Network",
+            "snippet": "Morocco builds pumped storage to hold its solar and wind output energy-news-network.com",
+            "source": "energy-news-network.com",
             "published": "Thu, 23 Jul 2026 07:00:00 GMT",
             "query": "Ifahsa pumped hydropower storage Morocco"
           },
@@ -190,7 +198,7 @@
             "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
           }
         ],
-        "sourceCount": 12,
+        "sourceCount": 13,
         "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
         "entities": [
           "RINA",
@@ -208,7 +216,7 @@
             "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
             "confidence": "HIGH",
             "sourceIndexes": [
-              9
+              10
             ]
           }
         ],
@@ -233,7 +241,7 @@
       "source": "Morocco World News",
       "sourceType": "news",
       "published": "2026-09-14T12:17:49+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -291,7 +299,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -319,10 +327,10 @@
             "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
           },
           {
-            "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - lbbonline.com",
+            "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - Little Black Book | LBBOnline",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
-            "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA lbbonline.com",
-            "source": "lbbonline.com",
+            "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA Little Black Book | LBBOnline",
+            "source": "Little Black Book | LBBOnline",
             "published": "Tue, 08 Sep 2026 13:39:45 GMT",
             "query": "\"Casablanca\" Morocco Market intelligence"
           },
@@ -395,7 +403,7 @@
       "source": "Business Insider Africa",
       "sourceType": "news",
       "published": "2026-09-07T07:00:00+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Investment",
         "Manufacturing"
@@ -450,7 +458,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -502,7 +510,7 @@
       "source": "Renewables Now",
       "sourceType": "news",
       "published": "2026-08-27T07:00:00+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Market intelligence"
       ],
@@ -560,7 +568,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -608,7 +616,7 @@
       "source": "GreentechLead",
       "sourceType": "news",
       "published": "2026-09-13T09:39:52+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Solar PV",
         "BESS",
@@ -666,7 +674,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L1",
         "researchLevelName": "Verify",
@@ -684,6 +692,14 @@
             "source": "GreentechLead",
             "published": "Sun, 13 Sep 2026 09:39:52 GMT",
             "query": "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\""
+          },
+          {
+            "title": "Renewables news: OCP Group, Elevated Materials, Masdar - GreentechLead",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFBiYnQ1NFVjZ1FJaWhFbnNkeVlkYjA5Y203ZWx6b0I0X2NDTlItTlRNWTIwSW1OX1RzcXdqQlJsRll0dzcwQTJOS0F2T21PWG9Ga043MnpJQTV3STh5S1pUZTQzbmVBLWVaektzWnUzcFVnQ1FpMllJVmpEX01YM0tqMHhsQnF1NkZ5OGppLWZKRlU1Q0RxMTlsMA?oc=5",
+            "snippet": "Renewables news: OCP Group, Elevated Materials, Masdar GreentechLead",
+            "source": "GreentechLead",
+            "published": "Wed, 16 Sep 2026 04:58:31 GMT",
+            "query": "Morocco Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead"
           },
           {
             "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
@@ -708,14 +724,6 @@
             "source": "Morocco World News",
             "published": "Fri, 04 Sep 2026 07:00:00 GMT",
             "query": "Morocco offshore wind MASEN EIB feasibility"
-          },
-          {
-            "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-            "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-            "source": "Renewables Now",
-            "published": "Mon, 07 Sep 2026 09:55:19 GMT",
-            "query": "Morocco offshore wind MASEN EIB feasibility"
           }
         ],
         "sourceCount": 5,
@@ -726,7 +734,6 @@
             "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
             "confidence": "HIGH",
             "sourceIndexes": [
-              1,
               2,
               3,
               4
@@ -752,7 +759,7 @@
       "source": "industrytoday.co.uk",
       "sourceType": "news",
       "published": "2026-09-16T12:25:13+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Manufacturing"
       ],
@@ -813,7 +820,7 @@
       "source": "Hydrogen Fuel News",
       "sourceType": "news",
       "published": "2026-09-12T13:11:06+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Hydrogen / PtX"
       ],
@@ -868,7 +875,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L2",
         "researchLevelName": "Investigate",
@@ -932,6 +939,14 @@
             "query": "Morocco Power to X tender project"
           },
           {
+            "title": "Renewables news: OCP Group, Elevated Materials, Masdar - GreentechLead",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFBiYnQ1NFVjZ1FJaWhFbnNkeVlkYjA5Y203ZWx6b0I0X2NDTlItTlRNWTIwSW1OX1RzcXdqQlJsRll0dzcwQTJOS0F2T21PWG9Ga043MnpJQTV3STh5S1pUZTQzbmVBLWVaektzWnUzcFVnQ1FpMllJVmpEX01YM0tqMHhsQnF1NkZ5OGppLWZKRlU1Q0RxMTlsMA?oc=5",
+            "snippet": "Renewables news: OCP Group, Elevated Materials, Masdar GreentechLead",
+            "source": "GreentechLead",
+            "published": "Wed, 16 Sep 2026 04:58:31 GMT",
+            "query": "Morocco Power to X tender project"
+          },
+          {
             "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
             "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
@@ -948,7 +963,7 @@
             "query": "Morocco pumped storage hydro project contractor"
           }
         ],
-        "sourceCount": 8,
+        "sourceCount": 9,
         "project": null,
         "entities": [
           "RINA"
@@ -982,7 +997,7 @@
       "source": "Offshore Magazine",
       "sourceType": "news",
       "published": "2026-09-03T07:00:00+00:00",
-      "detected": "2026-09-17T07:42:02.144005+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
       "categories": [
         "Wind",
         "Investment"
@@ -1041,7 +1056,7 @@
       },
       "enrichment": {
         "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:42:02.326473+00:00",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
         "status": "public-evidence",
         "researchLevel": "L3",
         "researchLevelName": "Strategic",
@@ -1061,18 +1076,26 @@
         ],
         "sources": [
           {
-            "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
-            "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
-            "source": "Windtech International",
-            "published": "Mon, 14 Sep 2026 08:29:01 GMT",
+            "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+            "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
+            "source": "Renewables Now",
+            "published": "Mon, 07 Sep 2026 09:55:19 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
-            "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+            "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+            "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+            "source": "Windtech International",
+            "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+            "query": "\"EIB\" Morocco Wind Investment"
+          },
+          {
+            "title": "Consortium advises for Morocco’s first offshore wind development - ocean-energyresources.com",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
-            "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
-            "source": "Ocean Energy Resources",
+            "snippet": "Consortium advises for Morocco’s first offshore wind development ocean-energyresources.com",
+            "source": "ocean-energyresources.com",
             "published": "Fri, 11 Sep 2026 13:34:20 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
@@ -1085,10 +1108,10 @@
             "query": "\"EIB\" Morocco Wind Investment"
           },
           {
-            "title": "The European Investment Bank announces a €365 million transport package for Morocco. - agenzianova.com",
+            "title": "The European Investment Bank announces a €365 million transport package for Morocco. - Agenzia Nova",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHF2TklxOTR5azBYNGlmb29qOElTZkhNWXNVbS1lZEFfTUZfenh1ZC0yc2JFVGRQaFVpTUNOazVIVTZjdko0ZEcwWDVnSDB3MXpnU1ppenlXZWd6RXYwVlhGV3dvMVNyS1VaY2ZoVUlyS0t6Y0xJcTBvN3l0ZlUtN0FtTnVHV2VBLVA2OVBVZFpOVF93WDFjeGpoR1RweEo1enNyczU2TnNMRUVFRVdwNjUwY3FTYWx3S1VhMFRXN2xRYmJBdHlB?oc=5",
-            "snippet": "The European Investment Bank announces a €365 million transport package for Morocco. agenzianova.com",
-            "source": "agenzianova.com",
+            "snippet": "The European Investment Bank announces a €365 million transport package for Morocco. Agenzia Nova",
+            "source": "Agenzia Nova",
             "published": "Wed, 01 Jul 2026 07:00:00 GMT",
             "query": "\"EIB\" Morocco Wind Investment"
           },
@@ -1098,22 +1121,6 @@
             "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
             "source": "HESPRESS English - Morocco News",
             "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-            "query": "\"EIB\" Morocco Wind Investment"
-          },
-          {
-            "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-            "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-            "source": "Renewables Now",
-            "published": "Mon, 07 Sep 2026 09:55:19 GMT",
-            "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-          },
-          {
-            "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-            "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
-            "source": "Windtech International",
-            "published": "Thu, 10 Sep 2026 08:28:10 GMT",
             "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
           },
           {
@@ -1122,6 +1129,14 @@
             "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
             "source": "Offshore Magazine",
             "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+            "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+          },
+          {
+            "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
+            "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
+            "source": "Windtech International",
+            "published": "Mon, 14 Sep 2026 08:29:01 GMT",
             "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
           },
           {
@@ -1167,11 +1182,11 @@
             "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
             "confidence": "HIGH",
             "sourceIndexes": [
+              0,
               1,
               2,
-              5,
-              6,
-              7
+              3,
+              6
             ]
           }
         ],
@@ -1180,6 +1195,253 @@
         "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
         "recommendedActions": [
           "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "MEDIUM",
+        "unresolved": []
+      }
+    },
+    {
+      "id": "sig-5da890ed5242",
+      "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+      "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+      "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+      "source": "Hitachi Energy",
+      "sourceType": "news",
+      "published": "2026-09-16T01:25:44+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
+      "categories": [
+        "Investment",
+        "Manufacturing"
+      ],
+      "signalType": "investment",
+      "projectStage": "monitoring",
+      "entities": [],
+      "competitor": null,
+      "relevanceScore": 46,
+      "actionabilityScore": 33,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+      "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 52,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.52,
+      "filterReason": "1 technology indicator(s); quantitative detail",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 43,
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriorityReasons": [
+        "investment/financing",
+        "limited Morocco context"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": false,
+        "competitor": false,
+        "competitorMove": false,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": false
+      },
+      "researchBudget": {
+        "maxQueries": 3,
+        "maxSources": 5
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L1",
+        "researchLevelName": "Verify",
+        "researchPriority": 43,
+        "researchQueries": [
+          "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
+          "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+        ],
+        "sources": [
+          {
+            "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+            "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+            "source": "Hitachi Energy",
+            "published": "Wed, 16 Sep 2026 01:25:44 GMT",
+            "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+          },
+          {
+            "title": "Hitachi Energy announces €4 million investment into new Service Center in Dublin to strengthen Ireland’s grid resilience - Hitachi Energy",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSkhScDNPTE5YQTBXd0IyR1Bpb1RwVFFldU80X3AzcnRIeHNXUVRDRkRkX1NVcy1RWWdGYkpDekVvQmpSemV4Mlk1c1F0cVdYVTl5NkFtTTl1TnRpRTZPYld3SGIyQ0p0WHQyd2xJQkZpUWlIb2h2Uk1VdVhfNTkxWmdmMmtfdld1aFR0aEhYQW5JWnpDbV9IUFUwUlpyZi1vcnlObmZkdUFjZDl4VXBJekNMNHZHLVJPamV2dVN0MS1xa3N1ZVFpXy1DM21JQ1NYd2g1YXQ2b2NjV2JUWmotbWhPWHN4UXgxWVcxbU5qTXZzWjhPcjJxT0RHVy1wM1E3SElHV2pldHlmdjhtaWtjdHdhdTdQSmM?oc=5",
+            "snippet": "Hitachi Energy announces €4 million investment into new Service Center in Dublin to strengthen Ireland’s grid resilience Hitachi Energy",
+            "source": "Hitachi Energy",
+            "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+            "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+          }
+        ],
+        "sourceCount": 2,
+        "project": null,
+        "entities": [],
+        "facts": [],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
+          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+        ],
+        "overallConfidence": "LOW",
+        "unresolved": [
+          "Insufficient public evidence to verify the material claim."
+        ]
+      }
+    },
+    {
+      "id": "sig-7a134d5efbca",
+      "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+      "headline": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+      "summary": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
+      "source": "industrytoday.co.uk",
+      "sourceType": "news",
+      "published": "2026-09-17T10:05:13+00:00",
+      "detected": "2026-09-17T13:30:09.450440+00:00",
+      "categories": [
+        "Wind",
+        "Manufacturing"
+      ],
+      "signalType": "project announcement",
+      "projectStage": "development",
+      "entities": [],
+      "competitor": null,
+      "relevanceScore": 45,
+      "actionabilityScore": 32,
+      "noveltyScore": 0.0,
+      "status": "new",
+      "evidenceLevel": "public search evidence",
+      "evidenceSnippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+      "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+      "fichtnerRelevance": "WATCH",
+      "qualityScore": 56,
+      "filterDecision": "KEEP",
+      "filterConfidence": 0.56,
+      "filterReason": "2 event indicator(s); 1 technology indicator(s)",
+      "aiReviewed": false,
+      "project": null,
+      "researchPriority": 52,
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriorityReasons": [
+        "consulting/advisory potential",
+        "project development"
+      ],
+      "researchTriggers": {
+        "fichtner": false,
+        "moroccoContext": false,
+        "competitor": false,
+        "competitorMove": false,
+        "marketEntry": false,
+        "tender": false,
+        "award": false,
+        "dfi": false,
+        "dfiDecision": false,
+        "majorProject": false,
+        "consultingPotential": true
+      },
+      "researchBudget": {
+        "maxQueries": 3,
+        "maxSources": 5
+      },
+      "researchEligibility": {
+        "eligible": true,
+        "willResearch": true,
+        "reason": "missing/stale/old-engine enrichment",
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+      },
+      "enrichment": {
+        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+        "researchedAt": "2026-09-17T13:30:09.594633+00:00",
+        "status": "public-evidence",
+        "researchLevel": "L1",
+        "researchLevelName": "Verify",
+        "researchPriority": 52,
+        "researchQueries": [
+          "\"Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk\"",
+          "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+          "Morocco offshore wind MASEN EIB feasibility"
+        ],
+        "sources": [
+          {
+            "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
+            "snippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+            "source": "industrytoday.co.uk",
+            "published": "Thu, 17 Sep 2026 10:05:13 GMT",
+            "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
+          },
+          {
+            "title": "Green Methane Production Plant Feasibility Study Report 2026: Setup Cost, Business Plan & ROI Analysis - industrytoday.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelRicnluTUIzV1p6c202RW5oZG9ZMzBjVnN6cHdMX01IYjFlTGVsdHVsT3V4ak9tRjg2OUNHc3dVdEEwTFNGNVM3bkFSLWlMcHdyVWZRQ29NZ1ZJeGFvem5adDNNVE1RM2NpRWhxTVdrY1o2OHJ3YTl3Zl9OQktlWGp6OG1RR2g5b2xTdmc4N18xRW0wbWRNdzVIT1Rnd25rRXhmc2hVbWdhZmFmWnFNUnBPbXlNWnJMVlZTVXY0M3dBODZfT2JUN05pNA?oc=5",
+            "snippet": "Green Methane Production Plant Feasibility Study Report 2026: Setup Cost, Business Plan & ROI Analysis industrytoday.co.uk",
+            "source": "industrytoday.co.uk",
+            "published": "Wed, 16 Sep 2026 12:25:13 GMT",
+            "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
+          },
+          {
+            "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+            "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+            "source": "Offshore Magazine",
+            "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+            "query": "Morocco offshore wind MASEN EIB feasibility"
+          },
+          {
+            "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+            "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+            "source": "Windtech International",
+            "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+            "query": "Morocco offshore wind MASEN EIB feasibility"
+          },
+          {
+            "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+            "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+            "source": "Morocco World News",
+            "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+            "query": "Morocco offshore wind MASEN EIB feasibility"
+          }
+        ],
+        "sourceCount": 5,
+        "project": null,
+        "entities": [],
+        "facts": [
+          {
+            "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+            "confidence": "HIGH",
+            "sourceIndexes": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+        "interpretation": "The signal was researched according to its assigned adaptive level.",
+        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+        "recommendedActions": [
           "Verify material claims against primary owner/DFI sources before treating them as confirmed."
         ],
         "overallConfidence": "MEDIUM",
@@ -1275,113 +1537,6 @@
             "source": "hitachienergy.com",
             "published": "Mon, 06 Jul 2026 07:00:00 GMT",
             "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - hitachienergy.com"
-          }
-        ],
-        "sourceCount": 2,
-        "project": null,
-        "entities": [],
-        "facts": [],
-        "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-        "interpretation": "The signal was researched according to its assigned adaptive level.",
-        "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-        "recommendedActions": [
-          "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-        ],
-        "overallConfidence": "LOW",
-        "unresolved": [
-          "Insufficient public evidence to verify the material claim."
-        ]
-      }
-    },
-    {
-      "id": "sig-5da890ed5242",
-      "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-      "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-      "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-      "source": "Hitachi Energy",
-      "sourceType": "news",
-      "published": "2026-09-16T01:25:44+00:00",
-      "detected": "2026-09-17T07:15:23.850390+00:00",
-      "categories": [
-        "Investment",
-        "Manufacturing"
-      ],
-      "signalType": "investment",
-      "projectStage": "monitoring",
-      "entities": [],
-      "competitor": null,
-      "relevanceScore": 46,
-      "actionabilityScore": 33,
-      "noveltyScore": 0.0,
-      "status": "new",
-      "evidenceLevel": "public search evidence",
-      "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-      "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-      "fichtnerRelevance": "WATCH",
-      "qualityScore": 52,
-      "filterDecision": "KEEP",
-      "filterConfidence": 0.52,
-      "filterReason": "1 technology indicator(s); quantitative detail",
-      "aiReviewed": false,
-      "project": null,
-      "researchPriority": 43,
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriorityReasons": [
-        "investment/financing",
-        "limited Morocco context"
-      ],
-      "researchTriggers": {
-        "fichtner": false,
-        "moroccoContext": false,
-        "competitor": false,
-        "competitorMove": false,
-        "marketEntry": false,
-        "tender": false,
-        "award": false,
-        "dfi": false,
-        "dfiDecision": false,
-        "majorProject": false,
-        "consultingPotential": false
-      },
-      "researchBudget": {
-        "maxQueries": 3,
-        "maxSources": 5
-      },
-      "researchEligibility": {
-        "eligible": true,
-        "willResearch": true,
-        "reason": "missing/stale/old-engine enrichment",
-        "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-      },
-      "enrichment": {
-        "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-        "researchedAt": "2026-09-17T07:15:24.035931+00:00",
-        "status": "public-evidence",
-        "researchLevel": "L1",
-        "researchLevelName": "Verify",
-        "researchPriority": 43,
-        "researchQueries": [
-          "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
-          "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        ],
-        "sources": [
-          {
-            "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-            "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-            "source": "Hitachi Energy",
-            "published": "Wed, 16 Sep 2026 01:25:44 GMT",
-            "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-          },
-          {
-            "title": "Hitachi Energy delivers reliable power to Grand Egyptian Museum with dry-type transformers - Hitachi Energy",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZHZxWmhXc3l3cm5VSDU4WHFpMDVNSlZsU2dRaVk4U2VpRGwwMWcwamJybnNPSHdMRFZ6QkljT1JMUml5Wi1jaDhVNWEyWmRzTEdGQXYybHcteHl3ODQ5MlhxS3FNUFdyVFJKTXk1T1EzRFNYWm1zM29EdDBSaURmMGs4V2pKUnFlTmVoNE12aUw2N1pFQzNPMzBMSXhOTURDM1RqM0hOQXRJaHRBLXJGcnJ5MnpsQW5yeFNxSDVTaERvcGxQR0dxbk1WZUdhU2J5ek9WMnRSSXlSQkgwaFVWcVBOTXZtbjV0?oc=5",
-            "snippet": "Hitachi Energy delivers reliable power to Grand Egyptian Museum with dry-type transformers Hitachi Energy",
-            "source": "Hitachi Energy",
-            "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-            "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
           }
         ],
         "sourceCount": 2,

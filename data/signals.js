@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-18T11:34:17.321428+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:34:17.501151+00:00",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -97,18 +97,18 @@ export const signals = [
           "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
         },
         {
-          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - finance.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
-          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
-          "source": "Yahoo Finance",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project finance.yahoo.com",
+          "source": "finance.yahoo.com",
           "published": "Wed, 26 Aug 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
-          "source": "Discovery Alert",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
+          "source": "discoveryalert.com.au",
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
@@ -169,10 +169,10 @@ export const signals = [
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
-          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
+          "title": "Morocco builds pumped storage to hold its solar and wind output - energy-news-network.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
-          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
-          "source": "Energy News Network",
+          "snippet": "Morocco builds pumped storage to hold its solar and wind output energy-news-network.com",
+          "source": "energy-news-network.com",
           "published": "Thu, 23 Jul 2026 07:00:00 GMT",
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
@@ -193,10 +193,10 @@ export const signals = [
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
-          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
+          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - worldbank.org",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
-          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
-          "source": "World Bank Group",
+          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower worldbank.org",
+          "source": "worldbank.org",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
         }
@@ -244,7 +244,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-18T11:34:17.321428+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -302,7 +302,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:34:17.501151+00:00",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -330,10 +330,10 @@ export const signals = [
           "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
         },
         {
-          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - Little Black Book | LBBOnline",
+          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - lbbonline.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
-          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA Little Black Book | LBBOnline",
-          "source": "Little Black Book | LBBOnline",
+          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA lbbonline.com",
+          "source": "lbbonline.com",
           "published": "Tue, 08 Sep 2026 13:39:45 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
@@ -362,11 +362,11 @@ export const signals = [
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "T2S to raise $118m from Morocco’s first listing this year - Arabian Gulf Business Insight | AGBI",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUFheEgzVS1rV3BDek5LS0tRaU0xUjVkNUNqdzFBTWpMdU54TXl3YnFrcXB1bzRlZVo4U3hId056bnl3bE4xV0JmSmM5aWRseENmYW1iWU40OU5Lb1ZSbUl2TjgtZFR0bWRKT2toS1dNRGVURVFaSmdxSEhZRVI1aWxRWlhtY0NHVjNqR1NfNnpwdi0wbnVVMQ?oc=5",
-          "snippet": "T2S to raise $118m from Morocco’s first listing this year Arabian Gulf Business Insight | AGBI",
-          "source": "Arabian Gulf Business Insight | AGBI",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "title": "Localized Fragrance Hubs: Givaudan Expands Regional Scent Development in Casablanca - Trend Hunter",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sQnRFcVZKbFB1Z1N3NkxNTG01QmhjU1VvQ0N4Tm9lOWhNRklZMnQyUVVBMXVYcHZtRUp0STRVZFRnS1hlV2tOOWlCWWN3VlgyOHVlRUZrbkZ5SEF2WWRzYjhnTEdPenRfdWI4THFyaHZwdw?oc=5",
+          "snippet": "Localized Fragrance Hubs: Givaudan Expands Regional Scent Development in Casablanca Trend Hunter",
+          "source": "Trend Hunter",
+          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         }
       ],
@@ -395,6 +395,991 @@ export const signals = [
       ],
       "overallConfidence": "MEDIUM",
       "unresolved": []
+    }
+  },
+  {
+    "id": "sig-7a134d5efbca",
+    "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+    "headline": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+    "summary": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
+    "source": "industrytoday.co.uk",
+    "sourceType": "news",
+    "published": "2026-09-17T10:04:38+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Wind",
+      "Manufacturing"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 45,
+    "actionabilityScore": 32,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 56,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.56,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 52,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "consulting/advisory potential",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 52,
+      "researchQueries": [
+        "\"Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk\"",
+        "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+        "Morocco offshore wind MASEN EIB feasibility"
+      ],
+      "sources": [
+        {
+          "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
+          "snippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
+          "source": "industrytoday.co.uk",
+          "published": "Thu, 17 Sep 2026 10:04:38 GMT",
+          "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
+        },
+        {
+          "title": "Lithium Hydroxide Production Plant Setup Feasibility Study 2026: Techno-Economic Analysis & Business Plan - industrytoday.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEJpX2dQMlpCMi0za3hiTnNwdVpMLW01eXg1d1RadDJmbWszd1RHc093bGJZMm8ydzRWVkJoWU12Ti1peGpXMFdhcVI1ci0yeGQyU2h0WG1KU3M3UFl0N0RURmhhODRoN3dGRGJJak9rVU9YY2ppQnExcV93c3hOVUE0b2s3SkVOb0swbGwyb19uOUZtSEZrcks4b3RZUWQ5ZmFRSVpwWmpRS1VEVjdjSWZNdFVPMDhvTnVCWWVFUTZzQmJlVlk0NGcwNDJLZ1pmQmgyWlQyaw?oc=5",
+          "snippet": "Lithium Hydroxide Production Plant Setup Feasibility Study 2026: Techno-Economic Analysis & Business Plan industrytoday.co.uk",
+          "source": "industrytoday.co.uk",
+          "published": "Thu, 17 Sep 2026 10:04:39 GMT",
+          "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
+          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
+          "source": "Ocean Energy Resources",
+          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-6b7ea78f98da",
+    "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+    "headline": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+    "summary": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+    "source": "Hydrogen Fuel News",
+    "sourceType": "news",
+    "published": "2026-09-12T13:11:06+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Hydrogen / PtX"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "RINA"
+    ],
+    "competitor": "RINA",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; RINA detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 58,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "competitor detected"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": true,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 58,
+      "researchQueries": [
+        "\"RINA\" Morocco Hydrogen / PtX",
+        "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+        "\"RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News\"",
+        "Morocco RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+        "Morocco green hydrogen ammonia project investor contractor",
+        "Morocco Power to X tender project",
+        "Morocco pumped storage hydro project contractor"
+      ],
+      "sources": [
+        {
+          "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+          "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
+          "source": "Hydrogen Fuel News",
+          "published": "Sat, 12 Sep 2026 13:11:06 GMT",
+          "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
+        },
+        {
+          "title": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure - Hydrogen Fuel News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ5d3hmS3RmXzZsdUhUaDJiYVpjREtGSVZXUExjckZYbGdnUTdOZEY4Q2prcHZqOEpXd1FiWkRtY3hxdGhvT3FvZGZtNVdmQ1pDZGZ6QzJucWJsLXRBcDN6ellFS1hQaUFwQnpvWkMwM2JFWmVvU0o0LTRQbG5tZ0VZNENiNUh6MDY4RXp4Q0JDdTJNRFFqSTlFRmdxcUVJZGhPQlQtV3FJcmhrOHc?oc=5",
+          "snippet": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure Hydrogen Fuel News",
+          "source": "Hydrogen Fuel News",
+          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+          "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
+        },
+        {
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project finance.yahoo.com",
+          "source": "finance.yahoo.com",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
+          "source": "discoveryalert.com.au",
+          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "The growing wave of investment berthing in Akwa Ibom State - Business News Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ19XX2VuUDFSYkVqQU4xY0w4WDdEOU5TQUJOdnhTUXhrN0oxX0xnQnRrSE1WN0VWVFh2c1NpVHYzdGlUU3FWYjRUU3BSMlJSek9YX1I2cExiQjYtcnVrcEpRZE1wbkFVdzAxYzg3T3ppYVd5RG9RcDd4T2RUaV9MZndRU01kMF9aV0xuVVdfcXZveFlYX1BCZHdjYw?oc=5",
+          "snippet": "The growing wave of investment berthing in Akwa Ibom State Business News Nigeria",
+          "source": "Business News Nigeria",
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09xVktGeW9KSU8zeUNjOG1jU2pjN0lMTmdzZWsyTWpVWFZxR0tCRTA4U0RkdmtqSGNIdE9IdnFlSlpTVjNYUXJ1SWVlWWs4TXM5Y1NXaTFtQ29yTzJ5QXlxLWlSYS1pS0JGMzA5VTBUdXJ0SS1uNUhJVWRUalB1dXNiVFR1VmprVjB3Qm92YXRuWWlYbEZTb21VVHlQNFhjbFhHRzNSRDB1YV9SUnNjZi0wR1hvaFZMMUtMTlM0SjNveFR0Mmw0eA?oc=5",
+          "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform Morocco World News",
+          "source": "Morocco World News",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
+          "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
+          "source": "African Energy",
+          "published": "Thu, 17 Sep 2026 17:57:05 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        }
+      ],
+      "sourceCount": 9,
+      "project": null,
+      "entities": [
+        "RINA"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-18cfcff1e963",
+    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "Renewables Now",
+    "sourceType": "news",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+        "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\""
+      ],
+      "sources": [
+        {
+          "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+          "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+          "source": "Renewables Now",
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-5da890ed5242",
+    "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+    "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+    "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+    "source": "Hitachi Energy",
+    "sourceType": "news",
+    "published": "2026-09-16T01:25:44+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 technology indicator(s); quantitative detail",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
+        "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+      ],
+      "sources": [
+        {
+          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+          "source": "Hitachi Energy",
+          "published": "Wed, 16 Sep 2026 01:25:44 GMT",
+          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+        },
+        {
+          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNOEtEQURQTUQwbE5neE9BMVRTRkJpWXNObFFMd0VKSzU2VmpOZi1MMjBSZzZSTEdVckNlS2hKY0x0RkdTbGU1dWtDaUppaGlHZWhjN0MzOVFyd052dDZWY3Q4QTJ6SFhCRmU3UjhNMkJpa3lKdkhhVVV3eW1JZGtOMnE5WGVyZVpBQ2tueUpOcTJESHd5UFlNYXFjbDhUZGFfQ2VTTGJBSVJFVVJ4bzFUZ2F4bTZIck8xU1V0aGhqUnFRZ01lbUZWa3pZSkkzODRmeDFEdVBENWdDRkZNaXBaT1NyS3lLd3kwcXlPUUZjMkNKN2ZBYk44RXRsU0hnRTlZLWY0UzNuZXppVXpic1FxTXBTcDRwZ0NFdkp2UFR6WFpmeXZLWDJXUXJZc2FkQUN5UGc?oc=5",
+          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
+          "source": "Hitachi Energy",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-66ef05c9cafe",
+    "title": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com",
+    "headline": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com",
+    "summary": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2Rqc0QtcFpLem9QbnNsODdNVFlNQ09nUUdhSkhvZFVOeW44eC1vWUtCNkxxLXp2bjlFdXJiU0pyTlg3LWJibnZwYUpLbkhXZGZhWkl2UENTUE5Nak9VX1BRWGFaWDdBa1VVTnMybjZlOFBCR01vcTRMd2E5RW9NUFpKQzgzUVpITXJBMTNwc1pnbVdlU3c?oc=5",
+    "source": "openPR.com",
+    "sourceType": "news",
+    "published": "2026-09-18T11:51:33+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Solar PV",
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 57,
+    "actionabilityScore": 41,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study openPR.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 61,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.61,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 71,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "consulting/advisory potential",
+      "investment/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 71,
+      "researchQueries": [
+        "\"Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com\"",
+        "Morocco Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com",
+        "Morocco solar PV project contractor tender ONEE MASEN"
+      ],
+      "sources": [
+        {
+          "title": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2Rqc0QtcFpLem9QbnNsODdNVFlNQ09nUUdhSkhvZFVOeW44eC1vWUtCNkxxLXp2bjlFdXJiU0pyTlg3LWJibnZwYUpLbkhXZGZhWkl2UENTUE5Nak9VX1BRWGFaWDdBa1VVTnMybjZlOFBCR01vcTRMd2E5RW9NUFpKQzgzUVpITXJBMTNwc1pnbVdlU3c?oc=5",
+          "snippet": "Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study openPR.com",
+          "source": "openPR.com",
+          "published": "Fri, 18 Sep 2026 11:51:33 GMT",
+          "query": "Morocco Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com"
+        },
+        {
+          "title": "Lithium-Ion Battery Recycling Plant Setup Cost 2026: Feasibility Study, CapEx, OpEx, Investment & Business Plan - openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTB2djZaQkRqeDJ1MTVSQmVnYS1DZGFmNy1DYUM5YVpRYmlNVU01VU1QZm5TTktDUzg2UUtINFJqRGpoWjJ3T2lCVGJZa3RHRE45NXhVWVlOX2x2bkw2cXBMV0w0Zmo3X3lUdUZMMHhCUm44SVhoZzJNNldKMmFwbU0zVXZTcWhPbEdsTWgwQkY?oc=5",
+          "snippet": "Lithium-Ion Battery Recycling Plant Setup Cost 2026: Feasibility Study, CapEx, OpEx, Investment & Business Plan openPR.com",
+          "source": "openPR.com",
+          "published": "Fri, 18 Sep 2026 12:00:36 GMT",
+          "query": "Morocco Street Solar Lights Plant Setup Cost 2026: Manufacturing Business Plan, CapEx, OpEx, Investment & Feasibility Study - openPR.com"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-ffceb013865c",
+    "title": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com",
+    "headline": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com",
+    "summary": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments greentechlead.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjhfaFV1VHNiV1VTeVd6YWNPUDNWZFJ4Ry1SczE2QWQ3ci1xdVZ4ajd0bFg0QmhNRWItMGppSjBudk1HZUxBWWw2TGRxMGxJSUFhaWtjZERMYzQzR0VhNWMyR3NMNnZiVVMwaVlGRmFFZFUwbnVNMTF6ZzFObnJReEpYQXd6UjlqVmx3aTNHcjVYaG5QWm5VaVNkWTNKZ2l1ZlRpRG5tNFBGcC1zSDJ3cUZoaF9tV21CY0YySXlQRGM5U1FWTWpseXhCYw?oc=5",
+    "source": "greentechlead.com",
+    "sourceType": "news",
+    "published": "2026-09-13T09:39:52+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Solar PV",
+      "BESS",
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments greentechlead.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 66,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.66,
+    "filterReason": "2 event indicator(s); 3 technology indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 53,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 53,
+      "researchQueries": [
+        "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com\"",
+        "Morocco Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com",
+        "Morocco offshore wind MASEN EIB feasibility"
+      ],
+      "sources": [
+        {
+          "title": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjhfaFV1VHNiV1VTeVd6YWNPUDNWZFJ4Ry1SczE2QWQ3ci1xdVZ4ajd0bFg0QmhNRWItMGppSjBudk1HZUxBWWw2TGRxMGxJSUFhaWtjZERMYzQzR0VhNWMyR3NMNnZiVVMwaVlGRmFFZFUwbnVNMTF6ZzFObnJReEpYQXd6UjlqVmx3aTNHcjVYaG5QWm5VaVNkWTNKZ2l1ZlRpRG5tNFBGcC1zSDJ3cUZoaF9tV21CY0YySXlQRGM5U1FWTWpseXhCYw?oc=5",
+          "snippet": "Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments greentechlead.com",
+          "source": "greentechlead.com",
+          "published": "Sun, 13 Sep 2026 09:39:52 GMT",
+          "query": "Morocco Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - greentechlead.com"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
+          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
+          "source": "Ocean Energy Resources",
+          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-5cf0e48045be",
+    "title": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+    "headline": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+    "summary": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million African Development Bank Group",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS0ZCTno4N3oyVlVPRGdrQm9keFBsTWpERmlPMkYyTzJUNDduT3ZZd2FKMzhRRDFTQVhmMHRmOVp4T0NDdHl4V2ZFbnN0QzBsSUliZ2x6c0FXY1kydTRBSkhmWl9NWFNNaTFHTGowSHBjWVNQaTFRYlJyMDFvQjBqcVg4amFxaTZGLXpUbFExUWR2aDJBcFhnUG8xUVB3TlhpbU9tdVFrcGd3TGxIT1pYR0hoLXFDeHJFdFRpdjF4blJ5SUh6bUhNaHBBUTRvM0FBNmdQTVFjdDFkdVlPYXRndkZLTi1va0pTR1RUa3hzM1c0WU56QmVnU0RtQjM3WmhfV1FYUEFOQ1dYeXdtNkJlNA?oc=5",
+    "source": "African Development Bank Group",
+    "sourceType": "news",
+    "published": "2026-09-18T14:15:06+00:00",
+    "detected": "2026-09-18T16:25:58.988203+00:00",
+    "categories": [
+      "Hydrogen / PtX",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [
+      "African Development Bank"
+    ],
+    "competitor": null,
+    "relevanceScore": 44,
+    "actionabilityScore": 32,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million African Development Bank Group",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 77,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.77,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); quantitative detail; concrete action relationship",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 75,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-18T16:25:59.156296+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 75,
+      "researchQueries": [
+        "\"African Development Bank\" Morocco Hydrogen / PtX Investment",
+        "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+        "\"African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group\"",
+        "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+        "Morocco green hydrogen ammonia project investor contractor",
+        "Morocco Power to X tender project",
+        "Morocco pumped storage hydro project contractor",
+        "Ifahsa pumped hydropower storage Morocco",
+        "site:worldbank.org Ifahsa pumped hydropower Morocco",
+        "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group official",
+        "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group procurement"
+      ],
+      "sources": [
+        {
+          "title": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS0ZCTno4N3oyVlVPRGdrQm9keFBsTWpERmlPMkYyTzJUNDduT3ZZd2FKMzhRRDFTQVhmMHRmOVp4T0NDdHl4V2ZFbnN0QzBsSUliZ2x6c0FXY1kydTRBSkhmWl9NWFNNaTFHTGowSHBjWVNQaTFRYlJyMDFvQjBqcVg4amFxaTZGLXpUbFExUWR2aDJBcFhnUG8xUVB3TlhpbU9tdVFrcGd3TGxIT1pYR0hoLXFDeHJFdFRpdjF4blJ5SUh6bUhNaHBBUTRvM0FBNmdQTVFjdDFkdVlPYXRndkZLTi1va0pTR1RUa3hzM1c0WU56QmVnU0RtQjM3WmhfV1FYUEFOQ1dYeXdtNkJlNA?oc=5",
+          "snippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million African Development Bank Group",
+          "source": "African Development Bank Group",
+          "published": "Fri, 18 Sep 2026 14:15:06 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Green hydrogen in Southern Africa: A reality check as conference season returns - cliffedekkerhofmeyr.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVU5TUEVXY0lPQ0NlN1lCUlZWSFFaOG1HZFI2QWRZWHk2OGYwWWlqVWhMRmt3QjZrYm1QNWRhd0hDYkV3d05tNnFsNHNJS2FGWWpBaXZfNGJHQjYweTk3VXhEeVlBa2hGNVZpdGNfVkxmTmdKeHdCVk5waDBDTWlSc0NycEo0OXN6blZPQkZSOUJtYURuWEZoeVBMTFBEZ2RlRWw2SDFMeGdkX280eV9VT0dEZXk4MFZGdGQ3OE4xMmQ4V2psZ2JPT2F0Y1ljUm5nSnZiMkRQSU5HeVJISHN6UmRaemZXUFQzeUtVRmFsLUFtNjU4Uzc3MkxqM09vN1R4bjBFVDJhajUyMFJBVF9sVDRoMFF2MWx1NlRNUlB5S3VGZWdEYmtrTlFLS0llS19wamV0MXJabm5zZE1QcEZWUkZPd1pDQ29keXd4Ynh5aVFKc2Jncnc?oc=5",
+          "snippet": "Green hydrogen in Southern Africa: A reality check as conference season returns cliffedekkerhofmeyr.com",
+          "source": "cliffedekkerhofmeyr.com",
+          "published": "Mon, 14 Sep 2026 13:37:19 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Europe’s push for hydrogen diverts solar and wind potential from Africa - Global Energy Monitor",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUhOaDNOb19kVWhzUUtOclUzaFpfZW43SlN3YkhYUlh6SjBEczd2bFg5YTdRSi1Fcm5yb2JqTWpCS1Y4R2F3WmxkNFRwSUJDQWoxOEl0dE5YS0pmRVZZMnNDQVBrYnhXOThrYVNzVWVmb2ZRWEZoQlFGNXFHZGhuOVhNTUY5dzMwMXRXYWJlY0tTOTZFdF9XRjl4SDBPck53S1V6bQ?oc=5",
+          "snippet": "Europe’s push for hydrogen diverts solar and wind potential from Africa Global Energy Monitor",
+          "source": "Global Energy Monitor",
+          "published": "Fri, 08 May 2026 14:25:28 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Mukendwa highlights green economy platforms as key to attracting investment - Namibia Economist",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1FkZTdLTzlKZ0Q0SUZ4ZmFQY2JaSUlJczBvTGZwQXlCOVlnR0h4dF95N2FfMDY5UU9LZTA1RlZuNUl4a0tXRFpDZ1lXYmRMWFZzNlRnTjVPN010aHR6ZkZmaW9XZ0RwNnBqX2VBX0p2ekJneFlhSmVoS0x2bzJ6dWdXQ1BEbm9KODhJbGdValE4R3VGaFRLQnZlV1RJQWhIeENN?oc=5",
+          "snippet": "Mukendwa highlights green economy platforms as key to attracting investment Namibia Economist",
+          "source": "Namibia Economist",
+          "published": "Tue, 15 Sep 2026 14:24:41 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Agritech Startup Khula Backed by PepsiCo’s Kgodiso Fund - Tech In Africa",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUVzWWU4eVhucFRrR05lYkVzTE5KTEhoeldxM1dOSG5Oa3lpcHhfVmFEbjNTY3NoVTVyTHpRMk5iLS1lVUVmc05Pb2tzY0E5TkxLUTNwNEU2WVlWRW56aVdfd2ZhZXNfQlpjdi1zUTdzVjFxMktmS0VKU3dxRTdCYVBfUEdzMnVR?oc=5",
+          "snippet": "Agritech Startup Khula Backed by PepsiCo’s Kgodiso Fund Tech In Africa",
+          "source": "Tech In Africa",
+          "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project finance.yahoo.com",
+          "source": "finance.yahoo.com",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
+          "source": "discoveryalert.com.au",
+          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "The growing wave of investment berthing in Akwa Ibom State - Business News Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ19XX2VuUDFSYkVqQU4xY0w4WDdEOU5TQUJOdnhTUXhrN0oxX0xnQnRrSE1WN0VWVFh2c1NpVHYzdGlUU3FWYjRUU3BSMlJSek9YX1I2cExiQjYtcnVrcEpRZE1wbkFVdzAxYzg3T3ppYVd5RG9RcDd4T2RUaV9MZndRU01kMF9aV0xuVVdfcXZveFlYX1BCZHdjYw?oc=5",
+          "snippet": "The growing wave of investment berthing in Akwa Ibom State Business News Nigeria",
+          "source": "Business News Nigeria",
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth - Hydrogen Fuel News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2UyTXYzdVFudS1UY1hyMWJ4c2E4a052cFNXUHhQVzJMblhJTUFNV0psZTJUdDRCQnBqLVhwUVItSzBaMHluT3JONGhoZTcwSE5yS2tzcXpDdGFXMF83ZXI0U0c3MUVhSVF3eVR4aktpTl9VOUk1MzZQcW42YWxlcGdmS2Z0YzVmM0Vhcl9RdkRQNEotSGsyVUkxNVZzaVc2c25iT2ZtTnRwLWxrZzVxRFBUSnNPY3c?oc=5",
+          "snippet": "GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth Hydrogen Fuel News",
+          "source": "Hydrogen Fuel News",
+          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09xVktGeW9KSU8zeUNjOG1jU2pjN0lMTmdzZWsyTWpVWFZxR0tCRTA4U0RkdmtqSGNIdE9IdnFlSlpTVjNYUXJ1SWVlWWs4TXM5Y1NXaTFtQ29yTzJ5QXlxLWlSYS1pS0JGMzA5VTBUdXJ0SS1uNUhJVWRUalB1dXNiVFR1VmprVjB3Qm92YXRuWWlYbEZTb21VVHlQNFhjbFhHRzNSRDB1YV9SUnNjZi0wR1hvaFZMMUtMTlM0SjNveFR0Mmw0eA?oc=5",
+          "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform Morocco World News",
+          "source": "Morocco World News",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
+          "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
+          "source": "African Energy",
+          "published": "Thu, 17 Sep 2026 17:57:05 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+          "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
+          "source": "Reuters",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        }
+      ],
+      "sourceCount": 14,
+      "project": null,
+      "entities": [
+        "African Development Bank"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -530,315 +1515,6 @@ export const signals = [
       "unresolved": [
         "Insufficient public evidence to verify the material claim."
       ]
-    }
-  },
-  {
-    "id": "sig-7a134d5efbca",
-    "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
-    "headline": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
-    "summary": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
-    "source": "industrytoday.co.uk",
-    "sourceType": "news",
-    "published": "2026-09-17T10:04:38+00:00",
-    "detected": "2026-09-18T11:34:17.321428+00:00",
-    "categories": [
-      "Wind",
-      "Manufacturing"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 45,
-    "actionabilityScore": 32,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 56,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.56,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s)",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 52,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "consulting/advisory potential",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:34:17.501151+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 52,
-      "researchQueries": [
-        "\"Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk\"",
-        "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
-        "Morocco offshore wind MASEN EIB feasibility"
-      ],
-      "sources": [
-        {
-          "title": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnVIT3VheENST29WTFpGWWdCeEtTeDVQVUk2VnFaYTEwbnE2d3pfSDNVU1pXeXNLdzVRMjRQNXdFbzVCYW53RVNmTkhYZGs0bXlOYzRlbHUxUDlJVVZDNVlFa1VubVMxa1pRaUlzanBlb2h4MGhSSUdBZlRaZUEwZWRYeVdYbnZlbm5qcVpVWnpqWWcycm1qV1JPLUNHRnBCMGw2U19vYkswVWtlUDBLa1lPZmZiQndmRUUyNkVSY0VwUTFzUVB2VG53?oc=5",
-          "snippet": "Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis industrytoday.co.uk",
-          "source": "industrytoday.co.uk",
-          "published": "Thu, 17 Sep 2026 10:04:38 GMT",
-          "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
-        },
-        {
-          "title": "Lithium Hydroxide Production Plant Setup Feasibility Study 2026: Techno-Economic Analysis & Business Plan - industrytoday.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEJpX2dQMlpCMi0za3hiTnNwdVpMLW01eXg1d1RadDJmbWszd1RHc093bGJZMm8ydzRWVkJoWU12Ti1peGpXMFdhcVI1ci0yeGQyU2h0WG1KU3M3UFl0N0RURmhhODRoN3dGRGJJak9rVU9YY2ppQnExcV93c3hOVUE0b2s3SkVOb0swbGwyb19uOUZtSEZrcks4b3RZUWQ5ZmFRSVpwWmpRS1VEVjdjSWZNdFVPMDhvTnVCWWVFUTZzQmJlVlk0NGcwNDJLZ1pmQmgyWlQyaw?oc=5",
-          "snippet": "Lithium Hydroxide Production Plant Setup Feasibility Study 2026: Techno-Economic Analysis & Business Plan industrytoday.co.uk",
-          "source": "industrytoday.co.uk",
-          "published": "Thu, 17 Sep 2026 10:04:39 GMT",
-          "query": "Morocco Wind Turbine Manufacturing Plant Setup 2026: Feasibility Study and Business Plan Analysis - industrytoday.co.uk"
-        },
-        {
-          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
-          "source": "Windtech International",
-          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
-          "source": "Morocco World News",
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
-          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
-          "source": "Ocean Energy Resources",
-          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-6b7ea78f98da",
-    "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-    "headline": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-    "summary": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
-    "source": "Hydrogen Fuel News",
-    "sourceType": "news",
-    "published": "2026-09-12T13:11:06+00:00",
-    "detected": "2026-09-18T11:34:17.321428+00:00",
-    "categories": [
-      "Hydrogen / PtX"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "RINA"
-    ],
-    "competitor": "RINA",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; RINA detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 58,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "competitor detected"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": true,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:34:17.501151+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 58,
-      "researchQueries": [
-        "\"RINA\" Morocco Hydrogen / PtX",
-        "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-        "\"RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News\"",
-        "Morocco RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-        "Morocco green hydrogen ammonia project investor contractor",
-        "Morocco Power to X tender project",
-        "Morocco pumped storage hydro project contractor"
-      ],
-      "sources": [
-        {
-          "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
-          "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
-          "source": "Hydrogen Fuel News",
-          "published": "Sat, 12 Sep 2026 13:11:06 GMT",
-          "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
-        },
-        {
-          "title": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure - Hydrogen Fuel News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ5d3hmS3RmXzZsdUhUaDJiYVpjREtGSVZXUExjckZYbGdnUTdOZEY4Q2prcHZqOEpXd1FiWkRtY3hxdGhvT3FvZGZtNVdmQ1pDZGZ6QzJucWJsLXRBcDN6ellFS1hQaUFwQnpvWkMwM2JFWmVvU0o0LTRQbG5tZ0VZNENiNUh6MDY4RXp4Q0JDdTJNRFFqSTlFRmdxcUVJZGhPQlQtV3FJcmhrOHc?oc=5",
-          "snippet": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure Hydrogen Fuel News",
-          "source": "Hydrogen Fuel News",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
-        },
-        {
-          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
-          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
-          "source": "Yahoo Finance",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
-          "source": "Discovery Alert",
-          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "The growing wave of investment berthing in Akwa Ibom State - Business News Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ19XX2VuUDFSYkVqQU4xY0w4WDdEOU5TQUJOdnhTUXhrN0oxX0xnQnRrSE1WN0VWVFh2c1NpVHYzdGlUU3FWYjRUU3BSMlJSek9YX1I2cExiQjYtcnVrcEpRZE1wbkFVdzAxYzg3T3ppYVd5RG9RcDd4T2RUaV9MZndRU01kMF9aV0xuVVdfcXZveFlYX1BCZHdjYw?oc=5",
-          "snippet": "The growing wave of investment berthing in Akwa Ibom State Business News Nigeria",
-          "source": "Business News Nigeria",
-          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09xVktGeW9KSU8zeUNjOG1jU2pjN0lMTmdzZWsyTWpVWFZxR0tCRTA4U0RkdmtqSGNIdE9IdnFlSlpTVjNYUXJ1SWVlWWs4TXM5Y1NXaTFtQ29yTzJ5QXlxLWlSYS1pS0JGMzA5VTBUdXJ0SS1uNUhJVWRUalB1dXNiVFR1VmprVjB3Qm92YXRuWWlYbEZTb21VVHlQNFhjbFhHRzNSRDB1YV9SUnNjZi0wR1hvaFZMMUtMTlM0SjNveFR0Mmw0eA?oc=5",
-          "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
-          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
-          "source": "Construction Review",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
-          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
-          "source": "Construction Review",
-          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
-          "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
-          "source": "African Energy",
-          "published": "Thu, 17 Sep 2026 17:57:05 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "RINA"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
     }
   },
   {
@@ -1046,219 +1722,6 @@ export const signals = [
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
         "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-18cfcff1e963",
-    "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-    "summary": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "Renewables Now",
-    "sourceType": "news",
-    "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-18T11:18:12.517325+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 81,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": true,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 81,
-      "researchQueries": [
-        "\"AFRY\" Morocco Market intelligence",
-        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-        "\"AFRY tapped for 191-MW hydropower project in India - Renewables Now\""
-      ],
-      "sources": [
-        {
-          "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-          "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - Renewables Now"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "AFRY"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-5da890ed5242",
-    "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-    "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-    "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-    "source": "Hitachi Energy",
-    "sourceType": "news",
-    "published": "2026-09-16T01:25:44+00:00",
-    "detected": "2026-09-18T11:18:12.517325+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 technology indicator(s); quantitative detail",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
-        "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-      ],
-      "sources": [
-        {
-          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-          "source": "Hitachi Energy",
-          "published": "Wed, 16 Sep 2026 01:25:44 GMT",
-          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        },
-        {
-          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNOEtEQURQTUQwbE5neE9BMVRTRkJpWXNObFFMd0VKSzU2VmpOZi1MMjBSZzZSTEdVckNlS2hKY0x0RkdTbGU1dWtDaUppaGlHZWhjN0MzOVFyd052dDZWY3Q4QTJ6SFhCRmU3UjhNMkJpa3lKdkhhVVV3eW1JZGtOMnE5WGVyZVpBQ2tueUpOcTJESHd5UFlNYXFjbDhUZGFfQ2VTTGJBSVJFVVJ4bzFUZ2F4bTZIck8xU1V0aGhqUnFRZ01lbUZWa3pZSkkzODRmeDFEdVBENWdDRkZNaXBaT1NyS3lLd3kwcXlPUUZjMkNKN2ZBYk44RXRsU0hnRTlZLWY0UzNuZXppVXpic1FxTXBTcDRwZ0NFdkp2UFR6WFpmeXZLWDJXUXJZc2FkQUN5UGc?oc=5",
-          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
-          "source": "Hitachi Energy",
-          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        }
-      ],
-      "sourceCount": 2,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "LOW",

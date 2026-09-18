@@ -1,3 +1,6 @@
+import { signals as rawSignals } from './data/signals.js?v=20260919-2';
+import { enrichments } from './data/enrichments.js?v=20260919-2';
+import { cleanSignals } from './data-cleaner.js';
 const escapeHtml = (v = '') => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
 
 const UI_NOISE = /^(guides d.?utilisation|outils informatiques|consultations? en cours|0 entités publiques inscrites|tester la configuration( de mon poste)?|accueil|connexion|se connecter|menu|rechercher)$/i;
@@ -40,7 +43,7 @@ function loadAtlasOverview() {
   const root = document.getElementById('overview');
   if (!root) return;
   try {
-    const all = cleanOverviewSignals(window.signals);
+    const merged = rawSignals.map(s => enrichments[s.id] && !s.enrichment ? {...s, enrichment: enrichments[s.id]} : s);\n    const all = cleanOverviewSignals(cleanSignals(merged));
     const events = Array.isArray(window.eventData) ? window.eventData : [];
     const high = all.filter(s => s.fichtnerRelevance === 'HIGH' || Number(s.actionabilityScore) >= 75);
     const actionable = all.filter(s => Number(s.actionabilityScore) >= 60);

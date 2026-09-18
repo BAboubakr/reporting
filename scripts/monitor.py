@@ -23,6 +23,23 @@ DFI_QUERIES = [
     'GIZ Morocco energy transition technical assistance consultant'
 ]
 COMPETITOR_QUERIES = [f'{c} Morocco renewable energy' for c in COMPETITORS]
+TARGETED_QUERIES = [
+    'site:lematin.ma economie MASEN solaire photovoltaïque appel offres',
+    'site:lematin.ma MASEN campagne mesure solaire sites',
+    'site:medias24.com MASEN solaire photovoltaïque appel offres',
+    'site:telquel.ma MASEN énergie solaire appel offres',
+    'site:ledesk.ma MASEN solaire appel offres',
+    'site:africaintelligence.com Morocco MASEN solar tender',
+    'site:onee.ma solaire appel offres renouvelable',
+    'site:etendering.masen.ma solaire appel offres',
+]
+SOURCE_QUERY_BLOCK = [
+    'Le Matin Morocco energy renewable solar MASEN',
+    'Médias24 Morocco energy renewable solar MASEN',
+    'TelQuel Morocco energy renewable solar MASEN',
+    'Le Desk Morocco energy renewable solar MASEN',
+    'Africa Intelligence Morocco renewable energy MASEN',
+]
 DISCOVERY_QUERIES = [
     'Morocco renewable energy engineering consultancy new office subsidiary',
     'Morocco energy consulting firm opens office Casablanca',
@@ -160,7 +177,7 @@ def seed_signal(seed,now):
 
 def main():
     rows=[]
-    for q in MARKET_QUERIES+DFI_QUERIES+COMPETITOR_QUERIES+DISCOVERY_QUERIES:rows+=google_rss(q)
+    for q in MARKET_QUERIES+DFI_QUERIES+COMPETITOR_QUERIES+DISCOVERY_QUERIES+TARGETED_QUERIES+SOURCE_QUERY_BLOCK:rows+=google_rss(q)
     for name,url in OFFICIAL_PAGES:rows+=page_items(name,url)
     cutoff=datetime.now(timezone.utc)-timedelta(days=LOOKBACK_DAYS);seen=set();candidates=[]
     for title,link,desc,pub,source,source_type in rows:
@@ -186,10 +203,14 @@ def main():
         sig_type=signal_type(title,desc);stage=extract_stage(title+' '+desc);novelty_score=novelty(title,existing_titles);actionability=min(99,round(relevance*0.72+novelty_score*28));evidence_level='official source' if source_type=='official' else 'news source';why=f"{sig_type.title()} signal relevant to Morocco renewable-energy activity"+(f"; {competitor} detected" if competitor else '')
         signals.append({'id':'sig-'+dedupe_key(title,link),'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'categories':categories,'signalType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'noveltyScore':novelty_score,'status':'new','evidenceLevel':evidence_level,'evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
     filtered=classify(signals)
+    # REVIEW is not a discard bucket. Plausible signals remain visible in Atlas
+    # so imperfectly-worded tenders/procurement items are not lost.
     kept=[s for s in filtered if s.get('filterDecision')=='KEEP']
     review=[s for s in filtered if s.get('filterDecision')=='REVIEW']
-    for s in review:s['status']='review'
-    signals=kept
+    for s in review:
+        s['status']='review'
+        s['reviewQueueReason']=s.get('filterReason','Needs validation')
+    signals=kept+review
 
     # Always retain strategic seeds. They are intentionally not dependent on
     # Google News ranking or the AI filter; this is the fail-safe layer for
@@ -201,6 +222,6 @@ def main():
     signals.sort(key=lambda x:(x['actionabilityScore'],x['relevanceScore']),reverse=True)
     (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     (DATA/'signal-review.js').write_text('export const signalReview = '+json.dumps(review,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
-    print(f'Collected {len(rows)} raw records; {len(candidates)} candidates; AI filter KEEP={len(kept)} REVIEW={len(review)} REJECT={len(filtered)-len(kept)-len(review)}; strategic seeds retained={len(STRATEGIC_SEEDS)}.')
+    print(f'Collected {len(rows)} raw records; {len(candidates)} candidates; AI filter KEEP={len(kept)} REVIEW={len(review)} REJECT={len(filtered)-len(kept)-len(review)}; retained={len(signals)}; strategic seeds retained={len(STRATEGIC_SEEDS)}.')
 
 if __name__=='__main__':main()

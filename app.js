@@ -1,6 +1,6 @@
 import { developments, eventData, pipeline, stakeholders, sources } from './data/index.js';
-import { signals as rawSignals } from './data/signals.js?v=20260914-1';
-import { enrichments } from './data/enrichments.js?v=20260914-1';
+import { signals as rawSignals } from './data/signals.js?v=20260919-1';
+import { enrichments } from './data/enrichments.js?v=20260919-1';
 import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js';
 const $=id=>document.getElementById(id),storageKey='atlas-local-state-v2',saved=JSON.parse(localStorage.getItem(storageKey)||'{}'),localOpportunities=saved.opportunities||[],localDevelopments=saved.developments||[],mergedSignals=rawSignals.map(s=>enrichments[s.id]&&!s.enrichment?{...s,enrichment:enrichments[s.id],evidenceLevel:enrichments[s.id].status==='public-evidence'?'multi-source enriched':s.evidenceLevel}:s),signals=cleanSignals(mergedSignals);
 const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d};

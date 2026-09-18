@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -105,10 +105,10 @@ export const signals = [
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
-          "source": "discoveryalert.com.au",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
+          "source": "Discovery Alert",
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
@@ -185,18 +185,18 @@ export const signals = [
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
-          "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - pumps-africa.com",
+          "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - Pumps Africa Magazine",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTM3TnhodEdHSGctYVphekFkVXBvTEs2bEpkY0g5UXE3d2Z6ZWVkelhFR29jalB5V0tlcHZoZGwzbWhZNjQ5ZGx5UFlqU2h1bzV3LXRyU0xmSkJkRm1FN21iSTFuMEVMTTFyX18xRWJmM2dneDAzdjdFaVRtMnNxenN6MGRLb0xMd29WMG9YeHJIMlFBR0VOY2xVYkzSAaQBQVVfeXFMT1o5VC0zelp4V0xHbm0zSEk1M3ZUeG1uaXRvcUszZ3BHVWN6R0RpYkR0WmdqNDhxQVV3dktFWlpRajBVT240NS12TTFUNzdUaS1nT3ZDS1E4SGgxQzBRdF84TGxUdFdYX2x6QjZ6b0R1d2dfeXdfRVJzbGp3elIwYjV4Qk1MRTdrUUN4TTZ2VGRhaDdiX0pOWlNrcmhMYV93UUNoWTU?oc=5",
-          "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project pumps-africa.com",
-          "source": "pumps-africa.com",
+          "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
+          "source": "Pumps Africa Magazine",
           "published": "Mon, 06 Jul 2026 07:00:00 GMT",
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
-          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
+          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - worldbank.org",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
-          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
-          "source": "World Bank Group",
+          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower worldbank.org",
+          "source": "worldbank.org",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
         }
@@ -244,7 +244,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -302,7 +302,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -338,18 +338,18 @@ export const signals = [
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - moderndiplomacy.eu",
+          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
-          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism moderndiplomacy.eu",
-          "source": "moderndiplomacy.eu",
+          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
+          "source": "Modern Diplomacy",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+          "title": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTnBNLUNzYW85TERZNFhtNkZuSk82ZEpXNEFDbEpJdkdhZlZJWDJSYVpZOWFCMUEwRDFPQzZ6WS1FNWZ3MDRjcVNxVmFDd0s4V3RUOVFOOTllYmN4ZHVCbUVSclZYZndBSjhRYmNra1JHZw?oc=5",
-          "snippet": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
-          "source": "Revelio Labs",
+          "snippet": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+          "source": "reveliolabs.com",
           "published": "Thu, 30 Jul 2026 00:08:12 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
@@ -406,7 +406,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -464,7 +464,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -512,7 +512,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -570,7 +570,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -647,7 +647,7 @@ export const signals = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-09-16T01:25:44+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -702,7 +702,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -754,7 +754,7 @@ export const signals = [
     "source": "industrytoday.co.uk",
     "sourceType": "news",
     "published": "2026-09-17T10:04:38+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Wind",
       "Manufacturing"
@@ -809,7 +809,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -886,7 +886,7 @@ export const signals = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-12T13:11:06+00:00",
-    "detected": "2026-09-18T05:57:26.764775+00:00",
+    "detected": "2026-09-18T11:18:12.517325+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -941,7 +941,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-18T11:18:12.696464+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -981,10 +981,10 @@ export const signals = [
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
-          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - discoveryalert.com.au",
+          "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtVUUNPWnJZeVlvWFVMTVRRVE5KaE80a3hLUGpzdllfa3FGeFQzc3o3VmhFcWQwQjJzOEMzZDZhbVdENUNvUmpYdU9kejBGR1piaXYyaE9ZSEpsYWx1dklXQWF2bUstS19obkk2R1FUMUpyTTg3cU1JbVhhQ2lfYnBmUkxpUQ?oc=5",
-          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia discoveryalert.com.au",
-          "source": "discoveryalert.com.au",
+          "snippet": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia Discovery Alert",
+          "source": "Discovery Alert",
           "published": "Fri, 31 Jul 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },

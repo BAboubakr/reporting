@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -95,6 +95,14 @@ export const signals = [
           "source": "Hydrogen Fuel News",
           "published": "Sat, 12 Sep 2026 13:11:06 GMT",
           "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
+        },
+        {
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
+          "source": "Yahoo Finance",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -142,14 +150,6 @@ export const signals = [
           "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
           "source": "Construction Review",
           "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
           "query": "Morocco pumped storage hydro project contractor"
         },
         {
@@ -244,7 +244,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -302,7 +302,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -330,27 +330,19 @@ export const signals = [
           "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
         },
         {
-          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - Little Black Book | LBBOnline",
+          "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - lbbonline.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
-          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA Little Black Book | LBBOnline",
-          "source": "Little Black Book | LBBOnline",
+          "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA lbbonline.com",
+          "source": "lbbonline.com",
           "published": "Tue, 08 Sep 2026 13:39:45 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - Modern Diplomacy",
+          "title": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism - moderndiplomacy.eu",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlxMU00SzctVUxlSC1oSHAxNWZpY2hISHFqcDFNcS1GdVcweTlyYmMzbU81Q3pGS1NtN0M0Vi1WNWM0b2dMTjBfT1VJbFI5eEduNDhib2ZGTF8zS3U0OWxNMkJBQ1oxNnhGTGdaV29RM3JSdnJ3dHE2Xy1fS2xQNzhFWWZ0RFZQa0tsVURrVTc1LVhlYktHLUFfUEduNVZ3WS13SS1EQVVYbHM0aGoxMzIzSlhwZ25Z?oc=5",
-          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism Modern Diplomacy",
-          "source": "Modern Diplomacy",
+          "snippet": "Left of Boom: Moroccan Intelligence and the Changing Face of Sahelian Terrorism moderndiplomacy.eu",
+          "source": "moderndiplomacy.eu",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTnBNLUNzYW85TERZNFhtNkZuSk82ZEpXNEFDbEpJdkdhZlZJWDJSYVpZOWFCMUEwRDFPQzZ6WS1FNWZ3MDRjcVNxVmFDd0s4V3RUOVFOOTllYmN4ZHVCbUVSclZYZndBSjhRYmNra1JHZw?oc=5",
-          "snippet": "CFG Bank (Morocco) Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
-          "source": "Revelio Labs",
-          "published": "Thu, 30 Jul 2026 00:08:12 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
@@ -362,11 +354,19 @@ export const signals = [
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
-          "title": "Localized Fragrance Hubs: Givaudan Expands Regional Scent Development in Casablanca - Trend Hunter",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sQnRFcVZKbFB1Z1N3NkxNTG01QmhjU1VvQ0N4Tm9lOWhNRklZMnQyUVVBMXVYcHZtRUp0STRVZFRnS1hlV2tOOWlCWWN3VlgyOHVlRUZrbkZ5SEF2WWRzYjhnTEdPenRfdWI4THFyaHZwdw?oc=5",
-          "snippet": "Localized Fragrance Hubs: Givaudan Expands Regional Scent Development in Casablanca Trend Hunter",
-          "source": "Trend Hunter",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+          "title": "T2S to raise $118m from Morocco’s first listing this year - Arabian Gulf Business Insight | AGBI",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUFheEgzVS1rV3BDek5LS0tRaU0xUjVkNUNqdzFBTWpMdU54TXl3YnFrcXB1bzRlZVo4U3hId056bnl3bE4xV0JmSmM5aWRseENmYW1iWU40OU5Lb1ZSbUl2TjgtZFR0bWRKT2toS1dNRGVURVFaSmdxSEhZRVI1aWxRWlhtY0NHVjNqR1NfNnpwdi0wbnVVMQ?oc=5",
+          "snippet": "T2S to raise $118m from Morocco’s first listing this year Arabian Gulf Business Insight | AGBI",
+          "source": "Arabian Gulf Business Insight | AGBI",
+          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
+          "title": "Oracle Establishes Second Morocco R&D Hub to Power the Future of AI - Oracle",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1lFWjQyblMzSUpKWEtTUDBkZjdBVjFIUm1XLWhYTWROUTIwRFdVdU5aQjBPSzhVYlNiZjJqemljOVJpUVdvTjBGRDN2d1hfQnRTR1UxUnlIc0JpREVtVUZibG9WVGNCX3pMVWZYekxMZWhTVUJKcElFcEhuQldUazVyNm11NU9fNWNOamxsMDlHRWxLTm9QRUh0YkpSN2U0cGNSS215OG9nemU1dXJjSmlEYUNIRjVMZERBWmo3SjI0Z0lhZllsYjFn?oc=5",
+          "snippet": "Oracle Establishes Second Morocco R&D Hub to Power the Future of AI Oracle",
+          "source": "Oracle",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         }
       ],
@@ -406,7 +406,7 @@ export const signals = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-12T13:11:06+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -461,7 +461,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -491,6 +491,14 @@ export const signals = [
           "source": "Hydrogen Fuel News",
           "published": "Mon, 14 Sep 2026 07:00:00 GMT",
           "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
+        },
+        {
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
+          "source": "Yahoo Finance",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -530,14 +538,6 @@ export const signals = [
           "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
           "source": "Construction Review",
           "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
           "query": "Morocco pumped storage hydro project contractor"
         },
         {
@@ -583,7 +583,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -641,7 +641,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -689,7 +689,7 @@ export const signals = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-09-16T01:25:44+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -744,7 +744,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -761,17 +761,9 @@ export const signals = [
           "source": "Hitachi Energy",
           "published": "Wed, 16 Sep 2026 01:25:44 GMT",
           "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        },
-        {
-          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOGpxdVliN0dxRlY0cFk4RG9kQjZ6UDJmc1UwcmFWemNwaVVydUJyajVCNTJiUDBEVV90eEZRdS1RdUZVOUlnS2p0WkQ4SzkwUlpGcHVIRmx0bURpTXM0V0RLZ3R4LUVETHVkaDh5MnZ4cFBjZ0JFVjVRT21NSjJsRmpaWXdWQ19OQzVEcjlnZDQ2dVVVbVItTVQ5WVhxWnhjZjhnNzZYYUxWSnc0RHVCMExkb3A4bGQ5UUQ0dDZRYjUzOEdnNzRkM1p0c0dDbHNPSk1aM0dSZzlOMHltYURYMk9qX3I0cDJnaTVwTHU2SnIxMjk3ZWRURHRQMTF6cFZLSk1HdWtSbTJTRmpac3M5cERaMjBEcjhkblJmajV3eXprcTlsZFpmTGpn?oc=5",
-          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
-          "source": "Hitachi Energy",
-          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "project": null,
       "entities": [],
       "facts": [],
@@ -796,7 +788,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-18T11:51:33+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Solar PV",
       "Investment",
@@ -854,7 +846,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -906,8 +898,8 @@ export const signals = [
     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS0ZCTno4N3oyVlVPRGdrQm9keFBsTWpERmlPMkYyTzJUNDduT3ZZd2FKMzhRRDFTQVhmMHRmOVp4T0NDdHl4V2ZFbnN0QzBsSUliZ2x6c0FXY1kydTRBSkhmWl9NWFNNaTFHTGowSHBjWVNQaTFRYlJyMDFvQjBqcVg4amFxaTZGLXpUbFExUWR2aDJBcFhnUG8xUVB3TlhpbU9tdVFrcGd3TGxIT1pYR0hoLXFDeHJFdFRpdjF4blJ5SUh6bUhNaHBBUTRvM0FBNmdQTVFjdDFkdVlPYXRndkZLTi1va0pTR1RUa3hzM1c0WU56QmVnU0RtQjM3WmhfV1FYUEFOQ1dYeXdtNkJlNA?oc=5",
     "source": "African Development Bank Group",
     "sourceType": "news",
-    "published": "2026-09-18T14:15:06+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "published": "2026-09-18T14:20:33+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -965,7 +957,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -989,7 +981,7 @@ export const signals = [
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS0ZCTno4N3oyVlVPRGdrQm9keFBsTWpERmlPMkYyTzJUNDduT3ZZd2FKMzhRRDFTQVhmMHRmOVp4T0NDdHl4V2ZFbnN0QzBsSUliZ2x6c0FXY1kydTRBSkhmWl9NWFNNaTFHTGowSHBjWVNQaTFRYlJyMDFvQjBqcVg4amFxaTZGLXpUbFExUWR2aDJBcFhnUG8xUVB3TlhpbU9tdVFrcGd3TGxIT1pYR0hoLXFDeHJFdFRpdjF4blJ5SUh6bUhNaHBBUTRvM0FBNmdQTVFjdDFkdVlPYXRndkZLTi1va0pTR1RUa3hzM1c0WU56QmVnU0RtQjM3WmhfV1FYUEFOQ1dYeXdtNkJlNA?oc=5",
           "snippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million African Development Bank Group",
           "source": "African Development Bank Group",
-          "published": "Fri, 18 Sep 2026 14:15:06 GMT",
+          "published": "Fri, 18 Sep 2026 14:20:33 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
@@ -998,14 +990,6 @@ export const signals = [
           "snippet": "Green hydrogen in Southern Africa: A reality check as conference season returns Cliffe Dekker Hofmeyr",
           "source": "Cliffe Dekker Hofmeyr",
           "published": "Mon, 14 Sep 2026 13:37:19 GMT",
-          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
-        },
-        {
-          "title": "Mukendwa highlights green economy platforms as key to attracting investment - Namibia Economist",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1FkZTdLTzlKZ0Q0SUZ4ZmFQY2JaSUlJczBvTGZwQXlCOVlnR0h4dF95N2FfMDY5UU9LZTA1RlZuNUl4a0tXRFpDZ1lXYmRMWFZzNlRnTjVPN010aHR6ZkZmaW9XZ0RwNnBqX2VBX0p2ekJneFlhSmVoS0x2bzJ6dWdXQ1BEbm9KODhJbGdValE4R3VGaFRLQnZlV1RJQWhIeENN?oc=5",
-          "snippet": "Mukendwa highlights green economy platforms as key to attracting investment Namibia Economist",
-          "source": "Namibia Economist",
-          "published": "Tue, 15 Sep 2026 14:24:41 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
@@ -1023,6 +1007,22 @@ export const signals = [
           "source": "Carnegie Endowment for International Peace",
           "published": "Tue, 14 Apr 2026 07:00:00 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Mukendwa highlights green economy platforms as key to attracting investment - Namibia Economist",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1FkZTdLTzlKZ0Q0SUZ4ZmFQY2JaSUlJczBvTGZwQXlCOVlnR0h4dF95N2FfMDY5UU9LZTA1RlZuNUl4a0tXRFpDZ1lXYmRMWFZzNlRnTjVPN010aHR6ZkZmaW9XZ0RwNnBqX2VBX0p2ekJneFlhSmVoS0x2bzJ6dWdXQ1BEbm9KODhJbGdValE4R3VGaFRLQnZlV1RJQWhIeENN?oc=5",
+          "snippet": "Mukendwa highlights green economy platforms as key to attracting investment Namibia Economist",
+          "source": "Namibia Economist",
+          "published": "Tue, 15 Sep 2026 14:24:41 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
+          "source": "Yahoo Finance",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -1073,14 +1073,6 @@ export const signals = [
           "query": "Morocco pumped storage hydro project contractor"
         },
         {
-          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
           "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
           "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
@@ -1124,7 +1116,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-18T19:37:57.743085+00:00",
+    "detected": "2026-09-18T22:35:54.994347+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -1182,7 +1174,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T19:37:57.969034+00:00",
+      "researchedAt": "2026-09-18T22:35:55.178222+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -1202,14 +1194,6 @@ export const signals = [
           "query": "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\""
         },
         {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
           "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
           "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
@@ -1226,37 +1210,36 @@ export const signals = [
           "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
+          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
+          "source": "Ocean Energy Resources",
+          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
           "query": "Morocco offshore wind MASEN EIB feasibility"
         }
       ],
       "sourceCount": 5,
       "project": null,
       "entities": [],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ],
+      "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {

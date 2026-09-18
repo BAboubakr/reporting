@@ -26,7 +26,7 @@ document.getElementById('refreshCompetitors')?.addEventListener('click',()=>rend
 renderCompetitors();
 
 /* Developments v5: project/development view, not competitor intelligence. */
-const devStyle=document.createElement('link');devStyle.rel='stylesheet';devStyle.href='developments-v4.css?v=20260915-2';document.head.appendChild(devStyle);
+const devStyle=document.createElement('link');devStyle.rel='stylesheet';devStyle.href='developments-v4.css?v=20260918-1';document.head.appendChild(devStyle);
 function renderDevelopmentsV5(){
  const list=document.getElementById('developmentList');if(!list)return;
  const source=window.allDevelopments?window.allDevelopments():[];

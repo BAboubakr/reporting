@@ -35,15 +35,13 @@ export const signals = [
     "filterReason": "Deterministic strategic seed: MASEN tender for solar-resource measurement across twelve future PV sites",
     "aiReviewed": false,
     "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
     "researchPriorityReasons": [
-      "MASEN detected",
       "tender/procurement",
-      "12 future PV sites",
-      "Morocco context",
-      "consulting potential"
+      "project development",
+      "strategic Moroccan actor"
     ],
     "researchTriggers": {
       "fichtner": false,
@@ -55,18 +53,53 @@ export const signals = [
       "award": false,
       "dfi": false,
       "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
+      "majorProject": false,
+      "consultingPotential": false
     },
     "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
+      "maxQueries": 7,
+      "maxSources": 9
     },
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "strategic deterministic seed",
+      "reason": "missing/stale/old-engine enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"MASEN\" Morocco Solar PV Procurement",
+        "\"MASEN\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "\"Morocco\" Morocco Solar PV Procurement",
+        "\"Morocco\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "\"MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques\"",
+        "Morocco MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "Morocco solar PV project contractor tender ONEE MASEN"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "MASEN",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -133,8 +166,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -366,8 +399,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -478,12 +511,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -511,6 +544,14 @@ export const signals = [
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
+          "title": "African Development Bank's Sustainable Energy Fund for Africa Launches Call for Proposals for New Green Hydrogen Programme - afdb.org",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONE53TFJtMm9NM2l6UXRwM0h2V0xiUVFERXQzYm5vallIcnBpbXZKMVF6emo0bENsWVFxUkZjYU9pbnFWSVlpdlQyU2JhQ0VXTTFoY2d5NlpJa1E3ODluU09PM0UzQUpEdHZnNTRDRjFjSnJobVdtMkh0aHp5MS11OURJMTZ0Nkg5WEpTbDJSOEZHTS10Szk3NWdMMjhLTFVqY0xhZ0JjMDdoTkQwWWpGTmpCeXJ4MlBwdHJ0alFQZFlKRm9hXzliMURBQ1c2TFJiV3A5OWVnNHF5MFFoVkhZQkN0M3FwUUZGQ2FUemRsWXBUTVNkUlk1MVhNOUl1OFU?oc=5",
+          "snippet": "African Development Bank's Sustainable Energy Fund for Africa Launches Call for Proposals for New Green Hydrogen Programme afdb.org",
+          "source": "afdb.org",
+          "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
           "title": "Europe’s push for hydrogen diverts solar and wind potential from Africa - Global Energy Monitor",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUhOaDNOb19kVWhzUUtOclUzaFpfZW43SlN3YkhYUlh6SjBEczd2bFg5YTdRSi1Fcm5yb2JqTWpCS1Y4R2F3WmxkNFRwSUJDQWoxOEl0dE5YS0pmRVZZMnNDQVBrYnhXOThrYVNzVWVmb2ZRWEZoQlFGNXFHZGhuOVhNTUY5dzMwMXRXYWJlY0tTOTZFdF9XRjl4SDBPck53S1V6bQ?oc=5",
           "snippet": "Europe’s push for hydrogen diverts solar and wind potential from Africa Global Energy Monitor",
@@ -527,19 +568,11 @@ export const signals = [
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
-          "title": "Tunisia: From Heavy Fuel Oil to Natural Gas — The STEG Project Powers Energy and Industrial Transition in Northwestern Tunisia - afdb.org",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGJ3WEtHamNwSHVsVFpzcm5OanhjVXRiRWhrUWdDMWF1czBmVlVBb3RqdVVwV1Z0QXdPaElRNG1yVTVQblhDT1VESnJ5eDdsNndzTmZnYzZhMHJpU3VGMkxLVmNIUVd3VG1yQllpa2NPSjJ1NjJHcXYxMlRqanY0ek9xMXg3Zll3LW9EelhFenRaNEcxYTJRMVZoNWppV2FoZ1lhSFlIM2N1RWs1Z2YxRGFHMXZLWnhrYkV2b1ZXVVpjaEFWVHI4dktlVHlQd1o2SlQtMEJ5ZXJ2aTNVMmp6YzE0VVhwVTdWU1E?oc=5",
-          "snippet": "Tunisia: From Heavy Fuel Oil to Natural Gas — The STEG Project Powers Energy and Industrial Transition in Northwestern Tunisia afdb.org",
-          "source": "afdb.org",
-          "published": "Tue, 29 Jul 2025 07:00:00 GMT",
-          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
-        },
-        {
-          "title": "The European Green Deal and the African Private Sector - APRI – Africa Policy Research Institute",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdy1OdDEtS0Y0bFpyOGJ5QWtycmFKZDk3N3RXel83ZlhNYVF1Qk1GelFxRWgxOUl6Y0J5VVdBWGZIS3MxWEx0NTZWeWdEUmgxU1hkenRCdXBlNm9TeEF3Vl9JRmYzaWZfVmVROHg0M084aUlaZm1leUtSQkptR1VWOQ?oc=5",
-          "snippet": "The European Green Deal and the African Private Sector APRI – Africa Policy Research Institute",
-          "source": "APRI – Africa Policy Research Institute",
-          "published": "Thu, 23 Feb 2023 08:00:00 GMT",
+          "title": "Namibia’s $10bn green hydrogen project raises myriad concerns - African Arguments",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTBQalc4dXZvWXUyM2RvYlNySDdGR3JhWWVZdURFSmZaeExnQU90aVowclFjMDN2MW5wVVZWcVVxMzBhcVV1bnhYQ0wxWnp4cWFoRmVicmRGUjMwZGIyS2NTelVWd0YzUTVReVlTcDJITWtFaGplUVUtYTVEb2FTcnVsNk8zOHVBR01JTURyUVd2d3MwWnh6RWxoMC0?oc=5",
+          "snippet": "Namibia’s $10bn green hydrogen project raises myriad concerns African Arguments",
+          "source": "African Arguments",
+          "published": "Thu, 16 Nov 2023 08:00:00 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
@@ -559,11 +592,11 @@ export const signals = [
           "query": "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
-          "title": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project - Hydrogen Insight",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbklnaXoya2tWbjE4eTZkZEg4ZTN2YVVWMGdXcnQwOVQ4QVlLVG8wVDNyUVo4R0ppbjFpT0JxQmVPYWNaeDhsbDlzang1Z3F2VUUtVHUtZ2cwQVROUFhxTjFWR2lTcEVCYVZ0VXVoTFpmekVUclF5SXdVVFYtNF8wQkxTbFNXZllaRm5oNWVNREtyMjRSOG00dTF2Qm1IZzktZS11ZU1ISkhuRzQtdVlQVGZQY0ZuVjFwYW1xMnI2UE1yR1J1NlBWSkxXbTd5bXU2WTVCNnp5UXdoN1o3ZHBGUQ?oc=5",
-          "snippet": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project Hydrogen Insight",
-          "source": "Hydrogen Insight",
-          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "title": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEliRjFvdU5sazkwSDZJMmFZbWtjNFpvQjVZdkpwSkQtRmV4VnQ0QVBwNEg2THVwdkxFaGNfbm9lNFZjNnhDdEVFUFNwdmk1cWozM0g4OWZpcjBRQThfV21CM2p0ZG5QQ00yaC1mWGk5Vld6dlJzSC1VNmFiOWRZeTBqTjFjdko2alJDdw?oc=5",
+          "snippet": "KBR (KBR) Wins Kazakhstan SAF Plant And Morocco Green Ammonia Project Yahoo Finance",
+          "source": "Yahoo Finance",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
@@ -591,10 +624,10 @@ export const signals = [
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
-          "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - Morocco World News",
+          "title": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform - moroccoworldnews.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09xVktGeW9KSU8zeUNjOG1jU2pjN0lMTmdzZWsyTWpVWFZxR0tCRTA4U0RkdmtqSGNIdE9IdnFlSlpTVjNYUXJ1SWVlWWs4TXM5Y1NXaTFtQ29yTzJ5QXlxLWlSYS1pS0JGMzA5VTBUdXJ0SS1uNUhJVWRUalB1dXNiVFR1VmprVjB3Qm92YXRuWWlYbEZTb21VVHlQNFhjbFhHRzNSRDB1YV9SUnNjZi0wR1hvaFZMMUtMTlM0SjNveFR0Mmw0eA?oc=5",
-          "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform Morocco World News",
-          "source": "Morocco World News",
+          "snippet": "Morocco’s HCP Launches Tender for MAD 4.98 Million AI-Powered Statistics Platform moroccoworldnews.com",
+          "source": "moroccoworldnews.com",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT",
           "query": "Morocco Power to X tender project"
         },
@@ -694,8 +727,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -966,12 +999,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1574,12 +1607,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1670,12 +1703,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1767,12 +1800,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1787,31 +1820,23 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Shanxi wins EPC contract for 500-MW solar project in Oman - renewablesnow.com",
+          "title": "Shanxi wins EPC contract for 500-MW solar project in Oman - Renewables Now",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGxieGxMak5aeHJmcGJPTjhUQUxuRzRsMnZvcGJ3NUphc3QwNnZGUHBwdFRyci1WREsxLXRabk53NFVtNW8yWkVORFBzRlpTTlJIdTY2SmVIdUZuYm95MElfb3BXX2E5dW9rOE5yamNLcGgzRlFMcGIwYTJWalRHNEtVaGZkZXlOOWJaYlVTME5vdEtXZnZyWGRoSG9sQQ?oc=5",
-          "snippet": "Shanxi wins EPC contract for 500-MW solar project in Oman renewablesnow.com",
-          "source": "renewablesnow.com",
+          "snippet": "Shanxi wins EPC contract for 500-MW solar project in Oman Renewables Now",
+          "source": "Renewables Now",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "query": "Morocco photovoltaic project award EPC"
         },
         {
-          "title": "Morocco: Long-delayed concentrated solar, PV, and storage plant advances - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnBCd2FqMWVyRXZPQXU3WFhBVVlBWUU1cFRBYkpjVmVhOFlWR281M2tRTmRjMmdXSWRSN1BsWTBHLWVSamNvNFkxaDlNUnlmUTVfaGlFVzNlZGpRS2ZhTUJRTkZMcC1nSGppd2pvd2pzNXFKa3RJU1hCV2xWTVlfcHFLNDMwWVBjUTZZc3l4NzNFc2p3aUNHdGM1aThLRkVDaGZYT0VpdXlBN2Fy?oc=5",
-          "snippet": "Morocco: Long-delayed concentrated solar, PV, and storage plant advances African Energy",
-          "source": "African Energy",
-          "published": "Thu, 17 Sep 2026 18:00:04 GMT",
-          "query": "Morocco photovoltaic project award EPC"
-        },
-        {
-          "title": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News - renewablesnow.com",
+          "title": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News - Renewables Now",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUIzdkNERjZ4dFEzWC1LVkZMc2MwdDhlUTNseXBaM25EMzZqbUVudHhDemlzT3hyaC1MbDlpOVZFRlFTYWtOZVVlVFhGUkhHdUhMcDk1NVFQMThRVmNfU0h6MzRyV3VBcTFXa0RfN3RXT01GXzZ0dkxKYjVJNU1FZFI0eGNDT2N6eVZud2stTzk5NkdCM2ZGdml4Wl9TelNCVjFvVi1faEU?oc=5",
-          "snippet": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News renewablesnow.com",
-          "source": "renewablesnow.com",
+          "snippet": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News Renewables Now",
+          "source": "Renewables Now",
           "published": "Fri, 26 Jun 2026 07:00:00 GMT",
           "query": "Morocco photovoltaic project award EPC"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "project": null,
       "entities": [
         "MASEN"
@@ -2082,12 +2107,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2306,12 +2331,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2467,8 +2492,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -2604,8 +2629,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -2741,8 +2766,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -2879,12 +2904,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2976,12 +3001,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3073,8 +3098,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3210,8 +3235,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3346,8 +3371,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3483,8 +3508,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3619,8 +3644,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3755,8 +3780,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -3893,12 +3918,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3988,8 +4013,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -4087,7 +4112,7 @@ export const signals = [
     "actionabilityScore": 45,
     "noveltyScore": 0.0,
     "status": "review",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
@@ -4127,13 +4152,13 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
-      "status": "no-public-match",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 98,
@@ -4142,8 +4167,17 @@ export const signals = [
         "\"EIB\" Project procurement complaints",
         "\"Project procurement complaints\""
       ],
-      "sources": [],
-      "sourceCount": 0,
+      "sources": [
+        {
+          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+          "source": "Agenzia Nova",
+          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
+          "query": "\"EIB\" Morocco Tender / Procurement"
+        }
+      ],
+      "sourceCount": 1,
       "project": null,
       "entities": [
         "EIB"
@@ -4224,12 +4258,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4321,12 +4355,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4418,12 +4452,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4515,12 +4549,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4622,12 +4656,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4718,8 +4752,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -4855,12 +4889,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4950,8 +4984,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5087,8 +5121,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5224,8 +5258,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5361,8 +5395,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5498,8 +5532,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5635,8 +5669,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -5757,12 +5791,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5853,12 +5887,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5948,8 +5982,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6084,8 +6118,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6229,12 +6263,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6286,7 +6320,7 @@ export const signals = [
     "actionabilityScore": 37,
     "noveltyScore": 0.0,
     "status": "review",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -6325,13 +6359,13 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
-      "status": "no-public-match",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 70,
@@ -6340,8 +6374,17 @@ export const signals = [
         "\"IsDB\" Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
         "\"Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?\""
       ],
-      "sources": [],
-      "sourceCount": 0,
+      "sources": [
+        {
+          "title": "Bangladesh Invites Bids For 220 MW Sonagazi Solar Power Plant Construction Project - SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWkQ5c3hDWmhWZXEtNXYwNkhyYlVwSkJvUHNBSVdtNVdqT25hVFktbENZbUJZblFIS3YtR0s3WnZPME9acVJLUXRYV2w3S3dKT3F0ZjQzMEp6SmFPckxXekR1WFdiSl93NkQtcTB5cVdDSE1vQWV4dlk5YktBTXEzbEltUjQtMDl5ZUZQQnk5cGczektqT2Zvd3Y4LW1icjBuU3kwQVlMM2sxQmt5ODEzNFpLT0FSdUo1YjJj0gHAAUFVX3lxTFBCZlZ1dTJUeERpS0w5RGpqOGx1X3NuRERWT0tjWDFWMUxLWndUWnhPYXQ5NWJnYktxVVhfTEcyY29wMHpUa1kzSTZycTJkS3dSN0RtdTQxdkJjQkJlSkFKcWw5eF9xU3RiTlQ2TEo2SEhpaXBFbDN5TDdyX0U3Y2RwMVZGdFNVcEM0YXkzSVRyLVcxLXZxX0NLajNWeHV2dTZLdG9EWUprSExIWFViU1lUT2toWkdHSEFLZGtWN21rdg?oc=5",
+          "snippet": "Bangladesh Invites Bids For 220 MW Sonagazi Solar Power Plant Construction Project SolarQuarter",
+          "source": "SolarQuarter",
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+          "query": "\"IsDB\" Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?"
+        }
+      ],
+      "sourceCount": 1,
       "project": null,
       "entities": [
         "IsDB"
@@ -6420,8 +6463,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6533,12 +6576,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6627,8 +6670,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6747,8 +6790,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6859,8 +6902,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -6996,12 +7039,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7090,8 +7133,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7226,8 +7269,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7362,8 +7405,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7498,8 +7541,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7635,8 +7678,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7771,8 +7814,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -7907,8 +7950,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8020,12 +8063,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8115,8 +8158,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8252,8 +8295,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8389,8 +8432,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8525,8 +8568,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8661,8 +8704,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8797,8 +8840,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -8918,12 +8961,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9012,8 +9055,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -9148,8 +9191,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -9247,7 +9290,7 @@ export const signals = [
     "actionabilityScore": 31,
     "noveltyScore": 0.0,
     "status": "review",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -9285,13 +9328,13 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
-      "status": "no-public-match",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 43,
@@ -9300,8 +9343,49 @@ export const signals = [
         "\"IsDB\" Skip to main content",
         "\"Skip to main content\""
       ],
-      "sources": [],
-      "sourceCount": 0,
+      "sources": [
+        {
+          "title": "The Resilience Project of Western Nevada County to Host Community Meeting on September 29 - Nevada County (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdDJudE5TSDVueFpWRXpKc2NWRXhyZ3NlZXhTZXZ6a0NOSGVpbk1WbEpZSHBDblBJOTV4MzlnTmlWbzVkeHhWYWRSM29PY05QMlZVdEdoeG9EZU5BSmhtcWhlNVpBT28?oc=5",
+          "snippet": "The Resilience Project of Western Nevada County to Host Community Meeting on September 29 Nevada County (.gov)",
+          "source": "Nevada County (.gov)",
+          "published": "Thu, 10 Sep 2026 15:34:13 GMT",
+          "query": "\"Skip to main content\""
+        },
+        {
+          "title": "Upcoming Cambridge Traffic Impacts: September 9 - 13 - the City of Cambridge (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYTdMbHVhUFFZYmVQVC0tcXpvYXFBVEZFMkV4T2psaGlCWFBPRjFvelVoM01Gb3FsOEtJWjFrT3d4T0NKTmQydVJhNzI5eG9CejFrVHZFYy16SGttdENhQ3p4SjVKMmxOSWUwVUo5MkNwVzRBbjBtLXNIVTZtbDdCa3NjVkx6cDVUbUtUc2ZhQWM0LUpHQzQ2a3RPSjhCLVNlSGQzcGdySzF2MUtfUERnUHJ0S2lkNFVxV3hVVFZCeVNDMTdRTjY2N1ZGdFRzYnBnN0F3QWxHbTYxSEJtTldJd2RSaWY1NnE5?oc=5",
+          "snippet": "Upcoming Cambridge Traffic Impacts: September 9 - 13 the City of Cambridge (.gov)",
+          "source": "the City of Cambridge (.gov)",
+          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+          "query": "\"Skip to main content\""
+        },
+        {
+          "title": "Chiefs Recognize Staff Sergeant Tristan Dumas as This Week's Tribute to the Troops Honoree - Kansas City Chiefs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2RTN1ZIdTdMY1dObEluMDloUTBUcEFacmdvRHozSV9RclpldmROZm5xWlNCYVhHOTBESjV6bWZfZ3lrNHdkbm0tRWFGVmp6UWhCSU9BcG9HNlNpMFZxNFNoUEo4ZEJaSEVZMlVHVDgzX01NTHJnMWFXQTA0NXNHTnR4VGJrRm9TZ0t1Zk1YcjBCaXRjbmY4Wm5HZmpxRTFPMFRvVHo5Q0lmTG1hcUJ4ZEhudzkzalp4UHc?oc=5",
+          "snippet": "Chiefs Recognize Staff Sergeant Tristan Dumas as This Week's Tribute to the Troops Honoree Kansas City Chiefs",
+          "source": "Kansas City Chiefs",
+          "published": "Sat, 19 Sep 2026 12:57:25 GMT",
+          "query": "\"Skip to main content\""
+        },
+        {
+          "title": "Tucson Roadrunners and Matt Shott Arizona Hockey Legacy Foundation Continue Partnership to Bring Shott’s Tots to Tucson - Tucson Roadrunners Hockey",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUptbW11MzBDbG1sVTQ1THZ4ZU1oU0ZtOV9NUnJ4dVpFRXNlY1JqUFpQTkQ2ZDFTSjVueHNZLWU1M3NGdUtmM19lcTdNYXYzc1oxamY5ZWJhczFCZVI5a0lpT3BBVnhTU2FxbWRPNVFkdENWdWlNMWs3ZE5zMGFjcmhFM0plZWxMS1JWLVA2T2d4Rjl1ay1QVGowN0hoR2tCWC1aTmFJbGxfN3pLd1V3RmJQamxnLTh1S0R6OVU0YlJnY0djLWFr?oc=5",
+          "snippet": "Tucson Roadrunners and Matt Shott Arizona Hockey Legacy Foundation Continue Partnership to Bring Shott’s Tots to Tucson Tucson Roadrunners Hockey",
+          "source": "Tucson Roadrunners Hockey",
+          "published": "Tue, 15 Sep 2026 22:58:40 GMT",
+          "query": "\"Skip to main content\""
+        },
+        {
+          "title": "Langston Lewis | Playing with Purpose - Chippewas All-Access - Powered by SIDEARM Showcase - Central Michigan University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjE2N1p5ZDRqVDAwX21qUjQ2aVBBWHZoUU4yeVNzM3Fta3pyVzZWVkhpUlVtRkRTWUpqSnExaFo0OEV0SjNQeWd2SHEtMXMxc25ZbU1iNjZLcm9JT21SY1JRQjVza2N6WDNBeVR4VEdJdTN6MjVQcmdLLWhmdXlKdzZVNnFYX3FGaUhmNGduNlRrOEhKdzRLSGRxQmFBdVE?oc=5",
+          "snippet": "Langston Lewis | Playing with Purpose - Chippewas All-Access - Powered by SIDEARM Showcase Central Michigan University Athletics",
+          "source": "Central Michigan University Athletics",
+          "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+          "query": "\"Skip to main content\""
+        }
+      ],
+      "sourceCount": 5,
       "project": null,
       "entities": [
         "IsDB"
@@ -9379,8 +9463,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -9515,8 +9599,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -9652,12 +9736,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9746,8 +9830,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -9882,8 +9966,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10018,8 +10102,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10146,8 +10230,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10266,8 +10350,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10402,8 +10486,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10530,8 +10614,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -10665,8 +10749,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -11833,8 +11917,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -11992,8 +12076,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -12236,8 +12320,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -12445,8 +12529,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -12554,8 +12638,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -12668,12 +12752,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -12685,10 +12769,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+          "title": "AFRY tapped for 191-MW hydropower project in India - Renewables Now",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-          "source": "renewablesnow.com",
+          "snippet": "AFRY tapped for 191-MW hydropower project in India Renewables Now",
+          "source": "Renewables Now",
           "published": "Thu, 27 Aug 2026 07:00:00 GMT",
           "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
         }
@@ -12774,12 +12858,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -12938,12 +13022,12 @@ export const signals = [
     "researchEligibility": {
       "eligible": true,
       "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "reason": "fresh but weak enrichment",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -12954,15 +13038,23 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - hitachienergy.com",
+          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory hitachienergy.com",
-          "source": "hitachienergy.com",
+          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+          "source": "Hitachi Energy",
           "published": "Wed, 16 Sep 2026 01:25:44 GMT",
+          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - hitachienergy.com"
+        },
+        {
+          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOGpxdVliN0dxRlY0cFk4RG9kQjZ6UDJmc1UwcmFWemNwaVVydUJyajVCNTJiUDBEVV90eEZRdS1RdUZVOUlnS2p0WkQ4SzkwUlpGcHVIRmx0bURpTXM0V0RLZ3R4LUVETHVkaDh5MnZ4cFBjZ0JFVjVRT21NSjJsRmpaWXdWQ19OQzVEcjlnZDQ2dVVVbVItTVQ5WVhxWnhjZjhnNzZYYUxWSnc0RHVCMExkb3A4bGQ5UUQ0dDZRYjUzOEdnNzRkM1p0c0dDbHNPSk1aM0dSZzlOMHltYURYMk9qX3I0cDJnaTVwTHU2SnIxMjk3ZWRURHRQMTF6cFZLSk1HdWtSbTJTRmpac3M5cERaMjBEcjhkblJmajV3eXprcTlsZFpmTGpn?oc=5",
+          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
+          "source": "Hitachi Energy",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
           "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - hitachienergy.com"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "project": null,
       "entities": [],
       "facts": [],
@@ -13038,8 +13130,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13174,8 +13266,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13308,8 +13400,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13480,8 +13572,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13641,8 +13733,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13777,8 +13869,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -13920,8 +14012,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14056,8 +14148,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14192,8 +14284,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14328,8 +14420,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14464,8 +14556,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14600,8 +14692,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14736,8 +14828,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -14873,8 +14965,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15009,8 +15101,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15145,8 +15237,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15281,8 +15373,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15417,8 +15509,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15553,8 +15645,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15689,8 +15781,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -15888,8 +15980,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -16988,8 +17080,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -17123,8 +17215,8 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
+      "willResearch": false,
+      "reason": "fresh and sufficiently enriched",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
@@ -17259,7 +17351,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-18T05:57:26.943086+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -17435,7 +17527,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-17T13:30:09.594633+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17454,11 +17546,11 @@ export const signals = [
           "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
         },
         {
-          "title": "Abu Dhabi National Oil Co. eyes stakes in Africa’s largest refinery as it expands beyond the Gulf - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOckhnMW5DbDdJQUFsX0FKS0pNUGttcFg4bExTd1hrNmxqbmhhd3huM0czNkhuRmJRUUptd0FabjdXempicVJzTmZROWd3MG5oZ0d4LVNYV20ya2pRcDRMNzkySFBqUzBHMWJ5X0l1azlsRjVSZ3JNaGtxM2tTb1NQQWd2R3pkcnNDSTZqU19GT1IzVElxdDk2SGRHVlZrWko1OUdUOTh0cEMyczcyRmtBU3hTSEowMloyV0FvQlpWRElqeldKWDA5M2lrS1Fydl9McWc?oc=5",
-          "snippet": "Abu Dhabi National Oil Co. eyes stakes in Africa’s largest refinery as it expands beyond the Gulf Business Insider Africa",
+          "title": "Zimbabwe is restricting raw lithium exports, but a Chinese mining company just got an extra 300,000 tons - Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVoydjBIdURyYno5SXhOZDVHV3FUZFJqNFpRT1pwTWp5NkQ3VmVlUnlCSXh1SjM4NHEwNGt0R1Ytb1ZLNzN1M2ZwajE1Vm5wQ3p4N1JCNDBlT09qblFiOHl4NTgyeGlpdTZLVXc4cWp6czF6RW1kX2JaVlhFVlNPZERxQ21MVERwek1IeXlVNU12bzdqSW0xOW5hRFRxY0VzX2NQQkUzY2lIRHM4eHcya05LTU1tNFExM1VuTEFuYWNVYmNiUkVXLUZQSkZQSks0OGwyWTA3czQ?oc=5",
+          "snippet": "Zimbabwe is restricting raw lithium exports, but a Chinese mining company just got an extra 300,000 tons Business Insider Africa",
           "source": "Business Insider Africa",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
           "query": "Morocco Africa’s largest manufacturing country attracts another Chinese company with an initial $32 million investment - Business Insider Africa"
         }
       ],
@@ -17546,7 +17638,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-17T07:15:24.035931+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -17574,35 +17666,27 @@ export const signals = [
           "query": "\"EIB\" Morocco Wind Investment"
         },
         {
-          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
+          "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
           "source": "Windtech International",
-          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "published": "Mon, 14 Sep 2026 08:29:01 GMT",
           "query": "\"EIB\" Morocco Wind Investment"
         },
         {
-          "title": "Consortium advises for Morocco’s first offshore wind development - Ocean Energy Resources",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNUTnZPdlh5dTRIbTNzSUtKTGNzUXcxMHpjeWtmWlVOaG1tWnFNazZ4SnY2OVZUdW5fRTdKVDF3WlZQOGllUzJQZTR4V2EyU0FfUWVmbEhuR1hoa2hyUlVlMjB0Q2k0TklLSVlJMXlqbmRUR2djTFVKd1pBMGJuaDRSd0FaZGRFbWpUTk5jaTNQemhnalBuaVdxM3pTTFFveTljSXhyZGZwNDNmZGc?oc=5",
-          "snippet": "Consortium advises for Morocco’s first offshore wind development Ocean Energy Resources",
-          "source": "Ocean Energy Resources",
-          "published": "Fri, 11 Sep 2026 13:34:20 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
-          "source": "Morocco World News",
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "The European Investment Bank announces a €365 million transport package for Morocco. - Agenzia Nova",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHF2TklxOTR5azBYNGlmb29qOElTZkhNWXNVbS1lZEFfTUZfenh1ZC0yc2JFVGRQaFVpTUNOazVIVTZjdko0ZEcwWDVnSDB3MXpnU1ppenlXZWd6RXYwVlhGV3dvMVNyS1VaY2ZoVUlyS0t6Y0xJcTBvN3l0ZlUtN0FtTnVHV2VBLVA2OVBVZFpOVF93WDFjeGpoR1RweEo1enNyczU2TnNMRUVFRVdwNjUwY3FTYWx3S1VhMFRXN2xRYmJBdHlB?oc=5",
-          "snippet": "The European Investment Bank announces a €365 million transport package for Morocco. Agenzia Nova",
+          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
           "source": "Agenzia Nova",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - moroccoworldnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm moroccoworldnews.com",
+          "source": "moroccoworldnews.com",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
           "query": "\"EIB\" Morocco Wind Investment"
         },
         {
@@ -17611,23 +17695,23 @@ export const signals = [
           "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
           "source": "HESPRESS English - Morocco News",
           "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
           "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
         },
         {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - offshore-mag.com",
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project offshore-mag.com",
-          "source": "offshore-mag.com",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - offshore-mag.com"
-        },
-        {
-          "title": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira - Puente de Mando",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ta2JRRE9jLWtmTkZBZ0stUzh3SkxNU051LWplVW0wdl9FdElIdDBjXzRVZWN2NUxubDBYMnFVOGdfNTFSZC04U0JfY0wxcW9YM2w1Z3pBV00yd2lsS2NDekFHRVIzNi1xT3lPU3BtOHRFTFRzRUlEelR3?oc=5",
-          "snippet": "Morocco Advances Towards Its First Offshore Wind Farm of Up to 1,000 MW Off the Coast of Essaouira Puente de Mando",
-          "source": "Puente de Mando",
-          "published": "Tue, 15 Sep 2026 07:06:20 GMT",
-          "query": "Morocco offshore wind Essaouira contractor"
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
           "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
@@ -17646,15 +17730,15 @@ export const signals = [
           "query": "site:eib.org Morocco offshore wind"
         },
         {
-          "title": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFFfa2MyWmdzNzZtLWRURkRGdGdyNWlVMlgxN25pdUpvUWRTNGcxN09iaVhhX3E2LURwWm45QVN4QWQwWVRnSC1CRlJRVC1pYWhVTjJsVWUzZGNXaElkYXppRWV0LVhXSjAwMUxJcFNNazJvc1ZYeHFlblFtX0llMTl4QmpiZDU2Q3VpaE9zY2FNT21SUnU1SjVOQjlIbmV6WFVNZ2dSVFVCZ2Ffcm03QVc4dFVTVDg?oc=5",
-          "snippet": "Skyborn reaches Financial Close on the Gennaker offshore wind farm project European Investment Bank",
+          "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
+          "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
           "source": "European Investment Bank",
-          "published": "Fri, 11 Sep 2026 20:50:38 GMT",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
           "query": "site:eib.org Morocco offshore wind"
         }
       ],
-      "sourceCount": 11,
+      "sourceCount": 10,
       "project": "Morocco Offshore Wind Feasibility Study",
       "entities": [
         "EIB"
@@ -17665,9 +17749,8 @@ export const signals = [
           "confidence": "HIGH",
           "sourceIndexes": [
             0,
-            1,
-            2,
             3,
+            5,
             6
           ]
         }
@@ -17745,7 +17828,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-15T18:13:52.616999+00:00",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -17838,11 +17921,11 @@ export const signals = [
       "eligible": true,
       "willResearch": true,
       "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
-      "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T14:05:51.804473+00:00",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -17853,22 +17936,6 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXk5N2dyU3ctalR1ZFNQS0hFZDNKQWNNanJWR2F3RDJJd2VMaUhBUk1IVE16MEZoOFZhUHVMZTUzTGIxNm9PbnVJM0ZqblJRNWZvYlRsTlQ1dWdVNWtBWW9NZHU5b082cmVpX0g0eEJ3cXBpemg0bFlBRTNZVlByUXoxTGQ1T2o2bmo0aUNVeUwwajU3U0p2alluRVVOUUp0SC1weU52UktURU8zWmtPZ19n?oc=5",
-          "snippet": "India, Morocco Eye New Phase of Trade and Investment Cooperation Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
-        },
-        {
-          "title": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUJ1RFUzNFlZVDU0ZjJLTXFaYTA3aUsySjcwcDBTa2llSHBzOU9pcDJCaFlQTTl1RV9vTUphMHV2a2R5anBURlhtRDdnb3M3ckpQZm03MHlvTFlOTVRVLWdUa2tjdERaWG1xdHRhY0Q3V0JFN2lsQ1FFeHJZbXptLWxpclM1Z291QTlPNzZjR1lXc0V3MDJjRlVONW1MTktfa0hrSDJDZ1V4aEFuY1Q1eDIyYTV6RVU0eGVyMmlZVEI1aWM?oc=5",
-          "snippet": "Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
-        },
-        {
           "title": "Indonesia, Morocco see stronger economic ties, trade growth - ANTARA News",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFZTaXFwWkdTRlZ6X3k5MUV3cE9xUmEyQmJ2OElZT1I0eU5TWnlEcXZST2FtLUM1NU9xRjBNUHRIZ21DcFB6a1NjMnBIcE5BRnEtNGFWQTFOc3YwMkNSNGVwZV9RWENhc2djT2pzUzBickFodGYzd2loZG41U01GeFZLTlZ4Szctdk9pbVU1VGpFMnNpQXIxTUpfSdIBoAFBVV95cUxObjVwUWQ1ZHptaThUTy13WXBLa2tYeDY5RmFvd2JEY2RuLXJEOHVFUGYyOWZzT3ZFOXJlS1F5S1RNWjlMdDFITVQyNHVweFhIek12MTlZZEdRdTVfZktPTkFTLTE0b3J6Um10aGVtcGROZ0ZURWtQUkhtaHd5ZlIxMXF0NjBJTmhjTjFvclVnbVVmRktZVlJpZERLSkFCNE1F?oc=5",
           "snippet": "Indonesia, Morocco see stronger economic ties, trade growth ANTARA News",
@@ -17877,27 +17944,27 @@ export const signals = [
           "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
         },
         {
-          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - aninews.in",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement aninews.in",
-          "source": "aninews.in",
-          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "title": "Bangladesh, Morocco eye cooperation in shipbuilding, maritime, manpower sectors - The Bangladesh Monitor",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXozS3RENzR5QjNFRUd3UHlneTRLMXBlU0ZoVzg4Yl9lZXQ2YU5fTkkyaGlLMHVEb2MwcnFzYmlOV3N4cFk5RlA4WGRqYjdpUFlBMFBlam94dlZWVmJEcnJKN3NheFlDNVlMQm9MaFI5ZWhGRDJEaWFod3UxLWJSQjZpMUlrRzJuTXVOY2JIVnZPOGxVV19PV0xURnZkMjY1U203M0hIQXFYaUxYQnpWMHBoSGUyZw?oc=5",
+          "snippet": "Bangladesh, Morocco eye cooperation in shipbuilding, maritime, manpower sectors The Bangladesh Monitor",
+          "source": "The Bangladesh Monitor",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
         }
       ],
-      "sourceCount": 4,
+      "sourceCount": 2,
       "project": null,
       "entities": [],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
-        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "LOW",
       "unresolved": [
-        "Material claims not independently confirmed in public primary sources"
+        "Insufficient public evidence to verify the material claim."
       ]
     }
   },
@@ -17959,11 +18026,11 @@ export const signals = [
       "eligible": true,
       "willResearch": true,
       "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
     "enrichment": {
-      "engineVersion": "5.0-entity-aware-adaptive",
-      "researchedAt": "2026-09-14T14:05:51.804473+00:00",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -17974,10 +18041,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - aninews.in",
+          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - ANI News",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFMxVVZOcUdkZXBDTVhGa3MyQk4tcG5YUHRkY3Y0Q2wzaTd1RnpoMFZDbUhqQWN6T3ZmZnE5STk2Ukp1T1BPMm5wU0h5anUxeVVDMVlTN2RIWjZocnFfUzNZejNxSUV6NGhPUG5LYUZORU1rY0VtLTNadEphUS1OcnVLbUlzSlRGZXU4T05uc0dZVXF1SWxsUFRWemxITUJoc3RObzc0N3hHVVBKeVZySHJJSFo5MWY4UFNmWjM4R3J4NTdFSUE1LUdId0hfR1JzQTNobE8zMzNKN2FHOVFsZFhGVlVxTkJkcGRIa25nd0JJYUM3?oc=5",
-          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement aninews.in",
-          "source": "aninews.in",
+          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement ANI News",
+          "source": "ANI News",
           "published": "Tue, 25 Aug 2026 07:00:00 GMT",
           "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - aninews.in"
         }
@@ -17987,14 +18054,14 @@ export const signals = [
       "entities": [],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal has been enriched according to its assigned research depth; unresolved claims remain explicitly flagged.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
-        "Verify material award/procurement claims against a primary owner or DFI source before treating them as confirmed."
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "LOW",
       "unresolved": [
-        "Material claims not independently confirmed in public primary sources"
+        "Insufficient public evidence to verify the material claim."
       ]
     }
   },
@@ -18031,176 +18098,35 @@ export const signals = [
     "filterReason": "1 event indicator(s); 1 identifiable actor(s); 1 technology indicator(s); strong actor/event/development combination",
     "aiReviewed": false,
     "enrichment": {
-      "researchedAt": "2026-09-13T09:40:45.324272+00:00",
-      "status": "public-evidence",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
       "researchQueries": [
-        "\"Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now\"",
-        "Morocco Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
-        "Morocco Worley BESS",
-        "Morocco pumped storage hydro project contractor",
-        "Morocco STEP pumped hydro tender",
-        "Morocco pumped storage ONEE contractor",
-        "Ifahsa pumped hydropower storage Morocco",
-        "Ifahsa contractor Morocco ONEE",
-        "site:worldbank.org Ifahsa pumped hydropower Morocco",
-        "site:onee.ma Ifahsa STEP Morocco"
+        "\"Worley\" Morocco BESS",
+        "\"Worley\" Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
+        "\"Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now\""
       ],
-      "sources": [
-        {
-          "title": "Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1ZJQVVDR0Y1VE1ZLWhyaEt3SWJVWTM0SGhxaHJzMTd4M2tFR1M1UTh3Z3k3VGFYRDJrVFlzZEQ0Nk5nSG1HbUJmaEZfQ29BbDh2NktqRzJuU3R5YlNkalJuOGg1MDlqN21vb3IyamJLV2FjaHYzbjhFNk1fTkpkOVlVYTY3ZDhKZS1fRm02d1NUdlN2eVpULWpIbkZBSHZwZm1XaEZqRWJHaTg?oc=5",
-          "snippet": "Worley-led team to help advance 1-GW Ontario pumped storage project Renewables Now",
-          "source": "Renewables Now",
-          "published": "Wed, 26 Aug 2026 04:55:51 GMT",
-          "query": "Morocco Worley-led team to help advance 1-GW Ontario pumped storage project - Renewables Now"
-        },
-        {
-          "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - Pumps Africa Magazine",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTM3TnhodEdHSGctYVphekFkVXBvTEs2bEpkY0g5UXE3d2Z6ZWVkelhFR29jalB5V0tlcHZoZGwzbWhZNjQ5ZGx5UFlqU2h1bzV3LXRyU0xmSkJkRm1FN21iSTFuMEVMTTFyX18xRWJmM2dneDAzdjdFaVRtMnNxenN6MGRLb0xMd29WMG9YeHJIMlFBR0VOY2xVYkzSAaQBQVVfeXFMT1o5VC0zelp4V0xHbm0zSEk1M3ZUeG1uaXRvcUszZ3BHVWN6R0RpYkR0WmdqNDhxQVV3dktFWlpRajBVT240NS12TTFUNzdUaS1nT3ZDS1E4SGgxQzBRdF84TGxUdFdYX2x6QjZ6b0R1d2dfeXdfRVJzbGp3elIwYjV4Qk1MRTdrUUN4TTZ2VGRhaDdiX0pOWlNrcmhMYV93UUNoWTU?oc=5",
-          "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
-          "source": "Pumps Africa Magazine",
-          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa contractor Morocco ONEE"
-        },
-        {
-          "title": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW9sTE9SZ2RqN2dlVkdOaTNZbnNYQlFEMWdSUzJFUWk2bnBvaGJHb1pzRW5rOHkxTWRJSGlpdUc4VnlJWnhkMFZjYTZMUGVxNFFsVEJHd3drWEc1NmVPSlpZNzhEVDhYU2g5RkhyS3JZbHlMMV9IQ0VSemkxbU8ycHF3ZGY1UHFPN0ZBb2I1WU1mNHg5VHVBUDZ2aExJN2tPeXRSdFN1VWxxZHNFbnE1ZGRMVnkxNkhSQk9kU1d5ckZHQ0tL?oc=5",
-          "snippet": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan Construction Review",
-          "source": "Construction Review",
-          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "World Bank backs Morocco pumped storage project - International Water Power",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2kxVUdLNVBxM3g5eXZTcEVTbTEtZVBYY3N1LVByT2s4OHlvdkxpbTNMSmJZRWMzU19TTkxUT21XSDFMZEVyY1BiamQ1VldOeWVfLUxBWk9ybV9URzEwRDR4X3VrWGtUTndXdW93Zlg1WXN4bFYzc2ZQak1lMmh1UXNpWUZjT3NTNUN5ay1BeGFsUQ?oc=5",
-          "snippet": "World Bank backs Morocco pumped storage project International Water Power",
-          "source": "International Water Power",
-          "published": "Thu, 02 Jul 2026 15:50:48 GMT",
-          "query": "Morocco pumped storage ONEE contractor"
-        },
-        {
-          "title": "World Bank backs 300 MW pumped-storage hydropower project in Morocco - Enerdata",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3BDWkR5QTB4WklaRXk4T3c5X2s5NV9kSEJXZlVGX3BBSVVrNGgzUG5nSGU5YzNUUkFKdzkzdlhoNnhvYndXa25ZZFM4dnJrUng1Qm04bDNoSE9pdzJLTEQzQWZ1LThURDNsd1NVOGpVOFliQ0lmWlFjeVFUVGJNQ21vZnk3SUQzclNBY3JmVzRlSElhTEFSeVdSWFAyM0c2S0llaFJ5MElKb1ZqSnc2d2ZHVFk0Q0U4bjhqc0ZJSTZLOGVn?oc=5",
-          "snippet": "World Bank backs 300 MW pumped-storage hydropower project in Morocco Enerdata",
-          "source": "Enerdata",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
-        },
-        {
-          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
-          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
-          "source": "Energy News Network",
-          "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
-        },
-        {
-          "title": "Morocco tenders 300MW El-Menzel pumped-storage plant - MEED",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNY3JYU2pJTE93eHMtc21HM3czZ2tCSkM4TFhVX0dFSnRhUWt1eXFjXzlpbS1zb0h5WEFjOW9fNTRBcFlkdlZzaC1JRnpscDU0UlFqRUQwVWQwZ3Eyck81SUsxTFJNOHlBMEJXdW0zTkRObVRLR0FkQ1R0dVRFQQ?oc=5",
-          "snippet": "Morocco tenders 300MW El-Menzel pumped-storage plant MEED",
-          "source": "MEED",
-          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco Shifts to 300MW Ifahsa Project After 108MW Hydro Fails - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFktWUZDS2Vyd0lVMHcyZTVWRzdqYnozTzFpNWJXaU9fUlJkS3FLS3diWlh6OG5lOHJQOVpDelVKSm5sRkcxSTFxdnowSTlQaHUxUGFHYWVDekZLNEZGQTdRUk1zNU9URnltb0tjQXZlbmI3bEt1RGQ5Rk1rdk5yTVlPc3RxZ2xuMlE?oc=5",
-          "snippet": "Morocco Shifts to 300MW Ifahsa Project After 108MW Hydro Fails Construction Review",
-          "source": "Construction Review",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco launches tender for 362 MW El Menzel pumped storage plant - Yabiladi.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWN1WWc4VE9OV0tnVldtcm4xd2xWY0FoclptQk1faFZsdS1HZ1pITW9hR1FJMk9xdkdjNWwwSVBLbmVQclAwMUJoU1oyVVRaWTg5Y1lHbERZck51YkY3S2RWbVRMVDZkS1lUUUpkMng3VmNmdFE5YWI1dDVPdDlpaVdiVGdOUW9yWjBscnhQU3lKbDhm?oc=5",
-          "snippet": "Morocco launches tender for 362 MW El Menzel pumped storage plant Yabiladi.com",
-          "source": "Yabiladi.com",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Morocco STEP pumped hydro tender"
-        },
-        {
-          "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco - ESS News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJRbjA5Q3ktdl9TLS13QVRIN3VWQlN2Sk5mN0RRNTl2RThXdGJrdU1sRWpyWlVNNU5FekZWVVdKcjR6Nkcwd2Q1RmVRNVhjQmJ6OG5Za1BnUVQtTTRhQTBGRV93OFY4QnRQUkRfN19UbHZsb29EVVhoUUM4OWRJakQ1aVJnRVh3a1FPN21GaThhR1NyU1FGTVpTQmVyYno2T0J6Yndn?oc=5",
-          "snippet": "World Bank backs 300 MW pumped hydropower storage plant in Morocco ESS News",
-          "source": "ESS News",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage ONEE contractor"
-        },
-        {
-          "title": "World Bank Approves $265 Million for Morocco’s Ifahsa Hydropower Project - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXdzLVR5ck95aXVsVjFBS2RVblBpYmROWFVsVHBYVWUyWHI5MGE4ZDc3UFlDS3BPcFI4TVBJTkpOY2d5Q0NEYjFKMG1MQzBLS2F5N05BMmRfQ1pMYzEtaV9JTC16VDdMVk0xMEtDMmNraDJDc0FSMUhnWWp2ZjB4WHVxYnUtaFpLbTVLUU9rSzd0WE9Xenl3dzd6RWFRLWVnX0JKVENXRjVZRmE1MzlCX2ZEWVBxVHg5aDFF?oc=5",
-          "snippet": "World Bank Approves $265 Million for Morocco’s Ifahsa Hydropower Project Morocco World News",
-          "source": "Morocco World News",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa contractor Morocco ONEE"
-        },
-        {
-          "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
-          "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
-          "source": "Reuters",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
-        },
-        {
-          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
-          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
-          "source": "World Bank Group",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
-        }
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Worley"
       ],
-      "sourceCount": 14,
-      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
-      "facts": [
-        {
-          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            1,
-            2,
-            7,
-            11
-          ]
-        },
-        {
-          "claim": "Public sources report a 300 MW capacity for Ifahsa.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            4,
-            6,
-            7,
-            10
-          ]
-        },
-        {
-          "claim": "The World Bank approved $265 million of support for the Ifahsa project.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            1,
-            2,
-            11
-          ]
-        }
-      ],
+      "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal concerns a major Moroccan grid-flexibility and renewable-integration asset; the specific construction-award detail remains to be independently confirmed unless a primary procurement source is found.",
-      "fichtnerImplication": "Potential relevance for owner’s engineering, technical advisory, grid integration, procurement support and lender technical advisory, subject to procurement status.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
-        "Track the project as a strategic storage/grid development and identify the awarded party, scope and remaining owner’s-engineer / technical-advisory packages.",
-        "Verify the reported contractor against ONEE / World Bank procurement documentation before treating the award as confirmed."
+        "Track Worley as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     },
     "project": null,
     "researchPriority": 81,
@@ -18231,7 +18157,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -18295,7 +18223,40 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
+      "researchQueries": [
+        "\"Worley\" Morocco BESS",
+        "\"Worley\" Worley-led team to help advance 1-GW Ontario pumped storage project - renewablesnow.com",
+        "\"Worley-led team to help advance 1-GW Ontario pumped storage project - renewablesnow.com\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Worley"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track Worley as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -18355,7 +18316,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -18379,7 +18342,7 @@ export const signals = [
     "actionabilityScore": 43,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development African Energy",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
@@ -18415,7 +18378,133 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 76,
+      "researchQueries": [
+        "\"Morocco: Contractor selected for major pumped hydro storage development - African Energy\"",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy",
+        "Morocco pumped storage hydro project contractor",
+        "Ifahsa pumped hydropower storage Morocco",
+        "site:worldbank.org Ifahsa pumped hydropower Morocco",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy official",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy procurement",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy financing",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy consultant",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy owner"
+      ],
+      "sources": [
+        {
+          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - moroccoworldnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
+          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou moroccoworldnews.com",
+          "source": "moroccoworldnews.com",
+          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW9sTE9SZ2RqN2dlVkdOaTNZbnNYQlFEMWdSUzJFUWk2bnBvaGJHb1pzRW5rOHkxTWRJSGlpdUc4VnlJWnhkMFZjYTZMUGVxNFFsVEJHd3drWEc1NmVPSlpZNzhEVDhYU2g5RkhyS3JZbHlMMV9IQ0VSemkxbU8ycHF3ZGY1UHFPN0ZBb2I1WU1mNHg5VHVBUDZ2aExJN2tPeXRSdFN1VWxxZHNFbnE1ZGRMVnkxNkhSQk9kU1d5ckZHQ0tL?oc=5",
+          "snippet": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
+          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
+          "source": "Energy News Network",
+          "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+          "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
+          "source": "Reuters",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco - ESS News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJRbjA5Q3ktdl9TLS13QVRIN3VWQlN2Sk5mN0RRNTl2RThXdGJrdU1sRWpyWlVNNU5FekZWVVdKcjR6Nkcwd2Q1RmVRNVhjQmJ6OG5Za1BnUVQtTTRhQTBGRV93OFY4QnRQUkRfN19UbHZsb29EVVhoUUM4OWRJakQ1aVJnRVh3a1FPN21GaThhR1NyU1FGTVpTQmVyYno2T0J6Yndn?oc=5",
+          "snippet": "World Bank backs 300 MW pumped hydropower storage plant in Morocco ESS News",
+          "source": "ESS News",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - Pumps Africa Magazine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTM3TnhodEdHSGctYVphekFkVXBvTEs2bEpkY0g5UXE3d2Z6ZWVkelhFR29jalB5V0tlcHZoZGwzbWhZNjQ5ZGx5UFlqU2h1bzV3LXRyU0xmSkJkRm1FN21iSTFuMEVMTTFyX18xRWJmM2dneDAzdjdFaVRtMnNxenN6MGRLb0xMd29WMG9YeHJIMlFBR0VOY2xVYkzSAaQBQVVfeXFMT1o5VC0zelp4V0xHbm0zSEk1M3ZUeG1uaXRvcUszZ3BHVWN6R0RpYkR0WmdqNDhxQVV3dktFWlpRajBVT240NS12TTFUNzdUaS1nT3ZDS1E4SGgxQzBRdF84TGxUdFdYX2x6QjZ6b0R1d2dfeXdfRVJzbGp3elIwYjV4Qk1MRTdrUUN4TTZ2VGRhaDdiX0pOWlNrcmhMYV93UUNoWTU?oc=5",
+          "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
+          "source": "Pumps Africa Magazine",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
+          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
+          "source": "World Bank Group",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
+        },
+        {
+          "title": "World Bank backs 300-MW pumped-storage hydro project in Morocco - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc29rVm5odnpzdFdLSW1RSVVsWmh5ZVg4a19GZzJNa3R5X2JmbG43U1hYN3I2RDNMek1UcWlOTk5oU2RXME43dVY3YXQxZDlQNjRYeko1R19BSjFBVzZod0paMkg5T0k3a3c4T3pqeVdVcHRrR0RqTUhEeGRUWThyVTYtemo3TFF3UFJmeEhnV2ZQME9xeENiNjlTdlM1aXVfbWdoMmFR?oc=5",
+          "snippet": "World Bank backs 300-MW pumped-storage hydro project in Morocco Renewables Now",
+          "source": "Renewables Now",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "query": "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy financing"
+        },
+        {
+          "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
+          "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
+          "source": "African Energy",
+          "published": "Thu, 17 Sep 2026 17:57:05 GMT",
+          "query": "Morocco Morocco: Contractor selected for major pumped hydro storage development - African Energy owner"
+        }
+      ],
+      "sourceCount": 10,
+      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
+      "entities": [],
+      "facts": [
+        {
+          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            2,
+            6
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
     }
   },
   {
@@ -18439,7 +18528,7 @@ export const signals = [
     "actionabilityScore": 43,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "Morocco: Contractor selected for major pumped hydro storage development africa-energy.com",
     "whyItMatters": "Award signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
@@ -18475,7 +18564,125 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 76,
+      "researchQueries": [
+        "\"Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com\"",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com",
+        "Morocco pumped storage hydro project contractor",
+        "Ifahsa pumped hydropower storage Morocco",
+        "site:worldbank.org Ifahsa pumped hydropower Morocco",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com official",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com procurement",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com financing",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com consultant",
+        "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com owner"
+      ],
+      "sources": [
+        {
+          "title": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenMtRjFhYXphdFFzM25FWURkZDYxVDU0aWpCRG5yYzlEbC1ZRHRyUHV5c0VZZkFQZjVoVWozOW9WdHUtem5mTGU4TTRtX1E4TFkyVGVSUzFhTkFOTG1CNEgzUEtJZm8wMzlzNWlwanJXQ2RfcmJsbkd6Ml9MVUNxSjJEMmhXLU9MUUpadXU0RmlWdlRhcWNPbHVWNHVtUEo2YmgtZXRfNXJjX2lhUERWR3ZWZ0FzamhKOW41Si0wUkxlems1LUE?oc=5",
+          "snippet": "362MW El Menzel Pumped-Storage Hydropower Station Construction Tender Launches in Morocco Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - moroccoworldnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
+          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou moroccoworldnews.com",
+          "source": "moroccoworldnews.com",
+          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW9sTE9SZ2RqN2dlVkdOaTNZbnNYQlFEMWdSUzJFUWk2bnBvaGJHb1pzRW5rOHkxTWRJSGlpdUc4VnlJWnhkMFZjYTZMUGVxNFFsVEJHd3drWEc1NmVPSlpZNzhEVDhYU2g5RkhyS3JZbHlMMV9IQ0VSemkxbU8ycHF3ZGY1UHFPN0ZBb2I1WU1mNHg5VHVBUDZ2aExJN2tPeXRSdFN1VWxxZHNFbnE1ZGRMVnkxNkhSQk9kU1d5ckZHQ0tL?oc=5",
+          "snippet": "Morocco’s Ifahsa Pumped Hydropower Storage Project to Receive $265 Million World Bank Loan Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
+          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
+          "source": "Energy News Network",
+          "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank approves Morocco clean energy project after ending climate lending target - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9QckhTN1FXQVNXb2V2eldwSHQzcUl3ZDhseDJydllZVnExcGpCWnFSaUZRZzRBRDR6cGlBWmk1ekFrNVVkcDk4TGZvVjhZcFI5NHpCOUhBcjI0VDBZMzZ5NjB3aEJjX05xcHJzTmpEU1liZ3JickpZdHR6M2lTdzFid2QxV2U5M0EwaC1pT0pUVENzcmdkUG5ndjU3U2R3SHJ4bkhPUU83c3V5bVNpV0Z6R1p4STUzYzVfRDlXWGRUbi1oZGFsLQ?oc=5",
+          "snippet": "World Bank approves Morocco clean energy project after ending climate lending target Reuters",
+          "source": "Reuters",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco - ESS News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJRbjA5Q3ktdl9TLS13QVRIN3VWQlN2Sk5mN0RRNTl2RThXdGJrdU1sRWpyWlVNNU5FekZWVVdKcjR6Nkcwd2Q1RmVRNVhjQmJ6OG5Za1BnUVQtTTRhQTBGRV93OFY4QnRQUkRfN19UbHZsb29EVVhoUUM4OWRJakQ1aVJnRVh3a1FPN21GaThhR1NyU1FGTVpTQmVyYno2T0J6Yndn?oc=5",
+          "snippet": "World Bank backs 300 MW pumped hydropower storage plant in Morocco ESS News",
+          "source": "ESS News",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project - Pumps Africa Magazine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTM3TnhodEdHSGctYVphekFkVXBvTEs2bEpkY0g5UXE3d2Z6ZWVkelhFR29jalB5V0tlcHZoZGwzbWhZNjQ5ZGx5UFlqU2h1bzV3LXRyU0xmSkJkRm1FN21iSTFuMEVMTTFyX18xRWJmM2dneDAzdjdFaVRtMnNxenN6MGRLb0xMd29WMG9YeHJIMlFBR0VOY2xVYkzSAaQBQVVfeXFMT1o5VC0zelp4V0xHbm0zSEk1M3ZUeG1uaXRvcUszZ3BHVWN6R0RpYkR0WmdqNDhxQVV3dktFWlpRajBVT240NS12TTFUNzdUaS1nT3ZDS1E4SGgxQzBRdF84TGxUdFdYX2x6QjZ6b0R1d2dfeXdfRVJzbGp3elIwYjV4Qk1MRTdrUUN4TTZ2VGRhaDdiX0pOWlNrcmhMYV93UUNoWTU?oc=5",
+          "snippet": "World Bank commits US $265M to Ifahsa Pumped Hydropower Storage Project Pumps Africa Magazine",
+          "source": "Pumps Africa Magazine",
+          "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
+          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
+          "source": "World Bank Group",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
+        },
+        {
+          "title": "Morocco: Utility sets out multi-billion dollar renewable procurement plan - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENLeHhXOU9UWEVBT0w1czlCWGF3M3NwS3Q3VUtPVXZsZVZOS1ZnNFg2MHRCc3JyY2xMaFV0endybzFpRFBudVQ2Y2c0bnNERHdEcEJ6RkRXOWd4TlVTMk5JbVE0aDRJUnM2aDEzdmZtY3VveHR3NmQ2UjF0S0ZHX05KZ0tkdlpjSEhkallXQmFHS085a1U5OFE0djR5VkVnQWZtZURQWEc?oc=5",
+          "snippet": "Morocco: Utility sets out multi-billion dollar renewable procurement plan African Energy",
+          "source": "African Energy",
+          "published": "Thu, 17 Sep 2026 17:57:05 GMT",
+          "query": "Morocco Morocco: Contractor selected for major pumped hydro storage development - africa-energy.com official"
+        }
+      ],
+      "sourceCount": 9,
+      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
+      "entities": [],
+      "facts": [
+        {
+          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            2,
+            6
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
     }
   },
   {
@@ -18537,7 +18744,40 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 53,
+      "researchQueries": [
+        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
+        "\"Morocco Offshore Wind Feasibility Study\" contractor",
+        "\"Morocco Offshore Wind Feasibility Study\" tender"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": "Morocco Offshore Wind Feasibility Study",
+      "entities": [
+        "OWC"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -18602,7 +18842,40 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power",
+        "\"AFRY appointed to 191MW Thana Plaun hydropower project in India - International Water Power\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -18667,7 +18940,40 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY appointed to 191MW Thana Plaun hydropower project in India - waterpowermagazine.com",
+        "\"AFRY appointed to 191MW Thana Plaun hydropower project in India - waterpowermagazine.com\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -18691,7 +18997,7 @@ export const signals = [
     "actionabilityScore": 35,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances fundsforNGOs News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -18727,7 +19033,53 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 53,
+      "researchQueries": [
+        "\"Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News\"",
+        "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+      ],
+      "sources": [
+        {
+          "title": "India’s Ramky Eyes $2 Billion Ghana Investment, Including 24 MW Waste-to-Power Plant - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjYwUnowLWFhYTBmRE5tRmJoT01qNEl2WTZXeHZjS2cxZ2RzdnhqY19ZWjd4QS1tSGNMdjIwSEZqaFphUmUtZjZDaklmZFdyaWtzcGlRR0tXLW5pN0FpbkxaV0d0ZEFKT0NLLUNmTndsNFI4all3eS1meEQtV3I0U3Z3WHVCdTVoOHhOazlNVU5UdTJ0ZHQtdTZQcGM2dmdCYURUWjN3UkhhUkZuUGFkQlFINHdKUnNfV2xKb1JpVlo?oc=5",
+          "snippet": "India’s Ramky Eyes $2 Billion Ghana Investment, Including 24 MW Waste-to-Power Plant fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+        },
+        {
+          "title": "BGK and EIF invest €30 million in new Inovo fund under Future Tech Poland programme - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2VqdDZxZzZtWVh1QVBHYWhkN2tjemhnSC1oZm9fQ1FyRjBIaFVlelRFdi1ubHFGMDhYUG9NZ2FjNlFVSHItRmpyUExqa0kzSXZjRlR5NEdJTXgxWU9IZ0dOdzdWQ3hTeWZWSGlPNzFHYi1kRlRibzFteHJkdFdiYkZCdnE4QWZSdkNpdnhMSWhxSUMxUFRDd3Fja3JfUHdLcFk1OEhHNTZBWmFIVzZ3VzcwVmk3X3ppd1JPZzJUOGtUSWM?oc=5",
+          "snippet": "BGK and EIF invest €30 million in new Inovo fund under Future Tech Poland programme fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "query": "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -18779,7 +19131,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -18831,7 +19185,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -18883,7 +19239,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -18940,8 +19298,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 42,
+      "researchQueries": [
+        "\"Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy\"",
+        "Morocco Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-4d44291af31f",
@@ -18993,7 +19381,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19049,7 +19439,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19075,7 +19467,7 @@ export const signals = [
     "actionabilityScore": 59,
     "noveltyScore": 1.0,
     "status": "new",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19105,8 +19497,58 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 67,
+      "researchQueries": [
+        "\"MASEN\" Morocco Market intelligence",
+        "\"MASEN\" Outils informatiques",
+        "\"Outils informatiques\""
+      ],
+      "sources": [
+        {
+          "title": "Morocco: Where Heritage Meets The Horizon - Forbes Africa",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTkwZXVfY01fV2hMd1phMXI4eHNHd0tua2N5Z3l4ZmhXZ0tiV1VocE1WVE9aRTVoN2NqSFByQlVBZlRZZ0R3cER1TjM2MC1GRFBMVE9PcGFMNTB2WF9fTmpQcnpxLXJQNHpMVktPOThnWlFNOEUzd2RRS003QUVpRXpxdXdkN0xfYjhGV1BsTXZNMFd4bndIUnBxMUVYTHFvWkFv?oc=5",
+          "snippet": "Morocco: Where Heritage Meets The Horizon Forbes Africa",
+          "source": "Forbes Africa",
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+          "query": "\"MASEN\" Morocco Market intelligence"
+        },
+        {
+          "title": "Varietal selection in response to climate change: possible solutions could lie in the history of wheat and barley genes - EurekAlert!",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sck12RDAtT3p3X3pxSl9aOEdnSnNVVWFiRmRRUks5b0pNNkdhMktTUmItaUFLQlV5VEF5Y0FQZEo3NjhlSGpueG5UejJFRk9va2hpbUZVQnpXWTFC?oc=5",
+          "snippet": "Varietal selection in response to climate change: possible solutions could lie in the history of wheat and barley genes EurekAlert!",
+          "source": "EurekAlert!",
+          "published": "Fri, 11 Sep 2026 16:58:39 GMT",
+          "query": "\"Outils informatiques\""
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [
+        "MASEN"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-49a9ddd18d30",
@@ -19131,7 +19573,7 @@ export const signals = [
     "actionabilityScore": 31,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19162,8 +19604,59 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 59,
+      "researchQueries": [
+        "\"MASEN\" Morocco Tender / Procurement",
+        "\"MASEN\" Consultations en cours",
+        "\"Consultations en cours\"",
+        "Morocco Consultations en cours"
+      ],
+      "sources": [
+        {
+          "title": "EPO showcases patent intelligence at OECD Blue Sky Forum 2026 - epo.org",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkVIWkQxQm13d0d0Q1h1ak0yTWh4N0J0RnVBckFRMzQyajVneFVfNFpOTU9IVVhBQng1RTFmbGN3SjRUNGFPVjE2NVFzaHNsWERRSWVTZ3hKUlZtTEllZUdjUXJsbEJXRk1yNEpqZTBSQjl6alRkXzIwc3V1cm9VaGpDRWNBQnVfaUhGYldWNUd1TV9mbmVtQnlmM19kZk0?oc=5",
+          "snippet": "EPO showcases patent intelligence at OECD Blue Sky Forum 2026 epo.org",
+          "source": "epo.org",
+          "published": "Thu, 17 Sep 2026 15:43:59 GMT",
+          "query": "\"Consultations en cours\""
+        },
+        {
+          "title": "PATLIB Conference 2026 highlights value of patents and looks to network’s future - epo.org",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0tUZ0JpdElnTUhLZHRGX2JuYUZoSWptRjNUMWQyZE9LNm5Mc19TZ3NwTjZUQXNtblJaZlplS0VyS1FwbW1Bdm1Jek92WVFjVW1EeXhyTzJYQUc2dVBNLThKZFJEQlB0aVAzN3dOTmNFVE15dUYyWnRVMnFBZ1FwWC1pbmxDM2NQdklzM1ZqSE5ZQjkwRUdJLWpXYzBfVUNKTFBhQjViYzNjRjBZWU90bHRmMA?oc=5",
+          "snippet": "PATLIB Conference 2026 highlights value of patents and looks to network’s future epo.org",
+          "source": "epo.org",
+          "published": "Thu, 17 Sep 2026 14:20:17 GMT",
+          "query": "\"Consultations en cours\""
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [
+        "MASEN"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-8c636aa39647",
@@ -19216,8 +19709,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India\"",
+        "Morocco MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-f0d8f032395e",
@@ -19272,8 +19795,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 37,
+      "researchQueries": [
+        "\"Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa\"",
+        "Morocco Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-d052e5b1e1bc",
@@ -19324,7 +19877,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19377,7 +19932,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19429,7 +19986,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19481,7 +20040,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19534,7 +20095,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19558,7 +20121,7 @@ export const signals = [
     "actionabilityScore": 20,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19589,8 +20152,55 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 38,
+      "researchQueries": [
+        "\"New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News\"",
+        "Morocco New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News"
+      ],
+      "sources": [
+        {
+          "title": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
+          "snippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "query": "\"New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News\""
+        },
+        {
+          "title": "New Zealand Space-Tech Venture Outlier Space Raises A$10.36 Million in Pre-Seed Funding - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak5xRHpTUWxlQVFGVTZNdUZQVTdjcnVPZ2xpZ3hDOEFPZnVZY0xGSW5sSV9IYy1scUUtVDAxMUZrYVRaeXpoVEh2U1pGb29wbUtpbnBtQ3IyZnIyZ3BRUDZXcWZIRjNrbmNMalJUUkJfRzVaYXNkT0hZZ09teDNqeVg0UEJhc3JSbGtUQUk0UVh6bHpRbWZNdHdxMUx3MnlxMTZzSzBUTXNnZGVYS3hCYnBaZ3lIcVhyMnJ1YzQ3dlB4OXIyWk9j?oc=5",
+          "snippet": "New Zealand Space-Tech Venture Outlier Space Raises A$10.36 Million in Pre-Seed Funding fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "query": "Morocco New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-2551981422f6",
@@ -19613,7 +20223,7 @@ export const signals = [
     "actionabilityScore": 20,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19643,8 +20253,63 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 30,
+      "researchQueries": [
+        "\"China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News\"",
+        "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+      ],
+      "sources": [
+        {
+          "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
+          "snippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+          "source": "HESPRESS English - Morocco News",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        },
+        {
+          "title": "Morocco textile exports to EU exceed €1 billion in first five months of 2026 - HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRThfMFRKVUtkWjRybms2NkdXTUZCMnJxd3duRkhBWXFEa1V6ajVQRG5VRTRiejJoNmRjZ1REdjdSWkVlNzFCOTZkUFlCUjJVNGJDV2RYVldCbTBIWUVObHJ5NVRWNlVfYWZXaDZTa05VSFdBQWRDZ2Npc2ZCNGhHMUxRMmFyRlpHZmI0TTZ3UGlUSENnR3N4RmdOdEJ0RHBhUjdSVHN1X1ZMY2o5WFRSbGJR?oc=5",
+          "snippet": "Morocco textile exports to EU exceed €1 billion in first five months of 2026 HESPRESS English - Morocco News",
+          "source": "HESPRESS English - Morocco News",
+          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        },
+        {
+          "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
+          "snippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+          "source": "streamlinefeed.co.ke",
+          "published": "Mon, 24 Aug 2026 09:20:31 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        }
+      ],
+      "sourceCount": 3,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-527f1a85cf39",
@@ -19695,7 +20360,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19747,7 +20414,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19771,7 +20440,7 @@ export const signals = [
     "actionabilityScore": 20,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19801,8 +20470,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 30,
+      "researchQueries": [
+        "\"China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke\"",
+        "Morocco China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke"
+      ],
+      "sources": [
+        {
+          "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
+          "snippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+          "source": "streamlinefeed.co.ke",
+          "published": "Mon, 24 Aug 2026 09:20:31 GMT",
+          "query": "Morocco China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-63789c6c5334",
@@ -19825,7 +20533,7 @@ export const signals = [
     "actionabilityScore": 29,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -19856,8 +20564,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com\"",
+        "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com"
+      ],
+      "sources": [
+        {
+          "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
+          "snippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+          "source": "Big News Network.com",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-07c8f6e2716a",
@@ -19908,7 +20655,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -19960,7 +20709,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20016,7 +20767,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20043,7 +20796,7 @@ export const signals = [
     "actionabilityScore": 48,
     "noveltyScore": 0.0,
     "status": "new",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
@@ -20074,8 +20827,61 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 76,
+      "researchQueries": [
+        "\"MASEN\" Morocco Solar PV Tender / Procurement",
+        "\"MASEN\" e-tendering@masen.ma",
+        "\"e-tendering@masen.ma\"",
+        "Morocco e-tendering@masen.ma",
+        "Morocco solar PV project contractor tender ONEE MASEN",
+        "Morocco photovoltaic project award EPC"
+      ],
+      "sources": [
+        {
+          "title": "Shanxi wins EPC contract for 500-MW solar project in Oman - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGxieGxMak5aeHJmcGJPTjhUQUxuRzRsMnZvcGJ3NUphc3QwNnZGUHBwdFRyci1WREsxLXRabk53NFVtNW8yWkVORFBzRlpTTlJIdTY2SmVIdUZuYm95MElfb3BXX2E5dW9rOE5yamNLcGgzRlFMcGIwYTJWalRHNEtVaGZkZXlOOWJaYlVTME5vdEtXZnZyWGRoSG9sQQ?oc=5",
+          "snippet": "Shanxi wins EPC contract for 500-MW solar project in Oman Renewables Now",
+          "source": "Renewables Now",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "query": "Morocco photovoltaic project award EPC"
+        },
+        {
+          "title": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUIzdkNERjZ4dFEzWC1LVkZMc2MwdDhlUTNseXBaM25EMzZqbUVudHhDemlzT3hyaC1MbDlpOVZFRlFTYWtOZVVlVFhGUkhHdUhMcDk1NVFQMThRVmNfU0h6MzRyV3VBcTFXa0RfN3RXT01GXzZ0dkxKYjVJNU1FZFI0eGNDT2N6eVZud2stTzk5NkdCM2ZGdml4Wl9TelNCVjFvVi1faEU?oc=5",
+          "snippet": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News Renewables Now",
+          "source": "Renewables Now",
+          "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+          "query": "Morocco photovoltaic project award EPC"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [
+        "MASEN"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-27cfe14da459",
@@ -20130,7 +20936,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20186,7 +20994,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20238,7 +21048,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20294,7 +21106,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20350,7 +21164,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20406,7 +21222,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20462,7 +21280,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20518,7 +21338,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20574,7 +21396,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20630,7 +21454,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20686,7 +21512,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20743,8 +21571,42 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 59,
+      "researchQueries": [
+        "\"MASEN\" Morocco Tender / Procurement",
+        "\"MASEN\" Consultations et annonces",
+        "\"Consultations et annonces\"",
+        "Morocco Consultations et annonces"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "MASEN"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-c6092006d330",
@@ -20799,7 +21661,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20855,7 +21719,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -20881,7 +21747,7 @@ export const signals = [
     "actionabilityScore": 59,
     "noveltyScore": 1.0,
     "status": "new",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -20911,8 +21777,88 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 67,
+      "researchQueries": [
+        "\"ONEE\" Morocco Market intelligence",
+        "\"ONEE\" Spécifications techniques",
+        "\"Spécifications techniques\""
+      ],
+      "sources": [
+        {
+          "title": "ONEE Launches Geotechnical Studies for New HVDC Corridor - HVDC World",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVyY19iRG5ndmxMdzd4UFBPX0hUcE0yMk9hbXhyWDkzbFpBeC1qNjZQWXFvQWJFa2x4a3hjcVFfVXpFa1FrZ0I5Y3dhR2dIN3JldmJBZEIzeDZvcHAtRFMyNEI1QmZpT2VaNzFVOU1iMDhOY1U4MGtZX2NrMXdUZmJrb0xELU1Da01j?oc=5",
+          "snippet": "ONEE Launches Geotechnical Studies for New HVDC Corridor HVDC World",
+          "source": "HVDC World",
+          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "query": "\"ONEE\" Morocco Market intelligence"
+        },
+        {
+          "title": "Asirlik Gece (Série télévisée 2026) ⭐ 6.6 | Documentaire, Action, Drame - IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qZTd6MkZUeVl5V2tHa0I3cnA4aHh0S2tBZjgzUENzNzJfSnMzVGpRQWFxMW1SOE5ScU51OGNPTHVTMkZQUTBDLTE5eU1xZ2NNS2VwOEhSZw?oc=5",
+          "snippet": "Asirlik Gece (Série télévisée 2026) ⭐ 6.6 | Documentaire, Action, Drame IMDb",
+          "source": "IMDb",
+          "published": "Thu, 23 Jul 2026 20:19:39 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "Grand Theft Auto VI: Un large aperçu (Court-métrage 2026) ⭐ 8.3 | Animation, Court-métrage, Action - IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94VTdfVmh6R1l5M1hOSUl6dTZfUWx6d2g1T2xpS3VaNnJLMFFFc2VRMy03Yksyb2JRaG1EMVVLV0ZxNDhuTXJKeXhyMEJDMWhaUjRv?oc=5",
+          "snippet": "Grand Theft Auto VI: Un large aperçu (Court-métrage 2026) ⭐ 8.3 | Animation, Court-métrage, Action IMDb",
+          "source": "IMDb",
+          "published": "Fri, 28 Aug 2026 10:06:04 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "Le futur drone de surface néerlandais dédié à la lutte anti-sous-marine sera doté d’un sonar fourni par Thales - Zone Militaire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHRVYVRkbXBKN094NlE1dnF0VDhiU1pkTDNRZXhSS0VGSzlSQlZDbGpwLTQwMlNIdkszS2FndURQdHI0TmNoYUpyYWFYNUc1aGFLaW5yNVZWYndUU295WGg4SThudXZROFhQcXFKS0xaOEYxc19DaFFzLUJMc1hSSWlnRVBvc0pXZkZMcXFNU1BYaTZwdE80b3lTbUkyRmxETHlSS216cmJSWGIxTnZZZDk2R1NOcEpCRlBlQUduejNVbUNuczBkdkhkQ1FMNWU3NDlHYjZpTE9nVjZNQUE?oc=5",
+          "snippet": "Le futur drone de surface néerlandais dédié à la lutte anti-sous-marine sera doté d’un sonar fourni par Thales Zone Militaire",
+          "source": "Zone Militaire",
+          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "La caméra DJI Action 4 bradée à 180€ : parfaite pour les vacances, testée sur Mac4Ever ! - Mac4Ever",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemhUdUw4SXlUdFZOdzJYTmprTldrVEJaNlRvVFpoVndrc2pXRjZmMlpjS1V1UXlqcWRYSlpyLWNGR2szYW5YZmVqMzgwbHRRclhDN2l5VVNqV2NLYnBBa0loLW9FWHdyc0RfYWdMQ0JWTVBSLU9meDVsNUZRRzR2MVFzemNNSW5yUlU2TUZDdU5FWEMzZ3ZtOUVGTzRaT2xsNTJmVFM4MTRvZmxvUkFOeHRncWtscF96Z2dSQzFB?oc=5",
+          "snippet": "La caméra DJI Action 4 bradée à 180€ : parfaite pour les vacances, testée sur Mac4Ever ! Mac4Ever",
+          "source": "Mac4Ever",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "query": "\"Spécifications techniques\""
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [
+        "ONEE"
+      ],
+      "facts": [
+        {
+          "claim": "ONEE is identified in public project documentation as the implementing Moroccan utility.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-7f2e3d2f2fa7",
@@ -20967,7 +21913,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21023,7 +21971,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21077,7 +22027,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21133,7 +22085,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21189,7 +22143,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21215,7 +22171,7 @@ export const signals = [
     "actionabilityScore": 59,
     "noveltyScore": 1.0,
     "status": "new",
-    "evidenceLevel": "official source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -21245,8 +22201,88 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 67,
+      "researchQueries": [
+        "\"ONEE\" Morocco Market intelligence",
+        "\"ONEE\" Spécifications techniques",
+        "\"Spécifications techniques\""
+      ],
+      "sources": [
+        {
+          "title": "ONEE Launches Geotechnical Studies for New HVDC Corridor - HVDC World",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVyY19iRG5ndmxMdzd4UFBPX0hUcE0yMk9hbXhyWDkzbFpBeC1qNjZQWXFvQWJFa2x4a3hjcVFfVXpFa1FrZ0I5Y3dhR2dIN3JldmJBZEIzeDZvcHAtRFMyNEI1QmZpT2VaNzFVOU1iMDhOY1U4MGtZX2NrMXdUZmJrb0xELU1Da01j?oc=5",
+          "snippet": "ONEE Launches Geotechnical Studies for New HVDC Corridor HVDC World",
+          "source": "HVDC World",
+          "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "query": "\"ONEE\" Morocco Market intelligence"
+        },
+        {
+          "title": "Asirlik Gece (Série télévisée 2026) ⭐ 6.6 | Documentaire, Action, Drame - IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qZTd6MkZUeVl5V2tHa0I3cnA4aHh0S2tBZjgzUENzNzJfSnMzVGpRQWFxMW1SOE5ScU51OGNPTHVTMkZQUTBDLTE5eU1xZ2NNS2VwOEhSZw?oc=5",
+          "snippet": "Asirlik Gece (Série télévisée 2026) ⭐ 6.6 | Documentaire, Action, Drame IMDb",
+          "source": "IMDb",
+          "published": "Thu, 23 Jul 2026 20:19:39 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "Grand Theft Auto VI: Un large aperçu (Court-métrage 2026) ⭐ 8.3 | Animation, Court-métrage, Action - IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94VTdfVmh6R1l5M1hOSUl6dTZfUWx6d2g1T2xpS3VaNnJLMFFFc2VRMy03Yksyb2JRaG1EMVVLV0ZxNDhuTXJKeXhyMEJDMWhaUjRv?oc=5",
+          "snippet": "Grand Theft Auto VI: Un large aperçu (Court-métrage 2026) ⭐ 8.3 | Animation, Court-métrage, Action IMDb",
+          "source": "IMDb",
+          "published": "Fri, 28 Aug 2026 10:06:04 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "Le futur drone de surface néerlandais dédié à la lutte anti-sous-marine sera doté d’un sonar fourni par Thales - Zone Militaire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHRVYVRkbXBKN094NlE1dnF0VDhiU1pkTDNRZXhSS0VGSzlSQlZDbGpwLTQwMlNIdkszS2FndURQdHI0TmNoYUpyYWFYNUc1aGFLaW5yNVZWYndUU295WGg4SThudXZROFhQcXFKS0xaOEYxc19DaFFzLUJMc1hSSWlnRVBvc0pXZkZMcXFNU1BYaTZwdE80b3lTbUkyRmxETHlSS216cmJSWGIxTnZZZDk2R1NOcEpCRlBlQUduejNVbUNuczBkdkhkQ1FMNWU3NDlHYjZpTE9nVjZNQUE?oc=5",
+          "snippet": "Le futur drone de surface néerlandais dédié à la lutte anti-sous-marine sera doté d’un sonar fourni par Thales Zone Militaire",
+          "source": "Zone Militaire",
+          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+          "query": "\"Spécifications techniques\""
+        },
+        {
+          "title": "La caméra DJI Action 4 bradée à 180€ : parfaite pour les vacances, testée sur Mac4Ever ! - Mac4Ever",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemhUdUw4SXlUdFZOdzJYTmprTldrVEJaNlRvVFpoVndrc2pXRjZmMlpjS1V1UXlqcWRYSlpyLWNGR2szYW5YZmVqMzgwbHRRclhDN2l5VVNqV2NLYnBBa0loLW9FWHdyc0RfYWdMQ0JWTVBSLU9meDVsNUZRRzR2MVFzemNNSW5yUlU2TUZDdU5FWEMzZ3ZtOUVGTzRaT2xsNTJmVFM4MTRvZmxvUkFOeHRncWtscF96Z2dSQzFB?oc=5",
+          "snippet": "La caméra DJI Action 4 bradée à 180€ : parfaite pour les vacances, testée sur Mac4Ever ! Mac4Ever",
+          "source": "Mac4Ever",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "query": "\"Spécifications techniques\""
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [
+        "ONEE"
+      ],
+      "facts": [
+        {
+          "claim": "ONEE is identified in public project documentation as the implementing Moroccan utility.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-f91168e77571",
@@ -21301,7 +22337,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21357,7 +22395,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21411,8 +22451,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 30,
+      "researchQueries": [
+        "\"Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News\"",
+        "Morocco Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-55b1aa1733b9",
@@ -21467,8 +22537,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 39,
+      "researchQueries": [
+        "\"Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment - Africa Sustainability Matters\"",
+        "Morocco Namibia targets $250 million in concessional finance to accelerate green industrialization and attract private investment - Africa Sustainability Matters"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-ded7355ea28e",
@@ -21490,7 +22590,7 @@ export const signals = [
     "relevanceScore": 40,
     "actionabilityScore": 40,
     "status": "new",
-    "evidenceLevel": "news source",
+    "evidenceLevel": "public search evidence",
     "evidenceSnippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows ANI News",
     "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -21521,8 +22621,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 50,
+      "researchQueries": [
+        "\"India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News\"",
+        "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News"
+      ],
+      "sources": [
+        {
+          "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
+          "snippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+          "source": "Big News Network.com",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-fbdd9bbe62b6",
@@ -21569,7 +22708,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21617,7 +22758,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21665,7 +22808,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21713,7 +22858,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21761,7 +22908,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21809,7 +22958,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21857,7 +23008,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21874,7 +23027,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 40,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -21903,8 +23056,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke\"",
+        "Morocco China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke"
+      ],
+      "sources": [
+        {
+          "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
+          "snippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+          "source": "streamlinefeed.co.ke",
+          "published": "Mon, 24 Aug 2026 09:20:31 GMT",
+          "query": "Morocco China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-3ed189c7d0bf",
@@ -21947,7 +23139,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -21992,7 +23186,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22036,7 +23232,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22053,7 +23251,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 46,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22083,8 +23281,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News\"",
+        "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News"
+      ],
+      "sources": [
+        {
+          "title": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVUtUbEdxYktoT2RLdTV4UE4yTXFmWHhMbW5SNHhRRnV2dk5HYU5vM0o4NXVEWEo1dVh2SVl0UGh2cDJkZ01XV2FmRDVpWUpDdUx4WGNJWDRaZHFyWDJBbHBuTVMzaUQwc2xlM2lEWTNmSmJlWmZROWk5TWhVVkw5MzRzZWx3d1Fva3BsQXdUNDhjaElDTnpjcXZUdWdRX1IzWldITFV0RVlXUWxmRzByaFFOajN3NGxRRFZrNGJtQWktNHk5Slp1MS0ydnJrbGpLeVdGTDZzUXJLdHNFQmVPUlFJYTR0aE1rMF9QYzlTOE8?oc=5",
+          "snippet": "India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows Big News Network.com",
+          "source": "Big News Network.com",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco India seeks deeper Japanese investment across sectors, pitches GIFT City as gateway for cross-border capital flows - ANI News"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-64870d166f80",
@@ -22100,7 +23337,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 52,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22130,8 +23367,55 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 18,
+      "researchQueries": [
+        "\"Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News\"",
+        "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+      ],
+      "sources": [
+        {
+          "title": "India’s Ramky Eyes $2 Billion Ghana Investment, Including 24 MW Waste-to-Power Plant - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjYwUnowLWFhYTBmRE5tRmJoT01qNEl2WTZXeHZjS2cxZ2RzdnhqY19ZWjd4QS1tSGNMdjIwSEZqaFphUmUtZjZDaklmZFdyaWtzcGlRR0tXLW5pN0FpbkxaV0d0ZEFKT0NLLUNmTndsNFI4all3eS1meEQtV3I0U3Z3WHVCdTVoOHhOazlNVU5UdTJ0ZHQtdTZQcGM2dmdCYURUWjN3UkhhUkZuUGFkQlFINHdKUnNfV2xKb1JpVlo?oc=5",
+          "snippet": "India’s Ramky Eyes $2 Billion Ghana Investment, Including 24 MW Waste-to-Power Plant fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+        },
+        {
+          "title": "BGK and EIF invest €30 million in new Inovo fund under Future Tech Poland programme - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2VqdDZxZzZtWVh1QVBHYWhkN2tjemhnSC1oZm9fQ1FyRjBIaFVlelRFdi1ubHFGMDhYUG9NZ2FjNlFVSHItRmpyUExqa0kzSXZjRlR5NEdJTXgxWU9IZ0dOdzdWQ3hTeWZWSGlPNzFHYi1kRlRibzFteHJkdFdiYkZCdnE4QWZSdkNpdnhMSWhxSUMxUFRDd3Fja3JfUHdLcFk1OEhHNTZBWmFIVzZ3VzcwVmk3X3ppd1JPZzJUOGtUSWM?oc=5",
+          "snippet": "BGK and EIF invest €30 million in new Inovo fund under Future Tech Poland programme fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+          "query": "Morocco Morocco Tightens Regional Investment Rules as $4.5 Billion Project Pipeline Advances - fundsforNGOs News"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-673024bd6a8c",
@@ -22176,8 +23460,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News\"",
+        "Morocco Morocco-India Trade Hits $4.4 Billion, Both Sides Target $2.6 Billion in Export - Morocco World News"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-49f9174b1350",
@@ -22220,7 +23534,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22237,7 +23553,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 46,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22266,8 +23582,47 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse\"",
+        "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
+      ],
+      "sources": [
+        {
+          "title": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhUaWpSbW14ekdkalVWaGtBdDRDbEpsd0JhV2QzT2pzWW5sZTRqMU0wcjJnMl9GbmlrQ19sdFA3N25qR2hYdDY5ZWZ6Xzdyb0syaXlZN2Nicmh0NnMzdnd0OUdaZU00eVFGVGVPMmdUT3JoY1ZDTmdmNERlQkJra3F0Z3JyNVNnd3hJR3ZKYTJGdVJwX1NXT2x2NFhNZWliejdKcWxrNmpmSGMwdVF0RFZfWmNfSTc2eHdac283SG1tYkN3UWZyOEF1OC1tVjZqcG1zeHBPcm9KejRuQ0ZFQlRvdURhNk5fM3hsaWw0a3RQMTd2YXFRY9IB_gFBVV95cUxQZllYVHkzUVdjLTEyUXA4TXdjaTR6a0JvN2R3bS1hWGowMDlHVFl6SlV1b0JJUTNZSF9NN19wRHNITGV4REEtaWI2Y283RUxxSldhMUp3ZkpzN1NySUNNQ0JFbk9HZ2thb2w1dUxjTjRreGVtMmpqdXJ1M052dmdqMHMxWE5peTJpN191WHk4YzY3VE1OaFE0TlhQNENfVlFzTUhyNllBRVVUSGxHQzVPUGJydFYtNWo4TkkyaUpHSUNZeTR3bWZUQlpPamlURGVvTklsX2xOcHRpN0lIMG5OYUFqVzBlVzNvUXRRZDRnM2dLeUxpakhqRktyUllDdw?oc=5",
+          "snippet": "MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement Devdiscourse",
+          "source": "Devdiscourse",
+          "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+          "query": "Morocco MoS Jitin Prasada's Morocco visit to provide fresh impetus to bilateral trade, investment and business engagement - Devdiscourse"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-7c45a910456e",
@@ -22283,7 +23638,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 40,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22312,8 +23667,63 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News\"",
+        "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+      ],
+      "sources": [
+        {
+          "title": "China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkdYaTVjTDB5SmpVUVpmdDViRjNrd1g2N0IydDdpT05nU0dKZkxwWkFJYUFON0V6Z2hFVGpIcHNLNGdCUFJWeWFJX3dKMF9CQnFlYTVDTE5hWkxpN0dNNVIzVERDSmpueXFyWGE0eFlhWGdBbTJSeEIwMVBLd1p3VE5WRzRUZ2xmNHh0VFJtTnZ1cm9MMnZiUm8xbmtzbGdy?oc=5",
+          "snippet": "China’s Shengtai plans $230 million green textile park in Morocco HESPRESS English - Morocco News",
+          "source": "HESPRESS English - Morocco News",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        },
+        {
+          "title": "Morocco textile exports to EU exceed €1 billion in first five months of 2026 - HESPRESS English - Morocco News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRThfMFRKVUtkWjRybms2NkdXTUZCMnJxd3duRkhBWXFEa1V6ajVQRG5VRTRiejJoNmRjZ1REdjdSWkVlNzFCOTZkUFlCUjJVNGJDV2RYVldCbTBIWUVObHJ5NVRWNlVfYWZXaDZTa05VSFdBQWRDZ2Npc2ZCNGhHMUxRMmFyRlpHZmI0TTZ3UGlUSENnR3N4RmdOdEJ0RHBhUjdSVHN1X1ZMY2o5WFRSbGJR?oc=5",
+          "snippet": "Morocco textile exports to EU exceed €1 billion in first five months of 2026 HESPRESS English - Morocco News",
+          "source": "HESPRESS English - Morocco News",
+          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        },
+        {
+          "title": "China's Shengtai Advances $230 Million Green Textile Park in Morocco - streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEEwZV82UG9Wc1E0azNKT3hLblZodzhuODBhdGJyVlVTalk0RGFLMzVkbHUzcGl4QzFVTTgzdUtGdFNkbWtoUXk3dHlnNnhpSjZmRHFJRWtDcUliV08tRllaN0VfRU92Yk01NTZpSDYzTmRTeDhNVTVGZnZKcWFyMHRIVTgxSm5CWE51X0FwTVdDWGc5X09SVTl1N0NmR3dYLXc?oc=5",
+          "snippet": "China's Shengtai Advances $230 Million Green Textile Park in Morocco streamlinefeed.co.ke",
+          "source": "streamlinefeed.co.ke",
+          "published": "Mon, 24 Aug 2026 09:20:31 GMT",
+          "query": "Morocco China’s Shengtai plans $230 million green textile park in Morocco - HESPRESS English - Morocco News"
+        }
+      ],
+      "sourceCount": 3,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-1c6d1f2201ba",
@@ -22358,8 +23768,38 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "no-public-match",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India\"",
+        "Morocco MoS Jitin Prasada Begins Morocco Visit to Strengthen Trade & Investment Cooperation - KNN India"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-971409834d24",
@@ -22403,7 +23843,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22420,7 +23862,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 40,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22450,8 +23892,55 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 18,
+      "researchQueries": [
+        "\"New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News\"",
+        "Morocco New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News"
+      ],
+      "sources": [
+        {
+          "title": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkdLRXd4cDdFRnF1Mk5ZTTFBUXZnSzJoYlNWMUpiaVRXMUFXOTBNMkIzdmMxV0cxZlprZ2V3al9pc1RYWmQ0ZGxzdTlNNnR5OG5mODl2bzNobTlWUnliM1VIbTVLLTIwY2l6NGFvU2N5S3JvdlI0cjd6cXpqb2VTRlMwaDdQVF9QaC1JQWFZUHBWVWJRWTE5Wl9MbVNGMGkxSEhLWGh6eWFDNENSRWc?oc=5",
+          "snippet": "New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "query": "\"New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News\""
+        },
+        {
+          "title": "New Zealand Space-Tech Venture Outlier Space Raises A$10.36 Million in Pre-Seed Funding - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNak5xRHpTUWxlQVFGVTZNdUZQVTdjcnVPZ2xpZ3hDOEFPZnVZY0xGSW5sSV9IYy1scUUtVDAxMUZrYVRaeXpoVEh2U1pGb29wbUtpbnBtQ3IyZnIyZ3BRUDZXcWZIRjNrbmNMalJUUkJfRzVaYXNkT0hZZ09teDNqeVg0UEJhc3JSbGtUQUk0UVh6bHpRbWZNdHdxMUx3MnlxMTZzSzBUTXNnZGVYS3hCYnBaZ3lIcVhyMnJ1YzQ3dlB4OXIyWk9j?oc=5",
+          "snippet": "New Zealand Space-Tech Venture Outlier Space Raises A$10.36 Million in Pre-Seed Funding fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "query": "Morocco New $299 Million Tire Plant Expands Morocco’s Automotive Supply Chain - fundsforNGOs News"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    },
+    "aiReviewed": false
   },
   {
     "id": "sig-2668dc3deef0",
@@ -22495,7 +23984,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22541,7 +24032,9 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": false,
-      "engineVersion": "5.0-entity-aware-adaptive"
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     }
   },
   {
@@ -22558,7 +24051,7 @@ export const signals = [
     "competitor": null,
     "relevanceScore": 46,
     "status": "new",
-    "evidenceLevel": "source link",
+    "evidenceLevel": "public search evidence",
     "fichtnerRelevance": "WATCH",
     "entities": [],
     "project": null,
@@ -22587,56 +24080,54 @@ export const signals = [
     },
     "researchEligibility": {
       "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
-  },
-  {
-    "id": "sig-72af76a6ef9c",
-    "title": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure - Hitachi Energy",
-    "summary": "Hitachi Energy invests $300 million in China to bolster global manufacturing capacity for critical grid infrastructure Hitachi Energy",
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZkJ1S2VIS1QyZnU2cEhwSGJRdm1VbmlJVzUzOTBZNVROTjlOb2I4dk9jTTBhajljT2NDYTlZaUpTS3J0VkpKd1U2OV9HX0hsMmlkS3E0d1RDYmNYU1BhSzlaaFRJRVFwWXNkMS1UUjFFRnoydWZUTUc4bWtDZXhESXRia2dNZDg0MWtESENzWkw1c25tNTBOc0h3SGlsQjJwTnE2V1VLQ0ZGT3g5Wjd0Qjd2R0NZTjYzVnZHb3hVX3A3Q3JCZmhhUGlLU3l1ZFFMWExXQklWcnVxN3hJdzNCWldicEQwQXpyd1Q0LURZdDdhckszdl9OM1pRTzFvWmd2b2k4LTNOOVhuNzIxZ2tmdWhnSTQ?oc=5",
-    "source": "Google News",
-    "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-    "detected": "2026-08-25T17:27:14.288215+00:00",
-    "categories": [
-      "Grid",
-      "Investment",
-      "Manufacturing"
-    ],
-    "competitor": null,
-    "relevanceScore": 40,
-    "status": "new",
-    "evidenceLevel": "source link",
-    "fichtnerRelevance": "WATCH",
-    "entities": [],
-    "project": null,
-    "researchPriority": 10,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
     },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T15:16:08.320991+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 10,
+      "researchQueries": [
+        "\"India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News\"",
+        "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+      ],
+      "sources": [
+        {
+          "title": "Indonesia, Morocco see stronger economic ties, trade growth - ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFZTaXFwWkdTRlZ6X3k5MUV3cE9xUmEyQmJ2OElZT1I0eU5TWnlEcXZST2FtLUM1NU9xRjBNUHRIZ21DcFB6a1NjMnBIcE5BRnEtNGFWQTFOc3YwMkNSNGVwZV9RWENhc2djT2pzUzBickFodGYzd2loZG41U01GeFZLTlZ4Szctdk9pbVU1VGpFMnNpQXIxTUpfSdIBoAFBVV95cUxObjVwUWQ1ZHptaThUTy13WXBLa2tYeDY5RmFvd2JEY2RuLXJEOHVFUGYyOWZzT3ZFOXJlS1F5S1RNWjlMdDFITVQyNHVweFhIek12MTlZZEdRdTVfZktPTkFTLTE0b3J6Um10aGVtcGROZ0ZURWtQUkhtaHd5ZlIxMXF0NjBJTmhjTjFvclVnbVVmRktZVlJpZERLSkFCNE1F?oc=5",
+          "snippet": "Indonesia, Morocco see stronger economic ties, trade growth ANTARA News",
+          "source": "ANTARA News",
+          "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        },
+        {
+          "title": "Bangladesh, Morocco eye cooperation in shipbuilding, maritime, manpower sectors - The Bangladesh Monitor",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXozS3RENzR5QjNFRUd3UHlneTRLMXBlU0ZoVzg4Yl9lZXQ2YU5fTkkyaGlLMHVEb2MwcnFzYmlOV3N4cFk5RlA4WGRqYjdpUFlBMFBlam94dlZWVmJEcnJKN3NheFlDNVlMQm9MaFI5ZWhGRDJEaWFod3UxLWJSQjZpMUlrRzJuTXVOY2JIVnZPOGxVV19PV0xURnZkMjY1U203M0hIQXFYaUxYQnpWMHBoSGUyZw?oc=5",
+          "snippet": "Bangladesh, Morocco eye cooperation in shipbuilding, maritime, manpower sectors The Bangladesh Monitor",
+          "source": "The Bangladesh Monitor",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "query": "Morocco India, Morocco Eye New Phase of Trade and Investment Cooperation - Morocco World News"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     },
-    "researchEligibility": {
-      "eligible": true,
-      "engineVersion": "5.0-entity-aware-adaptive"
-    }
+    "aiReviewed": false
   }
 ];

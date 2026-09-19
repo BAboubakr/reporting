@@ -185,8 +185,39 @@ def novelty(title,existing_titles):
 def dedupe_key(title,link):return hashlib.sha1((normalize(title)+'|'+link.split('?')[0]).encode()).hexdigest()[:12]
 
 def seed_signal(seed,now):
+    is_competitor=bool(seed.get('competitor'))
+    is_market_entry=seed.get('signalType')=='market entry'
+    reasons=[]
+    if is_competitor: reasons.append('competitor detected')
+    if is_market_entry: reasons.append('competitor market entry')
+    reasons.extend(['Morocco context','consulting potential'] if seed.get('signalType') in ('market entry','tender') else ['Morocco context'])
+    triggers={
+        'fichtner':False,'moroccoContext':True,'competitor':is_competitor,
+        'competitorMove':is_market_entry,'marketEntry':is_market_entry,
+        'tender':seed.get('signalType')=='tender','award':False,'dfi':False,
+        'dfiDecision':False,'majorProject':seed.get('signalType') in ('tender','project milestone'),
+        'consultingPotential':True
+    }
     return {
-        'id':seed['id'],'title':seed['title'],'headline':seed['title'],'summary':seed['summary'],'url':seed['url'],'source':seed['source'],'sourceType':'official','published':seed['published'],'detected':now,'categories':seed['categories'],'signalType':seed['signalType'],'projectStage':seed['projectStage'],'entities':seed['entities'],'competitor':seed['competitor'],'relevanceScore':98,'actionabilityScore':98,'noveltyScore':1.0,'status':'new','evidenceLevel':'official source','evidenceSnippet':seed['summary'][:280],'whyItMatters':'Strategic market-entry signal: RINA has established a Moroccan engineering/consulting entity with explicit energy-transition and green-hydrogen scope.','fichtnerRelevance':'HIGH','qualityScore':98,'filterDecision':'KEEP','filterConfidence':0.99,'filterReason':'Deterministic strategic seed: named competitor market entry in Morocco','aiReviewed':False,'project':None,'researchPriority':95,'researchLevel':'L3','researchLevelName':'Strategic','researchPriorityReasons':['competitor detected','competitor market entry','Morocco context','consulting potential'],'researchTriggers':{'fichtner':False,'moroccoContext':True,'competitor':True,'competitorMove':True,'marketEntry':True,'tender':False,'award':False,'dfi':False,'dfiDecision':False,'majorProject':False,'consultingPotential':True},'researchBudget':{'maxQueries':11,'maxSources':14},'researchEligibility':{'eligible':True,'willResearch':True,'reason':'strategic market-entry seed','engineVersion':'5.1-entity-aware-adaptive-market-entry'}}
+        'id':seed['id'],'title':seed['title'],'headline':seed['title'],'summary':seed['summary'],
+        'url':seed['url'],'source':seed['source'],'sourceType':seed.get('sourceType','news'),
+        'published':seed['published'],'detected':now,'categories':seed['categories'],
+        'signalType':seed['signalType'],'projectStage':seed['projectStage'],
+        'entities':seed['entities'],'competitor':seed.get('competitor'),
+        'relevanceScore':98,'actionabilityScore':98,'noveltyScore':1.0,'status':'new',
+        'evidenceLevel':seed.get('evidenceLevel','public source'),'evidenceSnippet':seed['summary'][:280],
+        'whyItMatters':seed.get('whyItMatters','High-value Morocco renewable-energy development signal requiring monitoring and follow-up.'),
+        'fichtnerRelevance':seed.get('fichtnerRelevance','HIGH'),'qualityScore':98,
+        'filterDecision':'KEEP','filterConfidence':0.99,
+        'filterReason':seed.get('filterReason','Deterministic strategic seed: high-value Morocco renewable-energy signal'),
+        'aiReviewed':False,'project':seed.get('project'),
+        'researchPriority':seed.get('researchPriority',95),'researchLevel':seed.get('researchLevel','L3'),
+        'researchLevelName':seed.get('researchLevelName','Strategic'),
+        'researchPriorityReasons':reasons,'researchTriggers':triggers,
+        'researchBudget':{'maxQueries':11,'maxSources':14},
+        'researchEligibility':{'eligible':True,'willResearch':True,
+            'reason':'strategic deterministic seed','engineVersion':'5.1-entity-aware-adaptive-market-entry'}
+    }
 
 def main():
     rows=[]

@@ -1,7 +1,7 @@
 {
   "status": "failed",
-  "lastRun": "2026-09-19T21:46:57.873138+00:00",
-  "completedAt": "2026-09-19T21:46:57.873138+00:00",
+  "lastRun": "2026-09-19T23:10:55.014802+00:00",
+  "completedAt": "2026-09-19T23:10:55.014802+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,
@@ -10,7 +10,7 @@
   "rawRecords": 358,
   "newSignals": 0,
   "totalSignals": 250,
-  "archivedSignals": 360,
+  "archivedSignals": 361,
   "reviewQueue": 108,
   "competitorSignals": 15,
   "aiFilterEnabled": false,
@@ -19,9 +19,9 @@
   "enrichmentMode": "adaptive L0-L4 public-evidence research + first-class LinkedIn discovery",
   "enrichmentRun": "success",
   "researchLevels": {
-    "0": 41,
+    "0": 40,
     "1": 94,
-    "2": 96,
+    "2": 97,
     "3": 19,
     "4": 0
   },

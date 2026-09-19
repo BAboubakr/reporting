@@ -69,6 +69,19 @@ NOISE=['nouvel utilisateur','créer un compte','se connecter','connexion','menu'
 # disappearing because a news search, dedupe pass, or smart filter misses it.
 STRATEGIC_SEEDS = [
     {
+        'id':'sig-masen-solar-measurement-12-sites-20260918',
+        'title':'MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques',
+        'url':'https://lematin.ma/economie/masen-relance-sa-campagne-de-mesure-solaire-sur-douze-sites/365724',
+        'source':'Le Matin',
+        'published':'2026-09-18T10:42:00+01:00',
+        'summary':'MASEN is relaunching a solar-resource measurement campaign covering twelve sites in Morocco for future photovoltaic plants. An expert will be recruited through a tender; the campaign is planned in two phases of six sites, with six solar meteorological stations and 24 months of measurement per site. MASEN tender reference 14/Masen/2026 has a submission deadline of 1 October 2026 at 16:00.',
+        'categories':['Solar PV','Procurement','Project development'],
+        'signalType':'tender',
+        'projectStage':'tender',
+        'entities':['MASEN','Morocco'],
+        'competitor':null
+    },
+    {
         'id':'sig-rina-morocco-market-entry-20260901',
         'title':'RINA strengthens its presence in Africa with the launch of RINA Morocco',
         'url':'https://www.rina.org/en/media/news/2026/09/02/rina-morocco',

@@ -43,7 +43,8 @@ function loadAtlasOverview() {
   const root = document.getElementById('overview');
   if (!root) return;
   try {
-    const merged = rawSignals.map(s => enrichments[s.id] && !s.enrichment ? {...s, enrichment: enrichments[s.id]} : s);\n    const all = cleanOverviewSignals(cleanSignals(merged));
+    const merged = rawSignals.map(s => enrichments[s.id] && !s.enrichment ? {...s, enrichment: enrichments[s.id]} : s);
+    const all = cleanOverviewSignals(cleanSignals(merged));
     const events = Array.isArray(window.eventData) ? window.eventData : [];
     const high = all.filter(s => s.fichtnerRelevance === 'HIGH' || Number(s.actionabilityScore) >= 75);
     const actionable = all.filter(s => Number(s.actionabilityScore) >= 60);

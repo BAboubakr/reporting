@@ -8,7 +8,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "official",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -69,7 +69,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -95,6 +95,14 @@ export const signals = [
           "source": "Hydrogen Fuel News",
           "published": "Sat, 12 Sep 2026 13:11:06 GMT",
           "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
+        },
+        {
+          "title": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project - Hydrogen Insight",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbklnaXoya2tWbjE4eTZkZEg4ZTN2YVVWMGdXcnQwOVQ4QVlLVG8wVDNyUVo4R0ppbjFpT0JxQmVPYWNaeDhsbDlzang1Z3F2VUUtVHUtZ2cwQVROUFhxTjFWR2lTcEVCYVZ0VXVoTFpmekVUclF5SXdVVFYtNF8wQkxTbFNXZllaRm5oNWVNREtyMjRSOG00dTF2Qm1IZzktZS11ZU1ISkhuRzQtdVlQVGZQY0ZuVjFwYW1xMnI2UE1yR1J1NlBWSkxXbTd5bXU2WTVCNnp5UXdoN1o3ZHBGUQ?oc=5",
+          "snippet": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project Hydrogen Insight",
+          "source": "Hydrogen Insight",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -169,10 +177,10 @@ export const signals = [
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
         {
-          "title": "Morocco builds pumped storage to hold its solar and wind output - energy-news-network.com",
+          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
-          "snippet": "Morocco builds pumped storage to hold its solar and wind output energy-news-network.com",
-          "source": "energy-news-network.com",
+          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
+          "source": "Energy News Network",
           "published": "Thu, 23 Jul 2026 07:00:00 GMT",
           "query": "Ifahsa pumped hydropower storage Morocco"
         },
@@ -191,14 +199,6 @@ export const signals = [
           "source": "Pumps Africa Magazine",
           "published": "Mon, 06 Jul 2026 07:00:00 GMT",
           "query": "Ifahsa pumped hydropower storage Morocco"
-        },
-        {
-          "title": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower - World Bank Group",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWlQQTl4dXZIbGNnMjdiYWliOGE4bDZ0LXM4MG1zSlh2OVMydXljcHlRRndkNVJ2Mk5KMzFCSWkzeDBzRm5JSTQ4ZDJJY2F6anJCTkZFT1Z1c0k0TFdidmdvd3dPQ1Q2WEIwWTFmWTlsNDJlR1RaaVBZb0d2cTh2TTFIbVhMcUNwUmtlRUJfVExlVURhNi1SbGdKTnNyM2RIVjVpTTQ5c2FoSUlwU1pRQ0RjeWhFSjNiSkV6TlBRWWlBU2JzWWdBd1pBenVlY0dPd2k5aGZwSzNKSkNZZ2c?oc=5",
-          "snippet": "World Bank Group and Morocco Partner to Unlock the Power of Next-Generation Hydropower World Bank Group",
-          "source": "World Bank Group",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "query": "site:worldbank.org Ifahsa pumped hydropower Morocco"
         }
       ],
       "sourceCount": 14,
@@ -219,7 +219,7 @@ export const signals = [
           "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
           "confidence": "HIGH",
           "sourceIndexes": [
-            12
+            13
           ]
         }
       ],
@@ -244,7 +244,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-18T11:51:33+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Solar PV",
       "Investment",
@@ -302,7 +302,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -355,7 +355,7 @@ export const signals = [
     "source": "African Development Bank Group",
     "sourceType": "news",
     "published": "2026-09-18T14:20:33+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -413,7 +413,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -433,19 +433,11 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group",
+          "title": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - afdb.org",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS0ZCTno4N3oyVlVPRGdrQm9keFBsTWpERmlPMkYyTzJUNDduT3ZZd2FKMzhRRDFTQVhmMHRmOVp4T0NDdHl4V2ZFbnN0QzBsSUliZ2x6c0FXY1kydTRBSkhmWl9NWFNNaTFHTGowSHBjWVNQaTFRYlJyMDFvQjBqcVg4amFxaTZGLXpUbFExUWR2aDJBcFhnUG8xUVB3TlhpbU9tdVFrcGd3TGxIT1pYR0hoLXFDeHJFdFRpdjF4blJ5SUh6bUhNaHBBUTRvM0FBNmdQTVFjdDFkdVlPYXRndkZLTi1va0pTR1RUa3hzM1c0WU56QmVnU0RtQjM3WmhfV1FYUEFOQ1dYeXdtNkJlNA?oc=5",
-          "snippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million African Development Bank Group",
-          "source": "African Development Bank Group",
+          "snippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million afdb.org",
+          "source": "afdb.org",
           "published": "Fri, 18 Sep 2026 14:20:33 GMT",
-          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
-        },
-        {
-          "title": "Green hydrogen in Southern Africa: A reality check as conference season returns - Cliffe Dekker Hofmeyr",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVU5TUEVXY0lPQ0NlN1lCUlZWSFFaOG1HZFI2QWRZWHk2OGYwWWlqVWhMRmt3QjZrYm1QNWRhd0hDYkV3d05tNnFsNHNJS2FGWWpBaXZfNGJHQjYweTk3VXhEeVlBa2hGNVZpdGNfVkxmTmdKeHdCVk5waDBDTWlSc0NycEo0OXN6blZPQkZSOUJtYURuWEZoeVBMTFBEZ2RlRWw2SDFMeGdkX280eV9VT0dEZXk4MFZGdGQ3OE4xMmQ4V2psZ2JPT2F0Y1ljUm5nSnZiMkRQSU5HeVJISHN6UmRaemZXUFQzeUtVRmFsLUFtNjU4Uzc3MkxqM09vN1R4bjBFVDJhajUyMFJBVF9sVDRoMFF2MWx1NlRNUlB5S3VGZWdEYmtrTlFLS0llS19wamV0MXJabm5zZE1QcEZWUkZPd1pDQ29keXd4Ynh5aVFKc2Jncnc?oc=5",
-          "snippet": "Green hydrogen in Southern Africa: A reality check as conference season returns Cliffe Dekker Hofmeyr",
-          "source": "Cliffe Dekker Hofmeyr",
-          "published": "Mon, 14 Sep 2026 13:37:19 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
@@ -457,19 +449,27 @@ export const signals = [
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
-          "title": "Mukendwa highlights green economy platforms as key to attracting investment - Namibia Economist",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1FkZTdLTzlKZ0Q0SUZ4ZmFQY2JaSUlJczBvTGZwQXlCOVlnR0h4dF95N2FfMDY5UU9LZTA1RlZuNUl4a0tXRFpDZ1lXYmRMWFZzNlRnTjVPN010aHR6ZkZmaW9XZ0RwNnBqX2VBX0p2ekJneFlhSmVoS0x2bzJ6dWdXQ1BEbm9KODhJbGdValE4R3VGaFRLQnZlV1RJQWhIeENN?oc=5",
-          "snippet": "Mukendwa highlights green economy platforms as key to attracting investment Namibia Economist",
-          "source": "Namibia Economist",
-          "published": "Tue, 15 Sep 2026 14:24:41 GMT",
+          "title": "“Greening” the Maghreb or Exploiting It? - carnegieendowment.org",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFVLNXUxMXRrbmpuWVppWXJJaXRTVGYxUURmaG90VzhvRWdpLXJCQTZpWUs2YzgtNFd0RGRRd01FbVpqQUN1MWt4TUJVWnozdl93WlRPY003cGJxUEJHU0lkRkdnRDRPMHpzQjlTTEl2YWJiQmVMU2hrVVNZdHVtdlk5dXdxT3dSc1hDVkdCU1haMFFqWmdLTmpOdjA?oc=5",
+          "snippet": "“Greening” the Maghreb or Exploiting It? carnegieendowment.org",
+          "source": "carnegieendowment.org",
+          "published": "Tue, 14 Apr 2026 07:00:00 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
-          "title": "Agritech Startup Khula Backed by PepsiCo’s Kgodiso Fund - Tech In Africa",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUVzWWU4eVhucFRrR05lYkVzTE5KTEhoeldxM1dOSG5Oa3lpcHhfVmFEbjNTY3NoVTVyTHpRMk5iLS1lVUVmc05Pb2tzY0E5TkxLUTNwNEU2WVlWRW56aVdfd2ZhZXNfQlpjdi1zUTdzVjFxMktmS0VKU3dxRTdCYVBfUEdzMnVR?oc=5",
-          "snippet": "Agritech Startup Khula Backed by PepsiCo’s Kgodiso Fund Tech In Africa",
-          "source": "Tech In Africa",
-          "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+          "title": "Tunisia: From Heavy Fuel Oil to Natural Gas — The STEG Project Powers Energy and Industrial Transition in Northwestern Tunisia - afdb.org",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGJ3WEtHamNwSHVsVFpzcm5OanhjVXRiRWhrUWdDMWF1czBmVlVBb3RqdVVwV1Z0QXdPaElRNG1yVTVQblhDT1VESnJ5eDdsNndzTmZnYzZhMHJpU3VGMkxLVmNIUVd3VG1yQllpa2NPSjJ1NjJHcXYxMlRqanY0ek9xMXg3Zll3LW9EelhFenRaNEcxYTJRMVZoNWppV2FoZ1lhSFlIM2N1RWs1Z2YxRGFHMXZLWnhrYkV2b1ZXVVpjaEFWVHI4dktlVHlQd1o2SlQtMEJ5ZXJ2aTNVMmp6YzE0VVhwVTdWU1E?oc=5",
+          "snippet": "Tunisia: From Heavy Fuel Oil to Natural Gas — The STEG Project Powers Energy and Industrial Transition in Northwestern Tunisia afdb.org",
+          "source": "afdb.org",
+          "published": "Tue, 29 Jul 2025 07:00:00 GMT",
+          "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "The European Green Deal and the African Private Sector - APRI – Africa Policy Research Institute",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdy1OdDEtS0Y0bFpyOGJ5QWtycmFKZDk3N3RXel83ZlhNYVF1Qk1GelFxRWgxOUl6Y0J5VVdBWGZIS3MxWEx0NTZWeWdEUmgxU1hkenRCdXBlNm9TeEF3Vl9JRmYzaWZfVmVROHg0M084aUlaZm1leUtSQkptR1VWOQ?oc=5",
+          "snippet": "The European Green Deal and the African Private Sector APRI – Africa Policy Research Institute",
+          "source": "APRI – Africa Policy Research Institute",
+          "published": "Thu, 23 Feb 2023 08:00:00 GMT",
           "query": "\"African Development Bank\" African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
         },
         {
@@ -479,6 +479,22 @@ export const signals = [
           "source": "Cliffe Dekker Hofmeyr",
           "published": "Mon, 14 Sep 2026 13:37:19 GMT",
           "query": "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "Mukendwa highlights green economy platforms as key to attracting investment - Namibia Economist",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1FkZTdLTzlKZ0Q0SUZ4ZmFQY2JaSUlJczBvTGZwQXlCOVlnR0h4dF95N2FfMDY5UU9LZTA1RlZuNUl4a0tXRFpDZ1lXYmRMWFZzNlRnTjVPN010aHR6ZkZmaW9XZ0RwNnBqX2VBX0p2ekJneFlhSmVoS0x2bzJ6dWdXQ1BEbm9KODhJbGdValE4R3VGaFRLQnZlV1RJQWhIeENN?oc=5",
+          "snippet": "Mukendwa highlights green economy platforms as key to attracting investment Namibia Economist",
+          "source": "Namibia Economist",
+          "published": "Tue, 15 Sep 2026 14:24:41 GMT",
+          "query": "Morocco African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - African Development Bank Group"
+        },
+        {
+          "title": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project - Hydrogen Insight",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbklnaXoya2tWbjE4eTZkZEg4ZTN2YVVWMGdXcnQwOVQ4QVlLVG8wVDNyUVo4R0ppbjFpT0JxQmVPYWNaeDhsbDlzang1Z3F2VUUtVHUtZ2cwQVROUFhxTjFWR2lTcEVCYVZ0VXVoTFpmekVUclF5SXdVVFYtNF8wQkxTbFNXZllaRm5oNWVNREtyMjRSOG00dTF2Qm1IZzktZS11ZU1ISkhuRzQtdVlQVGZQY0ZuVjFwYW1xMnI2UE1yR1J1NlBWSkxXbTd5bXU2WTVCNnp5UXdoN1o3ZHBGUQ?oc=5",
+          "snippet": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project Hydrogen Insight",
+          "source": "Hydrogen Insight",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -527,22 +543,6 @@ export const signals = [
           "source": "Construction Review",
           "published": "Mon, 13 Jul 2026 07:00:00 GMT",
           "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFmUG8yNnFDdGJibTJHZjFKWWh1MkZTRHdpaTB2WkNqSTRYRGZVdHhxODk3MlVhdzJBVFZGWTd1cGhrRWI5aU1YRWQzQ2pJWW9NN3RyUXhJWUs5V2xZbHl2MG1qVEZ3NDB3V3N4WW5DSFlySU9aZUZ1UlZsNGMxQ2NpM3dYdElsV1BvM1g2cF9ldV94ei1MRVBUZTg2cHRRUWxRSHZTX0tpTXRweWFoNkNqLUlBOE0?oc=5",
-          "snippet": "Morocco Launches Tender for 362 MW Pumped-Storage Plant Near Sefrou Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "World Bank backs 300 MW pumped-storage hydropower project in Morocco - Enerdata",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3BDWkR5QTB4WklaRXk4T3c5X2s5NV9kSEJXZlVGX3BBSVVrNGgzUG5nSGU5YzNUUkFKdzkzdlhoNnhvYndXa25ZZFM4dnJrUng1Qm04bDNoSE9pdzJLTEQzQWZ1LThURDNsd1NVOGpVOFliQ0lmWlFjeVFUVGJNQ21vZnk3SUQzclNBY3JmVzRlSElhTEFSeVdSWFAyM0c2S0llaFJ5MElKb1ZqSnc2d2ZHVFk0Q0U4bjhqc0ZJSTZLOGVn?oc=5",
-          "snippet": "World Bank backs 300 MW pumped-storage hydropower project in Morocco Enerdata",
-          "source": "Enerdata",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
         }
       ],
       "sourceCount": 14,
@@ -572,7 +572,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -630,7 +630,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -650,11 +650,11 @@ export const signals = [
           "query": "\"Top 10 Renewable Energy Projects in Africa 2026: Solar, Wind and Storage Investments - GreentechLead\""
         },
         {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
+          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
+          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
+          "source": "Energy Global",
+          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
           "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
@@ -674,11 +674,11 @@ export const signals = [
           "query": "Morocco offshore wind MASEN EIB feasibility"
         },
         {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "title": "EIB backs feasibility study for Morocco’s first offshore wind farm - en.hespress.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWswZ0tFdEl6RFlXTDlXS21EZFFNZmFGU3YwZFVsLUg2TnB4cFNuSUlmYkF0M3FWdU5wNDBfQTg4ekF4MmFJVUlERHUxbl9WRWUxUDJySmhPNjVXQjZNTE1WbG81YXlJeHF1NURKZmRnYjNtTk9maVc4OGsxaGxNOEV4NWJ5TUhIN0RVcHBhMHZzeFYxdXlVa2tVVm14S2VyZks0?oc=5",
+          "snippet": "EIB backs feasibility study for Morocco’s first offshore wind farm en.hespress.com",
+          "source": "en.hespress.com",
+          "published": "Sat, 05 Sep 2026 07:00:00 GMT",
           "query": "Morocco offshore wind MASEN EIB feasibility"
         }
       ],
@@ -715,8 +715,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.779999+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424431+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -779,8 +779,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780001+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424432+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -843,8 +843,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780002+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424434+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -901,7 +901,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -939,8 +939,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780009+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424439+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Solar PV"
     ],
@@ -1003,8 +1003,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780010+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424440+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1067,8 +1067,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780012+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424442+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1131,8 +1131,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780015+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424444+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1195,8 +1195,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780016+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424445+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1259,8 +1259,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780018+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424447+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1323,8 +1323,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780019+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424448+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1387,8 +1387,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780021+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424449+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1451,8 +1451,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780022+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424451+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1509,7 +1509,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1547,8 +1547,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780024+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424452+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -1605,7 +1605,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1643,8 +1643,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780032+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424459+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Solar PV",
       "Tender / Procurement"
@@ -1702,7 +1702,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1717,10 +1717,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Shanxi wins EPC contract for 500-MW solar project in Oman - Renewables Now",
+          "title": "Shanxi wins EPC contract for 500-MW solar project in Oman - renewablesnow.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGxieGxMak5aeHJmcGJPTjhUQUxuRzRsMnZvcGJ3NUphc3QwNnZGUHBwdFRyci1WREsxLXRabk53NFVtNW8yWkVORFBzRlpTTlJIdTY2SmVIdUZuYm95MElfb3BXX2E5dW9rOE5yamNLcGgzRlFMcGIwYTJWalRHNEtVaGZkZXlOOWJaYlVTME5vdEtXZnZyWGRoSG9sQQ?oc=5",
-          "snippet": "Shanxi wins EPC contract for 500-MW solar project in Oman Renewables Now",
-          "source": "Renewables Now",
+          "snippet": "Shanxi wins EPC contract for 500-MW solar project in Oman renewablesnow.com",
+          "source": "renewablesnow.com",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "query": "Morocco photovoltaic project award EPC"
         },
@@ -1733,10 +1733,10 @@ export const signals = [
           "query": "Morocco photovoltaic project award EPC"
         },
         {
-          "title": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News - Renewables Now",
+          "title": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News - renewablesnow.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUIzdkNERjZ4dFEzWC1LVkZMc2MwdDhlUTNseXBaM25EMzZqbUVudHhDemlzT3hyaC1MbDlpOVZFRlFTYWtOZVVlVFhGUkhHdUhMcDk1NVFQMThRVmNfU0h6MzRyV3VBcTFXa0RfN3RXT01GXzZ0dkxKYjVJNU1FZFI0eGNDT2N6eVZud2stTzk5NkdCM2ZGdml4Wl9TelNCVjFvVi1faEU?oc=5",
-          "snippet": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News Renewables Now",
-          "source": "Renewables Now",
+          "snippet": "Romania's Electrica awards EPC contract for 62.5-MWp solar project | Solar Power News renewablesnow.com",
+          "source": "renewablesnow.com",
           "published": "Fri, 26 Jun 2026 07:00:00 GMT",
           "query": "Morocco photovoltaic project award EPC"
         }
@@ -1767,8 +1767,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780029+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424456+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1831,8 +1831,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780036+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424463+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1895,8 +1895,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780026+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424454+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1959,8 +1959,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780027+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424455+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -2017,7 +2017,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2055,8 +2055,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780033+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424460+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -2119,8 +2119,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780035+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424461+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -2183,8 +2183,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.779997+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424429+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -2241,7 +2241,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2279,8 +2279,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:53.780007+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:04.424437+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -2343,8 +2343,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058341+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764246+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -2403,7 +2403,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2481,8 +2481,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433755+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324551+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment"
     ],
@@ -2540,7 +2540,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2618,8 +2618,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603052+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445701+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -2677,7 +2677,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2713,18 +2713,18 @@ export const signals = [
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Kenya opens fibre backbone tender - itweb.africa",
+          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender itweb.africa",
-          "source": "itweb.africa",
+          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
+          "source": "ITWeb Africa",
           "published": "Wed, 16 Sep 2026 07:06:26 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - solomonstarnews.com",
+          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - Solomon Star News",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmdaX3V5VTl1aEpHT1FZY056S1R5WUJMNVh3UkJVUmNEcWtjSTRGc3ZNM2FEaW9KbVBnZ1JNQW1leGxKSVBRQVVndjJZSnRjUHM3UmxYZEFQOHprWnk3SUZkM2Zlb3JsYkxqbk41MnNqclc4NlFVckNmelJuRi0zTWVSbXpreUpsWmkyOFdFUjA?oc=5",
-          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway solomonstarnews.com",
-          "source": "solomonstarnews.com",
+          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway Solomon Star News",
+          "source": "Solomon Star News",
           "published": "Fri, 04 Sep 2026 06:40:20 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         }
@@ -2755,8 +2755,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058337+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764243+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -2814,7 +2814,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2851,8 +2851,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058339+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764244+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -2911,7 +2911,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -2950,8 +2950,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603034+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445650+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3009,7 +3009,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3037,11 +3037,19 @@ export const signals = [
           "query": "\"World Bank\" Morocco Market intelligence"
         },
         {
-          "title": "Private Sector Investment Lab - World Bank Group",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakk1R0luZ2ZvQTBUdUI1WU5QbVBYRFVUQURCLWczdzJGMVBOWDRpVngzN21yWlFhVWIxaG5uZ1dadGlrYTZsMmdWc3ZDUDlVTXNSaDBvRUZaa1pmR2JqbzRVUHhxeTY1VnZ6WWJMY3J3c2ZvUndQdVJlOTFONmZNWQ?oc=5",
-          "snippet": "Private Sector Investment Lab World Bank Group",
-          "source": "World Bank Group",
-          "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+          "title": "Is the “Lump of Labor Fallacy” Actually a Fallacy in Developing Economies - World Bank Blogs",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnVVV01yeUtlaDhjU0FNaFViY2l0V1R5UzY2SVZ4RmNmWkVXcEJkaFNSd251OFZoTVBVTzB1X2Y0dEZhbTZhb20xa0ZJMnozbXhXVDZkM1hlYUtvdHl4V2xpUXptNU5VMHprVFJqZUF1elVzdHlBTlU5RVkwX0hYYjdGY1FaRkQ2Vmw2Y3FsUGNIYklqWFRXNTNXeG4zZnRD?oc=5",
+          "snippet": "Is the “Lump of Labor Fallacy” Actually a Fallacy in Developing Economies World Bank Blogs",
+          "source": "World Bank Blogs",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco Market intelligence"
+        },
+        {
+          "title": "World Bank says Morocco growth hits decade high amid investment boom - Yabiladi.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUdvdzBYUHk0RFRZZ1ktZVdpa3dmUzJuYmlZNTZlcWZ6R0p4YUlqM3BnQjBxeEdrdi1nQVNnaUxOOGViWXlkQVNrLUhhOHJFMjU4Qi0wNmdTNWJFSk9qMTJNUy1EUXZxYWt3c3VqUmxoSUVhbDh2OVBEY2xwVlR0amVRVkR3YTFBbW1N?oc=5",
+          "snippet": "World Bank says Morocco growth hits decade high amid investment boom Yabiladi.com",
+          "source": "Yabiladi.com",
+          "published": "Fri, 24 Jul 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco Market intelligence"
         },
         {
@@ -3050,14 +3058,6 @@ export const signals = [
           "snippet": "Morocco–World Bank: US$15 billion partnership pivots toward the private sector Capmad",
           "source": "Capmad",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Market intelligence"
-        },
-        {
-          "title": "Africa Mobile Money Market Size & Growth Report, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXN5V2J3b0VzSkhHSk9rUmwxSHVycjVjR21JMElQLWdZSVRCWDZ5LURqbG1FWk5LZ3lEQkxicldfbkkzZDJnTzd5VEhldHBsdndWZXBuak03MmVJOEtSbWxrOHppSnpGTS1ieVZlRkZUZG0yNXNyLTQ3N3JnSnFfS2pB?oc=5",
-          "snippet": "Africa Mobile Money Market Size & Growth Report, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco Market intelligence"
         }
       ],
@@ -3087,8 +3087,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673863+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728861+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3146,7 +3146,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3157,14 +3157,6 @@ export const signals = [
         "\"Project complaints\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -3196,6 +3188,14 @@ export const signals = [
           "source": "EBRD",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "\"EBRD\" Project complaints"
+        },
+        {
+          "title": "Koppal sets up panel to address renewable energy project complaints - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTZkZXRMYU0xbEQ2LWcyQ21SWWx5cFU1R2dCX0lkeURuTW04WkoySnFIOTRqb3lEeERoZllXS3h6RFlfclVtZUFQSFFBN01ockRfdGVjQl9DRG9xeThad2wyX0VwV09HdkdGY1l5alVIc0V4Rm83UWROdmNsZzN4VmhuV19wSkJabE5xNEJWSVEzTlJiWkFzeE5GMkRiLW1rZEtkNmtKQncwNkhoMHozVFkxbjIzSFFnbXpqS2pGMmxyQ1EyU0hZSG9GZ092Si1kdzdnZk42ZGptU3fSAeABQVVfeXFMT0pHMV9TWHJFUDZ2YU1WSXI0b21pRzhuaHQyc1MyR2dWTU0xaWJjYzhremZjcmNyZUIxX1RXM1cyQVFWX1JWQXU3MGc0V3JDTDl2TjBnUHJ1X0hmYmQzaURXM3lvN09PQVZCcTJJQ0YxdkpRTFFNbDZKX3hLWUVJSHFZQ0hWUFZ6Mm1mSGVnek45eGNYQnhPdEd1NExHRHZhdl9yMGRVQWhVY2pPM3lhVjNGRUVxclpZUUtad2VwR0gzRUZNNUU2Skltd21IcEVfYWhNWGhTSVI1MTljQS11RGs?oc=5",
+          "snippet": "Koppal sets up panel to address renewable energy project complaints The Times of India",
+          "source": "The Times of India",
+          "published": "Sat, 11 Jul 2026 07:00:00 GMT",
+          "query": "\"Project complaints\""
         }
       ],
       "sourceCount": 5,
@@ -3224,8 +3224,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433731+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324530+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3282,7 +3282,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3360,8 +3360,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433746+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324543+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -3419,7 +3419,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3430,14 +3430,6 @@ export const signals = [
         "\"Public consultations\""
       ],
       "sources": [
-        {
-          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
-          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-          "source": "Agenzia Nova",
-          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
-          "query": "\"EIB\" Morocco Tender / Procurement"
-        },
         {
           "title": "WHO Experts Discuss the Future of Public Health Research and Innovation in the Western Pacific - fundsforNGOs News",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDRuclVoUzZkWEVCTG94dTRrR2NIbWhYMjdNTDNPZ1VUTElTNXR5TXpqTWQxX3pwSFhPZVR3UEhKMG1DYkE1TkI3STE2MW8tTlN6UktiQVgyNjBhc3dzU1dORldHRHVzVmdjSXpCUjhVRS1TRzBGY19OQjc1TXRCMWRScWJlVXp3ZmV1dFUwVXd6Ymk2c2cydkFob250a2hJNU1vMmkwRVhPdDdQN1gzM04tQmo5bUhWcFl3cG00LUVXOEducVdWQW1xVlFJZF9kRHc?oc=5",
@@ -3463,11 +3455,19 @@ export const signals = [
           "query": "\"Public consultations\""
         },
         {
-          "title": "Neuquén to hold public consultations on GeoPark, YPF Vaca Muerta oil projects - BNamericas",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkFWaWFEb1VhMTU0ZDdGVFppMmQzSnNKQlduT0VkelJCeldFRTl3UlJXZ0x5WkNIWjhtNnUxUktvQkhrS3dnUkd1bjVRUXdFTF9kTjNKS21fWnI1SmIxTUJTeFBNeHZxNGZ5anFQZGVfdG14QW1yclJRR2RWSU1DbmtNWXFRd0gxbllmTTQweTlNQ3BUWENzNGtMckVfRnc5UTdnaVJ4TGhxR194TTVhMg?oc=5",
-          "snippet": "Neuquén to hold public consultations on GeoPark, YPF Vaca Muerta oil projects BNamericas",
-          "source": "BNamericas",
-          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "title": "The next chapter of Canada's AI leadership - ised-isde.canada.ca",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFBxcWZYaDdnMlA5Si10SWdsWEZ2V1hVbUpSdF9GN3dMcjd5aWhnNlJYSEQtMkZlenF6b2R3NWhhQzNfbVhJaHF2Yk9zLUptdTNXODM3Y1Z4RmlZX1hZZlNQSFNzUHlIZHVGZmc0R2RsV1Q3WXFpZk5zUVUySVBXNXdCT09vclAyeDJTQVFfT2JFXzJQQXY5ZU5aV3Q?oc=5",
+          "snippet": "The next chapter of Canada's AI leadership ised-isde.canada.ca",
+          "source": "ised-isde.canada.ca",
+          "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+          "query": "\"Public consultations\""
+        },
+        {
+          "title": "Ireland's 21st-century approach to an online EU public consultation - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenU5NV8yWVJ2aG1xMHVDLTZOU1RpaEFrNGtUaXhqX3VnU3FUbXc2czdMZDN5d2pyT20yUmk0aF8teEhobXYzT3dteXdURkxDVUpXaFFfQTVzR3pXTnIzd0YwMEpWYkZTdE9ISkxxSHhIbXJnRl91dzQtdDVNN3dSd0tjUXhscUZTdTZMQlNfN0FjSGdXbXAtRmZlYkRiMWI5TzhmZzVxWjZ2SmhucERkX3dDaWF6SEhv?oc=5",
+          "snippet": "Ireland's 21st-century approach to an online EU public consultation Euronews.com",
+          "source": "Euronews.com",
+          "published": "Mon, 07 Sep 2026 05:00:00 GMT",
           "query": "\"Public consultations\""
         }
       ],
@@ -3497,8 +3497,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603045+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445667+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3555,7 +3555,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3583,11 +3583,19 @@ export const signals = [
           "query": "\"World Bank\" Morocco Market intelligence"
         },
         {
-          "title": "Private Sector Investment Lab - World Bank Group",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakk1R0luZ2ZvQTBUdUI1WU5QbVBYRFVUQURCLWczdzJGMVBOWDRpVngzN21yWlFhVWIxaG5uZ1dadGlrYTZsMmdWc3ZDUDlVTXNSaDBvRUZaa1pmR2JqbzRVUHhxeTY1VnZ6WWJMY3J3c2ZvUndQdVJlOTFONmZNWQ?oc=5",
-          "snippet": "Private Sector Investment Lab World Bank Group",
-          "source": "World Bank Group",
-          "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+          "title": "Is the “Lump of Labor Fallacy” Actually a Fallacy in Developing Economies - World Bank Blogs",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnVVV01yeUtlaDhjU0FNaFViY2l0V1R5UzY2SVZ4RmNmWkVXcEJkaFNSd251OFZoTVBVTzB1X2Y0dEZhbTZhb20xa0ZJMnozbXhXVDZkM1hlYUtvdHl4V2xpUXptNU5VMHprVFJqZUF1elVzdHlBTlU5RVkwX0hYYjdGY1FaRkQ2Vmw2Y3FsUGNIYklqWFRXNTNXeG4zZnRD?oc=5",
+          "snippet": "Is the “Lump of Labor Fallacy” Actually a Fallacy in Developing Economies World Bank Blogs",
+          "source": "World Bank Blogs",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco Market intelligence"
+        },
+        {
+          "title": "World Bank says Morocco growth hits decade high amid investment boom - Yabiladi.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUdvdzBYUHk0RFRZZ1ktZVdpa3dmUzJuYmlZNTZlcWZ6R0p4YUlqM3BnQjBxeEdrdi1nQVNnaUxOOGViWXlkQVNrLUhhOHJFMjU4Qi0wNmdTNWJFSk9qMTJNUy1EUXZxYWt3c3VqUmxoSUVhbDh2OVBEY2xwVlR0amVRVkR3YTFBbW1N?oc=5",
+          "snippet": "World Bank says Morocco growth hits decade high amid investment boom Yabiladi.com",
+          "source": "Yabiladi.com",
+          "published": "Fri, 24 Jul 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco Market intelligence"
         },
         {
@@ -3596,14 +3604,6 @@ export const signals = [
           "snippet": "Morocco–World Bank: US$15 billion partnership pivots toward the private sector Capmad",
           "source": "Capmad",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Market intelligence"
-        },
-        {
-          "title": "Africa Mobile Money Market Size & Growth Report, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXN5V2J3b0VzSkhHSk9rUmwxSHVycjVjR21JMElQLWdZSVRCWDZ5LURqbG1FWk5LZ3lEQkxicldfbkkzZDJnTzd5VEhldHBsdndWZXBuak03MmVJOEtSbWxrOHppSnpGTS1ieVZlRkZUZG0yNXNyLTQ3N3JnSnFfS2pB?oc=5",
-          "snippet": "Africa Mobile Money Market Size & Growth Report, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco Market intelligence"
         }
       ],
@@ -3633,8 +3633,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058334+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764240+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3691,7 +3691,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3707,23 +3707,15 @@ export const signals = [
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXdxZWxZX1ZGLXRIajBZdVNQVFFsemM5VE12Q1JCTS1IN3ZYZnVFRVNiS2lseGQ0cFlvX09KR1I3NTJiVDNUSGhISExwalJUeTZHeGRadmI3SnE4bTY0bk9RUVlnc1ZJLWJaNFM5dmFHb0xpU1FBVEk2U2ZMSUVPdzRCZDR6ZENJaGJ1akJZc3gyM0NOekJmZXdUY0JuaW9ZeHZtZ1dGVnVmemFnbGFfX0ZmakNhWVA4?oc=5",
           "snippet": "In Cairo, Oumou Sall Seck puts youth at the centre of South–South cooperation with the IsDB Capmad",
           "source": "Capmad",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "published": "Mon, 07 Sep 2026 23:44:00 GMT",
           "query": "\"IsDB\" Learning Resources"
         },
         {
-          "title": "IsDB Institute Unveils Version 2.0 of its E-Book Reader - intlbm",
+          "title": "IsDB Institute Unveils Version 2.0 of its E-Book Reader - intlbm.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0YzdURnM0pxeTl4QzJBYWZOLVp5bDdBeUtIMWRUdjM5ZVlSeHhzY1I2SVFpX1ZjMWJ5M2FBejY4UFoxR0M5cVRvQWhJNnRjREJiM3pJTEZlVl9iQ0k0b0ZuV1ZJVzF3bkZZa3QzR3NBaE1nd3lELVJqZURTNTFfYk40OGh0amcxclNRdTg2NA?oc=5",
-          "snippet": "IsDB Institute Unveils Version 2.0 of its E-Book Reader intlbm",
-          "source": "intlbm",
+          "snippet": "IsDB Institute Unveils Version 2.0 of its E-Book Reader intlbm.com",
+          "source": "intlbm.com",
           "published": "Wed, 16 Sep 2026 07:08:16 GMT",
-          "query": "\"IsDB\" Learning Resources"
-        },
-        {
-          "title": "National Education Milestone: New National Curriculum launched to achieve a world-class education for about 7 million learners in the Republic of Uzbekistan - UNICEF",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYktZMVRHRlJUWm9TcDJRM3R4NW5VN2QxLWlQMzJ5MjhJVUJPWVR3NDB2YUlwTGUxZW1yaVlDWExucnNDYmsxM2JpTUc0Z0FlVkFPRkZnYkVaZnNEdnhhRU5UMmJtb2lLS2xuRGhDZVh6X09JbkpBTDFLT2dYQzdvMGw2dnE4czNhdHhTaFo5QnFuTUd5ZlVKcVVmWWE2V0tLQkpzXzZRdElQZ0pSOHdZMVAtUW4ySW5WMXhncmY3WmRqUDRJTmU5b3FHcEdIZw?oc=5",
-          "snippet": "National Education Milestone: New National Curriculum launched to achieve a world-class education for about 7 million learners in the Republic of Uzbekistan UNICEF",
-          "source": "UNICEF",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
           "query": "\"IsDB\" Learning Resources"
         },
         {
@@ -3733,6 +3725,14 @@ export const signals = [
           "source": "The Guardian Nigeria News",
           "published": "Tue, 30 Jun 2026 07:00:00 GMT",
           "query": "\"IsDB\" Learning Resources"
+        },
+        {
+          "title": "Learning Resources® Family of Brands Expands Back-to-School Toy Assortment at Target - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXF0U0JPREYtOFJCa0hvVUl4cVdSR2s1MWFob3JuRVEwY2RYTzdjZ3FkM1VIbV9vMjV1clRXZGJYeUFzd0hMTURHZ1Q2cVZqYWNyZ2tDaHFVdWh0cjYzNDJidy11RGVZeG94QVFTcWJEcDNzZnJsUVludm5qQ05BZ0pCLVlhYmpoczllay1WUjFvR2FqQlowem1EUTBBalk4ZVdBdzl0eGtjcE1XWU5aX01vb2ZWeVVMcUMzM1hyZ0J2c1BwMDdpcUw3RzlPMjN6MDRfZGV3?oc=5",
+          "snippet": "Learning Resources® Family of Brands Expands Back-to-School Toy Assortment at Target PR Newswire",
+          "source": "PR Newswire",
+          "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+          "query": "\"Learning Resources\""
         },
         {
           "title": "After Learning Resources: Defending Against the Wave of Consumer Class Actions Seeking Tariff Refunds - Foley & Lardner LLP",
@@ -3769,8 +3769,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058372+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764272+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -3828,7 +3828,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3865,8 +3865,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058362+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764264+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -3924,7 +3924,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -3960,19 +3960,19 @@ export const signals = [
           "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
         },
         {
+          "title": "Cameroon Lines Up CFA253 Billion in IsDB Deals, but Firm Funding Remains Unclear - news.frontierafricareports.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmhENFRRWHBLXzhWRDJKZ0M2NTZmM2lkOWxNektBYVFfc3ZSQ2tPMG9FeHp3OUZfVHZfMkY4ZWNaMFlDY2wzNGVNMzFWUldOQWdQTEVZMmdEQTFuZGk0MERWcDFOaUtuVnZQc0VsdU9DZDA0U0JiYWtrdXFtU01Mb1hmd0drYTE2Wk1zRnBuODFKeUNmdW5YYVhJc3VWWWNUbWNYb3RmR2ZBYTlOVDZiRWlZZnpxZHdCQ2dXVHdMcUlGckQ4?oc=5",
+          "snippet": "Cameroon Lines Up CFA253 Billion in IsDB Deals, but Firm Funding Remains Unclear news.frontierafricareports.com",
+          "source": "news.frontierafricareports.com",
+          "published": "Mon, 14 Sep 2026 15:09:00 GMT",
+          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
+        },
+        {
           "title": "IsDB loan agreed for Ugandan Standard Gauge Railway - International Railway Journal",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkVfYXBjYlJYOUlibmU0Q0oxLWpFMmdkUkJnbWZSUmtybmtIYVZ2NVdzQzNlaFEwZk1JQjFERW9sT0JQUVRCRnc2RFp1WHBJdGszeVhGdWhadUlndnl4TVkybmNIanlVVlFBSkpSYWJyM2NiTEktQi1pZXY2UHRTN3dVSGplWnJXTDVGLVVHQ0NMRXNXdFRXbldkZw?oc=5",
           "snippet": "IsDB loan agreed for Ugandan Standard Gauge Railway International Railway Journal",
           "source": "International Railway Journal",
           "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        },
-        {
-          "title": "Rabitabank signs USD 10 million financing agreement with IsDB Group’s ITFC - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnRWYTY0aDJlVE1feGw3NTM2YWtuU3BEZDZkZ2VEdlplcDZOTTlsVTFYam9aVGpBVXZMaU81MXlFLXBHWnV1dVQ4d2YxOTVnMkJjclBzZThoNWQ5TURmOXdwT0dQUHIyNnk5MUFCYldQSlJlYmRCdzA1TkV3bHBxOXlBcnJsN2dQZlB2a2ZBR1hnczBfdTVEVXp2YzA4U0szQWZlZ0p6VFhpQTNRdkhEcXEyaE92ZGxEbV8xemNXZXRaTHF1Rkg5aGttZXBZeVBnWmR2cw?oc=5",
-          "snippet": "Rabitabank signs USD 10 million financing agreement with IsDB Group’s ITFC Arab News",
-          "source": "Arab News",
-          "published": "Thu, 10 Sep 2026 05:28:16 GMT",
           "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
         }
       ],
@@ -4002,8 +4002,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433742+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324540+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -4017,7 +4017,7 @@ export const signals = [
     "actionabilityScore": 45,
     "noveltyScore": 0.0,
     "status": "review",
-    "evidenceLevel": "public search evidence",
+    "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "MEDIUM",
@@ -4062,8 +4062,8 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
-      "status": "public-evidence",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 98,
@@ -4072,17 +4072,8 @@ export const signals = [
         "\"EIB\" Project procurement complaints",
         "\"Project procurement complaints\""
       ],
-      "sources": [
-        {
-          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
-          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-          "source": "Agenzia Nova",
-          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
-          "query": "\"EIB\" Morocco Tender / Procurement"
-        }
-      ],
-      "sourceCount": 1,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "EIB"
@@ -4108,8 +4099,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058358+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764260+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -4168,7 +4159,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4205,8 +4196,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058361+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764263+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -4265,7 +4256,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4302,8 +4293,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058369+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764270+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -4362,7 +4353,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4399,8 +4390,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058370+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764271+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -4459,7 +4450,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4505,8 +4496,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058375+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764275+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -4566,7 +4557,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4605,8 +4596,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673837+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728838+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -4663,7 +4654,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4674,14 +4665,6 @@ export const signals = [
         "\"Office of the Chief Compliance Officer\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -4707,12 +4690,20 @@ export const signals = [
           "query": "\"EBRD\" Office of the Chief Compliance Officer"
         },
         {
-          "title": "EBRD to open its first office in Nigeria during Vice President’s visit - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVFpenBHWl9ITS1tdTZTdUp5Q0RxVDF1OW5RWkZqenFQamQ1VE1TSmw5UlpHbVdxeGF1R1Y2ZjNUMFp2NU9mMkgzbEdKTy1HcFJxUElOWFZubG9kXzFZZ25ZOHRISEc0SUJobkp3VWNWNXVGX0VZN2s3NDJkcjNETkdORk1ITzA0c0luSTdSTUFUTGZoTnNlVERBZ1pJOWhCNlZ5MHQtRFljRnRXRVIxeWR0aXFQdU1wMkRDRFFR?oc=5",
-          "snippet": "EBRD to open its first office in Nigeria during Vice President’s visit EBRD",
+          "title": "EBRD and GCF launch Mongolia GEFF Greening Financial Systems framework - EBRD",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2REaXU1SG5jWExJM3p4ZW1LQ3JGQzl5UjlnZGRtVDZrTjQ4WElnTU1la0lYeTVSeWxxUk1qNFgyTUJyMGNHVmpkMzRHVUNLWW5TNm9oeFVQVVphdDczbHJmeTEwMTlKUllNNl9KblN1T0tpcFFnNGs2Y3gxWkF1ZXk0MmlpMDVfVWF2a1pEYUFnbnR5cl9hcENwb2VhaVJEOE9Kb2I1Zk5CQmFPdVlURVVCb3FKZFJfMjE1UUFzLUEtVGZXTUhmSXNCdEhkdkpnc1JzQ2Juak5HVTZK?oc=5",
+          "snippet": "EBRD and GCF launch Mongolia GEFF Greening Financial Systems framework EBRD",
           "source": "EBRD",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "published": "Wed, 16 Sep 2026 08:53:36 GMT",
           "query": "\"EBRD\" Office of the Chief Compliance Officer"
+        },
+        {
+          "title": "State senator calls for MEDC overhaul as bipartisan criticism grows - The Center Square",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZF9ZWll6T2JJNjNxYllqaGd0VWZMbWVJOTlfMF9zLXFHdC1OUmhVMEZNYTAtZldaU0VmNmVtb3lhOF9ENFk0Y3hHQmdURDlnRmhpWDNXMjVjbUlQWDJpSG1xMFN2eUhiUjVISHdXcFhjY3BpRmdvU0Ntc09tQlBSSFpjMjBwU25lSFo0VTA5U1Z6aHYt0gGaAUFVX3lxTFBqdHlDdlI1bE00by1GNl9rRHBteTd1eHRLVWFIWThiU1JYN21wNHZuWDVmSzItUmVIb3pmTmFkMVB0Tzd0VTZaMTNfS0k4VGhZUjhIbmcyR2ltMnhuNE5CNFZoQlFyMldyYzJCeW1Ka0VMZXRHdVlzck1mVHVSeVhJaWt5WkFsQ0xhYWF4NDdJTVRJVTkzaXc2dmc?oc=5",
+          "snippet": "State senator calls for MEDC overhaul as bipartisan criticism grows The Center Square",
+          "source": "The Center Square",
+          "published": "Tue, 15 Sep 2026 18:15:00 GMT",
+          "query": "\"Office of the Chief Compliance Officer\""
         }
       ],
       "sourceCount": 5,
@@ -4741,8 +4732,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058364+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764266+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -4799,7 +4790,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4836,8 +4827,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433747+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324544+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment"
     ],
@@ -4895,7 +4886,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -4973,8 +4964,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603047+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445694+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5032,7 +5023,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5068,18 +5059,18 @@ export const signals = [
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Kenya opens fibre backbone tender - itweb.africa",
+          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender itweb.africa",
-          "source": "itweb.africa",
+          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
+          "source": "ITWeb Africa",
           "published": "Wed, 16 Sep 2026 07:06:26 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - solomonstarnews.com",
+          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - Solomon Star News",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmdaX3V5VTl1aEpHT1FZY056S1R5WUJMNVh3UkJVUmNEcWtjSTRGc3ZNM2FEaW9KbVBnZ1JNQW1leGxKSVBRQVVndjJZSnRjUHM3UmxYZEFQOHprWnk3SUZkM2Zlb3JsYkxqbk41MnNqclc4NlFVckNmelJuRi0zTWVSbXpreUpsWmkyOFdFUjA?oc=5",
-          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway solomonstarnews.com",
-          "source": "solomonstarnews.com",
+          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway Solomon Star News",
+          "source": "Solomon Star News",
           "published": "Fri, 04 Sep 2026 06:40:20 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         }
@@ -5110,8 +5101,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603049+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445697+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5169,7 +5160,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5205,18 +5196,18 @@ export const signals = [
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Kenya opens fibre backbone tender - itweb.africa",
+          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender itweb.africa",
-          "source": "itweb.africa",
+          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
+          "source": "ITWeb Africa",
           "published": "Wed, 16 Sep 2026 07:06:26 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - solomonstarnews.com",
+          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - Solomon Star News",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmdaX3V5VTl1aEpHT1FZY056S1R5WUJMNVh3UkJVUmNEcWtjSTRGc3ZNM2FEaW9KbVBnZ1JNQW1leGxKSVBRQVVndjJZSnRjUHM3UmxYZEFQOHprWnk3SUZkM2Zlb3JsYkxqbk41MnNqclc4NlFVckNmelJuRi0zTWVSbXpreUpsWmkyOFdFUjA?oc=5",
-          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway solomonstarnews.com",
-          "source": "solomonstarnews.com",
+          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway Solomon Star News",
+          "source": "Solomon Star News",
           "published": "Fri, 04 Sep 2026 06:40:20 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         }
@@ -5247,8 +5238,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.603051+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.445700+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5306,7 +5297,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5342,18 +5333,18 @@ export const signals = [
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Kenya opens fibre backbone tender - itweb.africa",
+          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender itweb.africa",
-          "source": "itweb.africa",
+          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
+          "source": "ITWeb Africa",
           "published": "Wed, 16 Sep 2026 07:06:26 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         },
         {
-          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - solomonstarnews.com",
+          "title": "Suavanao Airfield Upgrading Tender Evaluation Underway - Solomon Star News",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmdaX3V5VTl1aEpHT1FZY056S1R5WUJMNVh3UkJVUmNEcWtjSTRGc3ZNM2FEaW9KbVBnZ1JNQW1leGxKSVBRQVVndjJZSnRjUHM3UmxYZEFQOHprWnk3SUZkM2Zlb3JsYkxqbk41MnNqclc4NlFVckNmelJuRi0zTWVSbXpreUpsWmkyOFdFUjA?oc=5",
-          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway solomonstarnews.com",
-          "source": "solomonstarnews.com",
+          "snippet": "Suavanao Airfield Upgrading Tender Evaluation Underway Solomon Star News",
+          "source": "Solomon Star News",
           "published": "Fri, 04 Sep 2026 06:40:20 GMT",
           "query": "\"World Bank\" Morocco Tender / Procurement"
         }
@@ -5384,8 +5375,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058354+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764257+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5443,7 +5434,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5521,8 +5512,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058356+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764259+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5580,7 +5571,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5592,10 +5583,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria - thecable.ng",
+          "title": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria - TheCable",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU1hoUjhtNnluWE00Q3NZa21tZDBQamVJbG5sQ2VTN3d4c0ZTQ3R5Y2tXUEpIVUxZdmpOTTlfbHctb2ZQTnVQLU9TMXVJNTdoQ0oyMjFlQlphXzZURTdOLW1IV24xTGFPaktLVEdJcVZyT2tfNGRZOTJlLUdOUDhoZDZGSUQ0THR5Q0RyMW5ZWXVudmppcUpmU3pTbENtUk1wNHNrM1BOSlpXbXpIaDBNNmhHNDJ4RHpvM0J5cFN1SlpSRURFQk9wSXRrZ28yQk91eWk4X3lGSzcydGhrdWVkYndpTmRfVTlxdERNeDYtUjdQRDNfWW5ncg?oc=5",
-          "snippet": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria thecable.ng",
-          "source": "thecable.ng",
+          "snippet": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria TheCable",
+          "source": "TheCable",
           "published": "Wed, 15 Jul 2026 07:00:00 GMT",
           "query": "\"IsDB\" What are the Bank’s policies in Procurement?"
         },
@@ -5642,8 +5633,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058366+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764267+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5701,7 +5692,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5738,8 +5729,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058367+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764268+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5797,7 +5788,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5834,8 +5825,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058376+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764276+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -5893,7 +5884,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -5937,11 +5928,11 @@ export const signals = [
           "query": "\"General Procurement Notice\""
         },
         {
-          "title": "Montenegro to open tenders for 16.5 mln euro power line upgrade project in July - SeeNews",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLW5rSVF3NEhCVE5KRVVqRFlLRWhXVng5aktiZWQ0eWFBcUxfUVpsdzM0VVZOeEVSNjhqSWRFejVmeWRrb0FEckNzUjdlcWpSQTBFc3dBbVNDVjdjSGJGbEJPRTNFc0JMblZ1SkE4U1IyMU5NaDJvdXVSZVVuRU5ySGMybHhpLTRIZllLTk53cUpvRGI2MWp5TlhBQ0lGQkdoZ3FSZzVKd0QwSUp6QlBlMExn?oc=5",
-          "snippet": "Montenegro to open tenders for 16.5 mln euro power line upgrade project in July SeeNews",
-          "source": "SeeNews",
-          "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+          "title": "News24 - news24.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTnI0VlYxMmpnWG41bGpWNl9kblFMdzA1WlU4TGpnbjdaS1QyajFxc051V1lsNVQyNWl2MUVQd1o0anB6LVVKSEdmakZ0Ml9NRVN5MEJYR2cxTHZuWUZwWnNOQm1NZlNhWjZ0YjdkY3RxZnZuZWhQN3dudlpCZ2EzWDBUMkVSZw?oc=5",
+          "snippet": "News24 news24.com",
+          "source": "news24.com",
+          "published": "Fri, 26 Jun 2026 07:00:00 GMT",
           "query": "\"General Procurement Notice\""
         }
       ],
@@ -5971,8 +5962,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673857+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728855+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Manufacturing"
     ],
@@ -6029,7 +6020,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6114,8 +6105,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433760+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324555+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6173,7 +6164,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6210,8 +6201,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058374+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764274+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6269,7 +6260,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6306,8 +6297,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673840+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728841+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6365,7 +6356,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6376,14 +6367,6 @@ export const signals = [
         "\"Independent Project Accountability Mechanism\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -6401,7 +6384,7 @@ export const signals = [
           "query": "\"EBRD\" Morocco Market intelligence"
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "project": null,
       "entities": [
         "EBRD"
@@ -6427,8 +6410,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433708+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324504+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6485,7 +6468,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6522,8 +6505,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433720+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324521+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6580,7 +6563,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6591,14 +6574,6 @@ export const signals = [
         "\"EIB GROUP CLIENT PORTAL\""
       ],
       "sources": [
-        {
-          "title": "European Investment Bank Makes First Move In SMRs With €40 Million Backing For Finland’s Steady Energy - NucNet",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeDBwVXQ3LXdUVUVOeXhvcEwwaVF5VkZkY0J5MU9OazdJYXdkbzBqRFpfbm9pajdSNExjdzlsdFhXNjRRQ2FKXzU5SlZxbGZMb2tJNlRRa29UVVQ2WkRxSGRRT2JEV1FZeGcwWDRIcUNxUzVhX1g1T3BWdlhUNzUwclAyb1ZxeVYxV201R0tLYnVmTmZ5RXJxWjZjclNQemNySF9CUzR3SVBpSkd2d19taGM1dURYNk1TS0c3cGFWTUlmX0NhOXBlMVRDbDlpMnVybUdUOGE2UDY?oc=5",
-          "snippet": "European Investment Bank Makes First Move In SMRs With €40 Million Backing For Finland’s Steady Energy NucNet",
-          "source": "NucNet",
-          "published": "Tue, 15 Sep 2026 13:05:44 GMT",
-          "query": "\"EIB\" EIB GROUP CLIENT PORTAL"
-        },
         {
           "title": "Tensive Secures Up To €20 Million EIB Financing To Commercialize Bioresorbable Breast Implant - Pulse 2.0",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdielkwR1FzaHhpa2Fldm1BRkY3UFpjalppb2dudnA1MFo3N2tBbmoxdVNWcFZaR04wRVcwTHFleTJabnhEd2Jha3gwSEhuS28tZGN4VTc0dEozemdlWjdtTFZ3QVVSckJxYk10YkZMUEM0Rm5XaVQ2NjNtQUhaVWlBdmJjYnllcC10dWdpMnFtVGJadDVsVlV1SjZKT2xlSVNyblZUcjBFQ3h0UGJ3TGtFUdIBuAFBVV95cUxNVkQzbTRkc2V0TnpES04wdkNKUWlWTzF0eHhOcllVc05JQURuZmtwTHBiT1FjR3N5dVRSdzQzWTRyVndvRlhKczVoM2MwZ3dCbk95cVVFTXdzWE5jWmZhUDZERDZWMS1TLVFOVG43Qkx3QVdQZDNtcDc1MEhKdFpNaXk2aDc0U1pSc25zWHBoY2EtTVVRME5uWHp0NGlvYWh3TEtwRU9rY2ZsV0FNR2JyNHpVdVRDdWQz?oc=5",
@@ -6624,7 +6599,7 @@ export const signals = [
           "query": "\"EIB\" EIB GROUP CLIENT PORTAL"
         }
       ],
-      "sourceCount": 4,
+      "sourceCount": 3,
       "project": null,
       "entities": [
         "EIB"
@@ -6650,8 +6625,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433725+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324525+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6708,7 +6683,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6720,31 +6695,23 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Multilateral Research Takes Shape Across the Asia-Pacific - UZH News",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFQlFLblM2dnRNdVhpZ1NZQ2xjYVQxbGFFUmRMTTRPd2tld0N6b3Z0eGlaSTZ2WDJ6T0lBZXJULWl0dEUyTkdxRE8zVnE2OG11VTA0N1VXLThMZ0hST0Nza3ZFY0cxV3F0T2diZU1kMkRiZ1M0YjI4?oc=5",
-          "snippet": "Multilateral Research Takes Shape Across the Asia-Pacific UZH News",
-          "source": "UZH News",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+          "title": "Modi congratulates Donald Trump, Americans on US 250th Independence Day - newsbytesapp.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2NEbU1ONU0zUW81ZW41UTM5YVZ0cnZidzhGc0tvenMwVzJEZFNZTDl0c0ZWWmhfa1Y4OFpqQlRlczF4MDhZVHhlTGczbWNtdTdVVGo4SU15RDc2XzNIVXh3Q1JhN0h2S3FyUWlRbGItUi1lNHp6WGt5eTEzeTMyczROWFdkZjdaVlJ6Qzh4emE0RXpWWW01ZjVUUndESWNieEFPM3RCX2FiNklvdVl3eDNMbVF1Zw?oc=5",
+          "snippet": "Modi congratulates Donald Trump, Americans on US 250th Independence Day newsbytesapp.com",
+          "source": "newsbytesapp.com",
+          "published": "Sat, 04 Jul 2026 07:00:00 GMT",
           "query": "\"Tackling global challenges together\""
         },
         {
-          "title": "India to host 18th BRICS Summit at Bharat Mandapam - NewsBytes",
+          "title": "India to host 18th BRICS Summit at Bharat Mandapam - newsbytesapp.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTG9wWEd0RjRSYV9MRGtvZ0k3NmtTSTZRNktXMTdFVUs3YU9zZGUyQU01cE9YSmRFQnpEVktWWEE5LUtSS3BocEkwczFyY0RUTUY5VUpOU3NpZkZxZ0hTTnMwXzJqQlVCR1M4VnE5dFM5NkZDWEUxdmZQMU1ZdUZHNzJUOWVxem1KbkI3RkhTSGYzQXg0c1N3ODJMTQ?oc=5",
-          "snippet": "India to host 18th BRICS Summit at Bharat Mandapam NewsBytes",
-          "source": "NewsBytes",
+          "snippet": "India to host 18th BRICS Summit at Bharat Mandapam newsbytesapp.com",
+          "source": "newsbytesapp.com",
           "published": "Thu, 10 Sep 2026 08:38:04 GMT",
-          "query": "\"Tackling global challenges together\""
-        },
-        {
-          "title": "Amitabh Kant urges India lead BRICS on trade and climate - NewsBytes",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazgxMjNkOE90UFAzQ042QUo0U2RKbzNycGZWelplT0JZN0R2TS1wcjlrdW91dVo5eWNIemJnNkRsMFhmQWF6N3pnQ3JxTGhOemZkRmdCMWE0b2RCVGNKbVRPZHlEQXY2cEljbjRGaW9sMzliaEZoamxtckREcWRfbkJzREJFcWlZR1d2VEZOa2Q1Q3Q2Wkd0aVY4WFZ0XzFTS1hJ?oc=5",
-          "snippet": "Amitabh Kant urges India lead BRICS on trade and climate NewsBytes",
-          "source": "NewsBytes",
-          "published": "Thu, 10 Sep 2026 06:39:50 GMT",
           "query": "\"Tackling global challenges together\""
         }
       ],
-      "sourceCount": 3,
+      "sourceCount": 2,
       "project": null,
       "entities": [
         "EIB"
@@ -6770,8 +6737,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433727+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324526+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6828,7 +6795,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -6848,10 +6815,10 @@ export const signals = [
           "query": "\"EIB\" Part of the EU family"
         },
         {
-          "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union - Atlantic Council",
+          "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union - atlanticcouncil.org",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHB6SHdKWFhJb1V2SG8wYzBkd2x1WFh6Smg5NHM1WVNqemFLdnZqMC1wTmxQYkhFa3RWV0Q3cGVOYW5BRVJjY1JRZWxlbDNpVHJHem9DQ1Q2X3pBTjI1OVpaakVpQmxuLVhxVHFWSG0zWjVXWTl2WldmdlN0TUVTby1WSWcxeDRERkVscmp0LUlFY292cThKUEhqTE02RUIzaHRDUWx2UEN6bS01OWZvczdQOVh2NDBYcDQzcHRPTlVIdw?oc=5",
-          "snippet": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union Atlantic Council",
-          "source": "Atlantic Council",
+          "snippet": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union atlanticcouncil.org",
+          "source": "atlanticcouncil.org",
           "published": "Wed, 24 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Part of the EU family"
         },
@@ -6872,11 +6839,11 @@ export const signals = [
           "query": "\"EIB\" Part of the EU family"
         },
         {
-          "title": "EIB announces its first investment in small modular reactor technology - Agence Europe",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3JCR0lYYjhsMXhaZHhSTWEyU3BHUThJZ2cwSzl2czctVm1GSVliVFUzVEpvX0Frb1N6SUZ1VlpOc3hXVHZuSVpWTkJqOHg5ek1yUThhbjJVeHppUDFkMHI0Ymg5cW51T3QxbUo0c244Nk8zM1VfYUZtQm1URWVNMEV3RGxRaGtYVE92ck51ZmxSbXBtQ1NsYzNwU0xLUEd2SDdCekVCWmVzSm9Vbll0T0pFWlh6U0UtQ2JkOHFFMA?oc=5",
-          "snippet": "EIB announces its first investment in small modular reactor technology Agence Europe",
-          "source": "Agence Europe",
-          "published": "Mon, 14 Sep 2026 23:00:00 GMT",
+          "title": "Europe’s Next Tech Giants Get a Boost: EIB Brings Industry Leaders to the Table - Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0hrX0c5TUNrYkE3cEhSTFlJbFBocW5IN2JsNXQzTFZHN3dETXNWckdJSTFjeDZ2cm03Nkl0WFFpSVQ5cTBGVkRqaGJfeVNnUmphM3hwaUJGMjBGOUxyRVVYQTBOM0E4eWtKa09FNWhCX1hOOVdtb3hBLWw0Vms3TVJWa0NRSHgtdzZXdXNVa21ueV9Ta3BmM0xfMzNHY19UbXQxUHZ3M214WmQwLXZKYlZjeVd2WE1CeUF0TFpLbU5KRkRiandCVG9LYUEwU0sx0gHQAUFVX3lxTE1PSGtfRzlNQ2tiQTdwSFJMWUlsUGhxbkg3Ymw1dDNMVkc3d0RNc1ZyR0lJMWN4NnZybTc2SXRYUWlJVDlxMEZWRGpoYl95U2dSamEzeHBpQkYyMEY5THJFVVhBME4zQTh5a0prT0U1aEJfWE45V21veEEtbDRWazdNUlZrQ1FIeC13Nld1c1VrbW55X1NrcGYzTF8zM0djX1RtdDFQdnczbXhaZDAtdkpiVmN5V3ZYTUJ5QXRMWkttTkpGRGJqd0JUb0thQTBTSzE?oc=5",
+          "snippet": "Europe’s Next Tech Giants Get a Boost: EIB Brings Industry Leaders to the Table Devdiscourse",
+          "source": "Devdiscourse",
+          "published": "Fri, 18 Sep 2026 06:08:02 GMT",
           "query": "\"EIB\" Part of the EU family"
         }
       ],
@@ -6906,8 +6873,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433728+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324528+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -6964,7 +6931,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7001,8 +6968,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433730+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324529+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7059,7 +7026,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7079,10 +7046,10 @@ export const signals = [
           "query": "\"Control and evaluation\""
         },
         {
-          "title": "New Reinforcement Learning Breakthrough: Tsinghua Team’s \"Single Rollout Asynchronous Optimization\" Method Enables Stable 1000-Step Training - 36Kr",
+          "title": "New Reinforcement Learning Breakthrough: Tsinghua Team’s \"Single Rollout Asynchronous Optimization\" Method Enables Stable 1000-Step Training - eu.36kr.com",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nYlNKbVYwMmhpV1hQNkJ6VVpMckk3TjJLT2ZjOTRFLWdEdVFaNnJmU1dLaHdSNGI3WlJoUVZLOWt6T0RsRkdPS05qQ1JfOGVWMkY4?oc=5",
-          "snippet": "New Reinforcement Learning Breakthrough: Tsinghua Team’s \"Single Rollout Asynchronous Optimization\" Method Enables Stable 1000-Step Training 36Kr",
-          "source": "36Kr",
+          "snippet": "New Reinforcement Learning Breakthrough: Tsinghua Team’s \"Single Rollout Asynchronous Optimization\" Method Enables Stable 1000-Step Training eu.36kr.com",
+          "source": "eu.36kr.com",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
           "query": "\"Control and evaluation\""
         },
@@ -7103,10 +7070,10 @@ export const signals = [
           "query": "\"Control and evaluation\""
         },
         {
-          "title": "Bohicon: opening of a parliamentary workshop on the analysis of the execution of the state budget for the first quarter of 2026 - beninwebtv.bj",
+          "title": "Bohicon: opening of a parliamentary workshop on the analysis of the execution of the state budget for the first quarter of 2026 - Benin Web TV",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGNTN1NEeC1ySGNzNEkzUjktMXkyZTl1LWtQTkxSZFl6MGhsblVrX0hIV0JLdThCcnpaUEVKTk5NaVlwcXJRSjlySHEyWDAyZ21lNGgxMEZvb01OWlBUemxlLVpnREJLVm1jczI5VnVvTHF3SXhrdDBTRjRiSkhScnE0LXloa3hJMzR6STFBeXotM2I3b0NLb205czZxaXlXQUp5S0RNSUJSeXFhcUk2SU1YbUg5RUNKM2pPaUxkdDJFNjVaR3gxa2JnZjFrTXVhYmdVOVFSRjhrY3NacW5PZ19XV0U5c3c?oc=5",
-          "snippet": "Bohicon: opening of a parliamentary workshop on the analysis of the execution of the state budget for the first quarter of 2026 beninwebtv.bj",
-          "source": "beninwebtv.bj",
+          "snippet": "Bohicon: opening of a parliamentary workshop on the analysis of the execution of the state budget for the first quarter of 2026 Benin Web TV",
+          "source": "Benin Web TV",
           "published": "Thu, 16 Jul 2026 07:00:00 GMT",
           "query": "\"Control and evaluation\""
         }
@@ -7137,8 +7104,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433733+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324532+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7195,7 +7162,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7273,8 +7240,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433735+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324533+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7331,7 +7298,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7351,10 +7318,10 @@ export const signals = [
           "query": "\"EIB\" Our internal commitment"
         },
         {
-          "title": "EU and Kazakhstan deepen strategic partnership on transport, raw materials and visas - ieu-monitoring.com",
+          "title": "EU and Kazakhstan deepen strategic partnership on transport, raw materials and visas - INSIGHT EU MONITORING",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2Q5YV9aRjhaZ1VrT2o4b0JReHB4OVNCRDNVYlcyN2VxbWplQURPLWs3Q3lFbmlIOTVaYkVUbndXQ2JGUnZKakZxLVFtOC1FY2FxTTl3bWE4Qld2WTBiZzRHSy1NcmpfNUE2eklOYlFNdGo5NGNjY09ud3ZOUExjNGZ2UVRENVJDMjFDNzY2MTRacDFyNE93aGFQdlZPNHBJbFV5NnJQX1BFMjJrb3VQY1NIWGpvakZwb01nLW50dVFMNEJDLUlELTl0MTZrSHcydlk0WDRJRnJHdnJLUmJnN2VzNVo?oc=5",
-          "snippet": "EU and Kazakhstan deepen strategic partnership on transport, raw materials and visas ieu-monitoring.com",
-          "source": "ieu-monitoring.com",
+          "snippet": "EU and Kazakhstan deepen strategic partnership on transport, raw materials and visas INSIGHT EU MONITORING",
+          "source": "INSIGHT EU MONITORING",
           "published": "Tue, 23 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Our internal commitment"
         },
@@ -7367,11 +7334,11 @@ export const signals = [
           "query": "\"EIB\" Our internal commitment"
         },
         {
-          "title": "Egypt commits €690 million to the grid before it sells a single unit to Europe - energy-news-network.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjRRVmR0d1BvNjhfbHdKZ1JadDFJRTRocVF3V2ZudldDV3NNNTFkc1o1SzhOZVlpNDhqZlhlUDZSU0FTZ2JqRnBuV1Bud3I2cnRic3BQdkVLaThPOE80MnlVWkZZSGxneGVTckhkbW5McG13clhMQnI5SGRmTGVJQ2NyZW1kcGV3VGpDVm9CS01xUWJmaVlKS3dB?oc=5",
-          "snippet": "Egypt commits €690 million to the grid before it sells a single unit to Europe energy-news-network.com",
-          "source": "energy-news-network.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "title": "EIB Group Announces €470 Million Package to Support Ukraine’s Housing, Infrastructure and Private Sector Recovery - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRW1VU0NPUWktdHZwWmJETmExMFhpcFVITDJ3dXBVX1laNGgtY1p6V2U0X0JvV3FITWVKQkpISEFxSmtUUU1kdHl6RGM4Rmt4U3Jncl9rdjMzS3h3Xy0yUDBhak04QldtdDhfSDlDRkNycl9PVmRtMVU1VkRESnlfWnZPUl91cUlyazExWTg3V2N0cHhIOF80U2NjcFRiTzRObWtlMVFUcTdwc296My02WkR1NEFUV2o0STBTbThvOUIzLWFkMkFYMDY3c2JzZzdocjBsN3hNN3JNMG4zMVlENjVRTlQtZlNC?oc=5",
+          "snippet": "EIB Group Announces €470 Million Package to Support Ukraine’s Housing, Infrastructure and Private Sector Recovery fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Fri, 26 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Our internal commitment"
         },
         {
@@ -7409,8 +7376,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433736+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324535+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7467,7 +7434,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7545,8 +7512,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433738+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324536+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7604,7 +7571,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7648,10 +7615,10 @@ export const signals = [
           "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
         },
         {
-          "title": "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth - African Development Bank Group",
+          "title": "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth - afdb.org",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNUFUUDBnTE9SaExZMi1TbWlUcWNmOFRKVTZLUndiOThidTNGMWVOR2R5UGdhVFYwbEh3VnpqZ0E2UDJsMDBoc09pc29wMUVhekFpTTgyMlZlSE4tYkRtM1RXQmVvWVhLb3RWdHd1RGRJS0VBakZCNVRjWk14djlnS0hhajBtN096ZGw1aFBNQ0VwUUtfS0xKTWJmdjd4MHhRSjJDcHJKR0xIT1hmc0p5Q3dKSmQwajlReGtyOGUtdm1qMEFmLUZVRWJDdnF2elBsRHcxNkJ6UktpdzA4Zl81bzk1RDhQLVp1NUZaSGowaXNrSndtRUZfNEhSd3JmMGc1ZGhZaFJPRG0?oc=5",
-          "snippet": "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth African Development Bank Group",
-          "source": "African Development Bank Group",
+          "snippet": "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth afdb.org",
+          "source": "afdb.org",
           "published": "Mon, 13 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
         }
@@ -7682,8 +7649,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433739+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324537+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7740,7 +7707,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7760,10 +7727,10 @@ export const signals = [
           "query": "\"EIB\" Transparency and access to information"
         },
         {
-          "title": "EIB Global and BRAC Bank unlock €60 million to accelerate Bangladesh's green transition - Prothom Alo English",
+          "title": "EIB Global and BRAC Bank unlock €60 million to accelerate Bangladesh's green transition - en.prothomalo.com",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcVlqZURXazlvbU9BRVBoemoxTWROYzlBNHhRd1hxWVFyYlA3YVg1OVp3MTJBYVJnUlNRdTc0N09yY0NVZE5HSmNLVm4xQ2pjdjUzOEFUb2ZoSmfSAWhBVV95cUxPTjJSeGprX2YzTURsaE44XzJGTVg0M0N3Mk4zTEVITndtOUxPdFhfVXFTVzc5WHVwemU2Ty1mZ1hvLWRkODdiaWNGbGxqbWI3aHVwVDQzRzNIQkNFMUNNREFXM0NDN29vVg?oc=5",
-          "snippet": "EIB Global and BRAC Bank unlock €60 million to accelerate Bangladesh's green transition Prothom Alo English",
-          "source": "Prothom Alo English",
+          "snippet": "EIB Global and BRAC Bank unlock €60 million to accelerate Bangladesh's green transition en.prothomalo.com",
+          "source": "en.prothomalo.com",
           "published": "Wed, 08 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" Transparency and access to information"
         },
@@ -7776,18 +7743,18 @@ export const signals = [
           "query": "\"Transparency and access to information\""
         },
         {
-          "title": "Community Forum Recap: Residents Raise Taxes, Water, Transparency Concerns Over Data Centers - potomaclocal.com",
+          "title": "Community Forum Recap: Residents Raise Taxes, Water, Transparency Concerns Over Data Centers - Potomac Local News",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXFDYlhPcDFFQ0tHRVIzTVRuT2xWMEJob201OHNkN0RDNHZyRm5SNGJJTXZqZ0dJODU0QXVLZW9JamtoQ2ppZGp6Y0JfNjFDUWZFdkZxSHJOM1E1N296eTNzaFFXQjZmc1VRcWROTUZqUmhBMFZfQUhzMWRqaXNoYzczOFNuUDNfeU1HVU1EaUFhSFRENVFyM1MtM3h5TmRwUUQ2TUMtNnBVTzE0ZzE3d1BHUlZYdThuU1VLMjE0UkpKWEZGbjBoalZ3?oc=5",
-          "snippet": "Community Forum Recap: Residents Raise Taxes, Water, Transparency Concerns Over Data Centers potomaclocal.com",
-          "source": "potomaclocal.com",
+          "snippet": "Community Forum Recap: Residents Raise Taxes, Water, Transparency Concerns Over Data Centers Potomac Local News",
+          "source": "Potomac Local News",
           "published": "Tue, 28 Jul 2026 07:00:00 GMT",
           "query": "\"Transparency and access to information\""
         },
         {
-          "title": "CGU launches Informa.BR to simplify access to public information - dataportuaria.com",
+          "title": "CGU launches Informa.BR to simplify access to public information - Data Portuaria",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2YwVVV1S0Nxd1lMNU1LdXlKS1Z3MEVSRTQwTmUtb1RUaHFfbUpIZFdxVFI5Zm1JMVpHR0JKYUE2bnBMclRnalBKREI0Sm5EdGhPcWtiYlljenlmZHZqYk5uZXJua0FRMUhGLUNRTHpMNWtNN2FsTGVzVXNCa1VqR1h0b3V6Zlo2Rzg5TkR4cFpfbmE2Y1MyNExWQXY3MUlESjlNY0RoUUNEVjhjTThzWUhB?oc=5",
-          "snippet": "CGU launches Informa.BR to simplify access to public information dataportuaria.com",
-          "source": "dataportuaria.com",
+          "snippet": "CGU launches Informa.BR to simplify access to public information Data Portuaria",
+          "source": "Data Portuaria",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
           "query": "\"Transparency and access to information\""
         }
@@ -7818,8 +7785,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433741+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324539+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7876,7 +7843,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -7930,8 +7897,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433744+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324542+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -7988,7 +7955,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8025,8 +7992,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433749+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324546+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment"
     ],
@@ -8084,7 +8051,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8162,8 +8129,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433752+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324548+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment"
     ],
@@ -8221,7 +8188,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8299,8 +8266,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433754+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324550+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Investment"
     ],
@@ -8358,7 +8325,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8436,8 +8403,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433757+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324552+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -8494,7 +8461,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8514,10 +8481,10 @@ export const signals = [
           "query": "\"EIB\" European Tech Champions Initiative"
         },
         {
-          "title": "Europe launches €80 billion push to back its tech giants - IO+",
+          "title": "Europe launches €80 billion push to back its tech giants - ioplus.nl",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFJ4MnloeS1QaXdPc19HQS1WdHBfU3NuelNRbGx1YU1FVlBWckdsX2VfLVc2R1ZMbVVkU3g2eWU5X19yTmhTOGxGWmdSVmpZWlVKWUZCNGh1WGZ6aEM4ME1JU2lZSDlFai05emt2VHpYRHlGc0JGbC1ycVJxNUw1cVVZeHRkcjRLeWc?oc=5",
-          "snippet": "Europe launches €80 billion push to back its tech giants IO+",
-          "source": "IO+",
+          "snippet": "Europe launches €80 billion push to back its tech giants ioplus.nl",
+          "source": "ioplus.nl",
           "published": "Fri, 10 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" European Tech Champions Initiative"
         },
@@ -8572,8 +8539,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433758+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324553+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -8630,7 +8597,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8658,10 +8625,10 @@ export const signals = [
           "query": "\"EIB\" European Tech Champions Initiative 2.0"
         },
         {
-          "title": "Europe launches €80 billion push to back its tech giants - IO+",
+          "title": "Europe launches €80 billion push to back its tech giants - ioplus.nl",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFJ4MnloeS1QaXdPc19HQS1WdHBfU3NuelNRbGx1YU1FVlBWckdsX2VfLVc2R1ZMbVVkU3g2eWU5X19yTmhTOGxGWmdSVmpZWlVKWUZCNGh1WGZ6aEM4ME1JU2lZSDlFai05emt2VHpYRHlGc0JGbC1ycVJxNUw1cVVZeHRkcjRLeWc?oc=5",
-          "snippet": "Europe launches €80 billion push to back its tech giants IO+",
-          "source": "IO+",
+          "snippet": "Europe launches €80 billion push to back its tech giants ioplus.nl",
+          "source": "ioplus.nl",
           "published": "Fri, 10 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" European Tech Champions Initiative 2.0"
         },
@@ -8708,8 +8675,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433761+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324556+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -8766,7 +8733,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8786,6 +8753,14 @@ export const signals = [
           "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
         },
         {
+          "title": "EIB Group and Santander Unlock €1.43 Billion in Financing for Spanish Businesses - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUFVLXkzUlh5SWdER19faFVnNlBuMFVCZFRXcW5JYmN4Q0hfN0Q5NE9LQ0hjOXo1SWtfODZEUzcxMkgtYThwM2FSV1FuS003Mkc0d3VxOHRVTXFud3hxYi1HVDc2cTZyeklvNWlySWR5NXNuLXl0cW9HZHNJeEFEQVBoWGxfYkNRZTB6TUNZNlFZQnBrVnBSQjBLdV9lcnFLaWMzbTdwbDlPaTJvSXZncTE4M1JnZWRzRFlHYmJqOA?oc=5",
+          "snippet": "EIB Group and Santander Unlock €1.43 Billion in Financing for Spanish Businesses fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
+        },
+        {
           "title": "Greek Firms Get €250 M Financing Boost as EIB and NBG Back Defence Investment - Devdiscourse",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWZoMk5FUHZJSUZUMm9vTElqMVRHZ0Nydk1PZlp3OXNwZnlVR1ViTC1MX2h4Tm9LOXlHWTRBelFrUTVIUDFPdjQtNUFaZlRfUWVHSFJ0bzNwWktfamRPOTkxVmg5a01vQ0pFRXNQU0ROWXBRb0U1RjBqZ3BnSjhfZklwRUxyU0wwOU1feHQ0YzNfZVRxR3dWenptcDFaZy1tSHVETUJFcnlUYk5HOXloVk1zaVAtYkJ1RGJ4T3FJekVoN2R5RjE4R21B0gHPAUFVX3lxTE5WMkV4Q0g2Q3JyU2RjaHN3NG41eWowRjhpU1VHVl8zc05MSk1tQ0lEOGxPSGxKdzBfS3JuVkFxUVU5TDdMczJjWWp2T1hMRVZvUDRyM2V6UEtEbHlGYjRpTGxPdl91amdUSk5aTDlSc2hfbVdLU0NRUl9rM21OMlFqN1l6UktpOXNaQloyUnREQUphaHhwb3ZjUF9WNFlnZ29wWG11d1BzbVJiYTJ6OVlrVUF2TG12Y2xxTVN2YzVWUGlibTVFcERDUkZsRi1FYw?oc=5",
           "snippet": "Greek Firms Get €250 M Financing Boost as EIB and NBG Back Defence Investment Devdiscourse",
@@ -8794,7 +8769,7 @@ export const signals = [
           "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "project": null,
       "entities": [
         "EIB"
@@ -8820,8 +8795,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433763+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324557+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -8878,7 +8853,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -8915,8 +8890,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433764+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324558+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -8973,7 +8948,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9009,19 +8984,19 @@ export const signals = [
           "query": "\"EIB\" Shared management funds"
         },
         {
-          "title": "Airbus to Get $3.42 Billion Loan From European Investment Bank in Tech Sovereignty Push - wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM04yX2hhQ2NrUGNRR0Q2YkNZZzg5TjBOalpEcnZFT2NQLUNtNGI0alVVVWtlTFV5NHE5TVFyYllZLUphX3FPNVFmcGtxQU0zaDVHOUg3aUVZVVRJcUppZ3NyY2RPTktCaVFaenRoVU1HRHhUaXExYUo1Nm9ROFNNcURiYzRrSEh6RnFZdVJQRGxjY05XV2JkUWFsRzlLVWdnMmMwZmNoYmI1SUF6SlFJcVQ1c09KNDFxWmRTQksyaUVHMDgxWXdR?oc=5",
-          "snippet": "Airbus to Get $3.42 Billion Loan From European Investment Bank in Tech Sovereignty Push wsj.com",
-          "source": "wsj.com",
-          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "title": "Practitioners call for expanded access to financial education - webwire.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMlpTUjUtR0RRNldhN1BXWjVrSk90X0ZUY0IyZG9NbVZYRGpIb25XVUR2U25ZdXZpdGlIeVBjcEMyUXc2aXlqel9aX1ZoT0dfVTl1VGJPb3M1WUI1TDhSLQ?oc=5",
+          "snippet": "Practitioners call for expanded access to financial education webwire.com",
+          "source": "webwire.com",
+          "published": "Fri, 04 Sep 2026 13:10:46 GMT",
           "query": "\"EIB\" Shared management funds"
         },
         {
-          "title": "Practitioners call for expanded access to financial education - WebWire",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMlpTUjUtR0RRNldhN1BXWjVrSk90X0ZUY0IyZG9NbVZYRGpIb25XVUR2U25ZdXZpdGlIeVBjcEMyUXc2aXlqel9aX1ZoT0dfVTl1VGJPb3M1WUI1TDhSLQ?oc=5",
-          "snippet": "Practitioners call for expanded access to financial education WebWire",
-          "source": "WebWire",
-          "published": "Fri, 04 Sep 2026 13:10:46 GMT",
+          "title": "The EIB aims to support Morocco’s transformation with 700 million euros in 2026 - Atalayar",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUXZqZ0NlSzg1M3N4ZHN1SEpJempxa0ZFS1NfejV1dThpZFY2M0NWaHJ5cnYwNkYyWVhEZUU3VTlYV04xUm1UVmVaTU9zZHdwN0FKWTRGbjJheGNldHFMM0d3ZUZkZ3pmMXpWT2VnZnU1bGFYSHVHVjFHek5MUWZudEJsRHhIanhOdDFDUUhiUXJTR21ZZjJyZEZidnBjdEcyUkRyVlMtc1k3NjBQd1NzR3d2d3JNbTJCVlI5RFpRSWE2YVNHbjFXaDB3dVFFako1c0VVV1BqVGhsRlUybWFvYTM4aFFTYzFWVk5nY29JVHlocVJzN0HSAfsBQVVfeXFMUEtMRm53NlNrMzlHOTVpVnU0Wm9LZnhHbkZKdW1rblV6OGtvZ0tqSEZNMTB4N1Q2ckp4cW1GXzBiaS1fVFg5NTlnUG41N3d5amFBVGZSM3FQVFA5TEcxeV9ReHhnT1JyMFE3amJVUjRvUGFlc1Rvb0ttZmpRU0lJVUZTTUlpb2Eyb2xLMUFzdVYwZ3ZocGNVREV5QXFfQXhnZ3Y5Q3d4Umh1bW1LTjhPZURJcWY0RHNFQ1FscmlLT2pjaDlRMTMwV2xtem1ab3N2WFhCMjFCVXBTQXJBM25YNkhHbEZnX0ZFR2g3OTFwZlNpaS1mMGE0MzlQQlk?oc=5",
+          "snippet": "The EIB aims to support Morocco’s transformation with 700 million euros in 2026 Atalayar",
+          "source": "Atalayar",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
           "query": "\"EIB\" Shared management funds"
         }
       ],
@@ -9051,8 +9026,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:55.433766+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:06.324560+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9109,7 +9084,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9187,8 +9162,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058322+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764225+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9202,7 +9177,7 @@ export const signals = [
     "actionabilityScore": 31,
     "noveltyScore": 0.0,
     "status": "review",
-    "evidenceLevel": "public search evidence",
+    "evidenceLevel": "official source",
     "evidenceSnippet": "",
     "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
@@ -9245,8 +9220,8 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
-      "status": "public-evidence",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
       "researchPriority": 43,
@@ -9255,49 +9230,8 @@ export const signals = [
         "\"IsDB\" Skip to main content",
         "\"Skip to main content\""
       ],
-      "sources": [
-        {
-          "title": "The Resilience Project of Western Nevada County to Host Community Meeting on September 29 - Nevada County (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdDJudE5TSDVueFpWRXpKc2NWRXhyZ3NlZXhTZXZ6a0NOSGVpbk1WbEpZSHBDblBJOTV4MzlnTmlWbzVkeHhWYWRSM29PY05QMlZVdEdoeG9EZU5BSmhtcWhlNVpBT28?oc=5",
-          "snippet": "The Resilience Project of Western Nevada County to Host Community Meeting on September 29 Nevada County (.gov)",
-          "source": "Nevada County (.gov)",
-          "published": "Thu, 10 Sep 2026 15:34:13 GMT",
-          "query": "\"Skip to main content\""
-        },
-        {
-          "title": "Upcoming Cambridge Traffic Impacts: September 9 - 13 - the City of Cambridge (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYTdMbHVhUFFZYmVQVC0tcXpvYXFBVEZFMkV4T2psaGlCWFBPRjFvelVoM01Gb3FsOEtJWjFrT3d4T0NKTmQydVJhNzI5eG9CejFrVHZFYy16SGttdENhQ3p4SjVKMmxOSWUwVUo5MkNwVzRBbjBtLXNIVTZtbDdCa3NjVkx6cDVUbUtUc2ZhQWM0LUpHQzQ2a3RPSjhCLVNlSGQzcGdySzF2MUtfUERnUHJ0S2lkNFVxV3hVVFZCeVNDMTdRTjY2N1ZGdFRzYnBnN0F3QWxHbTYxSEJtTldJd2RSaWY1NnE5?oc=5",
-          "snippet": "Upcoming Cambridge Traffic Impacts: September 9 - 13 the City of Cambridge (.gov)",
-          "source": "the City of Cambridge (.gov)",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "\"Skip to main content\""
-        },
-        {
-          "title": "Tucson Roadrunners and Matt Shott Arizona Hockey Legacy Foundation Continue Partnership to Bring Shott’s Tots to Tucson - Tucson Roadrunners Hockey",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUptbW11MzBDbG1sVTQ1THZ4ZU1oU0ZtOV9NUnJ4dVpFRXNlY1JqUFpQTkQ2ZDFTSjVueHNZLWU1M3NGdUtmM19lcTdNYXYzc1oxamY5ZWJhczFCZVI5a0lpT3BBVnhTU2FxbWRPNVFkdENWdWlNMWs3ZE5zMGFjcmhFM0plZWxMS1JWLVA2T2d4Rjl1ay1QVGowN0hoR2tCWC1aTmFJbGxfN3pLd1V3RmJQamxnLTh1S0R6OVU0YlJnY0djLWFr?oc=5",
-          "snippet": "Tucson Roadrunners and Matt Shott Arizona Hockey Legacy Foundation Continue Partnership to Bring Shott’s Tots to Tucson Tucson Roadrunners Hockey",
-          "source": "Tucson Roadrunners Hockey",
-          "published": "Tue, 15 Sep 2026 22:58:40 GMT",
-          "query": "\"Skip to main content\""
-        },
-        {
-          "title": "Langston Lewis | Playing with Purpose - Chippewas All-Access - Powered by SIDEARM Showcase - Central Michigan University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjE2N1p5ZDRqVDAwX21qUjQ2aVBBWHZoUU4yeVNzM3Fta3pyVzZWVkhpUlVtRkRTWUpqSnExaFo0OEV0SjNQeWd2SHEtMXMxc25ZbU1iNjZLcm9JT21SY1JRQjVza2N6WDNBeVR4VEdJdTN6MjVQcmdLLWhmdXlKdzZVNnFYX3FGaUhmNGduNlRrOEhKdzRLSGRxQmFBdVE?oc=5",
-          "snippet": "Langston Lewis | Playing with Purpose - Chippewas All-Access - Powered by SIDEARM Showcase Central Michigan University Athletics",
-          "source": "Central Michigan University Athletics",
-          "published": "Sat, 11 Jul 2026 07:00:00 GMT",
-          "query": "\"Skip to main content\""
-        },
-        {
-          "title": "The Citadel Integrates QR Code Order-Ahead System into Johnson Hagood - The Citadel Athletics",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFFUWUx6REhfQ1NYUzR5MTVUOW9BUGxmZlZCem10OUV6d1YzVFJ6N0RmSXE4N0ZFUl9ZREtOdGdIbkZaaFRoYkJaMC15aF9YYi1aeXl1S0xFVHlIT1puajhNSEJMTFFRc281X2hiajZORXQ2d3dYZkc0cXUxZ1VmUlk5U2NNWkNNTmF4d2pDZ0FfampVMGhGX0pyTjRJR1k3WV9RaTZGN0RmWjB3dUVmOXlESE9CVWRMWEVr?oc=5",
-          "snippet": "The Citadel Integrates QR Code Order-Ahead System into Johnson Hagood The Citadel Athletics",
-          "source": "The Citadel Athletics",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"Skip to main content\""
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "IsDB"
@@ -9323,8 +9257,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058351+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764255+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9381,7 +9315,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9393,10 +9327,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "IFAD, IsDB and the OPEC Fund: Partnering for resilience - ifad.org",
+          "title": "IFAD, IsDB and the OPEC Fund: Partnering for resilience - IFAD",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzlXM2NZdHhORklXSDhXMU1xQjY4a1loTkFjRDF5d2N6bjQycmZ5MFNaclJVR2FtN3g3Y0swYU44bDlwTXU2WUU5R1p2TEpGWUl5UndkNjNfeEtpa19DMnFGOGNidDVBSFBfM3M2QWI5c3dlQXR4aFY5WjJ4S3dTeXRWN1lUSFlReGdIZEFNNm9idw?oc=5",
-          "snippet": "IFAD, IsDB and the OPEC Fund: Partnering for resilience ifad.org",
-          "source": "ifad.org",
+          "snippet": "IFAD, IsDB and the OPEC Fund: Partnering for resilience IFAD",
+          "source": "IFAD",
           "published": "Wed, 29 Jul 2026 07:00:00 GMT",
           "query": "\"IsDB\" Together we can Build a better Future"
         },
@@ -9409,10 +9343,10 @@ export const signals = [
           "query": "\"IsDB\" Together we can Build a better Future"
         },
         {
-          "title": "Behind the Haze: The Challenge of Calculating Indonesia’s Peatland Emissions - The Nature Conservancy",
+          "title": "Behind the Haze: The Challenge of Calculating Indonesia’s Peatland Emissions - nature.org",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWU5EcVdTbzRPMXJvZldMRTVPWnlVd3BHODhSd0tCZGdSNWZXeVFqVnRxY1RqMV80S3c0bjkyQnJqZEh2eGRqVnk0QldXZXFQcEgzU3hCNDdqU0daVGZPV1VFS2k5VXdEYWtwakNYU0Z6eEVsZGNrZmRLbjJWcGFDaHF3Y0ItZjZoaTlmZm5vTy1oTTE4WlREQlYtSGhKMnRJdzRmNEdtclFGSmlwX1p4R0tOZTdFbkdVWVVlTU10QVQ4Sk0?oc=5",
-          "snippet": "Behind the Haze: The Challenge of Calculating Indonesia’s Peatland Emissions The Nature Conservancy",
-          "source": "The Nature Conservancy",
+          "snippet": "Behind the Haze: The Challenge of Calculating Indonesia’s Peatland Emissions nature.org",
+          "source": "nature.org",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "query": "\"Together we can Build a better Future\""
         },
@@ -9459,8 +9393,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058353+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764256+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9517,7 +9451,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9595,8 +9529,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058359+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764261+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9653,7 +9587,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9690,8 +9624,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058378+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764278+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9748,7 +9682,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9784,10 +9718,10 @@ export const signals = [
           "query": "\"IsDB\" Expression of Interest"
         },
         {
-          "title": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria - thecable.ng",
+          "title": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria - TheCable",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU1hoUjhtNnluWE00Q3NZa21tZDBQamVJbG5sQ2VTN3d4c0ZTQ3R5Y2tXUEpIVUxZdmpOTTlfbHctb2ZQTnVQLU9TMXVJNTdoQ0oyMjFlQlphXzZURTdOLW1IV24xTGFPaktLVEdJcVZyT2tfNGRZOTJlLUdOUDhoZDZGSUQ0THR5Q0RyMW5ZWXVudmppcUpmU3pTbENtUk1wNHNrM1BOSlpXbXpIaDBNNmhHNDJ4RHpvM0J5cFN1SlpSRURFQk9wSXRrZ28yQk91eWk4X3lGSzcydGhrdWVkYndpTmRfVTlxdERNeDYtUjdQRDNfWW5ncg?oc=5",
-          "snippet": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria thecable.ng",
-          "source": "thecable.ng",
+          "snippet": "Request for Expressions of Interest: Enterprise Support Organizations Capacity Development for Improved Start-ups Service Delivery in Nigeria TheCable",
+          "source": "TheCable",
           "published": "Wed, 15 Jul 2026 07:00:00 GMT",
           "query": "\"IsDB\" Expression of Interest"
         },
@@ -9826,8 +9760,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.058379+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:07.764279+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -9884,7 +9818,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -9920,10 +9854,10 @@ export const signals = [
           "query": "\"Request for Proposal\""
         },
         {
-          "title": "National Park Service Request for Proposals for Three Historic Properties - National Park Service (.gov)",
+          "title": "National Park Service Request for Proposals for Three Historic Properties - nps.gov",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW40a01UQTd2WkM5V1ZUcVhORm82bHBvT1lXUmVkeVFLcVVxSkFEbWdzX0hja05DVHMzZmsxa21SbTVWUW41LThJck5xOUJoejFUOHVoU2FOUkpfeDNLV05mMGFqUlJ4azBDR1hQdUhheG5WQ0g3S2E2NThmV1dpVWd0eU9nSm1UUkR3cG5BOVdaWWxTTnJiU05mQ2xpZFhzd1Q5MXdMWU42WnVibF80?oc=5",
-          "snippet": "National Park Service Request for Proposals for Three Historic Properties National Park Service (.gov)",
-          "source": "National Park Service (.gov)",
+          "snippet": "National Park Service Request for Proposals for Three Historic Properties nps.gov",
+          "source": "nps.gov",
           "published": "Tue, 08 Sep 2026 07:00:00 GMT",
           "query": "\"Request for Proposal\""
         },
@@ -9962,8 +9896,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673809+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728810+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10020,7 +9954,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10031,14 +9965,6 @@ export const signals = [
         "\"Overview: about the EBRD\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -10072,7 +9998,7 @@ export const signals = [
           "query": "\"EBRD\" Overview: about the EBRD"
         }
       ],
-      "sourceCount": 5,
+      "sourceCount": 4,
       "project": null,
       "entities": [
         "EBRD"
@@ -10098,8 +10024,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673825+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728828+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10156,7 +10082,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10167,14 +10093,6 @@ export const signals = [
         "\"Basic documents establishing the Bank\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -10200,7 +10118,7 @@ export const signals = [
           "query": "\"EBRD\" Basic documents establishing the Bank"
         }
       ],
-      "sourceCount": 4,
+      "sourceCount": 3,
       "project": null,
       "entities": [
         "EBRD"
@@ -10226,8 +10144,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673827+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728830+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10284,7 +10202,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10295,14 +10213,6 @@ export const signals = [
         "\"Governance and leadership\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -10320,20 +10230,28 @@ export const signals = [
           "query": "\"EBRD\" Morocco Market intelligence"
         },
         {
-          "title": "EBRD and GCF launch Mongolia GEFF Greening Financial Systems framework - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa2REaXU1SG5jWExJM3p4ZW1LQ3JGQzl5UjlnZGRtVDZrTjQ4WElnTU1la0lYeTVSeWxxUk1qNFgyTUJyMGNHVmpkMzRHVUNLWW5TNm9oeFVQVVphdDczbHJmeTEwMTlKUllNNl9KblN1T0tpcFFnNGs2Y3gxWkF1ZXk0MmlpMDVfVWF2a1pEYUFnbnR5cl9hcENwb2VhaVJEOE9Kb2I1Zk5CQmFPdVlURVVCb3FKZFJfMjE1UUFzLUEtVGZXTUhmSXNCdEhkdkpnc1JzQ2Juak5HVTZK?oc=5",
-          "snippet": "EBRD and GCF launch Mongolia GEFF Greening Financial Systems framework EBRD",
-          "source": "EBRD",
-          "published": "Wed, 16 Sep 2026 08:53:36 GMT",
-          "query": "\"EBRD\" Governance and leadership"
-        },
-        {
           "title": "DP WORLD AND EBRD SIGN €25 MILLION GREEN LOAN FOR CONSTANȚA TERMINAL - DP World",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHVKU3lRY05nUU44Tk05TFItemFjYVB3N3o5aThOZEFVVkY4LWFGQ1hwcWZfaUF6cGZuSnVmNUdSRWljOUZ0dEtYam00b2JGeDRBSnBOaFRRT0tjZkJqaTcwdV8yaE1HRzB5aUoxMVBZT0tBZFUxM1drZTRzMFRSMm9PRlh3ODJPSG9nYlh4Ui1YTm1uZ2xRa3hxVUpmZ0k?oc=5",
           "snippet": "DP WORLD AND EBRD SIGN €25 MILLION GREEN LOAN FOR CONSTANȚA TERMINAL DP World",
           "source": "DP World",
           "published": "Fri, 24 Jul 2026 07:00:00 GMT",
           "query": "\"EBRD\" Governance and leadership"
+        },
+        {
+          "title": "Ireland Launches Major Local Government Reforms to Strengthen Democracy and Empower Communities - fundsforNGOs News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFVPWmZRNFNZc096aFVkRFoyVDh1TzNWbl9pQm9CdWxLaGd2eXNjODBmLXNBZS01MW1qUzZwWlRCVnhTblRLSFBzMTdSYnkyRGwzenYyMW4zS3Z2d1JXSkdIX0wxN2Y5UUsza3BEbDVTU0tsQ2IweXJzcFktSmhjMmZRbUtvd2FwajZSODlIQXdxV0NONE9YNDlIWkljaXlwQll6MnJ5M3hGVXJBbHBTcWNTTUdrT25xaDJKYkRtNGFNaEQxTld6ZTBXTEk0MlFYZXow?oc=5",
+          "snippet": "Ireland Launches Major Local Government Reforms to Strengthen Democracy and Empower Communities fundsforNGOs News",
+          "source": "fundsforNGOs News",
+          "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "query": "\"EBRD\" Governance and leadership"
+        },
+        {
+          "title": "Top 5 AI Courses for Building Agentic AI, Governance, and Leadership Skills in 2026 - LaGrange Daily News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWpkU284dVRPM2hSVm13R3V0eVNmZHozbEd6TmVBVlpKeF8zQW1ueFhyR1BXVHpYeXpKZkdleXQwbnVoZklPX19FZmJEaGJub0RwNy1ranFhb1RzemhKZURpR1dfU0psVTBDWjA1Xy11VHl1NW41LVdtcTJEcG10N2ZfVF90ZEpnUmxXelR5OHB4SzhraFF2SDlIUktNVEZWekpjOG5sc2QyRGExdU1IZ0hSQm5NUjZIUGpUVWJ6b1NXOFowd2JxUmt4NW1zZy1pM0NN?oc=5",
+          "snippet": "Top 5 AI Courses for Building Agentic AI, Governance, and Leadership Skills in 2026 LaGrange Daily News",
+          "source": "LaGrange Daily News",
+          "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+          "query": "\"Governance and leadership\""
         }
       ],
       "sourceCount": 5,
@@ -10362,8 +10280,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673829+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728831+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10420,7 +10338,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10431,14 +10349,6 @@ export const signals = [
         "\"Annual Meetings and Business Forums\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -10472,7 +10382,7 @@ export const signals = [
           "query": "\"EBRD\" Annual Meetings and Business Forums"
         }
       ],
-      "sourceCount": 5,
+      "sourceCount": 4,
       "project": null,
       "entities": [
         "EBRD"
@@ -10498,8 +10408,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:57.673830+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:08.728833+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10556,7 +10466,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10567,14 +10477,6 @@ export const signals = [
         "\"Environmental and social sustainability\""
       ],
       "sources": [
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
         {
           "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
@@ -10606,6 +10508,14 @@ export const signals = [
           "source": "solidcore-resources.com",
           "published": "Fri, 03 Jul 2026 07:00:00 GMT",
           "query": "\"EBRD\" Environmental and social sustainability"
+        },
+        {
+          "title": "EBRD backs Côte d’Ivoire nickel sector with $30m financing - Africa Business Communities",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2R6TXJaQWhiRVRrSHVYR1I3a1Ewdm9Sc2NJclpxc1lwYkdvMHJRdGlFYkQ4SXdJdUxoejZUSlFPaFcxSE44RkJ4M0ZFOXV3b3g5TWNFMXVKb1ppVmRYVHZBQkE0dlA5b3ROZHZKSlE0MzhLd3JDSnpWZEJ1dmswWE4tUFJHUUpDWlVUTUc4cVdxX2p4YmlZM1RDQXg1Z0tKeFJmQkc4dw?oc=5",
+          "snippet": "EBRD backs Côte d’Ivoire nickel sector with $30m financing Africa Business Communities",
+          "source": "Africa Business Communities",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "\"EBRD\" Environmental and social sustainability"
         }
       ],
       "sourceCount": 5,
@@ -10634,8 +10544,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498216+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157068+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Grid"
     ],
@@ -10691,7 +10601,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -10703,10 +10613,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "ONEE Launches Geotechnical Studies for New HVDC Corridor - hvdcworld.com",
+          "title": "ONEE Launches Geotechnical Studies for New HVDC Corridor - HVDC World",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVyY19iRG5ndmxMdzd4UFBPX0hUcE0yMk9hbXhyWDkzbFpBeC1qNjZQWXFvQWJFa2x4a3hjcVFfVXpFa1FrZ0I5Y3dhR2dIN3JldmJBZEIzeDZvcHAtRFMyNEI1QmZpT2VaNzFVOU1iMDhOY1U4MGtZX2NrMXdUZmJrb0xELU1Da01j?oc=5",
-          "snippet": "ONEE Launches Geotechnical Studies for New HVDC Corridor hvdcworld.com",
-          "source": "hvdcworld.com",
+          "snippet": "ONEE Launches Geotechnical Studies for New HVDC Corridor HVDC World",
+          "source": "HVDC World",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
           "query": "\"ONEE\" Morocco Grid"
         },
@@ -10719,10 +10629,10 @@ export const signals = [
           "query": "\"ONEE\" Morocco Grid"
         },
         {
-          "title": "Morocco builds pumped storage to hold its solar and wind output - energy-news-network.com",
+          "title": "Morocco builds pumped storage to hold its solar and wind output - Energy News Network",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzctWUo2SHkza0pDTGpUck9VMDJKdWllUHViUlpUM3Y5bF9idWxVSkxPdWJmU1luQlBhYVFBdmN5LTNzdHd4U1lnN1V2YjJ3ZzM2RkRaN0RtWEptdUo2S0stOFBLdk01cXYtdzcxVzJVNDNnRU5ubkZqQ25SdHQwYkRyTU45UmRrSVdjUENKVjVnaGRkRkl6Z1FBbm56VGd1WXVHbmdWMDRaNEQtTXlr?oc=5",
-          "snippet": "Morocco builds pumped storage to hold its solar and wind output energy-news-network.com",
-          "source": "energy-news-network.com",
+          "snippet": "Morocco builds pumped storage to hold its solar and wind output Energy News Network",
+          "source": "Energy News Network",
           "published": "Thu, 23 Jul 2026 07:00:00 GMT",
           "query": "\"ONEE\" Morocco Grid"
         },
@@ -10776,8 +10686,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498214+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157066+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10840,8 +10750,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498213+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157065+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10904,8 +10814,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498211+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157064+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -10968,8 +10878,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498208+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157061+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11032,8 +10942,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498205+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157058+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11096,8 +11006,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498203+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157057+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11160,8 +11070,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498202+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157056+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11224,8 +11134,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498200+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157054+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11288,8 +11198,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498198+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157053+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11352,8 +11262,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498196+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157051+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11416,8 +11326,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498176+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157020+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11480,8 +11390,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498193+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157049+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11544,8 +11454,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498217+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157069+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11608,8 +11518,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498221+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157072+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11672,8 +11582,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498210+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157062+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11736,8 +11646,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-19T11:01:29.498206+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "published": "2026-09-19T14:27:00.157060+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11801,7 +11711,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -11859,7 +11769,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -11887,19 +11797,19 @@ export const signals = [
           "query": "\"RINA\" Italian Engineering Group RINA Opens Moroccan Subsidiary in Casablanca - Morocco World News"
         },
         {
+          "title": "T2S Group Launches $110M Casablanca IPO - Dabafinance",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JV1FJYlNCV05RbFQ3aG5mLVNFX0JkZmVWcGFZZnNsZkhiS2pBUmUtQV9HdGU0eWY5MlNCZTYya1RGaDVVb2NoRU5uemtvcDYzZDRjcTdXWVdXRmVjd1lObUItZGw0dzQ?oc=5",
+          "snippet": "T2S Group Launches $110M Casablanca IPO Dabafinance",
+          "source": "Dabafinance",
+          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "query": "\"Casablanca\" Morocco Market intelligence"
+        },
+        {
           "title": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA - Little Black Book | LBBOnline",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJqT2pOZVlNN1dLS01uNUFYcDBhZmtMenVUSGwyZ1RuSENMeXhWa1VpUnZaTUphZExPalZHTmQ1RHk3N3dUUThjWWtRMERIak84dEdybTIxZl9UUHJTdDVfV1hVS0JxOFZxSjlwSUd3bWFyYTdUanlQM3ZXTFVJWEZ0ckg4V050eTAyb3dNTHFzajY4Y1FSTDFVSEFCeEFL?oc=5",
           "snippet": "Inside ZIET’s Parallel Markets Method for Regional Production Across MENA Little Black Book | LBBOnline",
           "source": "Little Black Book | LBBOnline",
           "published": "Tue, 08 Sep 2026 13:39:45 GMT",
-          "query": "\"Casablanca\" Morocco Market intelligence"
-        },
-        {
-          "title": "T2S Group Launches $110M Casablanca IPO - dabafinance.com",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JV1FJYlNCV05RbFQ3aG5mLVNFX0JkZmVWcGFZZnNsZkhiS2pBUmUtQV9HdGU0eWY5MlNCZTYya1RGaDVVb2NoRU5uemtvcDYzZDRjcTdXWVdXRmVjd1lObUItZGw0dzQ?oc=5",
-          "snippet": "T2S Group Launches $110M Casablanca IPO dabafinance.com",
-          "source": "dabafinance.com",
-          "published": "Thu, 16 Jul 2026 07:00:00 GMT",
           "query": "\"Casablanca\" Morocco Market intelligence"
         },
         {
@@ -11963,7 +11873,7 @@ export const signals = [
     "source": "Hydrogen Fuel News",
     "sourceType": "news",
     "published": "2026-09-12T13:11:06+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
     "categories": [
       "Hydrogen / PtX"
     ],
@@ -12018,7 +11928,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -12048,6 +11958,14 @@ export const signals = [
           "source": "Hydrogen Fuel News",
           "published": "Mon, 14 Sep 2026 07:00:00 GMT",
           "query": "\"RINA\" RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News"
+        },
+        {
+          "title": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project - Hydrogen Insight",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbklnaXoya2tWbjE4eTZkZEg4ZTN2YVVWMGdXcnQwOVQ4QVlLVG8wVDNyUVo4R0ppbjFpT0JxQmVPYWNaeDhsbDlzang1Z3F2VUUtVHUtZ2cwQVROUFhxTjFWR2lTcEVCYVZ0VXVoTFpmekVUclF5SXdVVFYtNF8wQkxTbFNXZllaRm5oNWVNREtyMjRSOG00dTF2Qm1IZzktZS11ZU1ISkhuRzQtdVlQVGZQY0ZuVjFwYW1xMnI2UE1yR1J1NlBWSkxXbTd5bXU2WTVCNnp5UXdoN1o3ZHBGUQ?oc=5",
+          "snippet": "US government to fund feasibility study for $4.5bn African green hydrogen and ammonia project Hydrogen Insight",
+          "source": "Hydrogen Insight",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
           "title": "Yara’s Green Ammonia Marketing Deal With Neom in Saudi Arabia - Discovery Alert",
@@ -12098,7 +12016,7 @@ export const signals = [
           "query": "Morocco pumped storage hydro project contractor"
         }
       ],
-      "sourceCount": 8,
+      "sourceCount": 9,
       "project": null,
       "entities": [
         "RINA"
@@ -12121,6 +12039,607 @@ export const signals = [
       ],
       "overallConfidence": "MEDIUM",
       "unresolved": []
+    }
+  },
+  {
+    "id": "sig-e04774bb5618",
+    "title": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: - openPR.com",
+    "headline": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: - openPR.com",
+    "summary": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0ZGNlhCYzF3NkFMQVh0YjlaVk5SYWV3UUcwTGx1Ni1kMDQybVhrZVpkWnR0TldzSGZxdVlnM3FuQVVqbWIyWHFlT0dwS1ExUzB5U0hnU1VjWjRaekQtOExYVkFTWkRzVXR3bHA2MEFJcW1zbnMtNVQ5VmVyZnJKdFBxSUFDWElCSzVyQzdGMEMtUGItSnc?oc=5",
+    "source": "openPR.com",
+    "sourceType": "news",
+    "published": "2026-09-18T14:13:56+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
+    "categories": [
+      "BESS",
+      "Manufacturing"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 45,
+    "actionabilityScore": 32,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: openPR.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 39,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.61,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
+    "aiReviewed": false,
+    "reviewQueueReason": "1 event indicator(s); 1 technology indicator(s)",
+    "project": null,
+    "researchPriority": 40,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-601f3e2497c3",
+    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+    "source": "Offshore Magazine",
+    "sourceType": "news",
+    "published": "2026-09-03T07:00:00+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
+    "categories": [
+      "Wind",
+      "Investment"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 56,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 62,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.62,
+    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": false,
+    "project": "Morocco Offshore Wind Feasibility Study",
+    "researchPriority": 95,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "consulting/advisory potential",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 95,
+      "researchQueries": [
+        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
+        "\"Morocco Offshore Wind Feasibility Study\" contractor",
+        "\"Morocco Offshore Wind Feasibility Study\" tender",
+        "\"EIB\" Morocco Wind Investment",
+        "\"EIB\" Morocco Offshore Wind Feasibility Study",
+        "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
+        "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+        "Morocco offshore wind MASEN EIB feasibility",
+        "Morocco offshore wind Essaouira contractor",
+        "site:eib.org Morocco offshore wind",
+        "site:masen.ma offshore wind Morocco"
+      ],
+      "sources": [
+        {
+          "title": "OWC wins EIB contract for Morocco offshore wind study - renewablesnow.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study renewablesnow.com",
+          "source": "renewablesnow.com",
+          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
+          "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
+          "source": "Windtech International",
+          "published": "Mon, 14 Sep 2026 08:29:01 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
+          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
+          "source": "Agenzia Nova",
+          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
+          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
+          "source": "Morocco World News",
+          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - en.hespress.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
+          "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing en.hespress.com",
+          "source": "en.hespress.com",
+          "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+          "query": "\"EIB\" Morocco Wind Investment"
+        },
+        {
+          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
+          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
+          "source": "Windtech International",
+          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
+          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
+        },
+        {
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
+          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
+        },
+        {
+          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
+          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
+          "source": "Energy Global",
+          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "EIB backs feasibility study for Morocco’s first offshore wind farm - en.hespress.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWswZ0tFdEl6RFlXTDlXS21EZFFNZmFGU3YwZFVsLUg2TnB4cFNuSUlmYkF0M3FWdU5wNDBfQTg4ekF4MmFJVUlERHUxbl9WRWUxUDJySmhPNjVXQjZNTE1WbG81YXlJeHF1NURKZmRnYjNtTk9maVc4OGsxaGxNOEV4NWJ5TUhIN0RVcHBhMHZzeFYxdXlVa2tVVm14S2VyZks0?oc=5",
+          "snippet": "EIB backs feasibility study for Morocco’s first offshore wind farm en.hespress.com",
+          "source": "en.hespress.com",
+          "published": "Sat, 05 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
+          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
+          "source": "Construction Review",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWllGcXBERC0tbjJVRElWcDZISXYtemJ3OUhOT3EyQ2tacFRkbXBkbnp0Z2NtT1lHNE9ndmNnUkxHakJxM3JFT1pBOVNyeVdLaWZOTWlsTlVsUlFnc1RCTDA0enVDb0RWZjFsN2QtQWZLek4tRjdFWTVxaC1tUGJNZFBjUU1ZYm1nQlhDZUJ4YmJ3UlpkekVVNDM1QlI1b0hwMWJkWUFBV1lxNGpIblJCM0Q5QmtZdGJGOGF6d29NZEU1N3JIemY3Vw?oc=5",
+          "snippet": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Tue, 15 Sep 2026 06:22:09 GMT",
+          "query": "site:eib.org Morocco offshore wind"
+        },
+        {
+          "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
+          "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
+          "source": "European Investment Bank",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "query": "site:eib.org Morocco offshore wind"
+        }
+      ],
+      "sourceCount": 12,
+      "project": "Morocco Offshore Wind Feasibility Study",
+      "entities": [
+        "EIB"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0,
+            3,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-5da890ed5242",
+    "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+    "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+    "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+    "source": "Hitachi Energy",
+    "sourceType": "news",
+    "published": "2026-09-16T01:25:44+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 technology indicator(s); quantitative detail",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
+        "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+      ],
+      "sources": [
+        {
+          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
+          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
+          "source": "Hitachi Energy",
+          "published": "Wed, 16 Sep 2026 01:25:44 GMT",
+          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+        },
+        {
+          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOGpxdVliN0dxRlY0cFk4RG9kQjZ6UDJmc1UwcmFWemNwaVVydUJyajVCNTJiUDBEVV90eEZRdS1RdUZVOUlnS2p0WkQ4SzkwUlpGcHVIRmx0bURpTXM0V0RLZ3R4LUVETHVkaDh5MnZ4cFBjZ0JFVjVRT21NSjJsRmpaWXdWQ19OQzVEcjlnZDQ2dVVVbVItTVQ5WVhxWnhjZjhnNzZYYUxWSnc0RHVCMExkb3A4bGQ5UUQ0dDZRYjUzOEdnNzRkM1p0c0dDbHNPSk1aM0dSZzlOMHltYURYMk9qX3I0cDJnaTVwTHU2SnIxMjk3ZWRURHRQMTF6cFZLSk1HdWtSbTJTRmpac3M5cERaMjBEcjhkblJmajV3eXprcTlsZFpmTGpn?oc=5",
+          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
+          "source": "Hitachi Energy",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-3a60df23a7bb",
+    "title": "Multiparty democracy and pluralism",
+    "headline": "Multiparty democracy and pluralism",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-09-19T14:27:08.728834+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 13,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.87,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": false,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Multiparty democracy and pluralism",
+        "\"Multiparty democracy and pluralism\""
+      ],
+      "sources": [
+        {
+          "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
+          "snippet": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion Business News Nigeria",
+          "source": "Business News Nigeria",
+          "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+          "query": "\"EBRD\" Morocco Market intelligence"
+        },
+        {
+          "title": "EBRD and Microsoft Partner to Help African Startups Adopt AI and Scale - iAfrica.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmJibFV3N0JQU2lhSkZsZ3l3cnNrWk1wMl9UcG5na205YXpFRHFlWlhORl9Md2o3N2VldnZlQjVTOUlVc3IzVTBNcXBQQUdmdDF3T0ZKV0xtZGVGQTYwSWdDbUU0c005M1ByQ0x6LTc0UXlVdzBUN3VyenN2R0hxWFFOYm9sNTFYOEtmZDc4emZlLWdiR1E?oc=5",
+          "snippet": "EBRD and Microsoft Partner to Help African Startups Adopt AI and Scale iAfrica.com",
+          "source": "iAfrica.com",
+          "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+          "query": "\"EBRD\" Morocco Market intelligence"
+        }
+      ],
+      "sourceCount": 2,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-5b6e8d760fff",
+    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+    "source": "renewablesnow.com",
+    "sourceType": "news",
+    "published": "2026-08-27T07:00:00+00:00",
+    "detected": "2026-09-19T14:27:08.781787+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 46,
+    "actionabilityScore": 33,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "public search evidence",
+    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 81,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-09-19T14:27:08.957419+00:00",
+      "status": "public-evidence",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 81,
+      "researchQueries": [
+        "\"AFRY\" Morocco Market intelligence",
+        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
+      ],
+      "sources": [
+        {
+          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
+          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
+          "source": "renewablesnow.com",
+          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
+        }
+      ],
+      "sourceCount": 1,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -12230,69 +12749,6 @@ export const signals = [
     }
   },
   {
-    "id": "sig-e04774bb5618",
-    "title": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: - openPR.com",
-    "headline": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: - openPR.com",
-    "summary": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0ZGNlhCYzF3NkFMQVh0YjlaVk5SYWV3UUcwTGx1Ni1kMDQybVhrZVpkWnR0TldzSGZxdVlnM3FuQVVqbWIyWHFlT0dwS1ExUzB5U0hnU1VjWjRaekQtOExYVkFTWkRzVXR3bHA2MEFJcW1zbnMtNVQ5VmVyZnJKdFBxSUFDWElCSzVyQzdGMEMtUGItSnc?oc=5",
-    "source": "openPR.com",
-    "sourceType": "news",
-    "published": "2026-09-18T14:13:56+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
-    "categories": [
-      "BESS",
-      "Manufacturing"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 45,
-    "actionabilityScore": 32,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Lithium-Ion Battery Manufacturing Plant Setup Cost 2026: openPR.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 39,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.61,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
-    "aiReviewed": false,
-    "reviewQueueReason": "1 event indicator(s); 1 technology indicator(s)",
-    "project": null,
-    "researchPriority": 40,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
     "id": "sig-5d02d591b9b6",
     "title": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
     "headline": "Top 10 EV and Battery Factories Challenging China’s Manufacturing Dominance - GreentechLead",
@@ -12351,202 +12807,6 @@ export const signals = [
       "willResearch": false,
       "reason": "L0 monitor-only",
       "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-601f3e2497c3",
-    "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-    "headline": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-    "summary": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-    "source": "Offshore Magazine",
-    "sourceType": "news",
-    "published": "2026-09-03T22:16:50+00:00",
-    "detected": "2026-09-19T11:01:57.731570+00:00",
-    "categories": [
-      "Wind",
-      "Investment"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 56,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 62,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.62,
-    "filterReason": "3 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": false,
-    "project": "Morocco Offshore Wind Feasibility Study",
-    "researchPriority": 95,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "consulting/advisory potential",
-      "investment/financing",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T11:01:57.918764+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 95,
-      "researchQueries": [
-        "\"Morocco Offshore Wind Feasibility Study\" Morocco",
-        "\"Morocco Offshore Wind Feasibility Study\" contractor",
-        "\"Morocco Offshore Wind Feasibility Study\" tender",
-        "\"EIB\" Morocco Wind Investment",
-        "\"EIB\" Morocco Offshore Wind Feasibility Study",
-        "\"European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine\"",
-        "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-        "Morocco offshore wind MASEN EIB feasibility",
-        "Morocco offshore wind Essaouira contractor",
-        "site:eib.org Morocco offshore wind",
-        "site:masen.ma offshore wind Morocco"
-      ],
-      "sources": [
-        {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 09:55:19 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "EIB provides financing for Princess Elisabeth Energy Island - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWFvT1hpOEJwLXN4dmF6cVRRaTNSQ1NUTjlqU083ak1iTHdMRkNEZGdlbmF4UzdHU1MwMWNOWmFBQUEzc3ZFZld1dTBaM3JFWXBRUjBFRjN1aXBoNlNrb1d2VmRCUHd0SXUwUnlpUkJpaTdvQURPdVM5XzVXNWhTZnU2bWtfbFV0aEZpd1M1VHhDUVRQYlV5TUpjcFVYb0ZNNnByRl91Nk1YTXNsSkFuOXlHWktZTmo0aUVvZ1hB?oc=5",
-          "snippet": "EIB provides financing for Princess Elisabeth Energy Island Windtech International",
-          "source": "Windtech International",
-          "published": "Mon, 14 Sep 2026 08:29:01 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira - Agenzia Nova",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjdCLVlpTkpnVXgtMVk4MVFhSmZBZFptajgxMjl1Ui1vd2dyOE45UkpEWm1CdTF1Y0VXczE0UzIzbFFwTHlGZjlCVzJaZnhWWjhPRGV4TXdUazVPSDFldHhuaC1PdTFiMzJqX0pXbWtMclpjbGRKZFJ5WjFWVlFtTzhXbW1wYVE1MERlTHFyMXUtWVVFbnNrakY1SGlRVzFSNE8xWmpSQVJmQTFNX0pWQWVCWkZjZE1USHE0eHZvWHN5QmFWQzJQdFNsY19sbHNNODF5dEUzai1aYUJDRkFyUA?oc=5",
-          "snippet": "Morocco: EIB appoints international consortium to conduct feasibility study for first wind farm in Essaouira Agenzia Nova",
-          "source": "Agenzia Nova",
-          "published": "Fri, 04 Sep 2026 09:54:36 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk41OTY5d3N5MjVweE42dWpyVE15aDVWeVNVT1JyY1hvUHQtSDhreERPRXZsVmEySnp5akRNVElMdFhNYmk3amE3UVZwR1k2aDU4ZVI4TWwwcVRDQUxOaDRWNHRzOFhOb2p6YmU1aUJXVURXR0JGU0dxSURYT2xrTDBybjZ3WE5oY0tubmlHR3Fvc2cyNFo1cnhZSC1RMjRaRXRuVWlTbTJtZHZsMU1ma25oSjRmUHlPYjBJZDZNbUkwS3lYY0E?oc=5",
-          "snippet": "OWC Consortium to Lead Feasibility Study for Morocco’s First Offshore Wind Farm Morocco World News",
-          "source": "Morocco World News",
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing - HESPRESS English - Morocco News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUhPNXBtVFJ3TjhVR3hHbzZmT1BUWF9iQzV0MnBDa2RjZk83LWJKcUxuYzBqVEZpaHpDX0VpN0p6bXpvSmRydjFXdUJGWWoxY0FhTGxVOW9DNEVwZjVyWC1wYUY4Q0ZScjJueTE2ZHdfOEtWM0hYMHpjVkVXVnBfSldpZWN3TnhldFNvamI2NE0zY0RTblpoeGZxYnk5d1F6amJnaldrWQ?oc=5",
-          "snippet": "EIB Backs Morocco’s Highway Modernization With €300 Million Financing HESPRESS English - Morocco News",
-          "source": "HESPRESS English - Morocco News",
-          "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Wind Investment"
-        },
-        {
-          "title": "Feasibility study for Morocco’s first offshore wind farm - Windtech International",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzdudVVWMUdhaEl6a296d1dIeDd0c0YwcXc0ZVJkY3JxamZFRGlBVXFtSWltTzFMWHdZbTRHb2tXYk9pWTBNd3ZVMlMxRElrbU8zVzZKR2tWX0xKc0VlR0c4OGQzekF0M2xodWZ3ZTBEZmlOTy11cDQ0eWRhdlBqVHQ3S1hkRTcwdWhxRk1OTXFpM3V2cTFER2tkZHM4eWpjVEloYVc5anFiNjlsRUh5RGJjTVF6d2dx?oc=5",
-          "snippet": "Feasibility study for Morocco’s first offshore wind farm Windtech International",
-          "source": "Windtech International",
-          "published": "Thu, 10 Sep 2026 08:28:10 GMT",
-          "query": "\"EIB\" Morocco Offshore Wind Feasibility Study"
-        },
-        {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 22:16:50 GMT",
-          "query": "Morocco European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine"
-        },
-        {
-          "title": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWNFdVo2MWFOd0NjQlVoLUNvVVFMRDl3SXJOQ3dzS240NzNMZmQ4Q3RWRFpwRmlJLVptcktGWWxJSTdzbVBfSmhpUEN6VmFBMWZSdzZ0Uktaci1JcFRaSk54YnljLXlIOW05ckpaYXp0bVdVaVo5LVhTLVc4RWZPWGhEOWxFeU5GR210bWRYcDZRSGx6M3Q3WFVwU1kxOWt6ZzNlSjNPRkx4VVJlYnhPdUZYV21UZ2dTaWtWUUxySlZnc0dRMU1OSTNCQXJoMTdBNmM2QUkzNHl2VnVnUDVxREx2V0JnSUZ0bUNONWJVWFJubkp0emJBMmpn?oc=5",
-          "snippet": "$25 Billion Morocco-Nigeria Gas Pipeline Secures ECOWAS Support Construction Review",
-          "source": "Construction Review",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind Essaouira contractor"
-        },
-        {
-          "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWllGcXBERC0tbjJVRElWcDZISXYtemJ3OUhOT3EyQ2tacFRkbXBkbnp0Z2NtT1lHNE9ndmNnUkxHakJxM3JFT1pBOVNyeVdLaWZOTWlsTlVsUlFnc1RCTDA0enVDb0RWZjFsN2QtQWZLek4tRjdFWTVxaC1tUGJNZFBjUU1ZYm1nQlhDZUJ4YmJ3UlpkekVVNDM1QlI1b0hwMWJkWUFBV1lxNGpIblJCM0Q5QmtZdGJGOGF6d29NZEU1N3JIemY3Vw?oc=5",
-          "snippet": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing European Investment Bank",
-          "source": "European Investment Bank",
-          "published": "Tue, 15 Sep 2026 06:22:09 GMT",
-          "query": "site:eib.org Morocco offshore wind"
-        },
-        {
-          "title": "EIB contributes over €260 million to Poland's second-largest onshore wind farm - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzdVenBENmNqNWFUdmktRzdxTmNER3VwNUg2YVZMOWEza1hPRzN3U3hKZXNJcVFRYlFjTGQ0QWJLd2tJdXVaN2pOcThseTBKeEhRZF9rbmRlTUtHZWVzUEdiQnV2YzZyczh0aXo1azFZbGM1RFQyMkdjWHQzREhVSU5ZWTdhNTdnLVNKalp2dU8taW44TjFkOFZWdjdKVmxsUVBpYkJXLU5oUWFJODFmUUVLYkhHNlY4TTRrdlNKTQ?oc=5",
-          "snippet": "EIB contributes over €260 million to Poland's second-largest onshore wind farm European Investment Bank",
-          "source": "European Investment Bank",
-          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-          "query": "site:eib.org Morocco offshore wind"
-        }
-      ],
-      "sourceCount": 10,
-      "project": "Morocco Offshore Wind Feasibility Study",
-      "entities": [
-        "EIB"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0,
-            3,
-            5,
-            6
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
     }
   },
   {
@@ -12635,225 +12895,6 @@ export const signals = [
       "sourceCount": 1,
       "project": null,
       "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-5da890ed5242",
-    "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-    "headline": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-    "summary": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-    "source": "Hitachi Energy",
-    "sourceType": "news",
-    "published": "2026-09-16T01:25:44+00:00",
-    "detected": "2026-09-19T05:55:25.797743+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 technology indicator(s); quantitative detail",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T05:55:25.980670+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy\"",
-        "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-      ],
-      "sources": [
-        {
-          "title": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejVvX2prbmMzeEphQTdHQ0NyN2VRa0RKdmRWWFpsT3g5Y2RsM0VwU2xKUy1kRk9ZOVB2WXNJLTRocmZ6dXRoU2ZubjQxRTFSX2h2amRRVXZ2dFhaUXl4M3pGV29zcTh2OFV1QWJSOWZHMTBkTkJCMGdEcURlczNXVDZxZnhyWHQ3N3ZURjVPMzFweVJXczFSRzBTeG1UN1RSYTZhM2stM3BrSUdaVkdBbEdmaDl3MTRUNWtEN0s0VllaTGp2NUZzaDhXV0JfaWNsMDFhZmNIU2lrcnB3SDZZVzU2aE1NeVNLdmpGSW9oR3NTN19EOU55aQ?oc=5",
-          "snippet": "Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory Hitachi Energy",
-          "source": "Hitachi Energy",
-          "published": "Wed, 16 Sep 2026 01:25:44 GMT",
-          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-3a60df23a7bb",
-    "title": "Multiparty democracy and pluralism",
-    "headline": "Multiparty democracy and pluralism",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-09-19T05:55:25.742752+00:00",
-    "detected": "2026-09-19T05:55:25.797743+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 13,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.87,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": false,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T05:55:25.980670+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Multiparty democracy and pluralism",
-        "\"Multiparty democracy and pluralism\""
-      ],
-      "sources": [
-        {
-          "title": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion - Business News Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZTeV9Idk10b1BSdlJELVpXOTFmTTJ6OUtjYjliX1ZiNWxhX0IzU196NU9BbTBPZjAwb3M0aXBIdHlkY1RnWnVzU3hwbTh0ZDIyT0VJOExkR1NKTldOSThseGRQM0tMNTN1NXBYMkpGTmR5anRHY3RsbU9sNU9nejF4OHNPa19qZWprd0JDSk5UaHZST3hwQUpwOUJDTkFSSUlscUtKdTZ2NVZnN0lXc0wwMzEycXBIWUdPbjIwc09TTUE?oc=5",
-          "snippet": "European lender targets Nigeria, Kenya, Francophone West Africa in five-market expansion Business News Nigeria",
-          "source": "Business News Nigeria",
-          "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 08:35:53 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD and Microsoft Partner to Help African Startups Adopt AI and Scale - iAfrica.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmJibFV3N0JQU2lhSkZsZ3l3cnNrWk1wMl9UcG5na205YXpFRHFlWlhORl9Md2o3N2VldnZlQjVTOUlVc3IzVTBNcXBQQUdmdDF3T0ZKV0xtZGVGQTYwSWdDbUU0c005M1ByQ0x6LTc0UXlVdzBUN3VyenN2R0hxWFFOYm9sNTFYOEtmZDc4emZlLWdiR1E?oc=5",
-          "snippet": "EBRD and Microsoft Partner to Help African Startups Adopt AI and Scale iAfrica.com",
-          "source": "iAfrica.com",
-          "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        }
-      ],
-      "sourceCount": 3,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
@@ -12995,112 +13036,6 @@ export const signals = [
       "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-5b6e8d760fff",
-    "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "headline": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-    "summary": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-    "source": "renewablesnow.com",
-    "sourceType": "news",
-    "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-19T01:12:21.115995+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 46,
-    "actionabilityScore": 33,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "public search evidence",
-    "evidenceSnippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); strong actor/event/development combination",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 81,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": true,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-19T01:12:21.301799+00:00",
-      "status": "public-evidence",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 81,
-      "researchQueries": [
-        "\"AFRY\" Morocco Market intelligence",
-        "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-        "\"AFRY tapped for 191-MW hydropower project in India - renewablesnow.com\""
-      ],
-      "sources": [
-        {
-          "title": "AFRY tapped for 191-MW hydropower project in India - renewablesnow.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmwxNXNDSktoSEVmY25EMzQzU0J2OWxQUGVFMXUzcTQtQ1l0UzZIakRBcW9kOXNNS3BFc2hpeWRRS1RJWmdEcjZuNF82anZLTGw3d19LdFAtRlV6Q0RDRW5tMEFJZ0x2eUNNZGFFcDQ3Sk1JY1lfalJ6dlhla3RWTF95VlEwZVNTR3JUSy1NaU83SjBJ?oc=5",
-          "snippet": "AFRY tapped for 191-MW hydropower project in India renewablesnow.com",
-          "source": "renewablesnow.com",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"AFRY\" AFRY tapped for 191-MW hydropower project in India - renewablesnow.com"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "AFRY"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
       "overallConfidence": "LOW",

@@ -11,6 +11,8 @@ on:
       - 'data/signal-review.js'
       - 'data/monitor-status.json'
       - 'data/archive/signals.json'
+      - 'data/linkedin-signals.js'
+      - 'data/linkedin-monitoring.js'
 
 permissions:
   contents: write
@@ -34,6 +36,33 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ATLAS_AI_MODEL: ${{ vars.ATLAS_AI_MODEL }}
         run: python scripts/monitor.py
+      - name: Collect first-class LinkedIn early-warning signals
+        id: linkedin
+        continue-on-error: true
+        run: python scripts/linkedin_monitor.py
+      - name: Merge LinkedIn discovery into the Atlas feed
+        id: linkedin_merge
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          import json, re
+          from pathlib import Path
+          def load_js(path, var):
+              p=Path(path)
+              if not p.exists(): return []
+              m=re.search(r'export const '+re.escape(var)+r' = (.*);\s*$',p.read_text(encoding='utf-8'),re.S)
+              return json.loads(m.group(1)) if m else []
+          signal_path=Path('data/signals.js')
+          signals=load_js(signal_path,'signals')
+          linkedin=load_js('data/linkedin-signals.js','linkedinSignals')
+          by_id={x.get('id'):x for x in signals if x.get('id')}
+          for signal in linkedin:
+              if signal.get('id') and signal['id'] not in by_id:
+                  by_id[signal['id']]=signal
+          merged=sorted(by_id.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
+          signal_path.write_text('export const signals = '+json.dumps(merged,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+          print(json.dumps({'linkedinSignals':len(linkedin),'totalSignals':len(merged)},indent=2))
+          PY
       - name: Assign adaptive research priority and enrich signals
         id: enrich
         continue-on-error: true
@@ -44,6 +73,7 @@ jobs:
       - name: Restore history, update permanent archive and calculate monitoring health
         env:
           COLLECT_OUTCOME: ${{ steps.collect.outcome }}
+          LINKEDIN_OUTCOME: ${{ steps.linkedin.outcome }}
           ENRICH_OUTCOME: ${{ steps.enrich.outcome }}
         run: |
           python - <<'PY'
@@ -67,10 +97,6 @@ jobs:
                   current['evidenceLevel']=previous.get('evidenceLevel',current.get('evidenceLevel'))
           merged={**old,**new}
           current=sorted(merged.values(),key=lambda x:x.get('detected',''),reverse=True)[:250]
-
-          # The collector writes only newly collected signals. Reclassify the
-          # merged feed so restored historical signals keep a real L0-L4
-          # research level instead of falling back to a missing/implicit L0.
           for signal in current:
               infer_entities(signal)
               signal['project']=infer_project(signal) or signal.get('project')
@@ -83,7 +109,6 @@ jobs:
               signal['researchBudget']={'maxQueries':meta['maxQueries'],'maxSources':meta['maxSources']}
               existing=signal.get('researchEligibility') or {}
               signal['researchEligibility']={**existing,'eligible':meta['levelNumber']>0,'engineVersion':existing.get('engineVersion','5.0-entity-aware-adaptive')}
-
           Path('data/signals.js').write_text('export const signals = '+json.dumps(current,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
           archive_path=Path('data/archive/signals.json'); archive_path.parent.mkdir(parents=True,exist_ok=True)
           try:
@@ -94,9 +119,16 @@ jobs:
           review=[]
           if Path('data/signal-review.js').exists():
               m=re.search(r'export const signalReview = (.*);\s*$',Path('data/signal-review.js').read_text(encoding='utf-8'),re.S); review=json.loads(m.group(1)) if m else []
+          try:
+              linkedin_doc=json.loads(Path('data/linkedin-signals.js').read_text(encoding='utf-8').split('=',1)[1].rstrip(' ;\n')) if Path('data/linkedin-signals.js').exists() else []
+          except Exception: linkedin_doc=[]
+          try:
+              accounts_doc=json.loads(Path('data/linkedin-monitoring.js').read_text(encoding='utf-8').split('=',1)[1].rstrip(' ;\n')) if Path('data/linkedin-monitoring.js').exists() else []
+          except Exception: accounts_doc=[]
           status='success' if os.environ.get('COLLECT_OUTCOME')=='success' else 'failed'
           levels={str(i):sum(1 for x in current if x.get('researchLevel')==f'L{i}') for i in range(5)}
-          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':48,'queriesChecked':48,'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(current),'archivedSignals':len(archived),'reviewQueue':len(review),'competitorSignals':sum(1 for x in current if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'aiSynthesisEnabled':bool(os.environ.get('GEMINI_API_KEY')),'enrichmentEnabled':True,'enrichmentMode':'adaptive L0-L4 public-evidence research','enrichmentRun':'success' if os.environ.get('ENRICH_OUTCOME')=='success' else 'failed','researchLevels':levels,'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved and archive retained']}
+          health={'status':status,'lastRun':now,'completedAt':now,'frequency':'hourly','sourcesChecked':48+len(accounts_doc),'queriesChecked':48+sum(len(x.get('queries',[])) for x in accounts_doc),'linkedinAccountsChecked':len(accounts_doc),'linkedinSignals':len(linkedin_doc),'rawRecords':len(new)+len(review),'newSignals':max(0,len(new)-len(old)),'totalSignals':len(current),'archivedSignals':len(archived),'reviewQueue':len(review),'competitorSignals':sum(1 for x in current if x.get('competitor')),'aiFilterEnabled':bool(os.environ.get('GEMINI_API_KEY')),'aiSynthesisEnabled':bool(os.environ.get('GEMINI_API_KEY')),'enrichmentEnabled':True,'enrichmentMode':'adaptive L0-L4 public-evidence research + first-class LinkedIn discovery','enrichmentRun':'success' if os.environ.get('ENRICH_OUTCOME')=='success' else 'failed','researchLevels':levels,'errors':[] if status=='success' else ['Collector step failed; previous intelligence history preserved and archive retained']}
+          if os.environ.get('LINKEDIN_OUTCOME')!='success': health['errors'].append('LinkedIn collector failed; configured accounts remain active for retry')
           Path('data/monitor-status.json').write_text(json.dumps(health,ensure_ascii=False,indent=2)+'\n',encoding='utf-8'); print(json.dumps(health,indent=2))
           PY
       - name: Commit updated intelligence, permanent archive and health status
@@ -104,7 +136,7 @@ jobs:
         run: |
           git config user.name 'Atlas Monitor'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/signals.js data/signal-review.js data/monitor-status.json data/archive/signals.json
+          git add data/signals.js data/signal-review.js data/monitor-status.json data/archive/signals.json data/linkedin-signals.js data/linkedin-monitoring.js
           git diff --cached --quiet || git commit -m 'chore: update Morocco intelligence archive'
           git push
       - name: Fail if collector failed

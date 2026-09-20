@@ -24,7 +24,7 @@
   }
   async function boot(){
     try{
-      const m=await import('./data/signals.js?v=20260920-2');
+      const m=await import('./data/signals.js?v=20260920-3');
       const items=m.signals||[];
       window.__atlasDevelopmentFallbackItems=items;
       render(items,'all');

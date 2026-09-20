@@ -27,9 +27,9 @@ renderCompetitors();
 
 /* Developments is owned by app.js. This module must not overwrite the main development renderer. */
 const marketStyle=document.createElement('link');marketStyle.rel='stylesheet';marketStyle.href='styles-market-v3.css?v=20260825-1';document.head.appendChild(marketStyle);
-const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260920-2';document.body.appendChild(marketScript);
+const marketScript=document.createElement('script');marketScript.src='market-intelligence-v3.js?v=20260920-3';document.body.appendChild(marketScript);
 const sourceStyle=document.createElement('link');sourceStyle.rel='stylesheet';sourceStyle.href='styles-source-evidence.css?v=20260825-1';document.head.appendChild(sourceStyle);
 const sourceScript=document.createElement('script');sourceScript.type='module';sourceScript.src='source-evidence.js?v=20260901-1';document.body.appendChild(sourceScript);
 const pptCheck=document.createElement('script');pptCheck.src='ppt-engine-check.js?v=20260901-1';document.body.appendChild(pptCheck);
-const pptScript=document.createElement('script');pptScript.type='module';pptScript.src='report-generator-v3.js?v=20260920-2';document.body.appendChild(pptScript);
+const pptScript=document.createElement('script');pptScript.type='module';pptScript.src='report-generator-v3.js?v=20260920-3';document.body.appendChild(pptScript);
 const refreshScript=document.createElement('script');refreshScript.type='module';refreshScript.src='signal-refresh.js?v=20260901-1';document.body.appendChild(refreshScript);

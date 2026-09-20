@@ -1,17 +1,17 @@
 {
-  "status": "failed",
-  "lastRun": "2026-09-20T20:39:47.591072+00:00",
-  "completedAt": "2026-09-20T20:39:47.591072+00:00",
+  "status": "success",
+  "lastRun": "2026-09-20T22:23:35.991708+00:00",
+  "completedAt": "2026-09-20T22:23:35.991708+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,
   "linkedinAccountsChecked": 36,
   "linkedinSignals": 80,
-  "rawRecords": 358,
+  "rawRecords": 181,
   "newSignals": 0,
   "totalSignals": 250,
-  "archivedSignals": 377,
-  "reviewQueue": 108,
+  "archivedSignals": 381,
+  "reviewQueue": 46,
   "competitorSignals": 16,
   "aiFilterEnabled": false,
   "aiSynthesisEnabled": false,
@@ -20,12 +20,10 @@
   "enrichmentRun": "success",
   "researchLevels": {
     "0": 34,
-    "1": 84,
-    "2": 109,
-    "3": 23,
+    "1": 80,
+    "2": 112,
+    "3": 24,
     "4": 0
   },
-  "errors": [
-    "Collector step failed; previous intelligence history preserved and archive retained"
-  ]
+  "errors": []
 }

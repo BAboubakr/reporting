@@ -1,7 +1,7 @@
 {
   "status": "failed",
-  "lastRun": "2026-09-20T01:14:26.864977+00:00",
-  "completedAt": "2026-09-20T01:14:26.864977+00:00",
+  "lastRun": "2026-09-20T07:02:51.909324+00:00",
+  "completedAt": "2026-09-20T07:02:51.909324+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,

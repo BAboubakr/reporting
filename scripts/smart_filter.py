@@ -32,7 +32,7 @@ def heuristic(item):
     score=max(0,min(100,score))
     # IMPORTANT: the collector must not destructively discard plausible signals.
     # Low-confidence items go to REVIEW; only explicit boilerplate/noise is rejected.
-    decision="KEEP" if score>=45 else ("REVIEW" if score>=20 else "REVIEW")
+    decision="KEEP" if score>=45 else ("REVIEW" if score>=20 else "REJECT")
     return {"decision":decision,"confidence":round(min(.99,.50+abs(score-50)/100),2),"qualityScore":score,"reason":"; ".join(reasons) or "plausible signal; requires review"}
 
 def gemini_review(items):

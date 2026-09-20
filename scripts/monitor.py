@@ -79,7 +79,7 @@ STRATEGIC_SEEDS = [
         'signalType':'tender',
         'projectStage':'tender',
         'entities':['MASEN','Morocco'],
-        'competitor':null
+        'competitor':None
     },
     {
         'id':'sig-rina-morocco-market-entry-20260901',

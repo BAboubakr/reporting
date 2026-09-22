@@ -8,7 +8,16 @@ const isActiveLocalOpportunity=o=>{if(o?.generated)return true;const d=dateValue
 const activeLocalOpportunities=localOpportunities.filter(isActiveLocalOpportunity);
 if(activeLocalOpportunities.length!==localOpportunities.length){localStorage.setItem(storageKey,JSON.stringify({opportunities:activeLocalOpportunities,developments:localDevelopments}));}
 const allPipeline=()=>{const base=Object.fromEntries(Object.entries(pipeline).map(([k,v])=>[k,[...v]]));activeLocalOpportunities.forEach(o=>(base[o.stage]||=[]).push(o));return base};
-const signalToDevelopment=s=>({id:`signal-${s.id}`,topic:`${String(s.signalType||'SIGNAL').toUpperCase()} · ${(Array.isArray(s.categories)?s.categories[0]:s.categories||'RENEWABLE ENERGY').toString().toUpperCase()}`,title:s.title||s.headline||'Untitled market development',text:s.summary||s.evidenceSnippet||s.whyItMatters||'Morocco renewable-energy market signal.',state:Number(s.actionabilityScore)>=75||s.fichtnerRelevance==='HIGH'?'HIGH PRIORITY':Number(s.actionabilityScore)>=60?'STRATEGIC SIGNAL':'WATCH',level:s.fichtnerRelevance==='HIGH'?'high':Number(s.actionabilityScore)>=60?'medium':'watch',score:`${Number(s.actionabilityScore)||Number(s.relevanceScore)||0} / 100`,action:s.action||'Review signal',evidence:s.evidenceLevel||'Source evidence',published:s.published||s.detected||s.updated||'',sourceIds:s.source?[s.source]:[],source:s.source,url:s.url,generated:true,signalId:s.id});
+function cleanDevelopmentTitle(value){
+ let t=String(value||'').normalize('NFKC').replace(/\s*-\s*LinkedIn\s*$/i,'').trim();
+ t=t.replace(/^(?:[\\p{Extended_Pictographic}\\p{Emoji_Presentation}\\uFE0F\\u200D\\s])+|(?:[\\p{Extended_Pictographic}\\p{Emoji_Presentation}\\uFE0F\\u200D\\s])+$/gu,'').trim();
+ t=t.replace(/^(?:(?:FLASH|BREAKING)\\s+NEWS|NEWS\\s+FLASH)\\s*[:|–—-]*\\s*/i,'');
+ t=t.replace(/^(?:#[\\p{L}\\p{N}_-]+\\s*)+/u,'').replace(/(?:\\s+#[\\p{L}\\p{N}_-]+)+$/u,'').trim();
+ t=t.replace(/\\s+/g,' ').trim();
+ if(t.length>140){const cut=t.slice(0,140).replace(/\\s+\\S*$/,'').trim();t=cut+'…';}
+ return t||'Untitled market development';
+}
+const signalToDevelopment=s=>({id:`signal-${s.id}`,topic:`${String(s.signalType||'SIGNAL').toUpperCase()} · ${(Array.isArray(s.categories)?s.categories[0]:s.categories||'RENEWABLE ENERGY').toString().toUpperCase()}`,title:cleanDevelopmentTitle(s.title||s.headline),text:s.summary||s.evidenceSnippet||s.whyItMatters||'Morocco renewable-energy market signal.',state:Number(s.actionabilityScore)>=75||s.fichtnerRelevance==='HIGH'?'HIGH PRIORITY':Number(s.actionabilityScore)>=60?'STRATEGIC SIGNAL':'WATCH',level:s.fichtnerRelevance==='HIGH'?'high':Number(s.actionabilityScore)>=60?'medium':'watch',score:`${Number(s.actionabilityScore)||Number(s.relevanceScore)||0} / 100`,action:s.action||'Review signal',evidence:s.evidenceLevel||'Source evidence',published:s.published||s.detected||s.updated||'',sourceIds:s.source?[s.source]:[],source:s.source,url:s.url,generated:true,signalId:s.id});
 const developmentSignals=()=>signals;
 const automaticDevelopments=()=>developmentSignals().map(signalToDevelopment);
 const allDevelopments=()=>automaticDevelopments();

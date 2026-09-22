@@ -6,6 +6,7 @@
  .topbar{height:58px!important;padding:9px 12px!important;position:relative!important;z-index:20}
  .mobile-menu{display:flex!important;align-items:center;justify-content:center;width:40px;height:40px;margin-right:6px;color:#102a43;font-size:21px}
  .content{width:100%!important;max-width:none!important;box-sizing:border-box!important;padding:22px 14px 44px!important;overflow-x:hidden!important}
+ .view{display:none!important}.view.active{display:block!important;height:calc(100dvh - 58px)!important;overflow-y:auto!important}
  .hero-row{grid-template-columns:1fr!important;gap:22px!important}.hero-row h1{font-size:38px!important;letter-spacing:-1.2px!important}
  .metric-grid,.decision-grid,.lower-grid,.event-layout,.market-grid,.stakeholder-grid,.watchlist-grid,.reporting-layout{grid-template-columns:1fr!important}
  .metric{border-right:0!important;border-bottom:1px solid #dfe5ec!important;min-height:96px!important;padding:16px 18px!important}.metric:last-child{border-bottom:0!important}

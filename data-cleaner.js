@@ -12,15 +12,16 @@ function fields(s){return{title:String(s?.title||s?.headline||'').trim(),summary
 function normStoryText(value){return String(value||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/https?:\/\/\S+/g,' ').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim();}
 function storyTokens(s){const {title,summary,snippet}=fields(s);const text=normStoryText(`${title} ${summary} ${snippet}`);return new Set(text.split(' ').filter(t=>t.length>=3&&!DEDUP_STOPWORDS.has(t)&&!/^\d+(?:mw|mwh|gw|gwh)?$/.test(t)));}
 function tokenSimilarity(a,b){if(!a.size||!b.size)return 0;let common=0;for(const t of a)if(b.has(t))common++;return common/Math.min(a.size,b.size);}
-function structuredStoryAnchors(s){const text=normStoryText(`${fields(s).title} ${fields(s).summary} ${fields(s).snippet}`);const entities=Array.isArray(s?.entities)?s.entities.map(normStoryText).filter(Boolean):[];const project=normStoryText(s?.project||s?.projectName||'');const capacities=new Set();for(const m of text.matchAll(/\\b(\\d+(?:\\.\\d+)?)\\s*(mw|mwh|gw|gwh)\\b/gi)){capacities.add(m[1]+' '+m[2].toLowerCase());}return{entities:new Set(entities),project,capacities,text};}
-function sharedEntity(a,b){for(const e of a)if(b.has(e)&&e!=='morocco')return true;return false;}
+const GENERIC_DEDUP_ENTITIES=new Set(['morocco','ministry of energy transition','ministry of energy transition and sustainable development']);
+function structuredStoryAnchors(s){const text=normStoryText(`${fields(s).title} ${fields(s).summary} ${fields(s).snippet}`);const entities=Array.isArray(s?.entities)?s.entities.map(normStoryText).filter(Boolean):[];const project=normStoryText(s?.project||s?.projectName||'');const capacities=new Set();for(const m of text.matchAll(/\b(\d+(?:\.\d+)?)\s*(mw|mwh|gw|gwh)\b/gi)){capacities.add(m[1]+' '+m[2].toLowerCase());}return{entities:new Set(entities),project,capacities,text};}
+function sharedEntity(a,b){for(const e of a)if(b.has(e)&&!GENERIC_DEDUP_ENTITIES.has(e))return true;return false;}
 function isDuplicateStory(a,b){const ta=storyTokens(a),tb=storyTokens(b);if(!ta.size||!tb.size)return false;const similarity=tokenSimilarity(ta,tb);if(similarity>=0.82)return true;let distinctive=0;for(const t of ta){if(tb.has(t)&&t.length>=6)distinctive++;}if(distinctive>=5&&similarity>=0.68)return true;
  const aa=structuredStoryAnchors(a),bb=structuredStoryAnchors(b);
  const sameProject=aa.project&&bb.project&&aa.project===bb.project;
  const sameEntity=sharedEntity(aa.entities,bb.entities);
  const sharedCapacity=[...aa.capacities].some(x=>bb.capacities.has(x));
  if(sameProject&&(sameEntity||sharedCapacity))return true;
- if(sameEntity&&sharedCapacity&&similarity>=0.45)return true;
+ if(sameEntity&&sharedCapacity&&similarity>=0.25)return true;
  return false;}
 function signalPriority(s){const quality=Number(s?.qualityScore)||0;const relevance=Number(s?.relevanceScore)||0;const evidence=s?.evidenceLevel==='official source'?30:s?.evidenceLevel==='primary source'?25:s?.evidenceLevel==='news source'?10:0;const ts=Date.parse(s?.published||s?.detected||s?.updated)||0;return quality*2+relevance+evidence+ts/1e13;}
 export function isNoiseSignal(s){

@@ -1,3 +1,6 @@
+/* Atlas view switching */
+.view{display:none}
+.view.active{display:block}
 :root {
   /* Fichtner Brand Colors: Blue & White */
   --fichtner-blue: #0052cc;

@@ -13,8 +13,10 @@ function normStoryText(value){return String(value||'').toLowerCase().normalize('
 function storyTokens(s){const {title,summary,snippet}=fields(s);const text=normStoryText(`${title} ${summary} ${snippet}`);return new Set(text.split(' ').filter(t=>t.length>=3&&!DEDUP_STOPWORDS.has(t)&&!/^\d+(?:mw|mwh|gw|gwh)?$/.test(t)));}
 function tokenSimilarity(a,b){if(!a.size||!b.size)return 0;let common=0;for(const t of a)if(b.has(t))common++;return common/Math.min(a.size,b.size);}
 const GENERIC_DEDUP_ENTITIES=new Set(['morocco','ministry of energy transition','ministry of energy transition and sustainable development']);
+const ORGANIZATION_ALIASES=new Map([['afdb','african development bank'],['african development bank','african development bank'],['onee','onee'],['onee branche electricite','onee']]);
+const normalizeOrganization=value=>ORGANIZATION_ALIASES.get(normStoryText(value))||normStoryText(value);
 function structuredStoryAnchors(s){const text=normStoryText(`${fields(s).title} ${fields(s).summary} ${fields(s).snippet}`);const entities=Array.isArray(s?.entities)?s.entities.map(normStoryText).filter(Boolean):[];const project=normStoryText(s?.project||s?.projectName||'');const capacities=new Set();for(const m of text.matchAll(/\b(\d+(?:\.\d+)?)\s*(mw|mwh|gw|gwh)\b/gi)){capacities.add(m[1]+' '+m[2].toLowerCase());}return{entities:new Set(entities),project,capacities,text};}
-function sharedEntity(a,b){for(const e of a)if(b.has(e)&&!GENERIC_DEDUP_ENTITIES.has(e))return true;return false;}
+function sharedEntity(a,b){const aa=new Set([...a].map(normalizeOrganization));const bb=new Set([...b].map(normalizeOrganization));for(const e of aa)if(bb.has(e)&&!GENERIC_DEDUP_ENTITIES.has(e))return true;return false;}
 function isDuplicateStory(a,b){const ta=storyTokens(a),tb=storyTokens(b);if(!ta.size||!tb.size)return false;const similarity=tokenSimilarity(ta,tb);if(similarity>=0.82)return true;let distinctive=0;for(const t of ta){if(tb.has(t)&&t.length>=6)distinctive++;}if(distinctive>=5&&similarity>=0.68)return true;
  const aa=structuredStoryAnchors(a),bb=structuredStoryAnchors(b);
  const sameProject=aa.project&&bb.project&&aa.project===bb.project;

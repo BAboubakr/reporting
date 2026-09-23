@@ -10,7 +10,7 @@ export const signals = [
     "sourceAccount": "Worley",
     "sourceAccountUrl": "https://www.linkedin.com/company/worley/",
     "published": "2026-09-02T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -71,7 +71,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -107,10 +107,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -171,7 +171,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -232,7 +232,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -264,10 +264,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -327,7 +327,7 @@ export const signals = [
     "sourceAccount": "GIZ",
     "sourceAccountUrl": "https://www.linkedin.com/company/giz/",
     "published": "2026-09-10T06:18:09+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -386,7 +386,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -402,10 +402,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
+          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - upgradedpoints.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
+          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points upgradedpoints.com",
+          "source": "upgradedpoints.com",
           "published": "Wed, 16 Sep 2026 12:25:39 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
@@ -461,7 +461,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-18T10:38:23+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -524,7 +524,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -556,10 +556,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -626,7 +626,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-12T13:23:26+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -691,7 +691,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -807,10 +807,10 @@ export const signals = [
           "query": "\"EIB\" Morocco LinkedIn Investment"
         },
         {
-          "title": "European Investment Bank commits EUR 365 mn to Morocco’s transport - enterpriseam.com",
+          "title": "European Investment Bank commits EUR 365 mn to Morocco’s transport - EnterpriseAM",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0dJMFR4c0haYjBUSjhna3ZVQnJGdEl4OU55MFJoTnFodzQwVkk2MnhRNmZSV0tFdVlOalgwU2lyRTYzWGhFR2FFa1lOdFgxTlRoRnRCbHIzREllMkR3V0F1bjBMdmladDlJOC1NWFR5bnRxY1lkRkFwS241eTBLeThMRkRaNWpVT2FNWV92UWRtcDlhMUhvZVZBMlhZYlh0T192RWlKRHhWUHpqOHVKUXVn?oc=5",
-          "snippet": "European Investment Bank commits EUR 365 mn to Morocco’s transport enterpriseam.com",
-          "source": "enterpriseam.com",
+          "snippet": "European Investment Bank commits EUR 365 mn to Morocco’s transport EnterpriseAM",
+          "source": "EnterpriseAM",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" Morocco LinkedIn Investment"
         },
@@ -866,7 +866,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -924,7 +924,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -995,10 +995,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -1041,7 +1041,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1100,7 +1100,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1116,10 +1116,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -1203,7 +1203,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-15T11:23:04+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1261,7 +1261,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1300,10 +1300,10 @@ export const signals = [
           "query": "\"Ministry of Energy Transition and Sustainable Development\" Drop-in fuels that reduce net CO2 emissions by up to 100% compared with fossil fuels – and require no changes to existing engines or fuel infrastructure. Synhelion has signed a Memorandum of Understanding with the Government of Morocco to develop a lar - LinkedIn"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -1370,7 +1370,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-04T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -1435,7 +1435,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -1551,10 +1551,10 @@ export const signals = [
           "query": "\"EIB\" Morocco LinkedIn Investment"
         },
         {
-          "title": "European Investment Bank commits EUR 365 mn to Morocco’s transport - enterpriseam.com",
+          "title": "European Investment Bank commits EUR 365 mn to Morocco’s transport - EnterpriseAM",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0dJMFR4c0haYjBUSjhna3ZVQnJGdEl4OU55MFJoTnFodzQwVkk2MnhRNmZSV0tFdVlOalgwU2lyRTYzWGhFR2FFa1lOdFgxTlRoRnRCbHIzREllMkR3V0F1bjBMdmladDlJOC1NWFR5bnRxY1lkRkFwS241eTBLeThMRkRaNWpVT2FNWV92UWRtcDlhMUhvZVZBMlhZYlh0T192RWlKRHhWUHpqOHVKUXVn?oc=5",
-          "snippet": "European Investment Bank commits EUR 365 mn to Morocco’s transport enterpriseam.com",
-          "source": "enterpriseam.com",
+          "snippet": "European Investment Bank commits EUR 365 mn to Morocco’s transport EnterpriseAM",
+          "source": "EnterpriseAM",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" Morocco LinkedIn Investment"
         },
@@ -1609,7 +1609,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -1669,7 +1669,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1745,7 +1745,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-18T09:53:54+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1803,7 +1803,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1818,10 +1818,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -1888,7 +1888,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1946,7 +1946,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2063,7 +2063,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-18T04:41:27+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -2121,7 +2121,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2171,7 +2171,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2229,7 +2229,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2244,10 +2244,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -2314,7 +2314,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-14T09:21:29+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -2372,7 +2372,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2442,7 +2442,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-13T10:41:42+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -2500,7 +2500,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2610,7 +2610,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-08-27T15:00:17+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2670,7 +2670,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -2714,10 +2714,10 @@ export const signals = [
           "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -2782,7 +2782,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-15T09:13:08+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2845,7 +2845,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2861,10 +2861,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -2940,7 +2940,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T09:44:51+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -3000,7 +3000,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3109,7 +3109,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3167,7 +3167,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3182,10 +3182,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -3252,7 +3252,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-12T14:25:59+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3310,7 +3310,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3326,10 +3326,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -3396,7 +3396,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-19T09:30:05+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Grid",
@@ -3456,7 +3456,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3515,7 +3515,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-13T08:17:08+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3573,7 +3573,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3588,10 +3588,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -3658,7 +3658,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-18T15:14:06+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -3716,7 +3716,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3761,7 +3761,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-14T09:00:46+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -3820,7 +3820,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3925,7 +3925,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-09T09:15:04+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -3983,7 +3983,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4014,10 +4014,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -4068,7 +4068,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-13T15:53:50+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4126,7 +4126,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4158,10 +4158,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -4212,7 +4212,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-09T01:33:43+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4270,7 +4270,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4285,10 +4285,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -4355,7 +4355,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T12:39:41+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4413,7 +4413,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4484,10 +4484,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -4530,7 +4530,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4588,7 +4588,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4611,10 +4611,10 @@ export const signals = [
           "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco Signs Agreement for Synthetic Fuel Complex Switzerland-based Synhelion has signed a memorandum of understanding (MoU) with the Government of Morocco to develop a large-scale commercial synthetic fuel plant in the country's southern Tan-Ta - LinkedIn"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -4681,7 +4681,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T17:26:27+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4739,7 +4739,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4810,10 +4810,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -4856,7 +4856,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-06T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4915,7 +4915,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4931,10 +4931,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -5002,7 +5002,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-04T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -5061,7 +5061,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5132,10 +5132,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -5178,7 +5178,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T20:51:01+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -5235,7 +5235,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5337,7 +5337,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T10:47:43+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -5396,7 +5396,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5411,10 +5411,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
+          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - upgradedpoints.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
+          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points upgradedpoints.com",
+          "source": "upgradedpoints.com",
           "published": "Wed, 16 Sep 2026 12:25:39 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
@@ -5465,7 +5465,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T12:45:07+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen",
@@ -5526,7 +5526,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5597,7 +5597,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -5656,7 +5656,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5672,10 +5672,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
+          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - upgradedpoints.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
+          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points upgradedpoints.com",
+          "source": "upgradedpoints.com",
           "published": "Wed, 16 Sep 2026 12:25:39 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
@@ -5766,7 +5766,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-08-31T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -5823,7 +5823,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -5843,10 +5843,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -5929,7 +5929,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-14T20:34:32+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -5988,7 +5988,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6008,7 +6008,7 @@ export const signals = [
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnhjYjYtb0tDOUMxZnRwckd5ZXEwVDZEQVAxRXlXQzhIR29ZSElNdWZ2eG1LSi1fNEhpbGlTTkJXT0owVDh5Z0tpV2ZPYVRSY2tYaG1TNk8xRUZwbEhPSkJmZmNHTlFINHlvMzRHZ2F5dW9nTTVaVHBXUHBORXVZRFl2blZ1SDF4bk1zQU5rMDlzWmlzV3B0cGJ1WWRESmxIazVvckpPSDFiUEZvWXlRblFfWDdzT1Y2cVpPRkxxNnpmZw?oc=5",
           "snippet": "OCP Invests $18 Million in Morocco’s First Large-Scale Battery Storage System Morocco World News",
           "source": "Morocco World News",
-          "published": "Mon, 14 Sep 2026 19:45:40 GMT",
+          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
           "query": "\"OCP Group\" Morocco has taken another step toward a more flexible renewable energy system after OCP GREEN ENERGY powered up the country’s first large-scale lithium iron phosphate (LFP) battery storage facility at Benguerir. The 25 MW/125 MWh Battery Energy Sto - LinkedIn"
         },
         {
@@ -6051,7 +6051,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -6110,7 +6110,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6141,10 +6141,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -6195,7 +6195,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-13T08:28:07+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -6253,7 +6253,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6284,10 +6284,10 @@ export const signals = [
           "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco’s aerospace story is no longer about potential. It is about scale, capability and global integration. Over the past two decades, Morocco has built one of Africa’s most advanced aerospace ecosystems, now generating more than MAD 26 billion in export - LinkedIn"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -6370,7 +6370,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T04:01:28+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -6434,7 +6434,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -6510,10 +6510,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -6598,7 +6598,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -6657,7 +6657,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6672,10 +6672,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -6750,7 +6750,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-17T19:28:14+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -6809,7 +6809,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6825,10 +6825,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -6896,7 +6896,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -6955,7 +6955,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6987,10 +6987,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -7065,7 +7065,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T08:24:27+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -7128,7 +7128,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -7204,10 +7204,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -7291,7 +7291,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T07:02:13+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -7351,7 +7351,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7423,10 +7423,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -7470,7 +7470,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-05T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -7530,7 +7530,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7546,10 +7546,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -7649,7 +7649,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-14T19:30:12+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -7708,7 +7708,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7724,10 +7724,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -7803,7 +7803,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -7869,7 +7869,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -7929,10 +7929,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -8043,7 +8043,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T13:15:16+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -8107,7 +8107,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -8183,10 +8183,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -8272,7 +8272,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T14:43:58+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -8336,7 +8336,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -8412,10 +8412,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -8501,7 +8501,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-09T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -8561,7 +8561,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8686,7 +8686,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-16T16:01:04+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -8746,7 +8746,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8801,7 +8801,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T14:11:02+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -8859,7 +8859,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8930,10 +8930,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -8976,7 +8976,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-19T14:32:36+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9034,7 +9034,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9049,10 +9049,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -9119,7 +9119,7 @@ export const signals = [
     "sourceAccount": "Nareva",
     "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
     "published": "2026-09-21T19:02:29+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -9179,7 +9179,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -9327,7 +9327,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T19:00:48+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -9386,7 +9386,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9480,7 +9480,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-18T11:40:59+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -9540,7 +9540,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9595,7 +9595,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9653,7 +9653,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9692,10 +9692,10 @@ export const signals = [
           "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco and Synhelion Sign Agreement for Synthetic Fuels Plant | energynews.pro - LinkedIn"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -9770,7 +9770,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-12T20:45:02+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9828,7 +9828,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9843,10 +9843,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -9921,7 +9921,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-17T14:02:05+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9979,7 +9979,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9994,10 +9994,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -10064,7 +10064,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-16T02:01:21+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -10123,7 +10123,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10200,7 +10200,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:03:57+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -10258,7 +10258,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10328,7 +10328,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T12:23:32+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -10391,7 +10391,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -10411,10 +10411,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
+          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - upgradedpoints.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
+          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points upgradedpoints.com",
+          "source": "upgradedpoints.com",
           "published": "Wed, 16 Sep 2026 12:25:39 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
@@ -10554,7 +10554,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-18T04:42:59+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -10613,7 +10613,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10685,10 +10685,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -10731,7 +10731,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T11:20:57+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -10792,7 +10792,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -10868,10 +10868,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -10955,7 +10955,7 @@ export const signals = [
     "sourceAccount": "JESA",
     "sourceAccountUrl": "https://www.linkedin.com/company/jesa-sa/",
     "published": "2026-09-20T17:03:12+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -11014,7 +11014,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -11050,10 +11050,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -11105,7 +11105,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -11170,7 +11170,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -11230,10 +11230,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -11344,7 +11344,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-06T05:00:57+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -11402,7 +11402,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -11512,7 +11512,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T19:18:07+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -11571,7 +11571,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -11586,10 +11586,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -11656,7 +11656,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-16T08:30:47+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -11719,7 +11719,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -11795,10 +11795,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -11856,7 +11856,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T13:23:20+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -11918,7 +11918,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -12018,10 +12018,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -12081,7 +12081,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-08-31T23:00:30+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -12140,7 +12140,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -12211,7 +12211,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -12269,7 +12269,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -12284,10 +12284,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
@@ -12354,7 +12354,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-19T22:09:20+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -12415,7 +12415,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -12435,10 +12435,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
+          "title": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points - upgradedpoints.com",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
+          "snippet": "[Award Alert] Lie-Flat Business Class to Morocco From 55K Points upgradedpoints.com",
+          "source": "upgradedpoints.com",
           "published": "Wed, 16 Sep 2026 12:25:39 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
@@ -12536,7 +12536,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -12594,7 +12594,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -12698,7 +12698,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -12757,7 +12757,7 @@ export const signals = [
     "project": "Morocco Offshore Wind Feasibility Study",
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -12813,10 +12813,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -12876,7 +12876,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-14T14:15:02+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -12941,7 +12941,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -13017,10 +13017,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -13090,7 +13090,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T09:00:39+00:00",
-    "detected": "2026-09-23T11:40:03.041627+00:00",
+    "detected": "2026-09-23T11:56:43.030871+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -13151,7 +13151,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -13227,10 +13227,10 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
+          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - globaldata.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
+          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) globaldata.com",
+          "source": "globaldata.com",
           "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
@@ -13312,7 +13312,7 @@ export const signals = [
     "source": "Le Matin",
     "sourceType": "news",
     "published": "2026-09-18T10:42:00+01:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Solar PV",
       "Procurement",
@@ -13372,7 +13372,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -13430,7 +13430,7 @@ export const signals = [
     "source": "RINA",
     "sourceType": "news",
     "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Investment",
       "Hydrogen / PtX",
@@ -13491,7 +13491,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -13656,7 +13656,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-18T11:51:33+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Solar PV",
       "Investment",
@@ -13714,7 +13714,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -13766,8 +13766,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:58.411492+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:37.078937+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -13830,8 +13830,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:58.411512+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:37.078958+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Solar PV",
       "Tender / Procurement"
@@ -13889,7 +13889,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -13946,8 +13946,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:58.411517+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:37.078964+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -14010,8 +14010,8 @@ export const signals = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:58.411514+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:37.078960+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -14074,8 +14074,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518409+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181635+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14134,7 +14134,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14212,8 +14212,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518408+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181634+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -14272,7 +14272,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14311,8 +14311,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518439+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181667+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14370,7 +14370,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14407,8 +14407,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518430+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181657+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -14466,7 +14466,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14494,10 +14494,10 @@ export const signals = [
           "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
         },
         {
-          "title": "Libya Youth Minister Discusses Project Financing with IsDB - Libya Herald",
+          "title": "Libya Youth Minister Discusses Project Financing with IsDB - libyaherald.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTJ1THgxZm9ld3pwY2psU0VLaU9hcmYxM0REcXpwcHNWWnhBSzBaWEpJbjQ2RU5PQWdSbVdlT2lVOVJtVnlKZ2pYZUxpazZ0NUhKdVNobWhEZm5sZnMzZVgzaTM1YXZ0X0o4bUZNd0ZtWVpsRHQ2NFdnVkhzQ3ZTcmhqYUhrejROcFBwY2ZUc2czTDNxQ3AxTUZpZFhfUnptSzR0QTVPcFExUUhsdEJ5cjhn?oc=5",
-          "snippet": "Libya Youth Minister Discusses Project Financing with IsDB Libya Herald",
-          "source": "Libya Herald",
+          "snippet": "Libya Youth Minister Discusses Project Financing with IsDB libyaherald.com",
+          "source": "libyaherald.com",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
           "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
         },
@@ -14544,8 +14544,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518425+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181653+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14604,7 +14604,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14641,8 +14641,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518428+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181656+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14701,7 +14701,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14738,8 +14738,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518436+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181664+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14798,7 +14798,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14835,8 +14835,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518438+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181665+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -14895,7 +14895,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -14907,10 +14907,10 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Govt borrowing $1.0b hard-term IsDB loan - thefinancialexpress.com.bd",
+          "title": "Govt borrowing $1.0b hard-term IsDB loan - The Financial Express",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlc5YlBHcEM1bnUya0ttdXcxTUlYZnYxSm5HYUVNOEM4VjVxaTNJR1JyMzFzQnFkYWRBcElyVlMzYXg0c1ExTDVMdk1CX2tqRldySFhyTGNBeTFENGNPQllpOXltUURmZHZqeU1WYUU4cDNyYTZXcExkNVRxbGxVYlY4VHRVakM0?oc=5",
-          "snippet": "Govt borrowing $1.0b hard-term IsDB loan thefinancialexpress.com.bd",
-          "source": "thefinancialexpress.com.bd",
+          "snippet": "Govt borrowing $1.0b hard-term IsDB loan The Financial Express",
+          "source": "The Financial Express",
           "published": "Tue, 07 Jul 2026 07:00:00 GMT",
           "query": "\"IsDB\" How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?"
         }
@@ -14941,8 +14941,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518442+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181670+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -15002,7 +15002,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15041,8 +15041,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.813508+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:42.800879+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -15099,7 +15099,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15177,8 +15177,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518432+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181659+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -15235,7 +15235,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15272,8 +15272,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:01.012232+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.561144+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -15331,7 +15331,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15409,8 +15409,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:01.012234+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.561145+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -15468,7 +15468,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15546,8 +15546,8 @@ export const signals = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:01.012235+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.561147+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -15605,7 +15605,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15683,8 +15683,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518424+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181651+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -15742,7 +15742,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15820,8 +15820,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518435+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181662+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -15879,7 +15879,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -15916,8 +15916,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518441+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181668+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -15975,7 +15975,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16012,8 +16012,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.813511+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:42.800882+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16071,7 +16071,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16133,8 +16133,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518420+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181646+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16191,7 +16191,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16269,8 +16269,8 @@ export const signals = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.518427+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:41.181654+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16327,7 +16327,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16364,8 +16364,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.813497+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:42.800867+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16422,7 +16422,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16492,8 +16492,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.813500+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:42.800871+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16550,7 +16550,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16613,7 +16613,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-21T08:49:50+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -16669,7 +16669,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16721,7 +16721,7 @@ export const signals = [
     "source": "Hitachi Energy",
     "sourceType": "news",
     "published": "2026-09-16T01:25:44+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Investment",
       "Manufacturing"
@@ -16776,7 +16776,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -16793,17 +16793,9 @@ export const signals = [
           "source": "Hitachi Energy",
           "published": "Wed, 16 Sep 2026 01:25:44 GMT",
           "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
-        },
-        {
-          "title": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia - Hitachi Energy",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNOEtEQURQTUQwbE5neE9BMVRTRkJpWXNObFFMd0VKSzU2VmpOZi1MMjBSZzZSTEdVckNlS2hKY0x0RkdTbGU1dWtDaUppaGlHZWhjN0MzOVFyd052dDZWY3Q4QTJ6SFhCRmU3UjhNMkJpa3lKdkhhVVV3eW1JZGtOMnE5WGVyZVpBQ2tueUpOcTJESHd5UFlNYXFjbDhUZGFfQ2VTTGJBSVJFVVJ4bzFUZ2F4bTZIck8xU1V0aGhqUnFRZ01lbUZWa3pZSkkzODRmeDFEdVBENWdDRkZNaXBaT1NyS3lLd3kwcXlPUUZjMkNKN2ZBYk44RXRsU0hnRTlZLWY0UzNuZXppVXpic1FxTXBTcDRwZ0NFdkp2UFR6WFpmeXZLWDJXUXJZc2FkQUN5UGc?oc=5",
-          "snippet": "Hitachi Energy breaks ground on the nation’s largest facility for the production of large power transformers in South Boston, Virginia Hitachi Energy",
-          "source": "Hitachi Energy",
-          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-          "query": "Morocco Hitachi deepens commitment to U.S. manufacturing with $528 million Mississippi transformer factory - Hitachi Energy"
         }
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "project": null,
       "entities": [],
       "facts": [],
@@ -16828,7 +16820,7 @@ export const signals = [
     "source": "Morocco World News",
     "sourceType": "news",
     "published": "2026-09-14T12:17:49+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -16886,7 +16878,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -16997,7 +16989,7 @@ export const signals = [
     "source": "African Development Bank Group",
     "sourceType": "news",
     "published": "2026-09-18T14:20:33+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Hydrogen / PtX",
       "Investment"
@@ -17055,7 +17047,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -17213,8 +17205,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949768+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467222+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -17273,7 +17265,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "no-public-match",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17310,8 +17302,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949785+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467239+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17369,7 +17361,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17415,8 +17407,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949734+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467186+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17473,7 +17465,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17519,8 +17511,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949750+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467204+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17577,7 +17569,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17639,8 +17631,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949754+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467208+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17697,7 +17689,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17751,8 +17743,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949764+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467217+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17810,7 +17802,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -17888,8 +17880,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949765+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467219+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -17946,7 +17938,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18024,8 +18016,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949779+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467233+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Investment"
     ],
@@ -18083,7 +18075,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18161,8 +18153,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949783+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467237+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18219,7 +18211,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18263,10 +18255,10 @@ export const signals = [
           "query": "\"EIB\" European Tech Champions Initiative 2.0"
         },
         {
-          "title": "EIB'S Bid to Scale Startup Innovation with €80bn Funding - FinTech Magazine",
+          "title": "EIB'S Bid to Scale Startup Innovation with €80bn Funding - fintechmagazine.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXB0VmRpMklGTnpqUklwa0Noa2FqVkZyQVdJUl9nUVViaWlaU3BxTzRkYnVPZWRGUW5VeTI3ai1xZE5rUDdkWk14M1B3VlE3N0NWdW4yZE9MX3ItUXAyR1hRSTJuZUpuUzFuZ0w1cHdtLTlIWVd6YjVuVk1LTzUtSHkzbk9TTFY1Y09lUHBtVXY?oc=5",
-          "snippet": "EIB'S Bid to Scale Startup Innovation with €80bn Funding FinTech Magazine",
-          "source": "FinTech Magazine",
+          "snippet": "EIB'S Bid to Scale Startup Innovation with €80bn Funding fintechmagazine.com",
+          "source": "fintechmagazine.com",
           "published": "Tue, 14 Jul 2026 07:00:00 GMT",
           "query": "\"EIB\" European Tech Champions Initiative 2.0"
         }
@@ -18297,8 +18289,8 @@ export const signals = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:00.949786+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:39.467240+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18355,7 +18347,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18402,7 +18394,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-22T09:42:37+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Solar PV",
       "Manufacturing"
@@ -18457,7 +18449,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18510,7 +18502,7 @@ export const signals = [
     "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-22T09:21:42+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -18572,8 +18564,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608075+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.489016+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Grid"
     ],
@@ -18629,7 +18621,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -18714,8 +18706,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608067+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.489003+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18778,8 +18770,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608064+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.488997+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18842,8 +18834,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608062+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.488991+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18906,8 +18898,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608060+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.488988+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -18970,8 +18962,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608058+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.488985+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -19034,8 +19026,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608069+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.489005+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -19098,8 +19090,8 @@ export const signals = [
     "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
     "source": "ONEE tenders",
     "sourceType": "official",
-    "published": "2026-09-23T11:39:35.608066+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:13.489000+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -19163,7 +19155,7 @@ export const signals = [
     "source": "GreentechLead",
     "sourceType": "news",
     "published": "2026-09-13T09:39:52+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Solar PV",
       "BESS",
@@ -19221,7 +19213,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -19290,7 +19282,7 @@ export const signals = [
     "source": "Renewables Now",
     "sourceType": "news",
     "published": "2026-08-27T07:00:00+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -19348,7 +19340,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",
@@ -19395,8 +19387,8 @@ export const signals = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T11:40:02.813502+00:00",
-    "detected": "2026-09-23T11:40:02.865169+00:00",
+    "published": "2026-09-23T11:56:42.800872+00:00",
+    "detected": "2026-09-23T11:56:42.852175+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -19453,7 +19445,7 @@ export const signals = [
     },
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-09-23T11:40:28.263192+00:00",
+      "researchedAt": "2026-09-23T11:57:07.107578+00:00",
       "status": "public-evidence",
       "researchLevel": "L1",
       "researchLevelName": "Verify",

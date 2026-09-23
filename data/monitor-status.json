@@ -1,13 +1,13 @@
 {
   "status": "success",
-  "lastRun": "2026-09-23T12:40:17.246941+00:00",
-  "completedAt": "2026-09-23T12:40:17.246941+00:00",
+  "lastRun": "2026-09-23T17:20:16.255678+00:00",
+  "completedAt": "2026-09-23T17:20:16.255678+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,
   "linkedinAccountsChecked": 36,
   "linkedinSignals": 80,
-  "rawRecords": 193,
+  "rawRecords": 182,
   "newSignals": 0,
   "totalSignals": 250,
   "archivedSignals": 573,
@@ -21,8 +21,8 @@
   "researchLevels": {
     "0": 32,
     "1": 49,
-    "2": 130,
-    "3": 39,
+    "2": 131,
+    "3": 38,
     "4": 0
   },
   "errors": []

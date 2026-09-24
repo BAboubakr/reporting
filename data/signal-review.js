@@ -7,8 +7,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891872+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470669+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -39,8 +39,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891863+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470659+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -71,8 +71,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399373+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442494+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -103,8 +103,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891842+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470638+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -135,8 +135,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891858+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470654+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -167,8 +167,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891861+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470658+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -199,8 +199,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891869+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470665+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -231,8 +231,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891870+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470667+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -263,8 +263,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891875+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470672+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -295,8 +295,8 @@ export const signalReview = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:01.714671+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:47.010693+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -327,8 +327,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891864+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470661+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -359,8 +359,8 @@ export const signalReview = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.469159+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.506019+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -391,8 +391,8 @@ export const signalReview = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.469161+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.506020+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -423,8 +423,8 @@ export const signalReview = [
     "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
     "source": "World Bank procurement opportunities",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.469163+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.506022+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -455,8 +455,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891857+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470653+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -487,8 +487,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891867+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470664+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Tender / Procurement"
     ],
@@ -512,15 +512,15 @@ export const signalReview = [
     "reviewQueueReason": "1 event indicator(s)"
   },
   {
-    "id": "sig-6c30a31da7db",
+    "id": "sig-aecb43e689a8",
     "title": "Matriel accept Rseau ONEE",
     "headline": "Matriel accept Rseau ONEE",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345882+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884731+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Grid"
     ],
@@ -553,8 +553,8 @@ export const signalReview = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:57.338591+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:43.281520+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Solar PV",
       "Tender / Procurement"
@@ -588,8 +588,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891840+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470636+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -620,8 +620,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399391+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442511+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -652,8 +652,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891874+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470671+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -684,8 +684,8 @@ export const signalReview = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:01.714674+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:47.010696+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -710,14 +710,14 @@ export const signalReview = [
   },
   {
     "id": "sig-8703ec94a03f",
-    "title": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business - openpr.com",
-    "headline": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business - openpr.com",
-    "summary": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business openpr.com",
+    "title": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business - openPR.com",
+    "headline": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business - openPR.com",
+    "summary": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business openPR.com",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkQxVGU0SHFwQlM4VHBxZjZWOGtETWtzTTJKSlZXdkwySTU0RG5QNGlyb1pKa3lhT2Y4ZzNPcER6ai1yb1VuOHBUUHVUeWdjZ1d0b2FUZjFUUVhLNDFNREF3UVp1Qml4VktUXzV5RDJrNVByUnpMeGN2cGNoM2J3WDZydldaSnlLaVpSVnN4d25EQXFqMGZ2TXNaVUc0NDA?oc=5",
-    "source": "openpr.com",
+    "source": "openPR.com",
     "sourceType": "news",
     "published": "2026-09-22T09:21:42+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "BESS",
       "Manufacturing"
@@ -731,7 +731,7 @@ export const signalReview = [
     "noveltyScore": 0.0,
     "status": "review",
     "evidenceLevel": "news source",
-    "evidenceSnippet": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business openpr.com",
+    "evidenceSnippet": "Iron Salt Battery Plant Setup Cost 2026: Manufacturing Business openPR.com",
     "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
     "fichtnerRelevance": "WATCH",
     "qualityScore": 39,
@@ -742,15 +742,15 @@ export const signalReview = [
     "reviewQueueReason": "1 event indicator(s); 1 technology indicator(s)"
   },
   {
-    "id": "sig-23aaf9c765c7",
+    "id": "sig-66d8c40333aa",
     "title": "Dossier dinscription caractre gnral",
     "headline": "Dossier dinscription caractre gnral",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345865+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884713+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -774,15 +774,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-e4d8cf16687a",
+    "id": "sig-a907095695f6",
     "title": "Dossier dinscription caractre spcifique",
     "headline": "Dossier dinscription caractre spcifique",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345867+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884715+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -806,15 +806,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-e49c04b328b2",
+    "id": "sig-182cf59c3e2b",
     "title": "Mise jour des donnes des fournisseurs inscrits",
     "headline": "Mise jour des donnes des fournisseurs inscrits",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345869+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884717+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -838,15 +838,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-bb9403a72259",
+    "id": "sig-afff725461d0",
     "title": "Gestion des Fournisseurs Dfaillants",
     "headline": "Gestion des Fournisseurs Dfaillants",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345871+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884720+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -870,15 +870,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-4260ad896ae9",
+    "id": "sig-12aa8ac40cda",
     "title": "Liste des activits pouvant tre confies des microentreprises",
     "headline": "Liste des activits pouvant tre confies des microentreprises",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345873+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884722+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -902,15 +902,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-aeab8f03330b",
+    "id": "sig-93a4dddeb524",
     "title": "Agrment des entreprises de travaux et services - Edition 2024",
     "headline": "Agrment des entreprises de travaux et services - Edition 2024",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345874+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884723+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -934,15 +934,15 @@ export const signalReview = [
     "reviewQueueReason": "plausible signal; requires review"
   },
   {
-    "id": "sig-294ad6e82cef",
+    "id": "sig-0326c00f555e",
     "title": "Travaux et prestations soumis agrment",
     "headline": "Travaux et prestations soumis agrment",
     "summary": "",
-    "url": "https://www.one.org.ma/FR/pages/aoselect.asp?action=1&domaine=&esp=2&id1=7&id2=64&id3=54&nao=&nature=&objet=&page=1&t1=&t2=&t3=1&type=",
-    "source": "ONEE tenders",
+    "url": "https://www.one.org.ma/fr/pages/result.asp?esp=2&id1=7&id2=64&id3=56&page=1&t2=1&t3=1",
+    "source": "ONEE results",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:51.345876+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:41.884725+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -973,8 +973,8 @@ export const signalReview = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:57.338571+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:43.281499+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1005,8 +1005,8 @@ export const signalReview = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:57.338593+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:43.281521+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1037,8 +1037,8 @@ export const signalReview = [
     "url": "https://etendering.masen.ma/",
     "source": "MASEN e-Tendering",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:57.338596+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:43.281525+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1069,8 +1069,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399334+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442456+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1101,8 +1101,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399357+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442476+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1133,8 +1133,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399360+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442479+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1165,8 +1165,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399369+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442489+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1197,8 +1197,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399370+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442491+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1229,8 +1229,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399385+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442505+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Investment"
     ],
@@ -1261,8 +1261,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399389+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442510+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1293,8 +1293,8 @@ export const signalReview = [
     "url": "https://www.eib.org/en/about/procurement/technical-assistance",
     "source": "EIB technical assistance procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:23:59.399392+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:45.442513+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1325,8 +1325,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891852+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470648+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1357,8 +1357,8 @@ export const signalReview = [
     "url": "https://www.isdb.org/project-procurement",
     "source": "IsDB project procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:00.891859+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:46.470656+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1389,8 +1389,8 @@ export const signalReview = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:01.714660+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:47.010682+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1421,8 +1421,8 @@ export const signalReview = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:01.714664+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:47.010685+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],
@@ -1453,8 +1453,8 @@ export const signalReview = [
     "url": "https://www.ebrd.com/work-with-us/procurement.html",
     "source": "EBRD procurement",
     "sourceType": "official",
-    "published": "2026-09-23T20:24:01.714665+00:00",
-    "detected": "2026-09-23T20:24:01.767610+00:00",
+    "published": "2026-09-23T23:43:47.010686+00:00",
+    "detected": "2026-09-23T23:43:47.060092+00:00",
     "categories": [
       "Market intelligence"
     ],

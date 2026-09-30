@@ -1,5 +1,75 @@
 export const linkedinSignals = [
   {
+    "id": "sig-li-16741aba12e606",
+    "title": "Morocco | MASEN launches solar resource measurement tender covering 12 sites The Moroccan Agency for Sustainable Energy (MASEN) has issued tender No. 14/2026/MASEN for a solar and meteorological measurement campaign across 12 sites nationwi - LinkedIn",
+    "headline": "Morocco | MASEN launches solar resource measurement tender covering 12 sites The Moroccan Agency for Sustainable Energy (MASEN) has issued tender No. 14/2026/MASEN for a solar and meteorological measurement campaign across 12 sites nationwi - LinkedIn",
+    "summary": "Morocco | MASEN launches solar resource measurement tender covering 12 sites The Moroccan Agency for Sustainable Energy (MASEN) has issued tender No. 14/2026/MASEN for a solar and meteorological measurement campaign across 12 sites nationwi LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVV3WFZkM1lpSmlsbUlTOUd6cU5VUmpjRElyX180VHpQcHk4Y0hNOGhNVXlMVm9PcnpMY2ZtT0EyLVlCb3lYbWpJejJKQ0JyUDlMNWt2T0hHUW1PVGdxV3lTUU5VU2JDcERtTjZ3Z3hnbzNxcGQ3QXY1M01fb19BN0E2ekxYajFEQUhMc3pSbXJ5a0xaamc1V0hoeG4xNThaTGJCN3Nn?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "MASEN",
+    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
+    "published": "2026-09-29T09:03:32+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
+    "categories": [
+      "LinkedIn",
+      "Tender",
+      "Solar"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "MASEN",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 93,
+    "actionabilityScore": 98,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Morocco | MASEN launches solar resource measurement tender covering 12 sites The Moroccan Agency for Sustainable Energy (MASEN) has issued tender No. 14/2026/MASEN for a solar and meteorological measurement campaign across 12 sites nationwi LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 93,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 93,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "MASEN",
+      "tender",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-88da49d73a9a72",
     "title": "Morocco | MASEN seeks solar resource data for 12 future PV project sites MASEN has launched a tender for a solar and meteorological measurement campaign across 12 sites to support future photovoltaic development. The campaign will run in two successi - LinkedIn",
     "headline": "Morocco | MASEN seeks solar resource data for 12 future PV project sites MASEN has launched a tender for a solar and meteorological measurement campaign across 12 sites to support future photovoltaic development. The campaign will run in two successi - LinkedIn",
@@ -10,7 +80,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-27T09:29:26+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -81,7 +151,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-21T12:01:10+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -150,7 +220,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T19:18:07+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -219,7 +289,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-17T14:48:17+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -289,7 +359,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -360,7 +430,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-22T13:18:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -431,7 +501,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-28T14:44:06+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -500,7 +570,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T13:15:16+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -570,7 +640,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T04:01:28+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -641,7 +711,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T11:20:57+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -711,7 +781,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-18T04:41:27+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -780,7 +850,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-23T11:40:41+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -849,7 +919,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-26T16:18:50+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -918,7 +988,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T09:44:51+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -988,7 +1058,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-24T10:51:16+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1057,7 +1127,7 @@ export const linkedinSignals = [
     "sourceAccount": "WSP",
     "sourceAccountUrl": "https://www.linkedin.com/company/wsp/",
     "published": "2026-09-11T05:30:23+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1126,7 +1196,7 @@ export const linkedinSignals = [
     "sourceAccount": "Worley",
     "sourceAccountUrl": "https://www.linkedin.com/company/worley/",
     "published": "2026-09-02T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1195,7 +1265,7 @@ export const linkedinSignals = [
     "sourceAccount": "JESA",
     "sourceAccountUrl": "https://www.linkedin.com/company/jesa-sa/",
     "published": "2026-09-29T10:04:09+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -1265,7 +1335,7 @@ export const linkedinSignals = [
     "sourceAccount": "JESA",
     "sourceAccountUrl": "https://www.linkedin.com/company/jesa-sa/",
     "published": "2026-09-20T17:03:12+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1334,7 +1404,7 @@ export const linkedinSignals = [
     "sourceAccount": "EBRD",
     "sourceAccountUrl": "https://www.linkedin.com/company/ebrd/",
     "published": "2026-09-24T11:17:17+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1403,7 +1473,7 @@ export const linkedinSignals = [
     "sourceAccount": "GIZ",
     "sourceAccountUrl": "https://www.linkedin.com/company/giz/",
     "published": "2026-09-22T12:12:24+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1472,7 +1542,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-24T09:01:21+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -1541,7 +1611,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-06T11:00:06+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -1612,7 +1682,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-18T15:14:06+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -1681,7 +1751,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -1750,7 +1820,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -1819,7 +1889,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-03T12:32:56+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -1888,7 +1958,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -1957,7 +2027,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2027,7 +2097,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2096,7 +2166,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-27T13:30:12+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Grid",
@@ -2166,7 +2236,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-23T09:35:01+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -2236,7 +2306,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -2306,7 +2376,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-13T08:17:08+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2375,7 +2445,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-24T08:48:21+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2446,7 +2516,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2516,7 +2586,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-09-15T12:57:19+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2585,7 +2655,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T14:11:02+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2654,7 +2724,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-23T06:51:15+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2723,7 +2793,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2792,7 +2862,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2861,7 +2931,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T17:26:27+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2930,7 +3000,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T16:07:36+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3002,7 +3072,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3071,7 +3141,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-28T10:49:19+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3142,7 +3212,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -3211,7 +3281,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-11T12:39:41+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -3280,7 +3350,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-19T14:32:36+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3349,7 +3419,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T09:00:39+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3419,7 +3489,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3488,7 +3558,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3548,75 +3618,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-5139ffb1927fba",
-    "title": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered - LinkedIn",
-    "headline": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered - LinkedIn",
-    "summary": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTRjYjkxbTdBM3dGMlJ5Y1RzWThIUkVITnp6NElheEJjSEpDYTZTVWdxOXRsaDF2b0RXWWNGQmNNR1VqWGZQTHU2S3dlQ0U5UmY4WEJnV1NOY293aWlkOGhaNHp2YlByR1BHVkZ2bV9fSUxHaUlfb19iaVJnbW85Mm5hVlJHLUxoMWVNcF9aY3ZuUWZJTHFQR0hVVmp4QXVGUUhFNXNodw?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
-    "published": "2026-09-16T08:30:47+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "Ministry of Energy Transition and Sustainable Development",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 81,
-    "actionabilityScore": 86,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 81,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 81,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Ministry of Energy Transition and Sustainable Development",
-      "project",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-f196c0d4a65b16",
     "title": "Synhelion has laid the foundation for a large-scale commercial synthetic fuel project in Morocco. We have signed a Memorandum of Understanding (MoU) with the Government of Morocco with the aim of developing a renewable synthetic fuel plant with a plann - LinkedIn",
     "headline": "Synhelion has laid the foundation for a large-scale commercial synthetic fuel project in Morocco. We have signed a Memorandum of Understanding (MoU) with the Government of Morocco with the aim of developing a renewable synthetic fuel plant with a plann - LinkedIn",
@@ -3627,7 +3628,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -3686,6 +3687,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-5139ffb1927fba",
+    "title": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered - LinkedIn",
+    "headline": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered - LinkedIn",
+    "summary": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTRjYjkxbTdBM3dGMlJ5Y1RzWThIUkVITnp6NElheEJjSEpDYTZTVWdxOXRsaDF2b0RXWWNGQmNNR1VqWGZQTHU2S3dlQ0U5UmY4WEJnV1NOY293aWlkOGhaNHp2YlByR1BHVkZ2bV9fSUxHaUlfb19iaVJnbW85Mm5hVlJHLUxoMWVNcF9aY3ZuUWZJTHFQR0hVVmp4QXVGUUhFNXNodw?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
+    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
+    "published": "2026-09-16T08:30:47+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
+    "categories": [
+      "LinkedIn",
+      "Project"
+    ],
+    "signalType": "project",
+    "projectStage": "monitoring",
+    "entities": [
+      "Ministry of Energy Transition and Sustainable Development",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 81,
+    "actionabilityScore": 86,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Big projects attract big builders. But the surest sign a market has matured is when the 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀, 𝗶𝗻𝘀𝗽𝗲𝗰𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗿𝘀 set up shop too. RINA, the Italian engineering, testing and certification group headquartered in Genoa, has registered LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 81,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 81,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "Ministry of Energy Transition and Sustainable Development",
+      "project",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-7f8f12d5aa66fc",
     "title": "𝐎𝐂𝐏 𝐆𝐫𝐞𝐞𝐧 𝐄𝐧𝐞𝐫𝐠𝐲 𝐝𝐞𝐩𝐥𝐨𝐲𝐬 25𝐌𝐖 𝐁𝐄𝐒𝐒 𝐢𝐧 𝐌𝐨𝐫𝐨𝐜𝐜𝐨 OCP GREEN ENERGY has commissioned a 25 MW/125 MWh BESS at its mining site in Morocco, paired with a 202 MW solar plant. The five-hour system will store solar power during the day a - LinkedIn",
     "headline": "𝐎𝐂𝐏 𝐆𝐫𝐞𝐞𝐧 𝐄𝐧𝐞𝐫𝐠𝐲 𝐝𝐞𝐩𝐥𝐨𝐲𝐬 25𝐌𝐖 𝐁𝐄𝐒𝐒 𝐢𝐧 𝐌𝐨𝐫𝐨𝐜𝐜𝐨 OCP GREEN ENERGY has commissioned a 25 MW/125 MWh BESS at its mining site in Morocco, paired with a 202 MW solar plant. The five-hour system will store solar power during the day a - LinkedIn",
@@ -3696,7 +3766,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-18T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -3765,7 +3835,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T13:23:20+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3835,7 +3905,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T07:02:13+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3905,7 +3975,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-15T11:23:04+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3974,7 +4044,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-08-31T23:00:30+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -4043,7 +4113,7 @@ export const linkedinSignals = [
     "sourceAccount": "IRESEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/iresen/",
     "published": "2026-09-23T17:17:27+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4112,7 +4182,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-20T07:47:30+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -4181,7 +4251,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-09T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -4251,7 +4321,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-01T15:57:03+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -4320,7 +4390,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T10:47:43+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -4390,7 +4460,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-05T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4459,7 +4529,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T20:51:01+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -4528,7 +4598,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T15:28:40+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -4597,7 +4667,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-03T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4666,7 +4736,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:26:01+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4737,7 +4807,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-16T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -4807,7 +4877,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:52:07+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4877,7 +4947,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-17T14:02:05+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4946,7 +5016,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T10:29:30+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -5015,7 +5085,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -5084,7 +5154,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-06T05:00:57+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -5153,7 +5223,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-15T02:02:49+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -5223,7 +5293,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-12T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -5292,7 +5362,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -5363,7 +5433,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:03:57+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -5432,7 +5502,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T19:00:48+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
+    "detected": "2026-09-30T13:46:20.748051+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -5478,76 +5548,6 @@ export const linkedinSignals = [
       "dfi": false,
       "dfiDecision": false,
       "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
-    "id": "sig-li-e0f11f814044fb",
-    "title": "OCP GREEN ENERGY has officially energised its first 25MW/125MWh battery storage facility at the Benguerir mining site. It’s the critical link Morocco needed to store excess daylight solar energy and keep heavy industrial operations running long after the sun - LinkedIn",
-    "headline": "OCP GREEN ENERGY has officially energised its first 25MW/125MWh battery storage facility at the Benguerir mining site. It’s the critical link Morocco needed to store excess daylight solar energy and keep heavy industrial operations running long after the sun - LinkedIn",
-    "summary": "OCP GREEN ENERGY has officially energised its first 25MW/125MWh battery storage facility at the Benguerir mining site. It’s the critical link Morocco needed to store excess daylight solar energy and keep heavy industrial operations running long after the sun LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR09oRlZzTEtWNWdsMXFDMTZHazNCSzFWUl94bi1fb3NnV0ExUWh2YTVrWlFuSTZIRXc5WmJTT1V0Smd5bkUxRF8wYnJmUG9nTVJkT2JzYXcwS2pSaTh3UzNZUTZQdXNqalYtQWRFZ19Sd0hrdTRJR2N2YnAwRjBiTzBXVEY5MEkyRElBdUJyNE9aZWdjbzJRNG03eTB3SXRicGxSbDdtc1hwYWJIa0djR1pJYzZSZzdK?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "OCP Group",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
-    "published": "2026-09-18T11:40:59+00:00",
-    "detected": "2026-09-30T06:45:39.642084+00:00",
-    "categories": [
-      "LinkedIn",
-      "Solar",
-      "Storage"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "OCP Group",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "OCP GREEN ENERGY has officially energised its first 25MW/125MWh battery storage facility at the Benguerir mining site. It’s the critical link Morocco needed to store excess daylight solar energy and keep heavy industrial operations running long after the sun LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from OCP Group; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 76,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "OCP Group",
-      "project",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
       "consultingPotential": true
     },
     "researchBudget": {

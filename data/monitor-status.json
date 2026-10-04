@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "lastRun": "2026-10-04T06:55:24.834793+00:00",
-  "completedAt": "2026-10-04T06:55:24.834793+00:00",
+  "lastRun": "2026-10-04T13:16:41.314520+00:00",
+  "completedAt": "2026-10-04T13:16:41.314520+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,
@@ -10,7 +10,7 @@
   "rawRecords": 171,
   "newSignals": 0,
   "totalSignals": 250,
-  "archivedSignals": 773,
+  "archivedSignals": 774,
   "reviewQueue": 42,
   "competitorSignals": 16,
   "aiFilterEnabled": false,

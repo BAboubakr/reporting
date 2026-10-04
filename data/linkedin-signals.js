@@ -10,7 +10,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-29T09:03:32+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -80,7 +80,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-27T09:29:26+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -151,7 +151,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T19:18:07+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -220,7 +220,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-22T13:18:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -291,7 +291,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-28T14:44:06+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -350,76 +350,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-fb322b7e637171",
-    "title": "Morocco’s Guelmim Green Hydrogen Valley has been selected for a $5.28 million reimbursable grant from the African Development Bank Group (AfDB) under its Africa Green Hydrogen Programme. Sponsored by NAREVA Holding, the project is one of four Afr - LinkedIn",
-    "headline": "Morocco’s Guelmim Green Hydrogen Valley has been selected for a $5.28 million reimbursable grant from the African Development Bank Group (AfDB) under its Africa Green Hydrogen Programme. Sponsored by NAREVA Holding, the project is one of four Afr - LinkedIn",
-    "summary": "Morocco’s Guelmim Green Hydrogen Valley has been selected for a $5.28 million reimbursable grant from the African Development Bank Group (AfDB) under its Africa Green Hydrogen Programme. Sponsored by NAREVA Holding, the project is one of four Afr LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXhzY2N1U0sydldDZGVkenVFaXhrMHZKb3VrTjFXNVVkZGNqbVQ4blI5R1hyZUxwYUVrTk9mY3AwTG1acHh1VVJ3TUVFT0gtTVNKTF9NYzJuaEFTaU1YbUJ6S2x0RDdUNENqd0N5dGJXanR2Sk91LTNuMDIzU1ZKZUc5bTYtdll3RURqbWFXZEVVbWp2NUVXcDdWa3FuYkgwY0tPV3F6RmxMQzRrdTJhQVJaWQ?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
-    "published": "2026-09-21T13:15:16+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project",
-      "Hydrogen"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [
-      "Ministry of Energy Transition and Sustainable Development",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 89,
-    "actionabilityScore": 94,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "Morocco’s Guelmim Green Hydrogen Valley has been selected for a $5.28 million reimbursable grant from the African Development Bank Group (AfDB) under its Africa Green Hydrogen Programme. Sponsored by NAREVA Holding, the project is one of four Afr LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 89,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 89,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Ministry of Energy Transition and Sustainable Development",
-      "award",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": true,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-76c6e94dc0b28a",
     "title": "Green hydrogen: AfDB plans $20 million for four $23 billion projects https://ift.tt/s6514KB Four projects in Egypt, Morocco, Namibia, and South Africa, representing $23 billion in investments, have been selected for $20 million in repayable support announced b - LinkedIn",
     "headline": "Green hydrogen: AfDB plans $20 million for four $23 billion projects https://ift.tt/s6514KB Four projects in Egypt, Morocco, Namibia, and South Africa, representing $23 billion in investments, have been selected for $20 million in repayable support announced b - LinkedIn",
@@ -430,7 +360,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T04:01:28+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -501,7 +431,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T11:20:57+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -571,7 +501,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-22T08:32:59+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -640,7 +570,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-01T14:33:42+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -709,7 +639,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-14T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -778,7 +708,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T21:05:39+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -847,7 +777,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-26T16:18:50+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -906,6 +836,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-5bc6122f249073",
+    "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
+    "headline": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
+    "summary": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlJic0IydWw3cmhJelVmRzdjTGJQT2hPc1V4UFZHX3ZNVlJXSGhTcGVKYTkwaU5mR3ZfYk1SWHB0ZGxoRjNqdXkxcTVfeF9tZGdCV2Vud2dqSUNxcDgtd0lfUFNuZTJrQWViMEhpdm5kTi11LWl5N1d0Z0wtU3dFRFY2Z2I1eVZ4Tk1NeEV3UDlXS3puNXpHeUJqMVlDQmZJOWg5a0dEbTNlZ3ZWOFE2c0VvZzRSWldEbVJIeUdBOFdZZVpTZjZZLU5sTjdUclNvNFE?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
+    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
+    "published": "2026-09-21T13:51:42+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Hydrogen"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "Ministry of Energy Transition and Sustainable Development",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 83,
+    "actionabilityScore": 88,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 83,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 83,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "Ministry of Energy Transition and Sustainable Development",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-24e1546fb5ace9",
     "title": "Green investment can reset the EU's partnership with Morocco - LinkedIn",
     "headline": "Green investment can reset the EU's partnership with Morocco - LinkedIn",
@@ -916,7 +915,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T09:44:51+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -976,6 +975,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-d10cfc94b60ded",
+    "title": "TANGER MED’S NEXT GROWTH ENGINE WILL NOT COME FROM INFRASTRUCTURE ALONE. Morocco has already built the physical platform. In 2025, Tanger Med handled 11.1 million TEUs and more than 535,000 trucks. Its economic zones now host ov - LinkedIn",
+    "headline": "TANGER MED’S NEXT GROWTH ENGINE WILL NOT COME FROM INFRASTRUCTURE ALONE. Morocco has already built the physical platform. In 2025, Tanger Med handled 11.1 million TEUs and more than 535,000 trucks. Its economic zones now host ov - LinkedIn",
+    "summary": "TANGER MED’S NEXT GROWTH ENGINE WILL NOT COME FROM INFRASTRUCTURE ALONE. Morocco has already built the physical platform. In 2025, Tanger Med handled 11.1 million TEUs and more than 535,000 trucks. Its economic zones now host ov LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnlFZ1o0RVJXWkg5UnJZQXZGM3UzWW1IZ1BaaGhKQTlYZUtTX1VtSTg3ZnN6dmVydmFKTzB2NHVKOGVDR3NaU2R5N0U3Qmc3dHp4elg4N29iOFlrM2t2XzQ3VE5ucGd5SU9CZFZiejdsUVQ4ZW8tTjJIdjFYQi1GQlNwNUxldDllRk51eDZnVmpYQV9NYWJ6TUFZdFNYLTU3RVJ3Nm1RQzZTNElTaUo1dUh3?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Green Energy Park",
+    "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
+    "published": "2026-09-24T10:51:16+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "Green Energy Park",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 83,
+    "actionabilityScore": 88,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "TANGER MED’S NEXT GROWTH ENGINE WILL NOT COME FROM INFRASTRUCTURE ALONE. Morocco has already built the physical platform. In 2025, Tanger Med handled 11.1 million TEUs and more than 535,000 trucks. Its economic zones now host ov LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Green Energy Park; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 83,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 83,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "Green Energy Park",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-bac2de0c13430b",
     "title": "JESA Awarded New Contracts Supporting Morocco's LGV High-Speed Rail Expansion Program JESA is bringing its project delivery expertise to the Kenitra–Marrakech high-speed rail program, supporting Office National des Chemins de Fer (ONCF), Morocco' - LinkedIn",
     "headline": "JESA Awarded New Contracts Supporting Morocco's LGV High-Speed Rail Expansion Program JESA is bringing its project delivery expertise to the Kenitra–Marrakech high-speed rail program, supporting Office National des Chemins de Fer (ONCF), Morocco' - LinkedIn",
@@ -986,7 +1054,7 @@ export const linkedinSignals = [
     "sourceAccount": "JESA",
     "sourceAccountUrl": "https://www.linkedin.com/company/jesa-sa/",
     "published": "2026-09-29T10:04:09+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -1056,7 +1124,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-30T22:13:57+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -1117,48 +1185,48 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-2b8a8a15aa9932",
-    "title": "🚗 Have you ever wondered what climate strategies #Morocco has adopted to decarbonise road transport? What incentives are in place to accelerate the uptake of #electricvehicles? And how does the Moroccan automotive industry position itself within the glob - LinkedIn",
-    "headline": "🚗 Have you ever wondered what climate strategies #Morocco has adopted to decarbonise road transport? What incentives are in place to accelerate the uptake of #electricvehicles? And how does the Moroccan automotive industry position itself within the glob - LinkedIn",
-    "summary": "🚗 Have you ever wondered what climate strategies #Morocco has adopted to decarbonise road transport? What incentives are in place to accelerate the uptake of #electricvehicles? And how does the Moroccan automotive industry position itself within the glob LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3hGYVc4QndDczNKQmRReTRWbmZZU0dPYTdBSEVRZm9PWkRYWHZaTlN3dUVNUXhLUjZVbWY1VXpaZWlPVmVHX0tmaXdscWZXVlpYRVlYZDVyeVROLTRCb3pkdXZ2cU04WHN4N04wbXFVZ2NpQ3V0b3B5ZWtPR2ZXRVBBeE4tQ2dvSzRxV0x0TlR5VjJ5eGt2Wk1FTmVsLVB2SVphQVo5ZFRtcGkwMlpNU0FxcDctVUk?oc=5",
+    "id": "sig-li-fa5ce9fe5bc441",
+    "title": "The Moroccan Agency for Sustainable Energy (Masen) has started a solar resource measurement programme at 12 sites in different regions of Morocco. The goal is to prepare the next generation of solar power plants in the country. Six solar weather stations - LinkedIn",
+    "headline": "The Moroccan Agency for Sustainable Energy (Masen) has started a solar resource measurement programme at 12 sites in different regions of Morocco. The goal is to prepare the next generation of solar power plants in the country. Six solar weather stations - LinkedIn",
+    "summary": "The Moroccan Agency for Sustainable Energy (Masen) has started a solar resource measurement programme at 12 sites in different regions of Morocco. The goal is to prepare the next generation of solar power plants in the country. Six solar weather stations LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVW8zMWd0NnZiMXJ4dmNFRmN1RzBhUGxfQ05LTVIzUzl5SHcxLVowQ2lIZFRuUEJOam1xekt4RGVnR2RMX01kTHhxYzZkZE1KS0s2RC0ycld0alR4Q0lnVUpZRW1PZFdIYWRqTmFrUXAtQmFCbFNIVjVjZW41cDdpWGVldVVOR1RZaGtiSGlVS2RidEtaMl85VElnUTJENWxHNjNqdUFqeUczQQ?oc=5",
     "source": "LinkedIn",
     "sourceType": "linkedin",
-    "sourceAccount": "GIZ",
-    "sourceAccountUrl": "https://www.linkedin.com/company/giz/",
-    "published": "2026-09-22T12:12:24+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "sourceAccount": "MASEN",
+    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
+    "published": "2026-09-24T09:01:21+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
-      "Market intelligence"
+      "Solar"
     ],
-    "signalType": "award",
-    "projectStage": "contract award",
+    "signalType": "project",
+    "projectStage": "monitoring",
     "entities": [
-      "GIZ",
+      "MASEN",
       "Morocco"
     ],
     "competitor": null,
-    "relevanceScore": 82,
-    "actionabilityScore": 87,
+    "relevanceScore": 81,
+    "actionabilityScore": 86,
     "noveltyScore": 1,
     "status": "new",
     "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "🚗 Have you ever wondered what climate strategies #Morocco has adopted to decarbonise road transport? What incentives are in place to accelerate the uptake of #electricvehicles? And how does the Moroccan automotive industry position itself within the glob LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from GIZ; verify material claims against primary or independent sources.",
+    "evidenceSnippet": "The Moroccan Agency for Sustainable Energy (Masen) has started a solar resource measurement programme at 12 sites in different regions of Morocco. The goal is to prepare the next generation of solar power plants in the country. Six solar weather stations LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
     "fichtnerRelevance": "HIGH",
-    "qualityScore": 82,
+    "qualityScore": 81,
     "filterDecision": "KEEP",
     "filterConfidence": 0.92,
     "filterReason": "First-class LinkedIn discovery source",
     "aiReviewed": false,
-    "researchPriority": 82,
+    "researchPriority": 81,
     "researchLevel": "L2",
     "researchLevelName": "Investigate",
     "researchPriorityReasons": [
       "LinkedIn source",
-      "GIZ",
-      "award",
+      "MASEN",
+      "project",
       "Morocco context"
     ],
     "researchTriggers": {
@@ -1168,8 +1236,8 @@ export const linkedinSignals = [
       "competitorMove": false,
       "marketEntry": false,
       "tender": false,
-      "award": true,
-      "dfi": true,
+      "award": false,
+      "dfi": false,
       "dfiDecision": false,
       "majorProject": true,
       "consultingPotential": true
@@ -1196,7 +1264,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-06T11:00:06+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -1267,7 +1335,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -1336,7 +1404,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1405,7 +1473,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-27T13:30:12+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Grid",
@@ -1475,7 +1543,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-28T05:30:17+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -1545,7 +1613,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-30T13:18:45+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1614,7 +1682,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1683,7 +1751,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1752,7 +1820,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T17:26:27+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1821,7 +1889,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-28T10:49:19+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -1892,7 +1960,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T09:49:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1951,75 +2019,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-0322f7188a886d",
-    "title": "Swakop Uranium expects Erongo desalination EPC contract award by September The engineering, procurement and construction (EPC) contract for the proposed US$170 million Erongo desalination plant is expected to be awarded by early September, with c - LinkedIn",
-    "headline": "Swakop Uranium expects Erongo desalination EPC contract award by September The engineering, procurement and construction (EPC) contract for the proposed US$170 million Erongo desalination plant is expected to be awarded by early September, with c - LinkedIn",
-    "summary": "Swakop Uranium expects Erongo desalination EPC contract award by September The engineering, procurement and construction (EPC) contract for the proposed US$170 million Erongo desalination plant is expected to be awarded by early September, with c LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFh3TUJFM0tNNVE4SnRGdVNOcENvZ3hiajhJU0tvYnNRbk5FZ2xWdXBXQUdORzV0NXFsb3FQU2ktWHZSOHNWXzhDR1prNndqZXRRR09ESEhFbXJmcnFjZy1Za2NGQkNnTzRZcDJScUJFR3YtNVJiaGl3am96aUlQZUNXdEVFdTltRXNsMS1uZlRCQjR6MmZNTlZBbC1SOUwzMkRMdVY2aU5RX19sN3VmZ0hqNA?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
-    "published": "2026-09-04T15:12:19+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Award"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "Ministry of Energy Transition and Sustainable Development",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 81,
-    "actionabilityScore": 86,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "Swakop Uranium expects Erongo desalination EPC contract award by September The engineering, procurement and construction (EPC) contract for the proposed US$170 million Erongo desalination plant is expected to be awarded by early September, with c LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 81,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 81,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Ministry of Energy Transition and Sustainable Development",
-      "tender",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-4c51d408645d32",
     "title": "🚨 FLASH NEWS | Morocco elected to the Presidency of AFRA for 2026–2027 ⚛️🌍 Morocco has been elected by acclamation to the Presidency of the African Regional Cooperative Agreement for Research, Development and Training related to Nuclear Scienc - LinkedIn",
     "headline": "🚨 FLASH NEWS | Morocco elected to the Presidency of AFRA for 2026–2027 ⚛️🌍 Morocco has been elected by acclamation to the Presidency of the African Regional Cooperative Agreement for Research, Development and Training related to Nuclear Scienc - LinkedIn",
@@ -2030,7 +2029,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-19T14:32:36+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2099,7 +2098,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-29T11:18:05+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Partnership",
@@ -2169,7 +2168,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T09:00:39+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2239,7 +2238,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2308,7 +2307,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2377,7 +2376,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-18T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -2446,7 +2445,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-24T15:00:56+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2515,7 +2514,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-24T10:44:50+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2584,7 +2583,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T19:15:03+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2653,7 +2652,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-29T12:13:03+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -2712,75 +2711,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-5bc6122f249073",
-    "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
-    "headline": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
-    "summary": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlJic0IydWw3cmhJelVmRzdjTGJQT2hPc1V4UFZHX3ZNVlJXSGhTcGVKYTkwaU5mR3ZfYk1SWHB0ZGxoRjNqdXkxcTVfeF9tZGdCV2Vud2dqSUNxcDgtd0lfUFNuZTJrQWViMEhpdm5kTi11LWl5N1d0Z0wtU3dFRFY2Z2I1eVZ4Tk1NeEV3UDlXS3puNXpHeUJqMVlDQmZJOWg5a0dEbTNlZ3ZWOFE2c0VvZzRSWldEbVJIeUdBOFdZZVpTZjZZLU5sTjdUclNvNFE?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Nareva",
-    "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
-    "published": "2026-09-21T13:51:42+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Hydrogen"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "Nareva",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 78,
-    "actionabilityScore": 83,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Nareva; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 78,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 78,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Nareva",
-      "investment",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-30d2a87a5c6d15",
     "title": "The magnificent KSA projects - PIF Waves 5 and 6 - recognised at the Green Street, formerly IJGlobal, #InfraGlobalAwards this week in Dubai with a Market Impact trophy. Lead partners on this 15GW renewables development are Acwa, Badeel and aramco. R - LinkedIn",
     "headline": "The magnificent KSA projects - PIF Waves 5 and 6 - recognised at the Green Street, formerly IJGlobal, #InfraGlobalAwards this week in Dubai with a Market Impact trophy. Lead partners on this 15GW renewables development are Acwa, Badeel and aramco. R - LinkedIn",
@@ -2791,7 +2721,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T10:47:43+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -2861,7 +2791,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-05T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2930,7 +2860,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -3000,7 +2930,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-11T20:51:01+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3069,7 +2999,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:26:01+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3140,7 +3070,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-17T14:02:05+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3209,7 +3139,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T10:29:30+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3278,7 +3208,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-07T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3347,7 +3277,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-06T05:00:57+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3416,7 +3346,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:03:57+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -3485,7 +3415,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T19:00:48+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -3555,7 +3485,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-09-19T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -3624,7 +3554,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-21T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3684,76 +3614,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-51d9c5dda94695",
-    "title": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - LinkedIn",
-    "headline": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million - LinkedIn",
-    "summary": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjhiSDJhSTM5TTRoQ2d0aFJHMjVPZmVDbWxjRlVMMGU1YmI1WkkxeEVIQjVGbFI4dmFUeXA2T0pKc1UydEtzR01kSzBlSnRnampDNTM2WFlqb19wbWpTZWJGbDU3Z2dYZmo5LXNkbWJFZG9tSWtBMUs4NE1LbHhqbW51RE5WMFFqdzdRYmJZWDRHQVNxSTlQNjdObmwwWjNSSTdpeVM3NmtHbzlucjIwYk5ZTGo2WkJYOXd0QnVreXBNblRtODJmUFkzai1NenhyTzAtSkpJRnZwdw?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Nareva",
-    "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
-    "published": "2026-09-20T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project",
-      "Hydrogen"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "Nareva",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "African Development Bank to back green hydrogen projects in Egypt, Morocco, Namibia and South Africa with grants worth a total of $20 million LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Nareva; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 76,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Nareva",
-      "project",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-bcb18de9abadf6",
     "title": "GOTION HIGH-TECH Secures 6 GWh in Saudi Arabia's First Utility-Scale BESS Tender Gotion High-Tech won 6 GWh of battery energy storage capacity under Saudi Arabia's first utility-scale BESS procurement program. The award, made by Saudi Power Proc - LinkedIn",
     "headline": "GOTION HIGH-TECH Secures 6 GWh in Saudi Arabia's First Utility-Scale BESS Tender Gotion High-Tech won 6 GWh of battery energy storage capacity under Saudi Arabia's first utility-scale BESS procurement program. The award, made by Saudi Power Proc - LinkedIn",
@@ -3764,7 +3624,7 @@ export const linkedinSignals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-09-29T13:01:35+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -3835,7 +3695,7 @@ export const linkedinSignals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-09-29T04:30:37+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -3906,7 +3766,7 @@ export const linkedinSignals = [
     "sourceAccount": "TAQA Morocco",
     "sourceAccountUrl": "https://www.linkedin.com/company/taqa-morocco/",
     "published": "2026-09-28T16:38:19+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -3975,7 +3835,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-28T10:36:10+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4047,7 +3907,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-10T13:54:45+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4118,7 +3978,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-22T19:16:33+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4188,7 +4048,7 @@ export const linkedinSignals = [
     "sourceAccount": "TotalEnergies",
     "sourceAccountUrl": "https://www.linkedin.com/company/totalenergies/",
     "published": "2026-09-23T19:55:37+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4247,6 +4107,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-6ba59879a32963",
+    "title": "Managem, Morocco’s largest mining company, reported a tenfold increase in first-half profit to 3.78 billion dirhams in 2026, driven by higher metals production and prices. Consolidated revenue more than doubled to 11.76 billion dirhams, fueled by the ramp-up - LinkedIn",
+    "headline": "Managem, Morocco’s largest mining company, reported a tenfold increase in first-half profit to 3.78 billion dirhams in 2026, driven by higher metals production and prices. Consolidated revenue more than doubled to 11.76 billion dirhams, fueled by the ramp-up - LinkedIn",
+    "summary": "Managem, Morocco’s largest mining company, reported a tenfold increase in first-half profit to 3.78 billion dirhams in 2026, driven by higher metals production and prices. Consolidated revenue more than doubled to 11.76 billion dirhams, fueled by the ramp-up LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFZfZmQtYk85YjR3SGJXdkk0enJtenhxUVFfXzl3SVB6M0NLdWxQZk1uVWtPdEV5SW91cmVZTnY3NExQUTNXOWhySVpla0hYNjYtOXVTdHZUQXAtZHM1TnR6aWtpRWxHVWkyM2M2TzNWQ2NKTXkxWDlxWEg4VnNjOFh0eW1BUjVwa3ZEOVBLT1lpMmJ5Mjc5SVlabFlMMkdzUWhhWTRlbUhUdmJDT09KTE45ZVhlbUtkRThMaHEweTc?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "World Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
+    "published": "2026-09-29T15:54:27+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "World Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Managem, Morocco’s largest mining company, reported a tenfold increase in first-half profit to 3.78 billion dirhams in 2026, driven by higher metals production and prices. Consolidated revenue more than doubled to 11.76 billion dirhams, fueled by the ramp-up LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 76,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "World Bank",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-3fc82456ce731e",
     "title": "At SIAGRO 2026, Morocco is transferring its poultry expertise to Senegal. This is a strategic move. Among the 100 exhibitors and 10,000 professionals gathered in Dakar in April 2026, one of the most significant partnerships forged was the one linking Morocca - LinkedIn",
     "headline": "At SIAGRO 2026, Morocco is transferring its poultry expertise to Senegal. This is a strategic move. Among the 100 exhibitors and 10,000 professionals gathered in Dakar in April 2026, one of the most significant partnerships forged was the one linking Morocca - LinkedIn",
@@ -4257,7 +4186,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-08T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Partnership"
@@ -4326,7 +4255,7 @@ export const linkedinSignals = [
     "sourceAccount": "Worley",
     "sourceAccountUrl": "https://www.linkedin.com/company/worley/",
     "published": "2026-09-22T13:16:21+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4395,7 +4324,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-29T08:04:04+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4464,7 +4393,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-12T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4533,7 +4462,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-23T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -4592,75 +4521,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-9d9b769e20b450",
-    "title": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate - LinkedIn",
-    "headline": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate - LinkedIn",
-    "summary": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzlFWmlzMmlSMThjQUxVS1hMZ045ZW0zWWRuOG9VTmk0LXdfbXBuX0tmeUVtbnJoUXpOT0tCRUhDWkZoaFBaOUdIcThfNUNUX05jT0wwNUFwQVl0Sm5zWEZPSmRjRUlnbVR5TTJQdlg1X2JlUDg1bUpPLUh3dXlPamNaWmxGOUZiNDVEOXFLS0JKVG4yN003cnVidkR4aTFBZGxHYkh6VS1ha3B5cGRr?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "African Development Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
-    "published": "2026-09-21T20:24:10+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "African Development Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 74,
-    "actionabilityScore": 79,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 74,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 74,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "African Development Bank",
-      "project",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-faf3b57bf920eb",
     "title": "📢35 FUNDING RESOURCES FOR NGOs & SOCIAL ENTERPRISES Finding the right funding opportunity starts with knowing where to search. Below are some useful global grant databases, donor portals, and procurement platforms worth exploring in 2026. 1 - LinkedIn",
     "headline": "📢35 FUNDING RESOURCES FOR NGOs & SOCIAL ENTERPRISES Finding the right funding opportunity starts with knowing where to search. Below are some useful global grant databases, donor portals, and procurement platforms worth exploring in 2026. 1 - LinkedIn",
@@ -4671,7 +4531,7 @@ export const linkedinSignals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-09-18T06:10:19+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4730,6 +4590,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-9d9b769e20b450",
+    "title": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate - LinkedIn",
+    "headline": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate - LinkedIn",
+    "summary": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzlFWmlzMmlSMThjQUxVS1hMZ045ZW0zWWRuOG9VTmk0LXdfbXBuX0tmeUVtbnJoUXpOT0tCRUhDWkZoaFBaOUdIcThfNUNUX05jT0wwNUFwQVl0Sm5zWEZPSmRjRUlnbVR5TTJQdlg1X2JlUDg1bUpPLUh3dXlPamNaWmxGOUZiNDVEOXFLS0JKVG4yN003cnVidkR4aTFBZGxHYkh6VS1ha3B5cGRr?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "African Development Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
+    "published": "2026-09-21T20:24:10+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "project",
+    "projectStage": "monitoring",
+    "entities": [
+      "African Development Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 74,
+    "actionabilityScore": 79,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "#AfricanEnergyUpdate | AfDB Approves €100 Million for Gotion’s First African LFP Battery Gigafactory in Morocco The African Development Bank Group board has approved a €100 million loan to Gotion Power Morocco for an integrated lithium-iron-phosphate LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 74,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 74,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "African Development Bank",
+      "project",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-6fec8ad8c5f1d9",
     "title": "The World Bank Group's Offshore Wind Development Program, in partnership with GWEC, brought together technical leaders from Brazil, Colombia, Mexico, Morocco, the Philippines, Türkiye and Vietnam to learn more about offshore wind grid integration and t - LinkedIn",
     "headline": "The World Bank Group's Offshore Wind Development Program, in partnership with GWEC, brought together technical leaders from Brazil, Colombia, Mexico, Morocco, the Philippines, Türkiye and Vietnam to learn more about offshore wind grid integration and t - LinkedIn",
@@ -4740,7 +4669,7 @@ export const linkedinSignals = [
     "sourceAccount": "World Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
     "published": "2026-09-30T19:15:59+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Partnership",
@@ -4811,7 +4740,7 @@ export const linkedinSignals = [
     "sourceAccount": "World Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
     "published": "2026-09-15T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4880,7 +4809,7 @@ export const linkedinSignals = [
     "sourceAccount": "World Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
     "published": "2026-09-10T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4949,7 +4878,7 @@ export const linkedinSignals = [
     "sourceAccount": "GIZ",
     "sourceAccountUrl": "https://www.linkedin.com/company/giz/",
     "published": "2026-09-30T12:19:54+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -5018,7 +4947,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-17T18:25:12+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -5087,7 +5016,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-17T15:29:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -5156,7 +5085,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-28T13:33:57+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -5225,7 +5154,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-22T15:27:04+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -5284,75 +5213,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-1c8c37ee2e57a0",
-    "title": "🔴 Morocco had to look for ammonia from China this year after supplies from the Middle East were disrupted. The change was unusual because China has not traditionally been a major source of ammonia for Morocco. The new trade is part of a much bigger shi - LinkedIn",
-    "headline": "🔴 Morocco had to look for ammonia from China this year after supplies from the Middle East were disrupted. The change was unusual because China has not traditionally been a major source of ammonia for Morocco. The new trade is part of a much bigger shi - LinkedIn",
-    "summary": "🔴 Morocco had to look for ammonia from China this year after supplies from the Middle East were disrupted. The change was unusual because China has not traditionally been a major source of ammonia for Morocco. The new trade is part of a much bigger shi LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjBjaFdjTzV6akdwR3piamtkMGZBWVlaNUFET0RNcGJsemwwVkdFOGJjSnZGMXFUbXpmdEc2akVVSVU5YVdNU1RoWThPQ3JVbVB5Qmc3cTJqYlh4eWpOSzNEWExUMm5nem9Oa0JxWUlCMm1GVWk3ZVRrbzVyaGgtNVIyNER5ZlhEcmN5NVQ3MkUxZzlNa2JZeDV0SnZaM2Ffd1BsZHBiaTJTbC1HRF9JYlB4TnBZa2N2eE1kcA?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "OCP Group",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
-    "published": "2026-09-26T00:54:34+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "hydrogen",
-    "projectStage": "monitoring",
-    "entities": [
-      "OCP Group",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 72,
-    "actionabilityScore": 77,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "🔴 Morocco had to look for ammonia from China this year after supplies from the Middle East were disrupted. The change was unusual because China has not traditionally been a major source of ammonia for Morocco. The new trade is part of a much bigger shi LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from OCP Group; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 72,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 72,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "OCP Group",
-      "hydrogen",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-2e97ed5044bce5",
     "title": "Cyprus is stepping into the global energy spotlight, thanks to McDermott's recent contract win for Eni's Cronos project. This isn't just about breaking ground on the island's first hydrocarbon venture; it's a major leap toward establishing Cyprus as a key gas expor - LinkedIn",
     "headline": "Cyprus is stepping into the global energy spotlight, thanks to McDermott's recent contract win for Eni's Cronos project. This isn't just about breaking ground on the island's first hydrocarbon venture; it's a major leap toward establishing Cyprus as a key gas expor - LinkedIn",
@@ -5363,7 +5223,7 @@ export const linkedinSignals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-09-11T07:00:00+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -5432,7 +5292,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-23T09:13:25+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -5501,7 +5361,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-18T14:00:19+00:00",
-    "detected": "2026-10-04T13:12:46.525484+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -5519,6 +5379,144 @@ export const linkedinSignals = [
     "status": "new",
     "evidenceLevel": "LinkedIn discovery",
     "evidenceSnippet": "UAE to boost investments in Central Asia amid strengthening of Azerbaijan ties | The National LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 71,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 71,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "MASEN",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
+    "id": "sig-li-c380a65e7bfca8",
+    "title": "Stakeholders seek stronger investment in Niger Delta energy, technology - LinkedIn",
+    "headline": "Stakeholders seek stronger investment in Niger Delta energy, technology - LinkedIn",
+    "summary": "Stakeholders seek stronger investment in Niger Delta energy, technology LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHFGdy1SSnZmcDdIUk1OQTlmcnZwNFBPQU5EaUJWZDYwMDF5VDdJWUlFZWlLX3YzRXlyOE9EV2tRRXFaUUNkZV9YOVlYQllNQ1ZTZndPS3JBeGNrcUhMejZNSmZMelhwbnZPT2dpWm1FVXh0cjFWemd6cFFEU2NsejR0eXQ5OVV4Y0VvWGRlNTBYYkdhVjIzR3hvU1ljRGJSMGRGX00zSm5BZVVWQXdIcXJkaFNhVVE?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "MASEN",
+    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
+    "published": "2026-09-21T17:41:57+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 71,
+    "actionabilityScore": 76,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Stakeholders seek stronger investment in Niger Delta energy, technology LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 71,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 71,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "MASEN",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
+    "id": "sig-li-7af0f7bc6ea2bd",
+    "title": "A More Stable Outlook, A Stronger Investment Case for #Bangladesh’s #RenewableEnergy Market Moody’s has revised #Bangladesh’s sovereign outlook from to Stable, while affirming the country’s B2 sovereign rating. The revision reflects easing external pr - LinkedIn",
+    "headline": "A More Stable Outlook, A Stronger Investment Case for #Bangladesh’s #RenewableEnergy Market Moody’s has revised #Bangladesh’s sovereign outlook from to Stable, while affirming the country’s B2 sovereign rating. The revision reflects easing external pr - LinkedIn",
+    "summary": "A More Stable Outlook, A Stronger Investment Case for #Bangladesh’s #RenewableEnergy Market Moody’s has revised #Bangladesh’s sovereign outlook from to Stable, while affirming the country’s B2 sovereign rating. The revision reflects easing external pr LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXdpb2VCaFoyaXh4OGtTc3JYa0VMVU9XbGg3NEFyVTZINWZEVzRNOU41MXB1dkhPRDFUSW82Qkt1OFY0VE1GMklWOW9VUVFMR3FXWS1IUmdQSmttc2Fram15b05WaGZjS0NsNU1fOHZMS2VfU0NLOEMwVk1aXzNDSGtuUWhFVjN6V2g1QkVxLXFsRUxpX19RbmFjeGJuRnpfX2NtN1c5SnAyaDl0eHdhMUNzdUlTdkhpRUlxdTVFU294LXNLc3g4?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "MASEN",
+    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
+    "published": "2026-09-22T07:00:00+00:00",
+    "detected": "2026-10-04T17:36:22.865217+00:00",
+    "categories": [
+      "LinkedIn",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 71,
+    "actionabilityScore": 76,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "A More Stable Outlook, A Stronger Investment Case for #Bangladesh’s #RenewableEnergy Market Moody’s has revised #Bangladesh’s sovereign outlook from to Stable, while affirming the country’s B2 sovereign rating. The revision reflects easing external pr LinkedIn",
     "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
     "fichtnerRelevance": "MEDIUM",
     "qualityScore": 71,

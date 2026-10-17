@@ -1,7 +1,7 @@
 import { eventData, pipeline, stakeholders, sources } from './data/index.js';
 import { signals as rawSignals } from './data/signals.js?v=20260920-3';
 import { enrichments } from './data/enrichments.js?v=20260919-1';
-import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js?v=20260920-1';
+import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js?v=20261017-1';
 const $=id=>document.getElementById(id),storageKey='atlas-local-state-v2',saved=JSON.parse(localStorage.getItem(storageKey)||'{}'),localOpportunities=saved.opportunities||[],localDevelopments=saved.developments||[],mergedSignals=rawSignals.map(s=>enrichments[s.id]&&!s.enrichment?{...s,enrichment:enrichments[s.id],evidenceLevel:enrichments[s.id].status==='public-evidence'?'multi-source enriched':s.evidenceLevel}:s),signals=cleanSignals(mergedSignals);
 const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d};
 const isActiveLocalOpportunity=o=>{if(o?.generated)return true;const d=dateValue(o?.due||o?.date);if(!d)return true;const today=new Date();today.setHours(0,0,0,0);return d>=today};
@@ -10,14 +10,24 @@ if(activeLocalOpportunities.length!==localOpportunities.length){localStorage.set
 const allPipeline=()=>{const base=Object.fromEntries(Object.entries(pipeline).map(([k,v])=>[k,[...v]]));activeLocalOpportunities.forEach(o=>(base[o.stage]||=[]).push(o));return base};
 function cleanDevelopmentTitle(value){
  let t=String(value||'').normalize('NFKC').replace(/\s*-\s*LinkedIn\s*$/i,'').trim();
- t=t.replace(/^(?:[\\p{Extended_Pictographic}\\p{Emoji_Presentation}\\uFE0F\\u200D\\s])+|(?:[\\p{Extended_Pictographic}\\p{Emoji_Presentation}\\uFE0F\\u200D\\s])+$/gu,'').trim();
- t=t.replace(/^(?:(?:FLASH|BREAKING)\\s+NEWS|NEWS\\s+FLASH)\\s*[:|–—-]*\\s*/i,'');
- t=t.replace(/^(?:#[\\p{L}\\p{N}_-]+\\s*)+/u,'').replace(/(?:\\s+#[\\p{L}\\p{N}_-]+)+$/u,'').trim();
- t=t.replace(/\\s+/g,' ').trim();
- if(t.length>140){const cut=t.slice(0,140).replace(/\\s+\\S*$/,'').trim();t=cut+'…';}
+ t=t.replace(/^[\p{Extended_Pictographic}\p{Emoji_Presentation}\uFE0F\u200D\s]+|[\p{Extended_Pictographic}\p{Emoji_Presentation}\uFE0F\u200D\s]+$/gu,'').trim();
+ t=t.replace(/^(?:(?:FLASH|BREAKING)\s+NEWS|NEWS\s+FLASH)\s*[:|–—-]*\s*/i,'');
+ t=t.replace(/^(?:#[\p{L}\p{N}_-]+\s*)+/u,'').replace(/(?:\s+#[\p{L}\p{N}_-]+)+$/u,'').trim();
+ t=t.replace(/\s+/g,' ').trim();
+ if(t.length>140){const cut=t.slice(0,140).replace(/\s+\S*$/,'').trim();t=cut+'…';}
  return t||'Untitled market development';
 }
-const signalToDevelopment=s=>({id:`signal-${s.id}`,topic:`${String(s.signalType||'SIGNAL').toUpperCase()} · ${(Array.isArray(s.categories)?s.categories[0]:s.categories||'RENEWABLE ENERGY').toString().toUpperCase()}`,title:cleanDevelopmentTitle(s.title||s.headline),text:s.summary||s.evidenceSnippet||s.whyItMatters||'Morocco renewable-energy market signal.',state:Number(s.actionabilityScore)>=75||s.fichtnerRelevance==='HIGH'?'HIGH PRIORITY':Number(s.actionabilityScore)>=60?'STRATEGIC SIGNAL':'WATCH',level:s.fichtnerRelevance==='HIGH'?'high':Number(s.actionabilityScore)>=60?'medium':'watch',score:`${Number(s.actionabilityScore)||Number(s.relevanceScore)||0} / 100`,action:s.action||'Review signal',evidence:s.evidenceLevel||'Source evidence',published:s.published||s.detected||s.updated||'',sourceIds:s.source?[s.source]:[],source:s.source,url:s.url,generated:true,signalId:s.id});
+const signalToDevelopment=s=>({
+ id:'signal-'+s.id,eventId:s.eventId||s.id,eventFamilyId:s.eventFamilyId,
+ topic:String(s.signalType||'SIGNAL').toUpperCase()+' · '+(Array.isArray(s.categories)?s.categories[0]:s.categories||'RENEWABLE ENERGY').toString().toUpperCase(),
+ title:cleanDevelopmentTitle(s.title||s.headline),text:s.summary||s.evidenceSnippet||s.whyItMatters||'Morocco renewable-energy market signal.',
+ state:Number(s.actionabilityScore)>=75||s.fichtnerRelevance==='HIGH'?'HIGH PRIORITY':Number(s.actionabilityScore)>=60?'STRATEGIC SIGNAL':'WATCH',
+ level:s.fichtnerRelevance==='HIGH'?'high':Number(s.actionabilityScore)>=60?'medium':'watch',
+ score:String(Number(s.actionabilityScore)||Number(s.relevanceScore)||0)+' / 100',action:s.action||'Review signal',evidence:s.evidenceLevel||'Source evidence',
+ published:s.published||s.detected||s.updated||'',sourceIds:(Array.isArray(s.sources)?s.sources:[]).map(x=>x.source||x.publication||x.url).filter(Boolean),
+ sourceCount:Number(s.sourceCount)||((Array.isArray(s.sources)&&s.sources.length)|| (s.url?1:0)),sources:Array.isArray(s.sources)?s.sources:[],
+ source:s.source,url:s.url,categories:Array.isArray(s.categories)?s.categories:[s.categories].filter(Boolean),signalType:s.signalType,projectStage:s.projectStage,project:s.project,location:s.location,capacity:s.capacity,generated:true,signalId:s.id
+});
 const developmentSignals=()=>signals;
 const automaticDevelopments=()=>developmentSignals().map(signalToDevelopment);
 const allDevelopments=()=>automaticDevelopments();
@@ -43,6 +53,8 @@ function renderDevelopments(filter='all'){
  if(!$('developmentList'))return;
  const seen=new Set(); const items=f.filter(x=>{const k=String(x.title||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>(dateValue(b.published||b.date)?.getTime()||0)-(dateValue(a.published||a.date)?.getTime()||0));
  $('developmentList').innerHTML=items.length?'<div class="development-count">Showing '+Math.min(items.length,40)+' of '+items.length+' developments</div>'+items.slice(0,40).map(x=>{const level=x.level||'watch',state=x.state||'WATCH',score=x.score||'—',title=x.title||'Untitled development',text=x.text||'Morocco renewable-energy market signal.',project=x.project||'',evidence=x.evidence||'Source evidence',date=x.published||x.date||'',url=x.url||'';return `<article class="development-card ${level}" data-signal-id="${escapeHtml(x.signalId||"")}"><div class="dev-top"><span class="dev-topic">${escapeHtml(x.topic||"MARKET SIGNAL")}</span><span class="dev-score">${escapeHtml(score)}</span></div><div class="dev-state">${escapeHtml(state)}</div><h3 class="dev-title">${escapeHtml(title)}</h3><p class="dev-summary">${escapeHtml(text)}</p>${project?`<div class="dev-project"><b>Project</b> · ${escapeHtml(project)}</div>`:""}<div class="dev-bottom"><div class="dev-meta">${escapeHtml(date)} · ${escapeHtml(evidence)}</div>${url?`<a class="dev-evidence" href="${escapeHtml(url)}" target="_blank" rel="noopener">Evidence ↗</a>`:`<span class="dev-action">${escapeHtml(x.action||"Review signal")}</span>`}</div></article>`;}).join(''):'<div class="development-empty"><strong>No developments match this filter.</strong><br>Try another topic or broaden the evidence view.</div>';
+ if(!document.getElementById('atlas-source-link-styles')){const style=document.createElement('style');style.id='atlas-source-link-styles';style.textContent='.dev-source-list{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-top:8px;font-size:11px}.dev-source-list span{color:#71807e}.dev-source-list a{color:#1d625d;text-decoration:underline}.dev-source-list a:focus-visible{outline:2px solid #1d625d;outline-offset:2px}';document.head.appendChild(style)}
+ document.querySelectorAll('.development-card').forEach((card,index)=>{const item=items[index];if(!item)return;const records=Array.isArray(item.sources)?item.sources:(item.url?[{url:item.url,source:item.source}]:[]);if(!records.length)return;const list=document.createElement('div');list.className='dev-source-list';const count=Number(item.sourceCount)||records.length;const label=document.createElement('span');label.textContent=count+' source'+(count===1?'':'s')+':';list.appendChild(label);records.forEach(record=>{const raw=String(record.url||record.originalUrl||'');let url;try{url=new URL(raw,location.href);if(!/^https?:$/.test(url.protocol))return}catch{return}const link=document.createElement('a');link.href=url.href;link.target='_blank';link.rel='noopener noreferrer';link.textContent=record.source||record.publication||record.publisher||url.hostname;link.title=record.headline||record.title||url.href;list.appendChild(link)});card.appendChild(list)});
  document.querySelectorAll('.filter-row .filter').forEach(b=>b.classList.toggle('active',b.dataset.filter===filter));
 }
 function renderPipeline(){const b=allPipeline();if($('pipelineBoard'))$('pipelineBoard').innerHTML=Object.entries(b).map(([s,items])=>`<section class="pipe-column"><h3>${escapeHtml(s)}<span>${items.length}</span></h3>${items.map(i=>`<div class="pipe-item"><h4>${escapeHtml(i.name||i.title)}</h4><p>${escapeHtml(i.note||i.text||'')}</p><div class="pipe-meta"><span>${escapeHtml(i.owner||'Unassigned')}</span><span>${escapeHtml(i.due||'No due date')}</span></div></div>`).join('')}</section>`).join('')}
@@ -67,5 +79,6 @@ function renderSignalRefresh(){const last=getLastSignalUpdate(signals);window.at
 function renderAll(){renderOverview();renderDevelopments(activeDevelopmentFilter);renderPipeline();renderEvents();renderStatic();renderCalendar();renderLiveCounters();renderSignalRefresh();loadMobileUI()}function setView(id){document.querySelectorAll('.view').forEach(v=>v.classList.toggle('active',v.id===id));document.querySelectorAll('.nav-item').forEach(v=>v.classList.toggle('active',v.dataset.view===id));renderSignalRefresh();if(window.innerWidth<=700){document.querySelector('.sidebar')?.classList.remove('open');document.getElementById('atlasMobileOverlay')?.classList.remove('open')}}document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));document.querySelectorAll('[data-view-target]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.viewTarget)));
 let activeDevelopmentFilter='all';const filterNames=['all','verified','needs-review','tenders','policy','grid'];document.querySelectorAll('.filter-row .filter').forEach((b,i)=>{b.dataset.filter=filterNames[i]||'all';b.addEventListener('click',()=>{activeDevelopmentFilter=b.dataset.filter;renderDevelopments(activeDevelopmentFilter)})});
 function renderReportPreview(){const t=$('reportType')?.value||'Weekly Intelligence Brief',p=$('reportPeriod')?.value.trim()||'Current period',c=$('reportClassification')?.value||'';if($('reportPreview'))$('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${escapeHtml(t)}</h2><small>${escapeHtml(p)} · ${escapeHtml(c)}</small></div>`}['reportType','reportPeriod','reportClassification'].forEach(id=>$(id)?.addEventListener('input',renderReportPreview));window.__atlasReportContextReady=true;window.allDevelopments=allDevelopments;window.allPipeline=allPipeline;window.eventData=eventData;window.signals=signals;window.atlasLastUpdate=getLastSignalUpdate(signals);window.escapeHtml=escapeHtml;renderAll();renderReportPreview();
-import('./report-generator-v3.js?v=20260920-3').catch(e=>console.warn('Atlas V3 report generator unavailable',e));
+import('./report-generator-v3.js?v=20261017-2').catch(e=>console.warn('Atlas V3 report generator unavailable',e));
 import('./market-intelligence-v3.js?v=20260920-3').catch(e=>console.warn('Atlas market module unavailable',e));
+

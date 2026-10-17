@@ -1,5 +1,5 @@
 """Atlas adaptive public-evidence enrichment engine."""
-import hashlib,html,json,os,re,urllib.parse,urllib.request,xml.etree.ElementTree as ET
+import hashlib,html,json,os,re,tempfile,urllib.parse,urllib.request,xml.etree.ElementTree as ET
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from research_priority import research_priority
@@ -107,6 +107,35 @@ def gemini(s,evidence,m):
         return json.loads(d['candidates'][0]['content']['parts'][0]['text'])
     except Exception as e:print('Gemini enrichment unavailable:',e);return None
 
+def persist_enriched_history(signals):
+    path=DATA/'event-history.json'
+    if not path.exists():return
+    history=json.loads(path.read_text(encoding='utf-8'))
+    if not isinstance(history,list):raise ValueError('event-history.json must contain a list')
+    by_id={str(x.get('eventId') or x.get('id')):x for x in history if isinstance(x,dict)}
+    fields=('project','projectName','entities','competitor','enrichment','evidenceLevel','aiReviewed',
+            'researchPriority','researchLevel','researchLevelName','researchPriorityReasons',
+            'researchTriggers','researchBudget','researchEligibility','contractReferences')
+    changed=False
+    for signal in signals:
+        key=str(signal.get('eventId') or signal.get('id') or '')
+        target=by_id.get(key)
+        if not target:continue
+        for name in fields:
+            if name in signal:
+                value=signal[name]
+                if name=='entities':value=list(dict.fromkeys((target.get(name) or [])+(value or [])))
+                if target.get(name)!=value:target[name]=value;changed=True
+    if not changed:return
+    handle,temp_name=tempfile.mkstemp(prefix='event-history.',suffix='.tmp',dir=DATA)
+    try:
+        with os.fdopen(handle,'w',encoding='utf-8',newline='\n') as stream:json.dump(history,stream,ensure_ascii=False,indent=2);stream.write('\n')
+        os.replace(temp_name,path)
+    except Exception:
+        try:os.unlink(temp_name)
+        except OSError:pass
+        raise
+
 def main():
     signals=load_signals();now=datetime.now(timezone.utc).isoformat();targets=[];skipped={};levels={};ai_count=0
     for s in signals:
@@ -130,5 +159,6 @@ def main():
         result=gemini(s,unique,m) or fallback(s,unique);e={'engineVersion':ENRICHMENT_ENGINE_VERSION,'researchedAt':now,'status':'ai-enriched' if os.getenv('GEMINI_API_KEY') and result else ('public-evidence' if unique else 'no-public-match'),'researchLevel':m['level'],'researchLevelName':m['levelName'],'researchPriority':m['score'],'researchQueries':qs,'sources':unique,'sourceCount':len(unique)}
         if result:e.update(result);ai_count+=1
         s['enrichment']=e;s['evidenceLevel']='multi-source enriched' if os.getenv('GEMINI_API_KEY') and result else ('public search evidence' if unique else s.get('evidenceLevel','news source'));s['aiReviewed']=bool(os.getenv('GEMINI_API_KEY') and result);levels[m['level']]=levels.get(m['level'],0)+1
-    (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8');print(f'Adaptive enrichment complete: targets={len(targets)} AI-enriched={ai_count} levels={levels} skipped={skipped}')
+    (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8');persist_enriched_history(signals);print(f'Adaptive enrichment complete: targets={len(targets)} AI-enriched={ai_count} levels={levels} skipped={skipped}')
 if __name__=='__main__':main()
+

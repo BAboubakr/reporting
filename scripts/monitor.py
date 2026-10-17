@@ -1,13 +1,55 @@
-import hashlib, html, json, re, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+import hashlib, html, json, os, re, tempfile, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from smart_filter import classify
+from event_deduplicator import canonicalize_url, deduplicate_events
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
+HISTORY_FILE = DATA / 'event-history.json'
+SIGNALS_FILE = DATA / 'signals.js'
 LOOKBACK_DAYS = 30
 MAX_ITEMS = 120
 TIMEOUT = 20
+
+def load_event_history():
+    if HISTORY_FILE.exists():
+        try:
+            records=json.loads(HISTORY_FILE.read_text(encoding='utf-8'))
+            if not isinstance(records,list):raise ValueError('history root is not a list')
+            return [x for x in records if isinstance(x,dict)]
+        except Exception as exc:
+            # Do not replace a damaged history file with an empty one.
+            raise RuntimeError(f'Cannot read {HISTORY_FILE}; refusing to overwrite historical data: {exc}') from exc
+    # Backward-compatible one-time migration from the currently published signal set.
+    if SIGNALS_FILE.exists():
+        text=SIGNALS_FILE.read_text(encoding='utf-8')
+        match=re.search(r'export\s+const\s+signals\s*=\s*(\[.*\])\s*;?\s*$',text,re.S)
+        if match:
+            try:
+                records=json.loads(match.group(1))
+                if isinstance(records,list):return [x for x in records if isinstance(x,dict)]
+            except json.JSONDecodeError:
+                print('Legacy signals.js could not be parsed; migration starts from new intake only.')
+    return []
+
+def atomic_write(path,text):
+    path.parent.mkdir(parents=True,exist_ok=True)
+    handle,temp_name=tempfile.mkstemp(prefix=path.name+'.',suffix='.tmp',dir=path.parent)
+    try:
+        with os.fdopen(handle,'w',encoding='utf-8',newline='\n') as stream:stream.write(text)
+        os.replace(temp_name,path)
+    except Exception:
+        try:os.unlink(temp_name)
+        except OSError:pass
+        raise
+
+def date_in_lookback(value,cutoff):
+    try:
+        parsed=datetime.fromisoformat(str(value).replace('Z','+00:00'))
+        if parsed.tzinfo is None:parsed=parsed.replace(tzinfo=timezone.utc)
+        return parsed>=cutoff
+    except (TypeError,ValueError,OverflowError):return False
 
 COMPETITORS = ['AFRY','Artelia','Tractebel','Mott MacDonald','WSP','Worley','Egis','ILF Consulting Engineers','DNV','NOVEC','INGEMA','JESA','RINA']
 MARKET_QUERIES = ['Morocco renewable energy solar PV BESS battery wind hydrogen grid tender','Morocco MASEN renewable tender project','Morocco ONEE grid transmission renewable tender','Morocco ANRE electricity regulation renewable','Morocco green hydrogen ammonia PtX investment','Morocco renewable energy manufacturing investment']
@@ -229,23 +271,19 @@ def main():
         try:
             if datetime.fromisoformat(published.replace('Z','+00:00'))<cutoff:continue
         except Exception:pass
-        key=dedupe_key(title,link)
+        key=canonicalize_url(link) or dedupe_key(title,link)
         if key in seen:continue
         seen.add(key);competitor=competitor_hit(title+' '+desc);categories=classify_categories(title,desc);relevance=score(title,desc,competitor,source_type)
         candidates.append((title,link,desc,published,source,source_type,competitor,categories,relevance))
-    unique=[]
-    for row in sorted(candidates,key=lambda r:r[8],reverse=True):
-        words=set(normalize(row[0]).split());duplicate=False
-        for existing in unique:
-            ew=set(normalize(existing[0]).split());similarity=len(words&ew)/max(1,len(words|ew))
-            if similarity>=0.72:duplicate=True;break
-        if duplicate:continue
-        unique.append(row)
-        if len(unique)>=MAX_ITEMS:break
+    # Do not discard cross-publication reports by title alone. The shared event
+    # matcher below consolidates only when identity and event-stage evidence agree.
+    unique=sorted(candidates,key=lambda r:r[8],reverse=True)[:MAX_ITEMS*3]
     existing_titles=[r[0] for r in unique];signals=[];now=datetime.now(timezone.utc).isoformat()
     for title,link,desc,published,source,source_type,competitor,categories,relevance in unique:
         sig_type=signal_type(title,desc);stage=extract_stage(title+' '+desc);novelty_score=novelty(title,existing_titles);actionability=min(99,round(relevance*0.72+novelty_score*28));evidence_level='official source' if source_type=='official' else 'news source';why=f"{sig_type.title()} signal relevant to Morocco renewable-energy activity"+(f"; {competitor} detected" if competitor else '')
-        signals.append({'id':'sig-'+dedupe_key(title,link),'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'categories':categories,'signalType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'noveltyScore':novelty_score,'status':'new','evidenceLevel':evidence_level,'evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
+        source_id=hashlib.sha1((canonicalize_url(link) or link).encode()).hexdigest()[:16]
+        signals.append({'id':'sig-'+dedupe_key(title,link),'sourceId':source_id,'title':title,'headline':title,'summary':desc[:500],'url':link,'source':source,'sourceType':source_type,'published':published,'detected':now,'firstSeen':now,'lastSeen':now,'categories':categories,'signalType':sig_type,'eventType':sig_type,'projectStage':stage,'entities':extract_entities(title,desc),'competitor':competitor,'relevanceScore':relevance,'actionabilityScore':actionability,'noveltyScore':novelty_score,'status':'new','evidenceLevel':evidence_level,'evidenceSnippet':desc[:280],'whyItMatters':why,'fichtnerRelevance':'HIGH' if relevance>=80 else ('MEDIUM' if relevance>=60 else 'WATCH')})
+    signals=deduplicate_events(signals)[:MAX_ITEMS]
     filtered=classify(signals)
     # REVIEW is not a discard bucket. Plausible signals remain visible in Atlas
     # so imperfectly-worded tenders/procurement items are not lost.
@@ -263,9 +301,22 @@ def main():
     for seed in STRATEGIC_SEEDS:
         if seed['id'] not in seed_ids:
             signals.append(seed_signal(seed,now))
-    signals.sort(key=lambda x:(x['actionabilityScore'],x['relevanceScore']),reverse=True)
-    (DATA/'signals.js').write_text('export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
-    (DATA/'signal-review.js').write_text('export const signalReview = '+json.dumps(review,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
-    print(f'Collected {len(rows)} raw records; {len(candidates)} candidates; AI filter KEEP={len(kept)} REVIEW={len(review)} REJECT={len(filtered)-len(kept)-len(review)}; retained={len(signals)}; strategic seeds retained={len(STRATEGIC_SEEDS)}.')
+            seed_ids.add(seed['id'])
+    signals=deduplicate_events(signals)
+    history=deduplicate_events(signals,existing=load_event_history())
+    atomic_write(HISTORY_FILE,json.dumps(history,ensure_ascii=False,indent=2)+'\n')
+    recent=[s for s in history if date_in_lookback(s.get('lastSeen') or s.get('detected'),cutoff)]
+    recent.sort(key=lambda x:(x.get('actionabilityScore',0),x.get('relevanceScore',0)),reverse=True)
+    output=recent[:MAX_ITEMS]
+    output_ids={s.get('id') for s in output}
+    for item in history:
+        if item.get('id') in seed_ids and item.get('id') not in output_ids:
+            output.append(item);output_ids.add(item.get('id'))
+    signals=output
+    atomic_write(SIGNALS_FILE,'export const signals = '+json.dumps(signals,ensure_ascii=False,indent=2)+';\n')
+    atomic_write(DATA/'signal-review.js','export const signalReview = '+json.dumps(review,ensure_ascii=False,indent=2)+';\n')
+    print(f'Collected {len(rows)} raw records; {len(candidates)} candidates; AI filter KEEP={len(kept)} REVIEW={len(review)} REJECT={len(filtered)-len(kept)-len(review)}; current events={len(signals)}; history={len(history)}; strategic seeds retained={len(STRATEGIC_SEEDS)}.')
 
 if __name__=='__main__':main()
+
+

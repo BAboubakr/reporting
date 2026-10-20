@@ -4,6 +4,7 @@ import hashlib, html, json, re, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
@@ -50,7 +51,7 @@ def parse_date(raw, now=None):
     day, month, year = map(int, match.group(1).split('/'))
     if not match.group(2):return f'{year:04d}-{month:02d}-{day:02d}'
     hour, minute = map(int, match.group(2).split(':'))
-    try: return datetime(year, month, day, hour, minute, tzinfo=timezone(timedelta(hours=1))).astimezone(timezone.utc).isoformat()
+    try: return datetime(year, month, day, hour, minute, tzinfo=ZoneInfo('Africa/Casablanca')).astimezone(timezone.utc).isoformat()
     except ValueError: return None
 
 class ListingParser(HTMLParser):

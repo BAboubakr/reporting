@@ -10,7 +10,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-14T21:28:48+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -79,7 +79,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-19T09:01:15+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -148,7 +148,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-16T13:00:10+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -218,7 +218,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-15T10:02:56+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -287,7 +287,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-15T12:52:05+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -356,7 +356,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-10T19:00:49+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Tender"
@@ -425,7 +425,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-09-22T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -496,7 +496,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-16T05:19:36+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -565,7 +565,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-01T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -634,7 +634,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-18T18:06:08+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -703,7 +703,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-15T14:09:02+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -773,7 +773,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T13:15:16+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -833,25 +833,25 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-1dde2ccee6075a",
-    "title": "𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝗰𝗮𝗻𝗻𝗼𝘁 𝗼𝘄𝗻 𝗠𝗼𝗿𝗼𝗰𝗰𝗮𝗻 𝗮𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗹𝗮𝗻𝗱, 𝗯𝘂𝘁 𝗶𝘁 𝗰𝗮𝗻 𝗹𝗲𝗮𝘀𝗲 𝘁𝗵𝗲 𝘆𝗶𝗲𝗹𝗱𝘀 𝗳𝗼𝗿 𝗮 𝗰𝗲𝗻𝘁𝘂𝗿𝘆. The recently published 2026 Morocco Investment Climate Statement by the U.S. State Department provides a critica - LinkedIn",
-    "headline": "𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝗰𝗮𝗻𝗻𝗼𝘁 𝗼𝘄𝗻 𝗠𝗼𝗿𝗼𝗰𝗰𝗮𝗻 𝗮𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗹𝗮𝗻𝗱, 𝗯𝘂𝘁 𝗶𝘁 𝗰𝗮𝗻 𝗹𝗲𝗮𝘀𝗲 𝘁𝗵𝗲 𝘆𝗶𝗲𝗹𝗱𝘀 𝗳𝗼𝗿 𝗮 𝗰𝗲𝗻𝘁𝘂𝗿𝘆. The recently published 2026 Morocco Investment Climate Statement by the U.S. State Department provides a critica - LinkedIn",
-    "summary": "𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝗰𝗮𝗻𝗻𝗼𝘁 𝗼𝘄𝗻 𝗠𝗼𝗿𝗼𝗰𝗰𝗮𝗻 𝗮𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗹𝗮𝗻𝗱, 𝗯𝘂𝘁 𝗶𝘁 𝗰𝗮𝗻 𝗹𝗲𝗮𝘀𝗲 𝘁𝗵𝗲 𝘆𝗶𝗲𝗹𝗱𝘀 𝗳𝗼𝗿 𝗮 𝗰𝗲𝗻𝘁𝘂𝗿𝘆. The recently published 2026 Morocco Investment Climate Statement by the U.S. State Department provides a critica LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG5KTVJ5ZVFFUTN4THh4MnpUWWZPSmtDSGRZc3FfV2F2YlpoT2Eza0R5V2MxSzJyYnVGMFU5SWE2Slo1alFUVEdmb3Z3bzlnUmtPWDZFUDZ4TURxclBvTWgzVkdOeng0VUJTdXE0T2t5bTBMeDRvM2dlVE56V2hWcFZ1Xy1wVXlTR010ZVVmRUhwZzdxN2tGTWJrMm8xeFJVTGlMellqZEM?oc=5",
+    "id": "sig-li-43731ccb1167a4",
+    "title": "🔴 Millions of people in Morocco depend on a reliable supply of drinking water, but years of drought and rising demand are putting pressure on the country’s water resources. A new European loan could help improve supplies while cutting the energy needed to - LinkedIn",
+    "headline": "🔴 Millions of people in Morocco depend on a reliable supply of drinking water, but years of drought and rising demand are putting pressure on the country’s water resources. A new European loan could help improve supplies while cutting the energy needed to - LinkedIn",
+    "summary": "🔴 Millions of people in Morocco depend on a reliable supply of drinking water, but years of drought and rising demand are putting pressure on the country’s water resources. A new European loan could help improve supplies while cutting the energy needed to LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTgwSUhxQWRUTno4ZG5jNEhhMVVDNGpkQmtqVjdOME8wMWNYcHdyUHl4VkxwV1Y0Mk15c1Z3X1lVdDVDT2tlOHdmNHVLMDYxTmRXZk4zVzNidkRHdW5XRGU3bXE3ZTV6bXJjdWVjLTBWQU1mLUU1UWRLTkVvYmQzRVZxZjc4MEZENHJndGs3aDdDZzhVTU1uQWl5LU5xSWV6Uk5Od1NXbnFMWWlZVDFUdV91QWlwb3I4?oc=5",
     "source": "LinkedIn",
     "sourceType": "linkedin",
-    "sourceAccount": "MASEN",
-    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
-    "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "sourceAccount": "ONEE",
+    "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
+    "published": "2026-10-19T10:49:59+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
-      "Investment"
+      "Market intelligence"
     ],
     "signalType": "investment",
     "projectStage": "monitoring",
     "entities": [
-      "MASEN",
+      "ONEE",
       "Morocco"
     ],
     "competitor": null,
@@ -860,8 +860,8 @@ export const linkedinSignals = [
     "noveltyScore": 1,
     "status": "new",
     "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "𝗙𝗼𝗿𝗲𝗶𝗴𝗻 𝗰𝗮𝗽𝗶𝘁𝗮𝗹 𝗰𝗮𝗻𝗻𝗼𝘁 𝗼𝘄𝗻 𝗠𝗼𝗿𝗼𝗰𝗰𝗮𝗻 𝗮𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗹𝗮𝗻𝗱, 𝗯𝘂𝘁 𝗶𝘁 𝗰𝗮𝗻 𝗹𝗲𝗮𝘀𝗲 𝘁𝗵𝗲 𝘆𝗶𝗲𝗹𝗱𝘀 𝗳𝗼𝗿 𝗮 𝗰𝗲𝗻𝘁𝘂𝗿𝘆. The recently published 2026 Morocco Investment Climate Statement by the U.S. State Department provides a critica LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
+    "evidenceSnippet": "🔴 Millions of people in Morocco depend on a reliable supply of drinking water, but years of drought and rising demand are putting pressure on the country’s water resources. A new European loan could help improve supplies while cutting the energy needed to LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from ONEE; verify material claims against primary or independent sources.",
     "fichtnerRelevance": "HIGH",
     "qualityScore": 83,
     "filterDecision": "KEEP",
@@ -873,7 +873,7 @@ export const linkedinSignals = [
     "researchLevelName": "Investigate",
     "researchPriorityReasons": [
       "LinkedIn source",
-      "MASEN",
+      "ONEE",
       "investment",
       "Morocco context"
     ],
@@ -912,7 +912,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-06T10:01:34+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -981,7 +981,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T21:05:39+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -1050,7 +1050,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-26T16:18:50+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -1119,7 +1119,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-13T12:06:13+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1188,7 +1188,7 @@ export const linkedinSignals = [
     "sourceAccount": "JESA",
     "sourceAccountUrl": "https://www.linkedin.com/company/jesa-sa/",
     "published": "2026-09-29T10:04:09+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -1248,75 +1248,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-757888857a9246",
-    "title": "Fatima Ezzahra El Mansouri has been appointed as Morocco's first woman prime minister after her party, PAM, won the most seats in the parliamentary election. She must now form a coalition government since PAM does not have a majority in the House of Re - LinkedIn",
-    "headline": "Fatima Ezzahra El Mansouri has been appointed as Morocco's first woman prime minister after her party, PAM, won the most seats in the parliamentary election. She must now form a coalition government since PAM does not have a majority in the House of Re - LinkedIn",
-    "summary": "Fatima Ezzahra El Mansouri has been appointed as Morocco's first woman prime minister after her party, PAM, won the most seats in the parliamentary election. She must now form a coalition government since PAM does not have a majority in the House of Re LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUMzazU3M3FPRGpWLTh5eEtUc20wQk5UVUZIbWJyc3NnR2RtVEh2V054YlRIeFdhdTlhN3NEV0VuaWx4Rkt1V3NPOE9FQWJRZnNubmVlWnBtMHNuLXNRZ3VxM2k2a0JvSk50aXc5TjJMU19uNUM1M3h4RWJZZVo3a0FBN1JPY1JKMFBXeXFEWm9vNmRybzNraDRval9namppUmpxVnNSVFJ4cmF0eUhTUEgyQ2R3a1Y5YUd2VVRBRGpTNl9sQ2FlZw?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "World Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
-    "published": "2026-09-30T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [
-      "World Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 82,
-    "actionabilityScore": 87,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "Fatima Ezzahra El Mansouri has been appointed as Morocco's first woman prime minister after her party, PAM, won the most seats in the parliamentary election. She must now form a coalition government since PAM does not have a majority in the House of Re LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 82,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 82,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "World Bank",
-      "award",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": true,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-284b3963245eff",
     "title": "🔴 BANK OF AFRICA has received an award for its work with the European Bank for Reconstruction and Development (EBRD) to finance green projects for businesses in Morocco. The partnership started in 2015 with the Moroccan Sustainable Energy Financin - LinkedIn",
     "headline": "🔴 BANK OF AFRICA has received an award for its work with the European Bank for Reconstruction and Development (EBRD) to finance green projects for businesses in Morocco. The partnership started in 2015 with the Moroccan Sustainable Energy Financin - LinkedIn",
@@ -1327,7 +1258,7 @@ export const linkedinSignals = [
     "sourceAccount": "EBRD",
     "sourceAccountUrl": "https://www.linkedin.com/company/ebrd/",
     "published": "2026-09-30T22:13:57+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -1398,7 +1329,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-15T15:43:07+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -1467,7 +1398,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-08T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -1526,6 +1457,75 @@ export const linkedinSignals = [
     }
   },
   {
+    "id": "sig-li-045b4d3a830186",
+    "title": "A 50 MW ground-mounted solar plant in Belsh municipality, Elbasan district, about 50 km south of Tirana, expected to generate around 79 GWh per year; developed by KESH. Depending on the final procurement packages, relevant capability could include sol - LinkedIn",
+    "headline": "A 50 MW ground-mounted solar plant in Belsh municipality, Elbasan district, about 50 km south of Tirana, expected to generate around 79 GWh per year; developed by KESH. Depending on the final procurement packages, relevant capability could include sol - LinkedIn",
+    "summary": "A 50 MW ground-mounted solar plant in Belsh municipality, Elbasan district, about 50 km south of Tirana, expected to generate around 79 GWh per year; developed by KESH. Depending on the final procurement packages, relevant capability could include sol LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFpBeXVrYWhRbkpCbFdZT2R5eC02RGNGNW9ZOHVILUFUaVU3V0N1eUxzdHBxRUlaQnhnRXpaOGxEdHNlVllSSDdjZTdjZkR5cUJqQnJCMXBnNHdSd2YyRGVRU3BuYlNDQW9DMmVXRmg0WURKQ2gxU3lWVnNzT21RSllmMmg3SnFjUnFfdC1rdjJKSndsWXlwNlRaamhFam1aN2V4aERkanZRUFRodkZMRTRWQ1Q4TWJ4N0hQYXdR?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "MASEN",
+    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
+    "published": "2026-10-15T23:27:12+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
+    "categories": [
+      "LinkedIn",
+      "Solar"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "MASEN",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 81,
+    "actionabilityScore": 86,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "A 50 MW ground-mounted solar plant in Belsh municipality, Elbasan district, about 50 km south of Tirana, expected to generate around 79 GWh per year; developed by KESH. Depending on the final procurement packages, relevant capability could include sol LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 81,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 81,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "MASEN",
+      "tender",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
     "id": "sig-li-e62cfa36a4c822",
     "title": "10 Largest Construction Companies in Morocco: Rising Leaders Powering Growth - LinkedIn",
     "headline": "10 Largest Construction Companies in Morocco: Rising Leaders Powering Growth - LinkedIn",
@@ -1536,7 +1536,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-05T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1605,7 +1605,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-09-24T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1664,76 +1664,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-36d5106c2da8a8",
-    "title": "The Xlinks project transporting firm reliable power from Morocco to the UK that is more valuable to the grid than nuclear is even more economically compelling today than it was 18 months ago when Ed Miliband decided that the UK no longer wanted to support - LinkedIn",
-    "headline": "The Xlinks project transporting firm reliable power from Morocco to the UK that is more valuable to the grid than nuclear is even more economically compelling today than it was 18 months ago when Ed Miliband decided that the UK no longer wanted to support - LinkedIn",
-    "summary": "The Xlinks project transporting firm reliable power from Morocco to the UK that is more valuable to the grid than nuclear is even more economically compelling today than it was 18 months ago when Ed Miliband decided that the UK no longer wanted to support LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3B0MnpTTVlCbThYdHVlXzYtOE5DNTY1Sl80T0MzTVdYVHZOWGJpaFdtRnpJODJWakFKbEw5X2ljd0dRN05BZUlvUXV5TS1aZHdQWFVrdzRndVYtUEc0cE5oVzl0Z3lYRUNxSm9jR3RQTnpWWTh0MlBPN0Q1d09kZVJ0LUhyQlZObmd1ZVNfUi1FYmZ4cTUyUHlsZm0zOXZ4dFo3TTFEajFXejEwSUpBN2Q3eTg3cmFJS1JLVjFISUdVZw?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "ONEE",
-    "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
-    "published": "2026-09-29T15:41:11+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project",
-      "Grid"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "ONEE",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 81,
-    "actionabilityScore": 86,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "The Xlinks project transporting firm reliable power from Morocco to the UK that is more valuable to the grid than nuclear is even more economically compelling today than it was 18 months ago when Ed Miliband decided that the UK no longer wanted to support LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from ONEE; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 81,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 81,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "ONEE",
-      "project",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-9d8b692b8fff75",
     "title": "Dr. Leila Benali, PhD., Minister of Energy Transition and Sustainable Development, presided on Tuesday, October 6, 2026, the opening of the third edition of the International Mining Congress in Morocco, held in Rabat under the High Patronage of His Majesty - LinkedIn",
     "headline": "Dr. Leila Benali, PhD., Minister of Energy Transition and Sustainable Development, presided on Tuesday, October 6, 2026, the opening of the third edition of the International Mining Congress in Morocco, held in Rabat under the High Patronage of His Majesty - LinkedIn",
@@ -1744,7 +1674,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T10:10:21+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1813,7 +1743,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-09T14:37:51+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1882,7 +1812,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-15T10:51:24+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1951,7 +1881,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-30T15:19:02+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2020,7 +1950,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -2090,7 +2020,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -2161,7 +2091,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2230,7 +2160,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-12T18:00:13+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2299,7 +2229,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-11T17:57:33+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2368,7 +2298,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-13T16:27:15+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2437,7 +2367,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-14T18:00:12+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2506,7 +2436,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-06T23:00:13+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2575,7 +2505,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T09:07:51+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2644,7 +2574,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-29T11:18:05+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Partnership",
@@ -2714,7 +2644,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-05T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -2783,7 +2713,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T09:00:39+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2853,7 +2783,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2923,7 +2853,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-29T03:00:30+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -2993,7 +2923,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-03T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3063,7 +2993,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-12T11:06:38+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3132,7 +3062,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-13T18:00:57+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3191,75 +3121,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-271b204b2b1d04",
-    "title": "A new milestone in academic cooperation between Germany and Morocco!🇩🇪🇲🇦 On 22 September 2026, Anhalt University of Applied Sciences (HSA) and École Nationale Supérieure des Mines de Rabat (ENSMR), signed an agreement aimed at building an - LinkedIn",
-    "headline": "A new milestone in academic cooperation between Germany and Morocco!🇩🇪🇲🇦 On 22 September 2026, Anhalt University of Applied Sciences (HSA) and École Nationale Supérieure des Mines de Rabat (ENSMR), signed an agreement aimed at building an - LinkedIn",
-    "summary": "A new milestone in academic cooperation between Germany and Morocco!🇩🇪🇲🇦 On 22 September 2026, Anhalt University of Applied Sciences (HSA) and École Nationale Supérieure des Mines de Rabat (ENSMR), signed an agreement aimed at building an LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclZzZmlsZGRBekFXWXRoWkFQa2JJQzZnUTF2Rk4tRUVVaXczX3VoY0lZNThsdUpCWnhwdjdTRU9oM2ZVelZTYlZsSkFLa3lMVUdiZ0gzb0xPRUkyUEFJT3lpaVRWS1hBN3Z3bUxBb0RWaVI5aDlqaUlGaUpYcmtzLWthVlQzdEZOVEVYSGxaRWtUMXV1MUhLVlo2Z2VRNGtsbXZBMnljOE84OUpBMzJObzdqUFJOR0MwLUZ0aWdib2JwbHYzS2hJM3dZWGw1dkxDVnpIeEpR?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "ONEE",
-    "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
-    "published": "2026-09-30T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "partnership",
-    "projectStage": "monitoring",
-    "entities": [
-      "ONEE",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 79,
-    "actionabilityScore": 84,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "A new milestone in academic cooperation between Germany and Morocco!🇩🇪🇲🇦 On 22 September 2026, Anhalt University of Applied Sciences (HSA) and École Nationale Supérieure des Mines de Rabat (ENSMR), signed an agreement aimed at building an LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from ONEE; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 79,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 79,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "ONEE",
-      "partnership",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-95cf501fe18fac",
     "title": "Morocco businessman Mohamed Hassan Bensalah has signed an agreement to acquire Groupe Maroc Soir, publishers of Le Matin and others, from Saudi businessman Othman Al Omeir - LinkedIn",
     "headline": "Morocco businessman Mohamed Hassan Bensalah has signed an agreement to acquire Groupe Maroc Soir, publishers of Le Matin and others, from Saudi businessman Othman Al Omeir - LinkedIn",
@@ -3270,7 +3131,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-01T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3339,7 +3200,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T09:31:12+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3408,7 +3269,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-09T08:29:42+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3477,7 +3338,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-22T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3536,75 +3397,6 @@ export const linkedinSignals = [
     }
   },
   {
-    "id": "sig-li-10bb5cd83ba4bb",
-    "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
-    "headline": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - LinkedIn",
-    "summary": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENjNEQwQXdWVkhiMkI3SjI2ZGgzTUFVN0tEcmRzTW9RbU81dG5mNEtYUDdyZkpFOW84RHRpZFFWWU5kcUNhWDF4cWd0X09xS2RVTkxKSFcxOS16eHlxd1FBTmpabE5wWmpNb1hqdHpXT2s1RDdraVVyY3oxM1l0Smw5enlFZkNGOHU3VnhMeHdtbDFMOHZTTlluTUpkQ21vRUx0dElaNV9NT0lhSGRpWlpqR0w5SlJzQWc?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Nareva",
-    "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
-    "published": "2026-09-21T19:02:29+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
-    "categories": [
-      "LinkedIn",
-      "Hydrogen"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "Nareva",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 78,
-    "actionabilityScore": 83,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "LinkedIn discovery",
-    "evidenceSnippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Nareva; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 78,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": false,
-    "researchPriority": 78,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "LinkedIn source",
-      "Nareva",
-      "investment",
-      "Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "LinkedIn first-class discovery",
-      "engineVersion": "linkedin-1.0"
-    }
-  },
-  {
     "id": "sig-li-0beff5c55b4154",
     "title": "Morocco Energy Leaders and the Clean Energy Business Council MENA (CEBC) have signed a strategic cooperation agreement to strengthen collaboration in clean energy, sustainable infrastructure, climate finance, innovation and cross-border investment, - LinkedIn",
     "headline": "Morocco Energy Leaders and the Clean Energy Business Council MENA (CEBC) have signed a strategic cooperation agreement to strengthen collaboration in clean energy, sustainable infrastructure, climate finance, innovation and cross-border investment, - LinkedIn",
@@ -3615,7 +3407,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-02T06:57:56+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -3684,7 +3476,7 @@ export const linkedinSignals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Storage"
@@ -3753,7 +3545,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-13T06:34:06+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -3823,7 +3615,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-09-28T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Award"
@@ -3892,7 +3684,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-06T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -3961,7 +3753,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-13T13:09:38+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4030,7 +3822,7 @@ export const linkedinSignals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-09-28T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4100,7 +3892,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-16T08:33:50+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4169,7 +3961,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:26:01+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4240,7 +4032,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-22T06:52:07+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4310,7 +4102,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -4380,7 +4172,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-21T10:29:30+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -4449,7 +4241,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-13T19:05:40+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -4518,7 +4310,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-06T12:07:24+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4587,7 +4379,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-06T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4656,7 +4448,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-15T07:05:37+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -4725,7 +4517,7 @@ export const linkedinSignals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-20T19:00:48+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Solar",
@@ -4795,7 +4587,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-11T11:13:59+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4864,7 +4656,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-09-21T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4934,7 +4726,7 @@ export const linkedinSignals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-15T14:06:44+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -5003,7 +4795,7 @@ export const linkedinSignals = [
     "sourceAccount": "Nareva",
     "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
     "published": "2026-10-12T06:00:46+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -5073,7 +4865,7 @@ export const linkedinSignals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-09-29T04:30:37+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -5144,7 +4936,7 @@ export const linkedinSignals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-10-03T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -5215,7 +5007,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-09-28T10:36:10+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -5287,7 +5079,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-07T20:19:44+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -5356,7 +5148,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-03T07:00:00+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -5425,7 +5217,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-06T09:46:16+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Wind"
@@ -5494,7 +5286,7 @@ export const linkedinSignals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-06T06:08:08+00:00",
-    "detected": "2026-10-20T00:22:10.685655+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -5539,6 +5331,214 @@ export const linkedinSignals = [
       "dfi": false,
       "dfiDecision": false,
       "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
+    "id": "sig-li-74891c099182b1",
+    "title": "A proud moment at the official opening of our new Casablanca office late last week, our first in Africa. Morocco is a hub for renewable energy investment, major infrastructure projects, project finance and a growing digital economy, all areas that align closely wit - LinkedIn",
+    "headline": "A proud moment at the official opening of our new Casablanca office late last week, our first in Africa. Morocco is a hub for renewable energy investment, major infrastructure projects, project finance and a growing digital economy, all areas that align closely wit - LinkedIn",
+    "summary": "A proud moment at the official opening of our new Casablanca office late last week, our first in Africa. Morocco is a hub for renewable energy investment, major infrastructure projects, project finance and a growing digital economy, all areas that align closely wit LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkkyT1V6ZlV4aE9RdkRsWUNoWk5HcFJ0Wkt0M01kQ2d4eml6OGFaeUlXUnVRci1Rdm96dmRiSUZaRmNXTDV2bUFaZGJtVnBWRzQxZmFZVi1meGgwbDk4VmNIUkd4RGtrYnlLQzVyeTMta1MyUWRxWmZZVlRFRmYyS2tHd1N4V3F1VkJWWlVqeGJrTlRHbm9lRVBueVRKcXNPVEpnOEtTN25KcjZDMV9TbmJZblYzUnYtenBrZGlhYU1Eb2c?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Green of Africa",
+    "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
+    "published": "2026-09-23T08:45:22+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
+    "categories": [
+      "LinkedIn",
+      "Project",
+      "Investment"
+    ],
+    "signalType": "project",
+    "projectStage": "monitoring",
+    "entities": [
+      "Green of Africa",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "A proud moment at the official opening of our new Casablanca office late last week, our first in Africa. Morocco is a hub for renewable energy investment, major infrastructure projects, project finance and a growing digital economy, all areas that align closely wit LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Green of Africa; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 76,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "Green of Africa",
+      "project",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
+    "id": "sig-li-c92febbeffbcdb",
+    "title": "Morocco to Host €480 Million LFP Battery Materials Plant for European EV Supply Chain Morocco to Produce 100,000 Tonnes of LFP Cathode Material Annually for Europe’s EV Battery Market Morocco is set to host a major lithium-iron-phosphate (LFP) battery - LinkedIn",
+    "headline": "Morocco to Host €480 Million LFP Battery Materials Plant for European EV Supply Chain Morocco to Produce 100,000 Tonnes of LFP Cathode Material Annually for Europe’s EV Battery Market Morocco is set to host a major lithium-iron-phosphate (LFP) battery - LinkedIn",
+    "summary": "Morocco to Host €480 Million LFP Battery Materials Plant for European EV Supply Chain Morocco to Produce 100,000 Tonnes of LFP Cathode Material Annually for Europe’s EV Battery Market Morocco is set to host a major lithium-iron-phosphate (LFP) battery LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEpCQUtYUGxuM2V6Vnp1Rk54SXpZQ2x4Q21PZ3g4Vlpxb0dGLXJaVkV6clhON3h4SGE5a3U1S2lqU01pQ2o1RjFMN2RPREIxa01XRmhaeERUdE5MTThKYVpzOEpTZG1KWjBVVl8tYldMdF9tZnVYNUtGMEN0dlpSa0dUTzNrRHVCd2s0R2dOM2p6SjBWZE1PaUNrSzF3QUM3ZEZiT19CNFE1cWhhd2wzbjFoZExjZEtTWlc5ZU93Qzg?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Green of Africa",
+    "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
+    "published": "2026-10-04T07:00:00+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "project",
+    "projectStage": "monitoring",
+    "entities": [
+      "Green of Africa",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Morocco to Host €480 Million LFP Battery Materials Plant for European EV Supply Chain Morocco to Produce 100,000 Tonnes of LFP Cathode Material Annually for Europe’s EV Battery Market Morocco is set to host a major lithium-iron-phosphate (LFP) battery LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Green of Africa; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 76,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "Green of Africa",
+      "project",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "LinkedIn first-class discovery",
+      "engineVersion": "linkedin-1.0"
+    }
+  },
+  {
+    "id": "sig-li-d6c4dbf6d07ea4",
+    "title": "Morocco’s aerospace growth sets regional benchmark for manufacturing exports • Morocco’s aerospace sector is positioning for a potential $5 billion export milestone within three years, signaling robust manufacturing scale and regional supply-chain integratio - LinkedIn",
+    "headline": "Morocco’s aerospace growth sets regional benchmark for manufacturing exports • Morocco’s aerospace sector is positioning for a potential $5 billion export milestone within three years, signaling robust manufacturing scale and regional supply-chain integratio - LinkedIn",
+    "summary": "Morocco’s aerospace growth sets regional benchmark for manufacturing exports • Morocco’s aerospace sector is positioning for a potential $5 billion export milestone within three years, signaling robust manufacturing scale and regional supply-chain integratio LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXpYa25uLUdpYTVGWGx6WGNzc0RWZUJ5cjYxemp3NEw3UVAtQmcwMUstRklCb3RWZlFZQkZNbDBBNXBWSlJWdlZ5SWo2ZUNBdGx5NVNiTjNtSWwxa3F5a051VG1wdGttU2NsTDhRSFBPeUIxcTlQYzAyS0tLVHpBRzh4SlpfVk94UFpHR1VzZFhBZXYwOC1iaGVaVWVDZ212MU9sRjZ6STRzUFJkZDItd2dSM0lRUHJmR3RJMnBMQkc?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "African Development Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
+    "published": "2026-10-09T18:19:12+00:00",
+    "detected": "2026-10-20T06:03:27.288387+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "African Development Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "LinkedIn discovery",
+    "evidenceSnippet": "Morocco’s aerospace growth sets regional benchmark for manufacturing exports • Morocco’s aerospace sector is positioning for a potential $5 billion export milestone within three years, signaling robust manufacturing scale and regional supply-chain integratio LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": false,
+    "researchPriority": 76,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "LinkedIn source",
+      "African Development Bank",
+      "investment",
+      "Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
       "consultingPotential": true
     },
     "researchBudget": {

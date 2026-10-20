@@ -1,3 +1,4 @@
+import { deduplicateEvents } from './data/event-deduplicator.js';
 // Atlas data-quality layer. Morocco-first, evidence-first filtering for renewable-energy intelligence.
 const UI_ARTIFACT_PATTERNS=[/^guides? d.?utilisation$/i,/^outils informatiques$/i,/^consultations? en cours$/i,/^0 entités publiques inscrites$/i,/^tester la configuration(?: de mon poste)?$/i,/^spécifications techniques$/i,/^specifications techniques$/i,/^accueil$/i,/^connexion$/i,/^se connecter$/i,/^menu$/i,/^rechercher$/i];
 const FICHTNER_NOISE=[/^matriel accept rseau onee$/i,/^matériel accepté réseau onee$/i,/^materiel accepte reseau onee$/i];
@@ -47,15 +48,6 @@ export function isNoiseSignal(s){
 }
 export function cleanSignals(signals=[]){
  const candidates=Array.isArray(signals)?signals.filter(s=>!isNoiseSignal(s)):[];
- candidates.sort((a,b)=>signalPriority(b)-signalPriority(a));
- const kept=[];
- for(const signal of candidates){
-   const exactKey=`${normStoryText(signal.title)}|${normStoryText(signal.source)}`;
-   if(kept.some(k=>k.__exactKey===exactKey||isDuplicateStory(signal,k)))continue;
-   Object.defineProperty(signal,'__exactKey',{value:exactKey,enumerable:false,configurable:true});
-   kept.push(signal);
- }
- kept.forEach(s=>{try{delete s.__exactKey;}catch{}});
- return kept;
+ return deduplicateEvents(candidates);
 }
 export function getLastSignalUpdate(signals=[]){const timestamps=cleanSignals(signals).map(s=>Date.parse(s.detected||s.updated||s.published)).filter(Number.isFinite);return timestamps.length?new Date(Math.max(...timestamps)):null;}

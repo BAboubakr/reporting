@@ -8,7 +8,7 @@ export const EVENT_DEDUPE_THRESHOLDS = Object.freeze({
 });
 
 const TRACKING_PARAM = /^(?:utm_.+|fbclid|gclid|dclid|mc_cid|mc_eid|igshid|li_fat_id|mkt_tok|trk|ref_src|yclid)$/i;
-const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au solar photovoltaic pv bess battery storage wind hydrogen ammonia ptx grid transmission tender tenders procurement procurements award awards awarded contract contracts construction constructions investment investments financing financings project announcement masen onee mw mwh gw gwh open opens launched launches bid bids invited').split(' '));
+const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc moroccan morocco s news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au solar photovoltaic pv bess battery storage wind hydrogen ammonia ptx grid transmission tender tenders procurement procurements award awards awarded contract contracts construction investment financing funding project announcement masen onee mw mwh gw gwh open opens launched launches bid bids invited announces announced announcement says said latest update new').split(' '));
 const ORG_ALIASES = new Map([
   ['afdb','african development bank'],['african development bank','african development bank'],['afdb group','african development bank'],
   ['afd','agence francaise de developpement'],['agence francaise de developpement','agence francaise de developpement'],
@@ -36,7 +36,7 @@ const TYPE_ALIASES = new Map([
   ['regulatory','regulatory'],['regulation','regulatory'],['market entry','market-entry'],
   ['investment','investment'],['partnership','partnership']
 ]);
-const CITY_NAMES = ['rabat','casablanca','tanger','tangier','fes','meknes','ouarzazate','laayoune','dakhla','khouribga','benguerir','jorf lasfar','safi','agadir','nador','essaouira','kenitra','midelt','guelmim','boujdour','tarfaya'];
+const CITY_NAMES = ['rabat','casablanca','tanger','tangier','fes','meknes','ouarzazate','laayoune','dakhla','khouribga','benguerir','jorf lasfar','safi','agadir','nador','essaouira','kenitra','midelt','guelmim','boujdour','tarfaya','marrakech','taza','tetouan','al hoceima','beni mellal','taroudant','sidi ifni','tan tan','smara'];
 
 export function normalizeEventText(value='') {
   return String(value||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
@@ -79,7 +79,12 @@ const explicitStage=s=>{const value=normalizedName(s?.projectStage||s?.stage||''
 const explicitProject=s=>normalizedName(s?.projectIdentity||s?.projectName||s?.project||s?.facilityName||'');
 const tenderIdentity=s=>normalizedName(s?.tenderId||s?.contractNumber||s?.procurementId||s?.awardId||'');
 const publishedDate=s=>Date.parse(s?.eventDate||s?.published||s?.publicationDate||s?.detected||'')||0;
-const orgs=s=>new Set((Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean).map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
+const orgs=s=>{
+  const text=normalizeEventText(articleText(s));
+  const explicit=(Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean);
+  const inferred=[...ORG_ALIASES.keys()].filter(alias=>new RegExp('\\\\b'+alias.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\const orgs=s=>new Set((Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean).map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));')+'\\\\b','i').test(text));
+  return new Set([...explicit,...inferred].map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
+};
 const capacities=s=>new Set((articleText(s)+' '+String(s?.capacity||'')).match(/\b\d+(?:\.\d+)?\s*(?:mw|mwh|gw|gwh|kw|kwh)\b/gi)?.map(x=>x.replace(/\s+/g,' ').toLowerCase())||[]);
 const locations=s=>{
   const explicit=normalizedName([s?.location,s?.region].filter(Boolean).join(' '));
@@ -114,9 +119,9 @@ const daysApart=(a,b)=>{const x=publishedDate(a),y=publishedDate(b);return x&&y?
 
 export function explainEventMatch(a,b) {
   const typeA=eventType(a),typeB=eventType(b);
-  if(typeA!=='other'&&typeB!=='other'&&typeA!==typeB)return {match:false,score:0,reasons:['event-type-mismatch']};
+  const typeMismatch=typeA!=='other'&&typeB!=='other'&&typeA!==typeB;
   const stageA=explicitStage(a),stageB=explicitStage(b);
-  if(stageA&&stageB&&stageA!==stageB)return {match:false,score:0,reasons:['project-stage-mismatch']};
+  const stageMismatch=!!stageA&&!!stageB&&stageA!==stageB;
   const ta=tokens(a),tb=tokens(b),textSim=similarity(ta,tb);
   const titleA=headline(a),titleB=headline(b);
   const sourcesA=sourceRecords(a),sourcesB=sourceRecords(b);
@@ -136,14 +141,21 @@ export function explainEventMatch(a,b) {
   const sameStage=!stageA||!stageB||stageA===stageB;
   const sameType=typeA===typeB;
   const compatibleType=typeA==='other'||typeB==='other'||sameType;
-  if(sameUrl&&compatibleType&&sameStage)return {match:true,score:.99,reasons:['same-canonical-url']};
-  if(sameSourceId&&compatibleType&&sameStage)return {match:true,score:.99,reasons:['same-source-id']};
+  if(sameUrl)return {match:true,score:.99,reasons:['same-canonical-url']};
+  if(sameSourceId)return {match:true,score:.99,reasons:['same-source-id']};
   const sharedTokens=overlaps(ta,tb);
   const distinctive=sharedTokens.some(x=>x.length>=4);
-  if(titleA&&titleA===titleB&&distinctive&&compatibleType&&sameStage&&(!dateGap||dateGap<=180))return {match:true,score:.96,reasons:['same-normalized-headline','distinctive-title-anchor']};
-  if(textSim>=EVENT_DEDUPE_THRESHOLDS.articleTitle&&sharedTokens.length>=5&&distinctive&&compatibleType&&sameStage&&(!dateGap||dateGap<=21))return {match:true,score:.9,reasons:['near-identical-article-text','distinctive-text-anchor']};
-  if(textSim>=EVENT_DEDUPE_THRESHOLDS.articleCombined&&sharedTokens.length>=5&&distinctive&&compatibleType&&sameStage&&(!dateGap||dateGap<=14))return {match:true,score:.84,reasons:['high-text-similarity','distinctive-text-anchor']};
-  if(sameProject&&sameType&&sameStage) {
+  const closeInTime=dateGap===null||dateGap<=EVENT_DEDUPE_THRESHOLDS.publicationWindowDays;
+  const storyAnchors=orgOverlap.length>0&&(capOverlap.length>0||locationOverlap.length>0);
+  if(titleA&&titleA===titleB&&distinctive&&sameStage&&(!dateGap||dateGap<=180))return {match:true,score:.96,reasons:['same-normalized-headline','distinctive-title-anchor']};
+  if(!stageMismatch&&textSim>=EVENT_DEDUPE_THRESHOLDS.articleTitle&&sharedTokens.length>=4&&distinctive&&sameStage&&(!dateGap||dateGap<=30)&&(!typeMismatch||storyAnchors))return {match:true,score:.9,reasons:['near-identical-article-text','distinctive-text-anchor']};
+  if(!stageMismatch&&textSim>=EVENT_DEDUPE_THRESHOLDS.articleCombined&&sharedTokens.length>=4&&distinctive&&sameStage&&(!dateGap||dateGap<=21)&&(!typeMismatch||storyAnchors))return {match:true,score:.84,reasons:['high-text-similarity','distinctive-text-anchor']};
+  // Headlines often vary by publisher. Link the report when independent facts align:
+  // recognized actor + project location/capacity + close publication dates.
+  if(!stageMismatch&&storyAnchors&&closeInTime&&textSim>=.16&&sharedTokens.length>=2)return {match:true,score:.82,reasons:['shared-actor-and-project-facts','publication-window']};
+  if(!stageMismatch&&sameType&&closeInTime&&orgOverlap.length>0&&locationOverlap.length>0&&textSim>=.28&&sharedTokens.length>=3)return {match:true,score:.8,reasons:['same-actor-location-and-story-context']};
+  if(!stageMismatch&&!typeMismatch&&sameProject&&sameType&&sameStage&&orgOverlap.length>0&&closeInTime)return {match:true,score:.84,reasons:['same-project-and-actor']};
+  if(!typeMismatch&&!stageMismatch&&sameProject&&sameType&&sameStage) {
     let score=.42; const reasons=['same-project','same-event-type'];
     if(tenderA&&tenderA===tenderB){score+=.2;reasons.push('same-tender-identity');}
     if(orgOverlap.length){score+=.12;reasons.push('shared-organization');}

@@ -88,8 +88,8 @@ const orgs=s=>{
   });
   return new Set([...explicit,...inferred].map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
 };
-const capacities=s=>new Set([...((articleText(s)+' '+String(s?.capacity||'')).matchAll(/\\b(\\d+(?:\\.\\d+)?)\\s*[-–—]?\\s*(mw|mwh|gw|gwh|kw|kwh)\\b/gi))].map(m=>m[1]+' '+m[2].toLowerCase()));
-const technologies=s=>{const text=normalizeEventText(articleText(s)+' '+(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||''));const out=new Set();if(/\\b(solar|photovoltaic|pv)\\b/.test(text))out.add('solar');if(/\\b(bess|battery|storage)\\b/.test(text))out.add('storage');if(/\\b(wind)\\b/.test(text))out.add('wind');if(/\\b(hydrogen|ammonia|ptx)\\b/.test(text))out.add('hydrogen');if(/\\b(grid|transmission)\\b/.test(text))out.add('grid');return out;};
+const capacities=s=>new Set([...((articleText(s)+' '+String(s?.capacity||'')).matchAll(/\b(\d+(?:\.\d+)?)\s*[-–—]?\s*(mw|mwh|gw|gwh|kw|kwh)\b/gi))].map(m=>m[1]+' '+m[2].toLowerCase()));
+const technologies=s=>{const text=normalizeEventText(articleText(s)+' '+(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||''));const out=new Set();if(/\b(solar|photovoltaic|pv)\b/.test(text))out.add('solar');if(/\b(bess|battery|storage)\b/.test(text))out.add('storage');if(/\b(wind)\b/.test(text))out.add('wind');if(/\b(hydrogen|ammonia|ptx)\b/.test(text))out.add('hydrogen');if(/\b(grid|transmission)\b/.test(text))out.add('grid');return out;};
 const locations=s=>{
   const explicit=normalizedName([s?.location,s?.region].filter(Boolean).join(' '));
   const text=explicit+' '+normalizeEventText(articleText(s));

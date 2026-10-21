@@ -83,8 +83,8 @@ const orgs=s=>{
   const text=normalizeEventText(articleText(s));
   const explicit=(Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean);
   const inferred=[...ORG_ALIASES.keys()].filter(alias=>{
-    const pattern=normalizeEventText(alias).replace(/\\s+/g,'\\\\s+');
-    return new RegExp('\\\\b'+pattern+'\\\\b','i').test(text);
+    const pattern=normalizeEventText(alias).replace(/\s+/g,'\\s+');
+    return new RegExp('\\b'+pattern+'\\b','i').test(text);
   });
   return new Set([...explicit,...inferred].map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
 };

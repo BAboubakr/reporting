@@ -8,7 +8,7 @@ export const EVENT_DEDUPE_THRESHOLDS = Object.freeze({
 });
 
 const TRACKING_PARAM = /^(?:utm_.+|fbclid|gclid|dclid|mc_cid|mc_eid|igshid|li_fat_id|mkt_tok|trk|ref_src|yclid)$/i;
-const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc moroccan morocco s news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au solar photovoltaic pv bess battery storage wind hydrogen ammonia ptx grid transmission tender tenders procurement procurements award awards awarded contract contracts construction investment financing funding project announcement masen onee open opens launched launches bid bids invited announces announced announcement says said latest update new').split(' '));
+const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc moroccan s news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au open opens launched launches bid bids invited announces announced announcement said update new').split(' '));
 const ORG_ALIASES = new Map([
   ['afdb','african development bank'],['african development bank','african development bank'],['afdb group','african development bank'],
   ['afd','agence francaise de developpement'],['agence francaise de developpement','agence francaise de developpement'],

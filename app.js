@@ -1,7 +1,7 @@
 import { eventData, pipeline, stakeholders, sources } from './data/index.js';
 import { signals as rawSignals } from './data/signals.js?v=20260920-3';
 import { enrichments } from './data/enrichments.js?v=20260919-1';
-import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js?v=20261021-3';
+import { cleanSignals, getLastSignalUpdate } from './data-cleaner.js?v=20261021-4';
 const $=id=>document.getElementById(id),storageKey='atlas-local-state-v2',saved=JSON.parse(localStorage.getItem(storageKey)||'{}'),localOpportunities=saved.opportunities||[],localDevelopments=saved.developments||[],mergedSignals=rawSignals.map(s=>enrichments[s.id]&&!s.enrichment?{...s,enrichment:enrichments[s.id],evidenceLevel:enrichments[s.id].status==='public-evidence'?'multi-source enriched':s.evidenceLevel}:s),signals=cleanSignals(mergedSignals);
 const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d};
 const isActiveLocalOpportunity=o=>{if(o?.generated)return true;const d=dateValue(o?.due||o?.date);if(!d)return true;const today=new Date();today.setHours(0,0,0,0);return d>=today};
@@ -89,4 +89,4 @@ function renderAll(){renderOverview();renderDevelopments(activeDevelopmentFilter
 let activeDevelopmentFilter='all';const filterNames=['all','verified','needs-review','tenders','policy','grid'];document.querySelectorAll('.filter-row .filter').forEach((b,i)=>{b.dataset.filter=filterNames[i]||'all';b.addEventListener('click',()=>{activeDevelopmentFilter=b.dataset.filter;renderDevelopments(activeDevelopmentFilter)})});
 function renderReportPreview(){const t=$('reportType')?.value||'Weekly Intelligence Brief',p=$('reportPeriod')?.value.trim()||'Current period',c=$('reportClassification')?.value||'';if($('reportPreview'))$('reportPreview').innerHTML=`<div class="report-cover"><span>ATLAS</span><p>MOROCCO RENEWABLE ENERGY INTELLIGENCE</p><h2>${escapeHtml(t)}</h2><small>${escapeHtml(p)} · ${escapeHtml(c)}</small></div>`}['reportType','reportPeriod','reportClassification'].forEach(id=>$(id)?.addEventListener('input',renderReportPreview));window.__atlasReportContextReady=true;window.allDevelopments=allDevelopments;window.allPipeline=allPipeline;window.eventData=eventData;window.signals=signals;window.atlasLastUpdate=getLastSignalUpdate(signals);window.escapeHtml=escapeHtml;renderAll();renderReportPreview();
 import('./report-generator-v3.js?v=20260920-3').catch(e=>console.warn('Atlas V3 report generator unavailable',e));
-import('./market-intelligence-v3.js?v=20261021-3').catch(e=>console.warn('Atlas market module unavailable',e));
+import('./market-intelligence-v3.js?v=20261021-4').catch(e=>console.warn('Atlas market module unavailable',e));

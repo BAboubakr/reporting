@@ -8,7 +8,7 @@ export const EVENT_DEDUPE_THRESHOLDS = Object.freeze({
 });
 
 const TRACKING_PARAM = /^(?:utm_.+|fbclid|gclid|dclid|mc_cid|mc_eid|igshid|li_fat_id|mkt_tok|trk|ref_src|yclid)$/i;
-const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc moroccan morocco s news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au solar photovoltaic pv bess battery storage wind hydrogen ammonia ptx grid transmission tender tenders procurement procurements award awards awarded contract contracts construction investment financing funding project announcement masen onee mw mwh gw gwh open opens launched launches bid bids invited announces announced announcement says said latest update new').split(' '));
+const STOP_WORDS = new Set(('the a an and or to of in on for with from by as at is are was were be this that it its team help advance appointed selected project projects plant plants development renewable energy morocco maroc moroccan morocco s news now international latest report says according le la les des un une de du et en pour dans sur avec aux par au solar photovoltaic pv bess battery storage wind hydrogen ammonia ptx grid transmission tender tenders procurement procurements award awards awarded contract contracts construction investment financing funding project announcement masen onee open opens launched launches bid bids invited announces announced announcement says said latest update new').split(' '));
 const ORG_ALIASES = new Map([
   ['afdb','african development bank'],['african development bank','african development bank'],['afdb group','african development bank'],
   ['afd','agence francaise de developpement'],['agence francaise de developpement','agence francaise de developpement'],
@@ -64,7 +64,7 @@ export function canonicalizeUrl(value='') {
 
 const articleText=s=>[s?.title||s?.headline||s?.signal||'',s?.summary||'',s?.evidenceSnippet||''].join(' ');
 const headline=s=>normalizeEventText(s?.title||s?.headline||s?.signal||'');
-const tokens=s=>new Set(normalizeEventText(articleText(s)).split(' ').filter(t=>t.length>=3&&!STOP_WORDS.has(t)));
+const tokens=s=>new Set(normalizeEventText(articleText(s)).split(' ').filter(t=>(t.length>=3||['pv','mw','gw','kw'].includes(t))&&!STOP_WORDS.has(t)));
 const similarity=(a,b)=>{if(!a.size||!b.size)return 0;let n=0;for(const x of a)if(b.has(x))n++;return n/Math.max(1,Math.min(a.size,b.size));};
 const normalizedName=value=>normalizeEventText(value);
 const eventType=s=>{
@@ -140,6 +140,7 @@ export function explainEventMatch(a,b) {
   const orgOverlap=overlaps(orgs(a),orgs(b));
   const capOverlap=overlaps(capacities(a),capacities(b));
   const locationOverlap=overlaps(locations(a),locations(b));
+  const technologyOverlap=overlaps(technologies(a),technologies(b));
   const dateGap=daysApart(a,b);
   const sameStage=!stageA||!stageB||stageA===stageB;
   const sameType=typeA===typeB;
@@ -155,7 +156,9 @@ export function explainEventMatch(a,b) {
   if(!stageMismatch&&textSim>=EVENT_DEDUPE_THRESHOLDS.articleCombined&&sharedTokens.length>=4&&distinctive&&sameStage&&(!dateGap||dateGap<=21)&&(!typeMismatch||storyAnchors))return {match:true,score:.84,reasons:['high-text-similarity','distinctive-text-anchor']};
   // Headlines often vary by publisher. Link the report when independent facts align:
   // recognized actor + project location/capacity + close publication dates.
-  if(!stageMismatch&&storyAnchors&&closeInTime&&textSim>=.16&&sharedTokens.length>=2&&(!typeMismatch||(capOverlap.length>0&&locationOverlap.length>0&&textSim>=.3))return {match:true,score:.82,reasons:['shared-actor-and-project-facts','publication-window']};
+  if(!stageMismatch&&storyAnchors&&closeInTime&&textSim>=.16&&sharedTokens.length>=2&&(!typeMismatch||(capOverlap.length>0&&locationOverlap.length>0&&textSim>=.3)))return {match:true,score:.82,reasons:['shared-actor-and-project-facts','publication-window']};
+  // Same procurement described by different publishers: match stable technical facts.
+  if(!stageMismatch&&typeA==='tender'&&typeB==='tender'&&closeInTime&&capOverlap.length>0&&technologyOverlap.length>0&&(sharedTokens.length>=2||orgOverlap.length>0||locationOverlap.length>0))return {match:true,score:.86,reasons:['same-tender-capacity-and-technology','publication-window']};
   if(!stageMismatch&&sameType&&closeInTime&&orgOverlap.length>0&&locationOverlap.length>0&&textSim>=.28&&sharedTokens.length>=3)return {match:true,score:.8,reasons:['same-actor-location-and-story-context']};
   if(!stageMismatch&&!typeMismatch&&sameProject&&sameType&&sameStage&&orgOverlap.length>0&&closeInTime)return {match:true,score:.84,reasons:['same-project-and-actor']};
   if(!typeMismatch&&!stageMismatch&&sameProject&&sameType&&sameStage) {

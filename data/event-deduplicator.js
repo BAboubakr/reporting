@@ -82,7 +82,10 @@ const publishedDate=s=>Date.parse(s?.eventDate||s?.published||s?.publicationDate
 const orgs=s=>{
   const text=normalizeEventText(articleText(s));
   const explicit=(Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean);
-  const inferred=[...ORG_ALIASES.keys()].filter(alias=>new RegExp('\\\\b'+alias.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\const orgs=s=>new Set((Array.isArray(s?.entities)?s.entities:[]).map(normalizedName).filter(Boolean).map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));')+'\\\\b','i').test(text));
+  const inferred=[...ORG_ALIASES.keys()].filter(alias=>{
+    const pattern=normalizeEventText(alias).replace(/\\s+/g,'\\\\s+');
+    return new RegExp('\\\\b'+pattern+'\\\\b','i').test(text);
+  });
   return new Set([...explicit,...inferred].map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
 };
 const capacities=s=>new Set((articleText(s)+' '+String(s?.capacity||'')).match(/\b\d+(?:\.\d+)?\s*(?:mw|mwh|gw|gwh|kw|kwh)\b/gi)?.map(x=>x.replace(/\s+/g,' ').toLowerCase())||[]);
@@ -152,7 +155,7 @@ export function explainEventMatch(a,b) {
   if(!stageMismatch&&textSim>=EVENT_DEDUPE_THRESHOLDS.articleCombined&&sharedTokens.length>=4&&distinctive&&sameStage&&(!dateGap||dateGap<=21)&&(!typeMismatch||storyAnchors))return {match:true,score:.84,reasons:['high-text-similarity','distinctive-text-anchor']};
   // Headlines often vary by publisher. Link the report when independent facts align:
   // recognized actor + project location/capacity + close publication dates.
-  if(!stageMismatch&&storyAnchors&&closeInTime&&textSim>=.16&&sharedTokens.length>=2)return {match:true,score:.82,reasons:['shared-actor-and-project-facts','publication-window']};
+  if(!stageMismatch&&storyAnchors&&closeInTime&&textSim>=.16&&sharedTokens.length>=2&&(!typeMismatch||(capOverlap.length>0&&locationOverlap.length>0&&textSim>=.3))return {match:true,score:.82,reasons:['shared-actor-and-project-facts','publication-window']};
   if(!stageMismatch&&sameType&&closeInTime&&orgOverlap.length>0&&locationOverlap.length>0&&textSim>=.28&&sharedTokens.length>=3)return {match:true,score:.8,reasons:['same-actor-location-and-story-context']};
   if(!stageMismatch&&!typeMismatch&&sameProject&&sameType&&sameStage&&orgOverlap.length>0&&closeInTime)return {match:true,score:.84,reasons:['same-project-and-actor']};
   if(!typeMismatch&&!stageMismatch&&sameProject&&sameType&&sameStage) {

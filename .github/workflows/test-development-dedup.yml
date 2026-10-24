@@ -1,0 +1,28 @@
+name: Test Atlas Development Deduplication
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'data-cleaner.js'
+      - 'data/event-deduplicator.js'
+      - 'scripts/test_development_dedup.mjs'
+      - '.github/workflows/test-development-dedup.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-development-dedup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Verify duplicate grouping and milestone preservation
+        run: node scripts/test_development_dedup.mjs
+

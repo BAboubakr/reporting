@@ -77,7 +77,12 @@ const eventType=s=>{
 };
 const explicitStage=s=>{const value=normalizedName(s?.projectStage||s?.stage||'');return TYPE_ALIASES.get(value)||value;};
 const explicitProject=s=>normalizedName(s?.projectIdentity||s?.projectName||s?.project||s?.facilityName||'');
-const tenderIdentity=s=>normalizedName(s?.tenderId||s?.contractNumber||s?.procurementId||s?.awardId||'');
+const tenderIdentity=s=>{
+  const explicit=normalizedName(s?.tenderId||s?.contractNumber||s?.procurementId||s?.awardId||'');
+  if(explicit)return explicit;
+  const match=String(articleText(s)+' '+(s?.capacity||'')).match(/\b(?:tender\s*)?(?:no\.?\s*)?(\d{1,4})\s*\/\s*(\d{2,4})\s*\/\s*([a-z][a-z0-9-]+)\b/i);
+  return match?`${match[1]}/${match[2]}/${match[3].toLowerCase()}`:'';
+};
 const publishedDate=s=>Date.parse(s?.eventDate||s?.published||s?.publicationDate||s?.detected||'')||0;
 const orgs=s=>{
   const text=normalizeEventText(articleText(s));
@@ -88,7 +93,7 @@ const orgs=s=>{
   });
   return new Set([...explicit,...inferred].map(x=>ORG_ALIASES.get(x)||x).filter(x=>x.length>=3&&x!=='morocco'));
 };
-const capacities=s=>new Set([...((articleText(s)+' '+String(s?.capacity||'')).matchAll(/\b(\d+(?:\.\d+)?)\s*[-–—]?\s*(mw|mwh|gw|gwh|kw|kwh)\b/gi))].map(m=>m[1]+' '+m[2].toLowerCase()));
+const capacities=s=>new Set([...((normalizeEventText(articleText(s)+' '+String(s?.capacity||''))).matchAll(/\b(\d+(?:\.\d+)?)\s*[-–—]?\s*(mw|mwh|gw|gwh|kw|kwh)\b/gi))].map(m=>m[1]+' '+m[2].toLowerCase()));
 const technologies=s=>{const text=normalizeEventText(articleText(s)+' '+(Array.isArray(s?.categories)?s.categories.join(' '):s?.categories||''));const out=new Set();if(/\b(solar|photovoltaic|pv)\b/.test(text))out.add('solar');if(/\b(bess|battery|storage)\b/.test(text))out.add('storage');if(/\b(wind)\b/.test(text))out.add('wind');if(/\b(hydrogen|ammonia|ptx)\b/.test(text))out.add('hydrogen');if(/\b(grid|transmission)\b/.test(text))out.add('grid');return out;};
 const locations=s=>{
   const explicit=normalizedName([s?.location,s?.region].filter(Boolean).join(' '));
@@ -114,12 +119,28 @@ const eventQuality=s=>sourceRecords(s).reduce((n,x)=>n+sourceQuality(x),0)+sourc
 const stableHash=value=>{let h=2166136261;for(const c of String(value)){h^=c.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(16).padStart(8,'0');};
 const eventId=s=>{
   const project=explicitProject(s),type=eventType(s),stage=explicitStage(s),tender=tenderIdentity(s);
-  const stable=project?'project|'+project+'|'+type+'|'+stage+'|'+tender:(s?.eventId||s?.id||s?.sourceId||canonicalizeUrl(s?.url)||headline(s));
+  const milestone=eventMilestone(s);
+  const stable=project?'project|'+project+'|'+type+'|'+stage+'|'+tender+(milestone?'|milestone|'+milestone:''):(s?.eventId||s?.id||s?.sourceId||canonicalizeUrl(s?.url)||headline(s));
   return 'evt-'+stableHash(stable);
 };
 const familyId=s=>{const p=explicitProject(s);return p?'family-'+stableHash(p):null;};
 const overlaps=(a,b)=>[...a].filter(x=>b.has(x));
 const daysApart=(a,b)=>{const x=publishedDate(a),y=publishedDate(b);return x&&y?Math.abs(x-y)/86400000:null;};
+
+// A project can generate several real developments. Preserve milestones within one family.
+export function eventMilestone(s) {
+  const text=normalizeEventText(articleText(s));
+  if (/\b(begin|begins|began|start|starts|started|commence|commences|commenced) operations?\b|\bcommercial operation\b|\bcommission(?:ed|ing)\b|\bstarts? production\b/.test(text)) return 'operations-start';
+  if (/\b(started|began|has started|has begun)\b.{0,60}\b(resource )?measurement (programme|program|campaign)\b/.test(text)) return 'measurement-programme-start';
+  if (/\b(signed|signs|signing)\b.{0,50}\b(agreement|partnership|cooperation|memorandum|mou)\b|\bpartner(?:s|ed|ship)? to (?:boost|unlock|advance|support)\b/.test(text)) return 'agreement';
+  if (/\b(backing|backed|financing|financed|funding|funded|loan|grant|financial close)\b|\$\s?\d/.test(text)) return 'financing';
+  if (/\bconstruction (?:begins|starts|started|underway|launch(?:es|ed)?)\b|\bgroundbreaking\b|\bconstruction contract\b/.test(text)) return 'construction';
+  if (/\b(prepares?|plans?|planned|set|scheduled|expected) to launch\b|\bplanned launch\b/.test(text)) return 'planned-launch';
+  if (/\bapplications? (?:are |is )?(?:now )?open\b|\bopen for applications\b|\baccepting applications\b/.test(text)) return 'applications-open';
+  if (/\bcall for projects\b|\blaunch(?:es|ed|ing) (?:a )?(?:call|programme|program)\b/.test(text)) return 'programme-call';
+  if (/\b(tender|prequalification|request for qualification|procurement|rfp|rfq)\b/.test(text)) return 'tender';
+  return null;
+}
 
 export function explainEventMatch(a,b) {
   const typeA=eventType(a),typeB=eventType(b);
@@ -148,6 +169,8 @@ export function explainEventMatch(a,b) {
   const compatibleType=typeA==='other'||typeB==='other'||sameType;
   if(sameUrl)return {match:true,score:.99,reasons:['same-canonical-url']};
   if(sameSourceId)return {match:true,score:.99,reasons:['same-source-id']};
+  const milestoneA=eventMilestone(a),milestoneB=eventMilestone(b);
+  if(milestoneA&&milestoneB&&milestoneA!==milestoneB)return {match:false,score:0,reasons:['different-event-milestones',milestoneA,milestoneB]};
   const sharedTokens=overlaps(ta,tb);
   const distinctive=sharedTokens.some(x=>x.length>=4);
   const closeInTime=dateGap===null||dateGap<=EVENT_DEDUPE_THRESHOLDS.publicationWindowDays;
@@ -265,4 +288,5 @@ export function deduplicateEvents(input=[]) {
   }
   return events;
 }
+
 

@@ -34,3 +34,26 @@
 #developments .dev-source-list span{font-weight:800;color:#475467;margin-right:2px}
 #developments .dev-source-list a{color:#175cd3;text-decoration:none;font-weight:700}
 #developments .dev-source-list a:hover{text-decoration:underline}
+
+/* Compact disclosure cards keep the developments list scannable. */
+#developments .development-list{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:12px}
+#developments .development-card.compact{display:block;min-height:0;padding:0;border-radius:12px}
+#developments .development-card.compact:before{bottom:auto;height:100%;transition:height .18s}
+#developments .development-card.compact[open]:before{height:100%}
+#developments .dev-collapsed{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"topic score" "title title" "state open" "meta meta";gap:7px 12px;align-items:center;min-height:112px;padding:15px 16px 14px 20px;cursor:pointer;list-style:none}
+#developments .dev-collapsed::-webkit-details-marker{display:none}
+#developments .dev-collapsed::marker{content:""}
+#developments .dev-collapsed .dev-topic{grid-area:topic;max-width:100%}
+#developments .dev-collapsed .dev-score{grid-area:score}
+#developments .dev-collapsed .dev-title{grid-area:title;margin:0;font-size:15px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+#developments .dev-collapsed .dev-state{grid-area:state;margin:0}
+#developments .dev-collapsed-meta{grid-area:meta;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#98a2b3;font-size:10px}
+#developments .dev-open-label{grid-area:open;display:inline-flex;align-items:center;gap:5px;color:#175cd3;font-size:10px;font-weight:800;white-space:nowrap}
+#developments .dev-open-label b{font-size:14px;line-height:1}
+#developments .development-card[open] .dev-open-label b{transform:rotate(45deg)}
+#developments .dev-expanded{padding:0 17px 15px 20px}
+#developments .dev-expanded .dev-summary{margin:0 0 12px;-webkit-line-clamp:unset;display:block}
+#developments .dev-expanded .dev-bottom{margin-top:0;padding-top:10px}
+#developments .development-card.compact .dev-source-list{margin:0 17px 14px 20px;padding-top:9px}
+@media(max-width:980px){#developments .development-list{grid-template-columns:1fr}}
+@media(max-width:700px){#developments .dev-collapsed{min-height:104px;padding:13px 13px 12px 17px}#developments .dev-collapsed .dev-title{font-size:14px}#developments .dev-expanded{padding:0 14px 13px 17px}}

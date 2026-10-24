@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "lastRun": "2026-10-24T20:55:17.597355+00:00",
-  "completedAt": "2026-10-24T20:55:17.597355+00:00",
+  "lastRun": "2026-10-24T23:20:38.435774+00:00",
+  "completedAt": "2026-10-24T23:20:38.435774+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,
@@ -20,8 +20,8 @@
   "enrichmentRun": "success",
   "researchLevels": {
     "0": 26,
-    "1": 51,
-    "2": 137,
+    "1": 50,
+    "2": 138,
     "3": 36,
     "4": 0
   },

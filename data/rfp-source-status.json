@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-10-20T09:01:13.866134+00:00",
+  "coverage": "partial",
+  "sources": [
+    {
+      "id": "pmmp",
+      "name": "Portail Marocain des Marchés Publics",
+      "url": "https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch",
+      "checkedAt": "2026-10-20T09:01:13.866134+00:00",
+      "ok": true,
+      "noticesParsed": 9,
+      "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
+      "etag": null,
+      "lastModified": null
+    },
+    {
+      "id": "masen",
+      "name": "MASEN e-Tendering current tenders",
+      "url": "https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=",
+      "checkedAt": "2026-10-20T09:01:13.866134+00:00",
+      "ok": true,
+      "noticesParsed": 0,
+      "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
+      "etag": null,
+      "lastModified": null
+    },
+    {
+      "id": "masen-awards",
+      "name": "MASEN e-Tendering award notices",
+      "url": "https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch",
+      "checkedAt": "2026-10-20T09:01:13.866134+00:00",
+      "ok": true,
+      "noticesParsed": 0,
+      "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
+      "etag": null,
+      "lastModified": null
+    },
+    {
+      "id": "masen-cancellations",
+      "name": "MASEN e-Tendering cancellations",
+      "url": "https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch",
+      "checkedAt": "2026-10-20T09:01:13.866134+00:00",
+      "ok": true,
+      "noticesParsed": 0,
+      "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
+      "etag": null,
+      "lastModified": null
+    }
+  ],
+  "message": "Only listed official sources are monitored; this is not exhaustive coverage of Moroccan public procurement."
+}
+

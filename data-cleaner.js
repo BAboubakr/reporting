@@ -10,6 +10,7 @@ const DEVELOPMENT_TERMS=/\b(project|plant|farm|contract|tender|procurement|award
 const FOREIGN_ONLY=/\b(india|indian|japan|japanese|ontario|canada|australia|germany|german|france|french|united kingdom|usa|united states|brazil|china|chinese|south africa|egypt|saudi arabia|uae|united arab emirates)\b/i;
 const DEDUP_STOPWORDS=new Set('the a an and or to of in on for with from by as at is are was were be this that team help advance appointed selected project projects plant plants development renewable energy morocco maroc news now international water power renewables latest report says according'.split(' '));
 function fields(s){return{title:String(s?.title||s?.headline||'').trim(),summary:String(s?.summary||'').trim(),snippet:String(s?.evidenceSnippet||'').trim(),why:String(s?.whyItMatters||'').trim(),source:String(s?.source||'').trim()};}
+// Normalize compatibility characters before lowercasing stylized source text.
 function normStoryText(value){return String(value||'').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g,'').replace(/https?:\/\/\S+/g,' ').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim();}
 function storyTokens(s){const {title,summary,snippet}=fields(s);const text=normStoryText(`${title} ${summary} ${snippet}`);return new Set(text.split(' ').filter(t=>t.length>=3&&!DEDUP_STOPWORDS.has(t)&&!/^\d+(?:mw|mwh|gw|gwh)?$/.test(t)));}
 function tokenSimilarity(a,b){if(!a.size||!b.size)return 0;let common=0;for(const t of a)if(b.has(t))common++;return common/Math.min(a.size,b.size);}

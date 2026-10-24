@@ -1,4 +1,4 @@
-import { deduplicateEvents } from './data/event-deduplicator.js?v=20261021-6';
+import { deduplicateEvents } from './data/event-deduplicator.js?v=20261024-1';
 // Atlas data-quality layer. Morocco-first, evidence-first filtering for renewable-energy intelligence.
 const UI_ARTIFACT_PATTERNS=[/^guides? d.?utilisation$/i,/^outils informatiques$/i,/^consultations? en cours$/i,/^0 entités publiques inscrites$/i,/^tester la configuration(?: de mon poste)?$/i,/^spécifications techniques$/i,/^specifications techniques$/i,/^accueil$/i,/^connexion$/i,/^se connecter$/i,/^menu$/i,/^rechercher$/i];
 const FICHTNER_NOISE=[/^matriel accept rseau onee$/i,/^matériel accepté réseau onee$/i,/^materiel accepte reseau onee$/i];

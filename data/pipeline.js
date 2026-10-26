@@ -31,20 +31,21 @@ export const pipeline={
   Monitor:projects.slice(4,8).map(s=>({
     name:clean(s.title||s.headline),
     note:`Evidence-backed signal · ${clean(s.projectStage||s.signalType||'development')}. Reassess before outreach.`,
-    owner:'Unassigned', due:'Rolling review', source:s.url||null, signalId:s.id, verified:true, generated:true
+    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:'Rolling review', source:s.url||null, signalId:s.id, verified:true, generated:true
   })),
   Qualify:[...openDfiOpportunities.map(o=>({
     name:`${o.institution.toUpperCase()} · ${clean(o.title)}`,
     note:`DFI ${clean(o.opportunityType||'opportunity')} · ${clean(o.fit)} Fichtner fit. Validate procurement route, deadline and potential partners.`,
-    owner:'Unassigned', due:o.deadline, source:o.source, dfiId:o.id, verified:true, generated:true
+    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:o.deadline, source:o.source, dfiId:o.id, verified:true, generated:true
   })),...projects.slice(0,4).map(s=>({
     name:clean(s.title||s.headline),
     note:`Evidence-backed ${clean(s.projectStage||s.signalType||'development')} signal. Validate client, procurement route and Fichtner fit before engagement.`,
-    owner:'Unassigned', due:'Within 7 days', source:s.url||null, signalId:s.id, verified:true, generated:true
+    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:'Within 7 days', source:s.url||null, signalId:s.id, verified:true, generated:true
   }))],
   Engage:events.slice(0,4).map(e=>({
     name:e.name,
     note:`Verified future event in ${clean(e.detail)}. Target meetings only where a relevant stakeholder is identifiable.`,
-    owner:'Unassigned', due:e.date, source:e.source, eventId:e.id, verified:true, generated:true
+    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:e.date, source:e.source, eventId:e.id, verified:true, generated:true
   }))
 };
+

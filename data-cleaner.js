@@ -33,6 +33,18 @@ const STORY_ORGANIZATION_ALIASES=new Map([['morocco energy leaders','morocco ene
 const normalizeOrganization=value=>ORGANIZATION_ALIASES.get(normStoryText(value))||STORY_ORGANIZATION_ALIASES.get(normStoryText(value))||normStoryText(value);
 const TRACKED_COMPETITOR_NAMES=new Map(trackedCompetitors.map(c=>[normalizeOrganization(c.name),c.name]));
 const TRACKED_COMPETITOR_ALIASES=[...ORGANIZATION_ALIASES].filter(([,canonical])=>TRACKED_COMPETITOR_NAMES.has(canonical)).map(([alias,canonical])=>[normStoryText(alias),canonical]).sort((a,b)=>b[0].length-a[0].length);
+const PIPELINE_ENUMS={
+ mandateType:{"owner's engineer":"owner's engineer","independent engineer":"independent engineer","lender's engineer":"lender's engineer","technical advisor":"technical advisor",other:'other',unknown:'unknown'},
+ financingSource:{'world bank':'World Bank',afdb:'AfDB',kfw:'KfW',eib:'EIB',ebrd:'EBRD',afd:'AFD',isdb:'IsDB',state:'state',private:'private',unknown:'unknown'},
+ relationshipStatus:{none:'none',known:'known',partner:'partner','competitor-incumbent':'competitor-incumbent',unknown:'unknown'}
+};
+const enumValue=(value,allowed)=>allowed[String(value??'').trim().toLowerCase()]||'unknown';
+const explicitText=value=>String(value??'').trim()||'Unknown';
+export function normalizePipelineFields(item={}){
+ const timeline=String(item.rfpTimeline??'').trim();
+ const parsedTimeline=timeline&&timeline.toLowerCase()!=='unknown'&&Number.isFinite(Date.parse(timeline))?timeline:'unknown';
+ return{mandateType:enumValue(item.mandateType,PIPELINE_ENUMS.mandateType),financingSource:enumValue(item.financingSource,PIPELINE_ENUMS.financingSource),rfpTimeline:parsedTimeline,relationshipStatus:enumValue(item.relationshipStatus,PIPELINE_ENUMS.relationshipStatus),owner:explicitText(item.owner),nextAction:explicitText(item.nextAction),nextActionDue:explicitText(item.nextActionDue)};
+}
 function detectTrackedCompetitor(signal){
  if(signal?.competitor&&TRACKED_COMPETITOR_NAMES.has(normalizeOrganization(signal.competitor)))return TRACKED_COMPETITOR_NAMES.get(normalizeOrganization(signal.competitor));
  for(const entity of Array.isArray(signal?.entities)?signal.entities:[]){const name=typeof entity==='string'?entity:entity?.name||entity?.entity||entity?.label||'';const canonical=normalizeOrganization(name);if(TRACKED_COMPETITOR_NAMES.has(canonical))return TRACKED_COMPETITOR_NAMES.get(canonical);}
@@ -70,12 +82,13 @@ function mergeStoryRecords(a,b){const authorityA=sourceAuthority(a),authorityB=s
 function collapseDuplicateStories(candidates){const groups=[];for(const candidate of [...candidates].sort((a,b)=>signalPriority(b)-signalPriority(a))){const index=groups.findIndex(existing=>isDuplicateStory(candidate,existing));if(index<0)groups.push(candidate);else groups[index]=mergeStoryRecords(groups[index],candidate);}return groups;}
 export function cleanSignals(signals=[]){
  const candidates=Array.isArray(signals)?signals.filter(s=>!isNoiseSignal(s)).map(s=>{const project=inferProjectFamily(s),competitor=detectTrackedCompetitor(s);return{...s,...(project&&!s.project&&!s.projectName?{project}:{}),...(competitor?{competitor}: {})};}):[];
- const cleaned=deduplicateEvents(collapseDuplicateStories(candidates)).map(signal=>({...signal,...assessSignalEvidence(signal),displaySummary:displaySummary(signal)}));
+ const cleaned=deduplicateEvents(collapseDuplicateStories(candidates)).map(signal=>({...signal,...normalizePipelineFields(signal),...assessSignalEvidence(signal),displaySummary:displaySummary(signal)}));
  Object.defineProperty(cleaned,'reviewSignals',{value:getMoroccoReviewSignals(signals),enumerable:false});
  return cleaned;
 }
 export function getMoroccoReviewSignals(signals=[]){return(Array.isArray(signals)?signals:[]).filter(signal=>!hasMoroccoRelevance(signal)&&!isOfficialMoroccoSource(signal)&&!isNoiseSignal(signal,{skipMoroccoGate:true})).map(signal=>({...signal,filterDecision:'REVIEW',filterReason:'Morocco relevance is not established by title, summary, entities, or sourced snippet.'}));}
 export function getLastSignalUpdate(signals=[]){const timestamps=cleanSignals(signals).map(s=>Date.parse(s.detected||s.updated||s.published)).filter(Number.isFinite);return timestamps.length?new Date(Math.max(...timestamps)):null;}
+
 
 
 

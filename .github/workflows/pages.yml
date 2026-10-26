@@ -17,7 +17,20 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Run data-cleaner tests
+        run: node --test tests/*.test.mjs
+
   deploy:
+    needs: test
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -38,3 +51,4 @@ jobs:
 # Force redeploy after frontend/data fixes.
 # Pages deployment intentionally runs from the latest repository state so
 # hourly monitor commits are published even when they originate from GITHUB_TOKEN.
+

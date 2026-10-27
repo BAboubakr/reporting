@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-26T11:32:08.885123+00:00",
+  "generatedAt": "2026-10-27T10:58:25.811149+00:00",
   "coverage": "partial",
   "sources": [
     {
       "id": "pmmp",
       "name": "Portail Marocain des Marchés Publics",
       "url": "https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-10-26T11:32:08.885123+00:00",
+      "checkedAt": "2026-10-27T10:58:25.811149+00:00",
       "ok": false,
       "noticesParsed": 0,
-      "message": "Fetch or parse failed: URLError: <urlopen error timed out>"
+      "message": "Fetch or parse failed: HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "masen",
       "name": "MASEN e-Tendering current tenders",
       "url": "https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=",
-      "checkedAt": "2026-10-26T11:32:08.885123+00:00",
+      "checkedAt": "2026-10-27T10:58:25.811149+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
@@ -26,7 +26,7 @@
       "id": "masen-awards",
       "name": "MASEN e-Tendering award notices",
       "url": "https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-10-26T11:32:08.885123+00:00",
+      "checkedAt": "2026-10-27T10:58:25.811149+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
@@ -37,7 +37,7 @@
       "id": "masen-cancellations",
       "name": "MASEN e-Tendering cancellations",
       "url": "https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-10-26T11:32:08.885123+00:00",
+      "checkedAt": "2026-10-27T10:58:25.811149+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",

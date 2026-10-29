@@ -10,7 +10,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T21:05:39+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -69,7 +69,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -170,7 +170,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -229,7 +229,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -330,7 +330,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-06T23:00:13+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -389,7 +389,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -492,7 +492,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-01T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -550,7 +550,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -643,7 +643,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-10T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender"
@@ -702,7 +702,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -787,7 +787,7 @@ export const signals = [
     "sourceAccount": "Nareva",
     "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
     "published": "2026-10-12T06:00:46+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -845,7 +845,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -859,81 +859,8 @@ export const signals = [
         "Morocco Africa’s green hydrogen pipeline tops $30 billion https://ift.tt/sVJbTFg @h2invest.io Africa’s green hydrogen industry is advancing towards commercial development, with projects in Egypt, Morocco, Namibia and South Africa attracting prospective African Devel - LinkedIn",
         "Morocco green hydrogen ammonia project investor contractor"
       ],
-      "sources": [
-        {
-          "title": "Kanadevia Inova and partners win Morocco waste-to-energy deal - Africa Business Communities",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUwtNDR0bVgxQzdZTTJzR0xyY3RvNFo4cFhxbUE1VnluM3Jld2ZoX3F0bUNvQTNyZlh0b0hUT1RUTGktbE9SX2JKRzljbWl2Z2Z5UEczWXBOcW8yTHM1V2M1S244QTFjbi1OdXZuQTFUV1MzMFR2dWZRUnBJTjRjY2FQaENldlpGNTRKRVdlblpybjJTbTJ6OFMzSm9nQ3dhdXpiTERB?oc=5",
-          "snippet": "Kanadevia Inova and partners win Morocco waste-to-energy deal Africa Business Communities",
-          "source": "Africa Business Communities",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Nareva\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project - Sustainable Bus",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl8zbVc0V3U1azZRV0xTdzJyX256cXFhaE9PbllhQzFvcGxNUmJRSEd4anF2Vk1UTHV6UC1PY1V2V1EyVFlFUElDcVNkVzZXbUZUWTEwcExWMDdIaHAtUnlKRXV0bVByanBYRTRtbXhZdDB1WTdySTJFY0JYY21kVFF2QmVqQmI1M2lFRzJENGV6UC1DeDRvUDhRSQ?oc=5",
-          "snippet": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project Sustainable Bus",
-          "source": "Sustainable Bus",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE1YNDZwd1E3aHF2eENxVzFPcXlKUWNZeFFYdHRNLUQ0cFFYVE41d3ZVbXgwUkJBTlZ6NUFjZU1oeUljblZYVVNFRTgyZXRqRnhWM0RHZWhsWGxIMERMcGVzVEE2cTgwdDZta2FaMlpGLVNWTTQydTdSMDZLR0JISmcwbnFpUXhWM0E1NXZQWQ?oc=5",
-          "snippet": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? Yahoo Finance",
-          "source": "Yahoo Finance",
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive - Africa M.E.",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRfTWxuOHlRLS02dWVGSnFLOHRJQkFTQUtqR3ZRekt5dFFkZ0tGX2hLcWpXUHk0SC1Ya1pQaTZfekVUNzN1NlloQVVmYzkxYkN1NnlWMUxfbE1CLUxUVXBjalllVUpxa2dPOVFHYXV5NWUwQlMzbnJJWk5WUU5iRUVZRUVjYU5xRkk1cVN3?oc=5",
-          "snippet": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive Africa M.E.",
-          "source": "Africa M.E.",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnZ4NU1vM2hla1IxTldBbHBCYjZqdExjM2JpNGI0cEdueTIwaU9ERzBBVnNJb29fTXFOMVhrOVhURWpuQ2dycjlpazhfb2VjMFNrZWpwbmhQWk81c05yQVl3X1NCemFHX2FaRWtla2tCc29WQVJOZHM4Q0FnbEZsRTJCbWF2NXhnYUcwYkp4NzAtVzltdVBkUTdGa3ZteHZQbGhYbzRmakExbXo1N04wVXlMYTRpU0M0RFd6cDBsbzJ6SWVJTHdRTjVzRkpDSXZka1lHVzAxdGpkVGpaMGxHMg?oc=5",
-          "snippet": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        }
-      ],
-      "sourceCount": 9,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Nareva",
@@ -963,7 +890,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-13T18:00:57+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -1020,7 +947,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1033,49 +960,8 @@ export const signals = [
         "\"Bouchra EL HAYANI | Director of International Cooperation, Masen | Renewable Energy, Sustainability & Strategy Bouchra El Hayani is a senior leader in renewable energy, sustainability, and international cooperation, currently serving as Director of Internatio - LinkedIn\"",
         "Morocco Bouchra EL HAYANI | Director of International Cooperation, Masen | Renewable Energy, Sustainability & Strategy Bouchra El Hayani is a senior leader in renewable energy, sustainability, and international cooperation, currently serving as Director of Internatio - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -1105,7 +991,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-15T15:43:07+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -1163,7 +1049,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1187,22 +1073,6 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         },
         {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
           "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
           "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
@@ -1216,6 +1086,14 @@ export const signals = [
           "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
           "source": "Bloomberg",
           "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Solar"
+        },
+        {
+          "title": "Morocco’s Football Boss Named Finance Minister With Broader Role - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV01oSTRRTmhYelR5U0NoZGdvTUZPUnhRaE5qV3FZOXBTWGlfNzE0bXd0cHlQMjNFaG5wTUY2RUNzQVZqMS1ta0JSRzhBd0RoRzVOTjVON01BXzF3eFNuLThkRl9EYko3OHNJQjQySmVlUVhUREVOTGJfSVphZnNUSk9BZ1lyTkY5bHRlRU00X3V3VnoxQkpRVUJGbFRTa3AzaExhQzNIek5TQ3FBc1FGbGJtQ0hlUQ?oc=5",
+          "snippet": "Morocco’s Football Boss Named Finance Minister With Broader Role Bloomberg",
+          "source": "Bloomberg",
+          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         },
         {
@@ -1243,7 +1121,7 @@ export const signals = [
           "query": "Morocco solar PV project contractor tender ONEE MASEN"
         }
       ],
-      "sourceCount": 8,
+      "sourceCount": 7,
       "project": null,
       "entities": [
         "MASEN",
@@ -1273,7 +1151,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -1335,7 +1213,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1422,7 +1300,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-13T06:34:06+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -1481,7 +1359,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1496,19 +1374,19 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -1520,19 +1398,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         }
       ],
@@ -1566,7 +1444,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-15T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -1624,7 +1502,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1638,65 +1516,8 @@ export const signals = [
         "\"Rabat\" In a letter recently sent to the German government, Rabat expressed its support for the Sila Atlantik project, which aims to connect Morocco to Germany via two undersea cables to transmit renewable electricity. The information was confirmed to TelQuel by the - LinkedIn",
         "\"In a letter recently sent to the German government, Rabat expressed its support for the Sila Atlantik project, which aims to connect Morocco to Germany via two undersea cables to transmit renewable electricity. The information was confirmed to TelQuel by the - LinkedIn\""
       ],
-      "sources": [
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project - Sustainable Bus",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl8zbVc0V3U1azZRV0xTdzJyX256cXFhaE9PbllhQzFvcGxNUmJRSEd4anF2Vk1UTHV6UC1PY1V2V1EyVFlFUElDcVNkVzZXbUZUWTEwcExWMDdIaHAtUnlKRXV0bVByanBYRTRtbXhZdDB1WTdySTJFY0JYY21kVFF2QmVqQmI1M2lFRzJENGV6UC1DeDRvUDhRSQ?oc=5",
-          "snippet": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project Sustainable Bus",
-          "source": "Sustainable Bus",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Sila Atlantik: Morocco backs $30 Billion renewable power link to Germany - Telquel.ma",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3hCc2FZZXhHZ1BwbTNVa19yVDJ4SW1hWWpCTGlrZkhUTGpaT3Z5SV9tZ0Y5eWZJZS14UjFrYzk1c2lGNDRrcGdDYUZ5OUFsaVAtRmtRdmN1NWRxUlJ6RGVwR3pVZldrWUM1bUFhUGhyNUhfeXQ2Y0VmcTh1SnB2eC05akl5WWRpS2x0dVBqWllXU3phenYzdThnTGJwNG5hb1ZpUW1feWhqXzNKZVY0UFFtLXNzQQ?oc=5",
-          "snippet": "Sila Atlantik: Morocco backs $30 Billion renewable power link to Germany Telquel.ma",
-          "source": "Telquel.ma",
-          "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" In a letter recently sent to the German government, Rabat expressed its support for the Sila Atlantik project, which aims to connect Morocco to Germany via two undersea cables to transmit renewable electricity. The information was confirmed to TelQuel by the - LinkedIn"
-        },
-        {
-          "title": "German Government Backs 4,800km Sila Atlantik Cable Project with Morocco - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelNNNFhrVUpKMnJKcEN4Zkd1V3BwYThBVXVtaXhuOV9zVWhuM1BQS0t3aEl3UE9kLVJySnNRRjZkTHZEQWFkNkFiRWNtaGhSUWZWZE9pOExJclhjaTFob1I1aHJkbnpKaDZFUlZqNExHMk1DN2duekNKbWluUXhHRXdjOENua3Q2My1YR2NMMmt2aVZYUFNwYkprLTFQU0JrY3ZtY25GTTIwcmlrMldORlo0bF83aE9lSnk3Zw?oc=5",
-          "snippet": "German Government Backs 4,800km Sila Atlantik Cable Project with Morocco Morocco World News",
-          "source": "Morocco World News",
-          "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-          "query": "\"Morocco\" In a letter recently sent to the German government, Rabat expressed its support for the Sila Atlantik project, which aims to connect Morocco to Germany via two undersea cables to transmit renewable electricity. The information was confirmed to TelQuel by the - LinkedIn"
-        }
-      ],
-      "sourceCount": 7,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Green of Africa",
@@ -1727,7 +1548,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-06T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen"
@@ -1786,7 +1607,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1849,7 +1670,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-14T21:28:48+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -1908,7 +1729,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -1932,22 +1753,6 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         },
         {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
           "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
           "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
@@ -1961,6 +1766,14 @@ export const signals = [
           "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
           "source": "Bloomberg",
           "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Solar"
+        },
+        {
+          "title": "Morocco’s Football Boss Named Finance Minister With Broader Role - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV01oSTRRTmhYelR5U0NoZGdvTUZPUnhRaE5qV3FZOXBTWGlfNzE0bXd0cHlQMjNFaG5wTUY2RUNzQVZqMS1ta0JSRzhBd0RoRzVOTjVON01BXzF3eFNuLThkRl9EYko3OHNJQjQySmVlUVhUREVOTGJfSVphZnNUSk9BZ1lyTkY5bHRlRU00X3V3VnoxQkpRVUJGbFRTa3AzaExhQzNIek5TQ3FBc1FGbGJtQ0hlUQ?oc=5",
+          "snippet": "Morocco’s Football Boss Named Finance Minister With Broader Role Bloomberg",
+          "source": "Bloomberg",
+          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         },
         {
@@ -1988,7 +1801,7 @@ export const signals = [
           "query": "Morocco solar PV project contractor tender ONEE MASEN"
         }
       ],
-      "sourceCount": 8,
+      "sourceCount": 7,
       "project": null,
       "entities": [
         "MASEN",
@@ -2018,7 +1831,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-15T10:02:56+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2077,7 +1890,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2187,7 +2000,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-30T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2246,7 +2059,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2333,7 +2146,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-06T06:08:08+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -2390,7 +2203,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2403,49 +2216,8 @@ export const signals = [
         "\"Morocco wants more Gulf capital behind its clean-energy buildout. World Energy Council - Kingdom of Morocco and Clean Energy Business Council MENA (CEBC) are joining forces to connect Moroccan energy projects with investors, financiers and technolo - LinkedIn\"",
         "Morocco Morocco wants more Gulf capital behind its clean-energy buildout. World Energy Council - Kingdom of Morocco and Clean Energy Business Council MENA (CEBC) are joining forces to connect Moroccan energy projects with investors, financiers and technolo - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project - Sustainable Bus",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl8zbVc0V3U1azZRV0xTdzJyX256cXFhaE9PbllhQzFvcGxNUmJRSEd4anF2Vk1UTHV6UC1PY1V2V1EyVFlFUElDcVNkVzZXbUZUWTEwcExWMDdIaHAtUnlKRXV0bVByanBYRTRtbXhZdDB1WTdySTJFY0JYY21kVFF2QmVqQmI1M2lFRzJENGV6UC1DeDRvUDhRSQ?oc=5",
-          "snippet": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project Sustainable Bus",
-          "source": "Sustainable Bus",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Green of Africa",
@@ -2475,7 +2247,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-06T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -2532,7 +2304,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2545,49 +2317,8 @@ export const signals = [
         "\"€100 million planned for Safi. A bigger role for Morocco in Africa’s electrification. Amine Houssaim takes charge of Nexans Maroc and Northwest Africa with a concrete industrial agenda: • A new cable factory targeting operations in 2028. • A supply role alongsi - LinkedIn\"",
         "Morocco €100 million planned for Safi. A bigger role for Morocco in Africa’s electrification. Amine Houssaim takes charge of Nexans Maroc and Northwest Africa with a concrete industrial agenda: • A new cable factory targeting operations in 2028. • A supply role alongsi - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -2617,7 +2348,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-14T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -2675,7 +2406,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2714,14 +2445,6 @@ export const signals = [
           "query": "\"OCP Group\" Morocco LinkedIn Investment"
         },
         {
-          "title": "First US Phosphate Plant in Decades Planned Amid Global Conflict - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUNTZ2x5SjBvLWg5UzZYa0g1emE0UkwwS3pTdVNPSTkzaGZHZXZvbENJMmNKT19UTkRsbVVzR2dBOUt3clhwSkxoMzlUSmtpTlplSFBaR2Q2VmhfcGRxRnBkYllRZnpBNW5HSFZ3MXhFNnByTFJBZkE1RlVfQWk0V0Q2alMtRzNaVkduNFVyVmNkN01aXzRsb1J6SXdtSHg2MXBRUS1pOGp5cWNhQmt6MzhtZUg1dw?oc=5",
-          "snippet": "First US Phosphate Plant in Decades Planned Amid Global Conflict Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Investment"
-        },
-        {
           "title": "Morocco’s phosphate giant opens its doors to foreign investors as Iran war squeezes finances - Business Insider Africa",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFR0S1RwOVVjNEV4Y0M3MUlJYTZmaXN1ckFCcVVaZGRwMW9uZjVSUjFLQUhCVThISmx6aWlGYURtdVFvQ2hQWmFKa1I5ZjFhQzlRM3pLUGZnR2FBSnJhaGt5X3lDeXJQNHdhaUF0Y25aZXhvTHUxTERkRWE0UFVNVlNPVXZvSWd0ck42aEcxX2d6M0dBM04tZndRMmE1aUw3MUtETEdxcVpjWjFpRHBhR0IwRzBSN3hWSmc2c2RfNV9KdExaVmdMYW5KemhFZnlka2h1aXJn?oc=5",
           "snippet": "Morocco’s phosphate giant opens its doors to foreign investors as Iran war squeezes finances Business Insider Africa",
@@ -2743,6 +2466,14 @@ export const signals = [
           "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
           "source": "Euronews.com",
           "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
+          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Investment"
         }
       ],
@@ -2776,7 +2507,7 @@ export const signals = [
     "sourceAccount": "World Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
     "published": "2026-10-08T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -2834,7 +2565,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -2849,11 +2580,27 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "World Bank: Women’s Investment Can Unlock $22.9bn for Nigeria - Voice of Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGJiVUpucldfZ2RwMVZzMG1vZFVTX0ZtbURBbXFodWdZMUJHZnhQRnJERjdzZ3NXOVZsT2MxbUc0WVJJZFdRVEV5ZEhOajQ0UngzNll5cS1tZ1RTTEgtWlo5SXpTV25uUWpfWjZQRTRYS0lBbzJacUFTd250d2NxYWU2UVc?oc=5",
-          "snippet": "World Bank: Women’s Investment Can Unlock $22.9bn for Nigeria Voice of Nigeria",
+          "title": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn - LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaHNhdkNqem1JdUlhcTFSUVhlWm9iZ3E4WlFXNV9HLW9YZXlTUE5FLW9UejV5UFN5cV8zWnBfSjc0VnpOTWV0bk1lQWZTalZWeDlyRWxhVGJ3RmRlc1hYOFZtcGJYR0Mwczl4QzVXOTlxODNtTkJTSDIxLUlwdDY2N3dCbEFlaXhYcEVLcmtReU52bnBuU1NGU1EtWXVsVGdpWGYybDBHd2pJX0ZRcnU1eXF5S0NISjBvN1BRRm15clh6dVl5amtocDk4VkNvLWNZTG5VLXRKZFo1SjlrMEZmZHpaTUJBOGt1aHM5bHFGUnE2dlE0dS1na0JEZmRTZUpHQ2tLOHRlWG1USkExNldsUnRfbUl0ZDN6UGIyVjQzanVHelE4N2hwdG9uazNFRndUT3hFbVJsdmhvNUlnMm1SOTlVZlRVWU9PX3h4eF81YVJzcjQ1MWF3dlNRdkJxMGF6ZGdpVVRWcHNpUE9QV250Qmc1YXpuc0JPa0ZMMHVkcDdkV2hEekQtc3lYaEZ3SGdCb25Ec3hpdnlLUkt4eTZqSzZPR293SHZfVDlwZWZZN1dpYVBGcTVwbGlMZzY3Y1dJSnRleUUyWWVrSzNqWTJVN0w1VzdxVnl2U3k1Uw?oc=5",
+          "snippet": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn LinkedIn",
+          "source": "LinkedIn",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "President Tinubu Woos Investors with $78.5bn Investment Opportunities - Voice of Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3pRNW1LSVl4SzZBNWxDYkRSSGNZY3FXRm5oa1BoTkxiT2pGTTdqeGI1cGpoQUkwcWNibE1tRDdURnplVmtvT1RTTVJ2TUhpNUt5NjhmRjU5aXZIWnRqTlVjdkFSeXZKcVVreGU3RmpXMTRxZC1DbXJmQ04teTQ5TUhsT0JEWEVQSUQwc0hfODVqUQ?oc=5",
+          "snippet": "President Tinubu Woos Investors with $78.5bn Investment Opportunities Voice of Nigeria",
           "source": "Voice of Nigeria",
-          "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+          "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Women Minister Flags off Ogun Community Investment Fund Disbursement - Voice of Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE43c0ljVzVmZG0tbmY0TmZVTTR5dXFKSU55d1d3bnNlN19xNl9ISlZKX2NjRG9oNVdXV0kySG1qQjI1WmxSM3BES3dTTGY5UVZfeGRuakFabzNDWU1MWFY4UGEweWFMMFQ3dmNHaFBrXy1YUERXcC1jUUtQOGJPa3NvbGxodzJMbjZDdGNZSlRCZw?oc=5",
+          "snippet": "Women Minister Flags off Ogun Community Investment Fund Disbursement Voice of Nigeria",
+          "source": "Voice of Nigeria",
+          "published": "Thu, 24 Sep 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco LinkedIn Investment"
         },
         {
@@ -2897,7 +2644,7 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Investment"
         }
       ],
-      "sourceCount": 6,
+      "sourceCount": 8,
       "project": null,
       "entities": [
         "World Bank",
@@ -2927,7 +2674,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-16T12:06:26+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -2984,7 +2731,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3101,7 +2848,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-22T16:07:40+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Grid"
@@ -3160,7 +2907,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3213,7 +2960,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-16T09:01:56+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3270,7 +3017,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3283,49 +3030,8 @@ export const signals = [
         "\"Meeting a third of Morocco's electricity demand. Created in 1997 and backed by Abu Dhabi's TAQA, TAQA Group Morocco runs the Jorf Lasfar power complex and meets 34% of national demand. Its 2025 revenue was MAD 10.64 billion, and it is building the 1 - LinkedIn\"",
         "Morocco Meeting a third of Morocco's electricity demand. Created in 1997 and backed by Abu Dhabi's TAQA, TAQA Group Morocco runs the Jorf Lasfar power complex and meets 34% of national demand. Its 2025 revenue was MAD 10.64 billion, and it is building the 1 - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -3355,7 +3061,7 @@ export const signals = [
     "sourceAccount": "ACWA Power",
     "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
     "published": "2026-10-09T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender"
@@ -3414,7 +3120,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3499,7 +3205,7 @@ export const signals = [
     "sourceAccount": "World Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
     "published": "2026-10-19T14:37:45+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -3557,7 +3263,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -3585,10 +3291,10 @@ export const signals = [
           "query": "\"World Bank\" Morocco LinkedIn Market intelligence"
         },
         {
-          "title": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues - Bloomberg.com",
+          "title": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3RLVjNUbUdsazNuenAza1dqWnBOM2NVS3MyaFZ4WWR1Ulp3M2Vwek15YVJuMXByVzBibm5rNUlkQm1oTERZbU81a1RpVVVLX0ZrNzQ3TE1oUEotR3pVc0hrbFJpQW5vRjNPZWgwQlNzQ2RCMFBhanFqamFqN2NSR3lkbnBEbGthaUFuRm9VVzg3T09NMGVmRWdfd2VoVlB2YkczcGZMMWhLTE9hQ201SmIzSUtyVi14SUFaVEh3aTR1Unk3c2tRQlJWTzNrekU?oc=5",
-          "snippet": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues Bloomberg.com",
-          "source": "Bloomberg.com",
+          "snippet": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues Bloomberg",
+          "source": "Bloomberg",
           "published": "Tue, 04 Aug 2026 07:00:00 GMT",
           "query": "\"World Bank\" Morocco LinkedIn Market intelligence"
         },
@@ -3609,6 +3315,14 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         },
         {
+          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
+          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
+        },
+        {
           "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
           "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
@@ -3625,7 +3339,7 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
         }
       ],
-      "sourceCount": 6,
+      "sourceCount": 7,
       "project": null,
       "entities": [
         "World Bank",
@@ -3655,7 +3369,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-22T12:34:04+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -3714,7 +3428,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -3824,7 +3538,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-23T07:00:22+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -3884,7 +3598,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4002,7 +3716,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-23T07:54:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4059,7 +3773,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4072,49 +3786,8 @@ export const signals = [
         "\"🌍 𝗠𝗼𝗿𝗼𝗰𝗰𝗼 | 𝗔𝘂𝘁𝘂𝗺𝗻 𝟮𝟬𝟮𝟳 17th Dii Desert Energy Leadership Summit, hosted by Masen as Country Host! Since 2010, Dii’s annual Summits have brought together leaders shaping the future of secure, lowest cost and climate-neutral energy. 🇲🇦 𝗪𝗵𝘆 𝗠 - LinkedIn\"",
         "Morocco 🌍 𝗠𝗼𝗿𝗼𝗰𝗰𝗼 | 𝗔𝘂𝘁𝘂𝗺𝗻 𝟮𝟬𝟮𝟳 17th Dii Desert Energy Leadership Summit, hosted by Masen as Country Host! Since 2010, Dii’s annual Summits have brought together leaders shaping the future of secure, lowest cost and climate-neutral energy. 🇲🇦 𝗪𝗵𝘆 𝗠 - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -4144,7 +3817,7 @@ export const signals = [
     "sourceAccount": "ONEE",
     "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
     "published": "2026-10-21T05:13:26+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -4203,7 +3876,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4288,7 +3961,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-22T15:27:28+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4346,7 +4019,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4431,7 +4104,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-16T07:45:40+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -4490,7 +4163,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4576,7 +4249,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-24T09:01:29+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -4636,7 +4309,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4676,19 +4349,19 @@ export const signals = [
           "query": "\"MASEN\" 🇲🇦 Morocco is opening the door to at least 350 MW of new solar capacity. The Moroccan Agency for Sustainable Energy (Masen) has launched pre-qualification for its Noor PV Multisites program, covering ground-mounted projects across five regions, with indi - LinkedIn"
         },
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -4700,19 +4373,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -4754,7 +4427,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-13T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -4812,7 +4485,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -4825,73 +4498,8 @@ export const signals = [
         "\"Morocco is targeting $5 billion in annual aerospace exports by 2029, and Airbus could play a growing role in that ambition. The aircraft manufacturer plans to establish a new Moroccan facility covering design, manufacturing and assembly, adding to its existing - LinkedIn\"",
         "Morocco Morocco is targeting $5 billion in annual aerospace exports by 2029, and Airbus could play a growing role in that ambition. The aircraft manufacturer plans to establish a new Moroccan facility covering design, manufacturing and assembly, adding to its existing - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
-          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Fertilizers Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmJtQnQtMkIzTHNJd18wbnhzcmFrNkk4bzJfLXhPS2ZtcDlzdUwwQkF6ZXYzLUkxUmZ4eS1Kb0NtY2RRcXh3eGxIc05OZ2Fzb01CNVI0dHE3dFFyRmQzOVlNMmk0QktLVU1OOVFkMUY2N2RBUm0wRlNWUGY4SFJHSg?oc=5",
-          "snippet": "Africa Fertilizers Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Aerospace Exports Could Reach USD-5 Billion by 2029 as Industry Expands - Spherical Insights",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdFRTSTlCSEhuNVlLTFEycDVTM2J3MHBzakFqUVlObC1VX1h3bi1yVEhvZmh2bVFoclNSQ01NbHRqaDl3NlJiMWdlemlvRkZBVkx3U2RyZ0xzN29LNHBDaDAwTGUtY1U5c2NDMGh4Vkg0YjU2VFFzZ3l4WVFkdHh2dzNfZGRsalI1OFg1RzlNWmc2ZXRQaW01MnN5amQ5SHRsbnRqNlhtRlB4NmhCcDBucTNadnpyeXU5Z2w2Y2dMUHd3RFB3UmhwYXBpUU9pVFB2N3B6Zm9jb0x1UFFSMmwtWUpmNndnQTNz?oc=5",
-          "snippet": "Morocco Aerospace Exports Could Reach USD-5 Billion by 2029 as Industry Expands Spherical Insights",
-          "source": "Spherical Insights",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco is targeting $5 billion in annual aerospace exports by 2029, and Airbus could play a growing role in that ambition. The aircraft manufacturer plans to establish a new Moroccan facility covering design, manufacturing and assembly, adding to its existing - LinkedIn"
-        }
-      ],
-      "sourceCount": 8,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "OCP Group",
@@ -4921,7 +4529,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-03T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -4981,7 +4589,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5108,7 +4716,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-23T12:30:24+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -5168,7 +4776,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5224,19 +4832,19 @@ export const signals = [
           "query": "\"MASEN\" Morocco Opens Pre-Qualification for 350 MW Solar Projects - LinkedIn"
         },
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -5248,11 +4856,11 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
+          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
+          "source": "Inside The Games",
+          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         }
       ],
@@ -5286,7 +4894,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-20T07:47:45+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -5344,7 +4952,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5375,19 +4983,19 @@ export const signals = [
           "query": "\"MASEN\" Morocco LinkedIn Project"
         },
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -5399,19 +5007,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         }
       ],
@@ -5445,7 +5053,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -5507,7 +5115,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5634,7 +5242,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-25T00:33:58+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -5691,7 +5299,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5776,7 +5384,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-25T00:39:22+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment",
@@ -5836,7 +5444,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -5937,7 +5545,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-22T07:21:19+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -5995,7 +5603,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6113,7 +5721,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-02T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -6170,7 +5778,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6183,49 +5791,8 @@ export const signals = [
         "\"Morocco Energy Leaders (MEL) (World Energy Council - Kingdom of Morocco) and the Clean Energy Business Council MENA (CEBC) have signed a strategic cooperation agreement focused on clean energy, sustainable infrastructure, climate finance, and cr - LinkedIn\"",
         "Morocco Morocco Energy Leaders (MEL) (World Energy Council - Kingdom of Morocco) and the Clean Energy Business Council MENA (CEBC) have signed a strategic cooperation agreement focused on clean energy, sustainable infrastructure, climate finance, and cr - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -6255,7 +5822,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-24T22:14:53+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -6312,7 +5879,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6325,49 +5892,8 @@ export const signals = [
         "\"🔴 More than 50 million people lost power during a major blackout in Spain, Portugal and Andorra in April 2025. Now, 18 months later, Morocco and Spain are preparing to inspect the undersea cables that helped keep electricity flowing between the two countri - LinkedIn\"",
         "Morocco 🔴 More than 50 million people lost power during a major blackout in Spain, Portugal and Andorra in April 2025. Now, 18 months later, Morocco and Spain are preparing to inspect the undersea cables that helped keep electricity flowing between the two countri - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "ONEE - Branche Electricité",
@@ -6397,7 +5923,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-20T09:20:44+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -6454,7 +5980,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6467,65 +5993,8 @@ export const signals = [
         "\"Morocco Targets 5% Annual Economic Growth as Government Prioritises Job Creation and Investment - LinkedIn\"",
         "Morocco Morocco Targets 5% Annual Economic Growth as Government Prioritises Job Creation and Investment - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
-          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
-          "source": "Bloomberg",
-          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
-          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
-          "source": "Euronews.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
-          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco’s 2027 Budget: A New Ambition for Shared Prosperity - Atalayar",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ1A2ZUNmZVdZelRfN3l1YjFjNXhtSHFjeVRGOGdQOUJSdFh1Y1Q2UXBhZEkydTdGbC1wWUdqY1V4N0ZiYkxvQTZ2aGtrVEx1aDhBUm1LMU9CMTJhMXRMWE1GWXhTbXZvTHl2TjFpM3lJVHRjUE9NSUIzWWFkS2oydkx2dHRqbDNVZEdLT1VVeEhTRGtsYTVHektZUEZhdmgtSlNlS3VUZF9BcTM2Mnl0STRwOFduNVJwYk5WODVnTFJCRkk3d2NpcWE2UXdOZw?oc=5",
-          "snippet": "Morocco’s 2027 Budget: A New Ambition for Shared Prosperity Atalayar",
-          "source": "Atalayar",
-          "published": "Sat, 24 Oct 2026 10:28:49 GMT",
-          "query": "\"Morocco\" Morocco Targets 5% Annual Economic Growth as Government Prioritises Job Creation and Investment - LinkedIn"
-        },
-        {
-          "title": "Morocco’s House of Representatives Debates 2026–2031 Government Program as Mansouri Cabinet Targets 5% Growth and Opposition Questions Purchasing Power Measures - Fes News Media",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92cjhHa1FpUGJ6Qzd2Nzc5OFpJbi1jQmhzSjFMUTV3MEhIenA1TnNNYUFzYmYtank1SWtwOGw2X0xmQW1OTHRlMlIzVnNHX1ZDV3c?oc=5",
-          "snippet": "Morocco’s House of Representatives Debates 2026–2031 Government Program as Mansouri Cabinet Targets 5% Growth and Opposition Questions Purchasing Power Measures Fes News Media",
-          "source": "Fes News Media",
-          "published": "Thu, 22 Oct 2026 14:57:42 GMT",
-          "query": "\"Morocco\" Morocco Targets 5% Annual Economic Growth as Government Prioritises Job Creation and Investment - LinkedIn"
-        }
-      ],
-      "sourceCount": 7,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Green of Africa",
@@ -6555,7 +6024,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-14T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -6614,7 +6083,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6628,106 +6097,24 @@ export const signals = [
         "Morocco An energy award might seem a long way from the Copperbelt. It isn’t. The global energy transition runs on copper, cobalt and Lithium. Much of it starts in Zambia and the DRC (and increasingly from Zimbabwe and Botswana). Every cable, battery, wind turbine - LinkedIn",
         "Morocco offshore wind MASEN EIB feasibility"
       ],
-      "sources": [
-        {
-          "title": "UNESCO awards 2026 Prize for Girls’ and Women’s Education to transformative projects in Morocco and Peru - UNESCO",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RTRDRtdFJRdUFMc3V4Rm9fQ3d3WXE2S09URFR1c2R4RVZON2tGZjVJNFl0MkZsYy00V3B6cFJxRFN3ME5PNEZkMkxydFMwUkg2UzhBUjdjOVZ1YmFPeWp3clVVSnd5MlhUUmFlMUdHN0ZLR0Q3S0ViMXVDdGczdllhcDlLWTg4d2RtRGVFRU1UNDB3aVFwNDF6MXB0NWlmMzBFM2RZTmVxWU1FVWFpcy13c2Z1aXRmV1Z3R0c3V1JaeFpFS3c?oc=5",
-          "snippet": "UNESCO awards 2026 Prize for Girls’ and Women’s Education to transformative projects in Morocco and Peru UNESCO",
-          "source": "UNESCO",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Ballon d'Or 2026 - Full list of winners for this year's awards - DAZN",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckI2NEF0X3JQNnJHcVFYemNOZ0lnWjJrT19XT0NCcGVrVUprWnh3QWFXNEtDc2hLMUdNUGlzWHBrOEdIWWJrWHFXU2VueTZFc2JuY1FwRkVaTFl5ZmRENVNoUE1ON2pZZzJ5SllhS3NUODlIeTRhajVRVlo4RTJmbkNIUDVaaGI1Tkp2SG1YMURjZHZiazJSNE0wRVF4djVMY0daODdna2J4NnpUc1ZV?oc=5",
-          "snippet": "Ballon d'Or 2026 - Full list of winners for this year's awards DAZN",
-          "source": "DAZN",
-          "published": "Mon, 26 Oct 2026 23:37:57 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Every winner of the Yashin trophy, the Ballon d'Or's best goalie award - DAZN",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQTZOUFA2UmFJdmo0VXZNSU43RzQtWjNfdHpSLUtid1VMZ3ZUYVJneUdESlZnZGRhRE5mN2prVTBmTjZqYVlFMzdpZmpEaTRsRFc2YU9NRktWUy1Ec0I1a1lwU0RxcEl1X2xwMU9jN1lHZVdwY3lxVHhiZFFSckpBM3drUllTZ3NHQ3JMY1VHelc3MWt0RGZiRkRhMGNSUXROZmpyS1d4UXhnNG1Oajl0N3BGTmJ6V2FRTTFsQVhRWHhnYnZtRU43SXpfc0R0UmlwbkNXZlN4SQ?oc=5",
-          "snippet": "Every winner of the Yashin trophy, the Ballon d'Or's best goalie award DAZN",
-          "source": "DAZN",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Copper Colonialism Is Wrecking Zambia’s Farmlands and Waterways - The Nation",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1raURmUGRsMjg5dUk5dDFIaFJjWExQVnczVXAxcjR0LUFKb0wyQnNOWG05NlZfQm5fSmdYaWFsZ3VRazFDOGFLZk1WVzlrUVJnck5wbDVpamRBMFoxeTVBUDhBYjgxMmp2NmZ1S3hKWjZxS2xz0gF8QVVfeXFMUGYyWjFUdjdwbTl6MGtfeUxrdDZ2T3FtcUIzRDBLVEF3M21yTWRtMnItV3pJb2dwYTlnSWVicmJxcklYbGVURjhtSVVSSGU5OVd5RGlKVzZHbU5Sd0ZLUmJSWUlVYzBQc0hEQkF3aTlSX2VHYU5NYjFWM1NGSw?oc=5",
-          "snippet": "Copper Colonialism Is Wrecking Zambia’s Farmlands and Waterways The Nation",
-          "source": "The Nation",
-          "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-          "query": "\"An energy award might seem a long way from the Copperbelt. It isn’t. The global energy transition runs on copper, cobalt and Lithium. Much of it starts in Zambia and the DRC (and increasingly from Zimbabwe and Botswana). Every cable, battery, wind turbine - LinkedIn\""
-        },
-        {
-          "title": "Unveiling the hidden violence in the DRC’s cobalt mining industry - Geeska",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTRKLTJEdEJEOWNSUE9uTVBGUGNDeGhwQnNMMzlHVWZwVmVZam9mR1lXN0lTbldrZ2Y2UVNabGJrLUJrM3U5emlWR2oxbXUyNnYwMi1NOTFncWkzaFIwc2pXRHhDSVlGTGtzR25GUlB4dDNUd3QtMzRraGxnTEl2OVBMNURSUQ?oc=5",
-          "snippet": "Unveiling the hidden violence in the DRC’s cobalt mining industry Geeska",
-          "source": "Geeska",
-          "published": "Mon, 08 Jul 2024 07:00:00 GMT",
-          "query": "\"An energy award might seem a long way from the Copperbelt. It isn’t. The global energy transition runs on copper, cobalt and Lithium. Much of it starts in Zambia and the DRC (and increasingly from Zimbabwe and Botswana). Every cable, battery, wind turbine - LinkedIn\""
-        },
-        {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
-          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
-          "source": "Offshore Wind",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - Riviera Maritime Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development Riviera Maritime Media",
-          "source": "Riviera Maritime Media",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        }
-      ],
-      "sourceCount": 9,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Ministry of Energy Transition and Sustainable Development",
         "Morocco"
       ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ],
+      "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -6741,7 +6128,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-15T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender"
@@ -6799,7 +6186,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -6916,7 +6303,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-19T09:00:40+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -6975,7 +6362,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7093,7 +6480,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-26T09:55:31+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -7151,7 +6538,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7236,7 +6623,7 @@ export const signals = [
     "sourceAccount": "ONEE - Branche Electricité",
     "sourceAccountUrl": "https://www.linkedin.com/company/onee-be/",
     "published": "2026-10-06T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Hydrogen",
@@ -7294,7 +6681,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7308,83 +6695,24 @@ export const signals = [
         "Morocco 📢 New Publication | Renewable Energy &Green Hydrogen I am pleased to share our latest research article: “Techno-economic and risk-adjusted assessment of PV–wind–hydrogen hybrid energy systems in Morocco: Towards cost-effective low-carbon electrici - LinkedIn",
         "Morocco offshore wind MASEN EIB feasibility"
       ],
-      "sources": [
-        {
-          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
-          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
-          "source": "Egypt Oil & Gas",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Hydrogen"
-        },
-        {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
-          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
-          "source": "Offshore Wind",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - Riviera Maritime Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development Riviera Maritime Media",
-          "source": "Riviera Maritime Media",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC is leading a consortium advising Morocco’s first offshore wind development - Energy Global",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGtzSEZZWkdBVDVKdlFtazMxd0V5Ukgwb3FkbHpJWmtRSTFvZXYyQkJIZHlBRS0tc2Z2YThKOFdYSklrTG1kZ3Roa24zbVFDM0l6M2RwcnVwaHBfd2tocHUwcXBWMlNydlp1SEdQRU5GbFNEVDJYLVlucEhteDNEYkpGVFJzWGdlR3U4S0M4U3FVbVdoLThWdHRSMDhSaFNBTGo1ZTVrQnh4NHlvalVtVVUzR3BtZ2JZNzc0RXhR?oc=5",
-          "snippet": "OWC is leading a consortium advising Morocco’s first offshore wind development Energy Global",
-          "source": "Energy Global",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        }
-      ],
-      "sourceCount": 6,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "ONEE - Branche Electricité",
         "Morocco"
       ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ],
+      "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
       "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
       "recommendedActions": [
         "Verify material claims against primary owner/DFI sources before treating them as confirmed."
       ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
     }
   },
   {
@@ -7398,7 +6726,7 @@ export const signals = [
     "sourceAccount": "OCP Group",
     "sourceAccountUrl": "https://www.linkedin.com/company/ocpgroup/",
     "published": "2026-10-10T18:07:52+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -7455,7 +6783,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7468,81 +6796,8 @@ export const signals = [
         "\"This week I visited UM6P - University Mohammed VI Polytechnic in Benguerir, Morocco. Inaugurated in 2017, the university has built a remarkable ecosystem in less than a decade. What stood out most was the commercial traction of the startups we met. One s - LinkedIn\"",
         "Morocco This week I visited UM6P - University Mohammed VI Polytechnic in Benguerir, Morocco. Inaugurated in 2017, the university has built a remarkable ecosystem in less than a decade. What stood out most was the commercial traction of the startups we met. One s - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
-          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Fertilizers Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmJtQnQtMkIzTHNJd18wbnhzcmFrNkk4bzJfLXhPS2ZtcDlzdUwwQkF6ZXYzLUkxUmZ4eS1Kb0NtY2RRcXh3eGxIc05OZ2Fzb01CNVI0dHE3dFFyRmQzOVlNMmk0QktLVU1OOVFkMUY2N2RBUm0wRlNWUGY4SFJHSg?oc=5",
-          "snippet": "Africa Fertilizers Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"OCP Group\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Lycée Mohammed VI d’Excellence Marks Decade of Breaking Barriers Through Merit - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzNuMVpHUkczN3Fyc2s4cEdyY01qeWRybUlTbjBybnQ5YWFLb2o5REl2Q0tRYnA2VG0wNkpYbjJERUFscWM4QzlLaFhCQWE5V1FBWXdEbm81c2hOLVIwVkwwVG9UbDNFN2U2cFQyajI3cFJuSEUxc0FsYV9vZDllVHR6TnZYbmhpdE91eTN3SnZ3cWt5Y1NTTGJ0cmRvcDYybUR3eEpCczQwaFN6S25IeW9xMm5KeFFla21SaEFqZUNyOGkt?oc=5",
-          "snippet": "Lycée Mohammed VI d’Excellence Marks Decade of Breaking Barriers Through Merit Morocco World News",
-          "source": "Morocco World News",
-          "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-          "query": "\"OCP Group\" This week I visited UM6P - University Mohammed VI Polytechnic in Benguerir, Morocco. Inaugurated in 2017, the university has built a remarkable ecosystem in less than a decade. What stood out most was the commercial traction of the startups we met. One s - LinkedIn"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "From Casablanca to Marrakech, Moroccan Tech Is Reaching for the Stars with the 2030 World Cup in Its Sights - Maddyness",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnZRRTF3bGMzOUo0WkZnZ2FxNkVsOVJJQ1FWS1BqNlRMbXJPU2N0dldNTnNaM29tLTc2ZWxlMkY4ZHdTaXFKVXBzLUVnV0Z6RVBqZlNjdmppZlhUUnRLREZzLXJfbkRmd2JHM3h6bGpKam8zTkZJUkpEX1l6bG54djdrcmVoY2x4ZGY1ZEhSSzBXQWVuV1lWX0RGZUZJRkc2cXlnR2ptYkQ4LThEdjJTU3BXQWdIV3dMWHA3bEZaNFp1UkJwdmpwbjNqQWwxdmFWVGRWbkI0SS1nNVE5OFBDNw?oc=5",
-          "snippet": "From Casablanca to Marrakech, Moroccan Tech Is Reaching for the Stars with the 2030 World Cup in Its Sights Maddyness",
-          "source": "Maddyness",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" This week I visited UM6P - University Mohammed VI Polytechnic in Benguerir, Morocco. Inaugurated in 2017, the university has built a remarkable ecosystem in less than a decade. What stood out most was the commercial traction of the startups we met. One s - LinkedIn"
-        }
-      ],
-      "sourceCount": 9,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "OCP Group",
@@ -7572,7 +6827,7 @@ export const signals = [
     "sourceAccount": "Nareva",
     "sourceAccountUrl": "https://www.linkedin.com/company/nareva/",
     "published": "2026-10-22T17:34:52+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -7636,7 +6891,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -7664,19 +6919,19 @@ export const signals = [
           "query": "\"Nareva\" Morocco LinkedIn Project"
         },
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -7688,19 +6943,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -7728,11 +6983,11 @@ export const signals = [
           "query": "\"African Development Bank\" Morocco LinkedIn Project"
         },
         {
-          "title": "Four green hydrogen projects secure $20m from African finance institution - Hydrogen Insight",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUthc3Ezc1NHOTUwZ0hodXhxN2RyOXhMdW10MHp2Y1h4OXJ5dkQwazc2NjBXc2k3VGFxMlhodm5lOGEwUHp4OXAtUlJkd1N4WUJqRi02eEMzUjZNSF80aHJEMG9sRGNUblJnTGtGNW84Q2VUcmU3b2FwUXZMdHNiVU5hZy1nLWl2OUZnSVN2czlMSHp6Mk9ZS29MUjBROUhlUU9iMW9kcXJMNnh2ZGh4Nk5ubHNub3JSVW8zZkM3OUc?oc=5",
-          "snippet": "Four green hydrogen projects secure $20m from African finance institution Hydrogen Insight",
-          "source": "Hydrogen Insight",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "title": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa - The China-Global South Project",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamNldzZFWHFrVjl3bFdXcWd6OGpMbXdkU1RHY1cxMDc2S2E0bTVZa000dTVhUjVBbHBabThvU1cwc3Mza0ctMUFFcWVlMDlIamVLVjBTUmU0cmM5bXlrcDE1SHJiNG1wUzFJZ1VkMEpYQ1hNb01jRWNSXzNhM0tjUlhwM3VIYl9aeDJCTi1OZ2tiZ095RGF1MzNB?oc=5",
+          "snippet": "China’s Battery Strategy in Africa: Morocco Takes Lead as BYD Eyes South Africa The China-Global South Project",
+          "source": "The China-Global South Project",
+          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
           "query": "\"African Development Bank\" Morocco LinkedIn Project"
         },
         {
@@ -7785,7 +7040,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-26T08:45:34+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -7842,7 +7097,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -7856,73 +7111,8 @@ export const signals = [
         "Morocco Morocco’s solar build-out is entering a new phase. Masen has opened pre-qualification for 𝗡𝗼𝗼𝗿 𝗣𝗩 𝗠𝘂𝗹𝘁𝗶𝘀𝗶𝘁𝗲𝘀, a programme of 𝗮𝘁 𝗹𝗲𝗮𝘀𝘁 𝟯𝟱𝟬 𝗠𝗪 𝗼𝗳 𝘀𝗼𝗹𝗮𝗿 𝗣𝗩 capacity across 𝘀𝗶𝘅 𝘀𝗶𝘁𝗲𝘀 𝗶𝗻 𝗳𝗶𝘃𝗲 𝗿𝗲𝗴𝗶𝗼𝗻𝘀 of the Kingdom. Unlike Moroc - LinkedIn",
         "Morocco solar PV project contractor tender ONEE MASEN"
       ],
-      "sources": [
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "\"MASEN\" Morocco’s solar build-out is entering a new phase. Masen has opened pre-qualification for 𝗡𝗼𝗼𝗿 𝗣𝗩 𝗠𝘂𝗹𝘁𝗶𝘀𝗶𝘁𝗲𝘀, a programme of 𝗮𝘁 𝗹𝗲𝗮𝘀𝘁 𝟯𝟱𝟬 𝗠𝗪 𝗼𝗳 𝘀𝗼𝗹𝗮𝗿 𝗣𝗩 capacity across 𝘀𝗶𝘅 𝘀𝗶𝘁𝗲𝘀 𝗶𝗻 𝗳𝗶𝘃𝗲 𝗿𝗲𝗴𝗶𝗼𝗻𝘀 of the Kingdom. Unlike Moroc - LinkedIn"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
-          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
-          "source": "Bloomberg",
-          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
-          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
-          "source": "pv magazine Global",
-          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        }
-      ],
-      "sourceCount": 8,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -7952,7 +7142,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-27T06:02:07+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Solar"
@@ -8010,7 +7200,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8074,27 +7264,27 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         },
         {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Solar"
-        },
-        {
           "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
           "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
           "source": "Bloomberg.com",
           "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Solar"
+        },
+        {
+          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
+          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
+          "source": "Bloomberg",
+          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Solar"
+        },
+        {
+          "title": "Morocco’s Football Boss Named Finance Minister With Broader Role - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV01oSTRRTmhYelR5U0NoZGdvTUZPUnhRaE5qV3FZOXBTWGlfNzE0bXd0cHlQMjNFaG5wTUY2RUNzQVZqMS1ta0JSRzhBd0RoRzVOTjVON01BXzF3eFNuLThkRl9EYko3OHNJQjQySmVlUVhUREVOTGJfSVphZnNUSk9BZ1lyTkY5bHRlRU00X3V3VnoxQkpRVUJGbFRTa3AzaExhQzNIek5TQ3FBc1FGbGJtQ0hlUQ?oc=5",
+          "snippet": "Morocco’s Football Boss Named Finance Minister With Broader Role Bloomberg",
+          "source": "Bloomberg",
+          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Solar"
         }
       ],
@@ -8128,7 +7318,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-13T12:06:13+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -8183,7 +7373,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8196,65 +7386,8 @@ export const signals = [
         "\"China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US - LinkedIn\"",
         "Morocco China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1ZKSTdEWjBLSGlER0NaUUdqdzFtNG1BTWRDWHZxeGRveHMxNnU1Y3pEdTRTSXVybEZ2ZWE1WVA3SVUtallEdloyanVUUkl2d1I1cDZxUWNsQ1MwOVdlbXJGX3d6VDd1TWRlR2xEajFMM09xX0w4Q3NnUk5aR28xTGJlWV9SM19vYWlQaEVwOF9tV0N4WFVxbHEwYjZtMGFydEpmNDkzX05GSTJlQzFFbU9iakdITm1CLXlhME5WaVdzbU5iLUF4QmZvMFJ1SXlxbDI4ZVgzem4?oc=5",
-          "snippet": "China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US - LinkedIn"
-        },
-        {
-          "title": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUG9zME0zVHJHOUQzeFZ2RVVkWWd6WE1WSUtzem5xN1UtSkU3OWsydklra3FIYXN1UlBia3VkMnVOV2JlUWpDSVFFWWZtXy15dXRUVUhSRGZKdHpXY01BWnJQTkwwTTdEM3NwclI0MFRPR29XcXBYVDlzdXZWay01QnU5TDctX0lNZTlMbFhvNmdxYWl4R2RXaklqT18tU2JVbklsX21lZmNndERVMUs4MjlFWktMc042RVZTV3JZTGpwb1luWXQtcnFVQ1hYWkhBQ1E?oc=5",
-          "snippet": "Another Chinese company is set to establish a manufacturing hub in Africa’s most industrialized country, this time for $298 million Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" China’s Gotion sets commissioning date for $1.3 billion Africa’s first gigafactory in Morocco targeting Africa, Europe and the US - LinkedIn"
-        }
-      ],
-      "sourceCount": 7,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Green Energy Park",
@@ -8284,7 +7417,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-01T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -8342,7 +7475,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8427,7 +7560,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-27T08:35:53+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -8489,7 +7622,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8599,7 +7732,7 @@ export const signals = [
     "sourceAccount": "Green Energy Park",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
     "published": "2026-10-12T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -8656,7 +7789,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -8746,7 +7879,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-21T07:05:57+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -8804,7 +7937,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -8889,7 +8022,7 @@ export const signals = [
     "sourceAccount": "TAQA Morocco",
     "sourceAccountUrl": "https://www.linkedin.com/company/taqa-morocco/",
     "published": "2026-10-26T10:00:15+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Investment"
@@ -8947,7 +8080,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9032,7 +8165,7 @@ export const signals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-10-10T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9092,7 +8225,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9212,7 +8345,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-09-30T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -9273,7 +8406,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -9301,35 +8434,27 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
         {
-          "title": "Lamine Yamal leads an all-star list for the Young Talent of the Year award at the 2026 Ballon d'Or - DAZN",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdF8wcHZFLTVPSnAyWm1QNFB6QVAzOVMteWc4N1JSOFdpZndsMno4QU1aYW9nVU1WNi1Uc21XS3BJSWR3RWFPeGtoNjd3aW1WMVJsSklBS29JTmVyOWdzSlY3cDFuVU1wdmExUlBGZjBqeHlTUDJsb3VzM1BlQmI3c0JSaFBxZnNNbmZYeS1LMW1KN1lRejY0eXNUV3gwRjJDbUVRY0VuQ3Vpck8xMUJFa1RMU0lCWTVI?oc=5",
-          "snippet": "Lamine Yamal leads an all-star list for the Young Talent of the Year award at the 2026 Ballon d'Or DAZN",
+          "title": "Ballon d'Or 2026 - Full list of winners for this year's awards - DAZN",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckI2NEF0X3JQNnJHcVFYemNOZ0lnWjJrT19XT0NCcGVrVUprWnh3QWFXNEtDc2hLMUdNUGlzWHBrOEdIWWJrWHFXU2VueTZFc2JuY1FwRkVaTFl5ZmRENVNoUE1ON2pZZzJ5SllhS3NUODlIeTRhajVRVlo4RTJmbkNIUDVaaGI1Tkp2SG1YMURjZHZiazJSNE0wRVF4djVMY0daODdna2J4NnpUc1ZV?oc=5",
+          "snippet": "Ballon d'Or 2026 - Full list of winners for this year's awards DAZN",
           "source": "DAZN",
-          "published": "Mon, 26 Oct 2026 09:00:00 GMT",
+          "published": "Mon, 26 Oct 2026 23:37:57 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
         {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Morocco: Top Sports Lawyers Say Morocco and Senegal Will Know 2025 Afcon Fate in November - allAfrica.com",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VM1VfRllzTF90MUFXeHI4MGx4RjhVVkFsQkMybzZmbjVMamIwYzU3YmgwbUptSmhyNXdONjNJYlJYMEQ2T1ZlbDN3b0RVbElUT3o0UHpCZ2JjN28?oc=5",
-          "snippet": "Morocco: Top Sports Lawyers Say Morocco and Senegal Will Know 2025 Afcon Fate in November allAfrica.com",
-          "source": "allAfrica.com",
+          "title": "Every winner of the Yashin trophy, the Ballon d'Or's best goalie award - DAZN",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQTZOUFA2UmFJdmo0VXZNSU43RzQtWjNfdHpSLUtid1VMZ3ZUYVJneUdESlZnZGRhRE5mN2prVTBmTjZqYVlFMzdpZmpEaTRsRFc2YU9NRktWUy1Ec0I1a1lwU0RxcEl1X2xwMU9jN1lHZVdwY3lxVHhiZFFSckpBM3drUllTZ3NHQ3JMY1VHelc3MWt0RGZiRkRhMGNSUXROZmpyS1d4UXhnNG1Oajl0N3BGTmJ6V2FRTTFsQVhRWHhnYnZtRU43SXpfc0R0UmlwbkNXZlN4SQ?oc=5",
+          "snippet": "Every winner of the Yashin trophy, the Ballon d'Or's best goalie award DAZN",
+          "source": "DAZN",
           "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Award"
+        },
+        {
+          "title": "Morocco just won a UN Award for attracting digital investment - lnt.ma",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzdrXzYtWERhbGczUzFxdXQyMVZ0SU9zaFJDTzdMalotRC1yMGpNcVFEVV9DUk85REtfdTB4dVpHMV9uXzdFUnVqYlZuNFpFTDBDdGJIZ3M3U0xmazZHeE1wendxNFRuZHFkSmotdDhvemJZb1NXQzIyTnU0UW1RcXNRWQ?oc=5",
+          "snippet": "Morocco just won a UN Award for attracting digital investment lnt.ma",
+          "source": "lnt.ma",
+          "published": "Tue, 27 Oct 2026 17:16:23 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
         {
@@ -9365,14 +8490,6 @@ export const signals = [
           "query": "Morocco green hydrogen ammonia project investor contractor"
         },
         {
-          "title": "Africa’s hydrogen race is laying the foundations for an industrial future - Financial Fortune Media",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkwzWmdBZDhLZ2JaMy13eEpVUWNfQ2R4WjAwZndPcWJSZUN0TjR3Tl8wN2p5LWtxRXR3RmVscnVibFk0UUtEVWI4dl9ERUpGaHFoZGJWWUFZaE9BZjByMHJiemxMV3ZrOFAtdFREZUtVa2dXUG5QNXlSdVI0NWdNWkpDemxEVjJycWg5Ri1VMU00OWd3NlRUQ29KdGpRNnA2WmUyb0E5dmdtN1Q4OVNVQg?oc=5",
-          "snippet": "Africa’s hydrogen race is laying the foundations for an industrial future Financial Fortune Media",
-          "source": "Financial Fortune Media",
-          "published": "Sun, 16 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
           "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
           "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
@@ -9403,6 +8520,22 @@ export const signals = [
           "source": "Serrari Group",
           "published": "Fri, 23 Oct 2026 08:19:41 GMT",
           "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZDhDMndtWFVBLWtqOFU4WXl0QjUwZXEzc1Z3Ri0xOW1EamlVazdSZkc1dXloRVRnWlZvOFVqVWU1OFJEaUs4aXdiOWJsT3lqMFpTYTZwemI2dmpzWldzTnF1YUN3OU5teFBSOXIzdDNjUDd0OW5UNVo5SWUxeUlsMFFKM0RlN1ZyVGI1ODZ3Q2ZVWTVfR2NCRzJTVGV3Z3NvOHpJZEpxYTJYSWtoMkhhZlJwcDVQRjgwNjhNdFNhTXJxQ3djTmc?oc=5",
+          "snippet": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion Construction Review",
+          "source": "Construction Review",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco: Utility looks to generate power from water pipelines - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2FXOWlQX2RUZlY2WWdvdTljb0VTWEdXbUxaOG50VjVuYVh1cElZeUJLb3plSGpKbUlMWTVSME9RcEhGaGJzaG5FTzN0NFdVZFdCYnVHd2xLakxUcEdZNW9nNDdJTC03ZGpEdmk5MHlPd2Y5UUhka0c3WUF0NWkwa2lkdWxUc2JyRXFtQjJxT2thSlJmRWJMUFNxUkJMTVZZdVU2SQ?oc=5",
+          "snippet": "Morocco: Utility looks to generate power from water pipelines African Energy",
+          "source": "African Energy",
+          "published": "Mon, 26 Oct 2026 16:32:03 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
         }
       ],
       "sourceCount": 14,
@@ -9435,7 +8568,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-24T05:52:37+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project",
@@ -9495,7 +8628,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9527,19 +8660,19 @@ export const signals = [
           "query": "\"MASEN\" Morocco LinkedIn Project"
         },
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -9551,19 +8684,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -9613,7 +8746,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Tender",
@@ -9674,7 +8807,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9784,7 +8917,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-22T09:13:13+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -9842,7 +8975,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -9927,7 +9060,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-24T06:32:45+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Award",
@@ -9987,7 +9120,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10027,6 +9160,14 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Award"
         },
         {
+          "title": "Morocco just won a UN Award for attracting digital investment - lnt.ma",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzdrXzYtWERhbGczUzFxdXQyMVZ0SU9zaFJDTzdMalotRC1yMGpNcVFEVV9DUk85REtfdTB4dVpHMV9uXzdFUnVqYlZuNFpFTDBDdGJIZ3M3U0xmazZHeE1wendxNFRuZHFkSmotdDhvemJZb1NXQzIyTnU0UW1RcXNRWQ?oc=5",
+          "snippet": "Morocco just won a UN Award for attracting digital investment lnt.ma",
+          "source": "lnt.ma",
+          "published": "Tue, 27 Oct 2026 17:16:23 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Award"
+        },
+        {
           "title": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1hMLTljM2tiamVOUEhsamhhaEtDZWtGcmswS0ozcDV0OGN1RVFXYXZETm1pMnUydTRyVHlDOFpNVVVrSHFCdHdUY2k2eXktQ24tTTc0cDVsdHgxMFJ3SFUwT2UtTl9KcXVvV2hmSTRhM2ZPenk0OFI3Um0yQ3A5YjczWUhXNGF5NTdBbHZkLU5sd1lpZ1VRNQ?oc=5",
           "snippet": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
@@ -10035,7 +9176,7 @@ export const signals = [
           "query": "\"OWC\" Morocco LinkedIn Award"
         }
       ],
-      "sourceCount": 4,
+      "sourceCount": 5,
       "project": null,
       "entities": [
         "Ministry of Energy Transition and Sustainable Development",
@@ -10066,7 +9207,7 @@ export const signals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-10-20T10:39:47+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -10127,7 +9268,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -10254,7 +9395,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-19T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -10309,7 +9450,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10322,49 +9463,8 @@ export const signals = [
         "\"📅 𝗝𝗼𝗶𝗻 𝘂𝘀 𝗼𝗻𝗹𝗶𝗻𝗲 on 27 October, 14:00–15:30 CET, for a dialogue on green industrialisation in Morocco, Egypt and Türkiye, and what it means for EU–Mediterranean cooperation on renewable energy, green industry and clean tech. Drawing on our new - LinkedIn\"",
         "Morocco 📅 𝗝𝗼𝗶𝗻 𝘂𝘀 𝗼𝗻𝗹𝗶𝗻𝗲 on 27 October, 14:00–15:30 CET, for a dialogue on green industrialisation in Morocco, Egypt and Türkiye, and what it means for EU–Mediterranean cooperation on renewable energy, green industry and clean tech. Drawing on our new - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "Green of Africa",
@@ -10394,7 +9494,7 @@ export const signals = [
     "sourceAccount": "MASEN",
     "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
     "published": "2026-10-01T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -10451,7 +9551,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10464,49 +9564,8 @@ export const signals = [
         "\"𝙎𝙏𝙍𝘼𝙏𝙀𝙂𝙄𝘾 𝙋𝘼𝙍𝙏𝙉𝙀𝙍𝙎𝙃𝙄𝙋 𝘼𝙉𝙉𝙊𝙐𝙉𝘾𝙀𝙈𝙀𝙉𝙏 World Energy Council - Kingdom of Morocco × Clean Energy Business Council MENA (CEBC) 🇲🇦🇦🇪 We are delighted to announce the signing of a Memorandum of Understanding (MoU) between Moroc - LinkedIn\"",
         "Morocco 𝙎𝙏𝙍𝘼𝙏𝙀𝙂𝙄𝘾 𝙋𝘼𝙍𝙏𝙉𝙀𝙍𝙎𝙃𝙄𝙋 𝘼𝙉𝙉𝙊𝙐𝙉𝘾𝙀𝙈𝙀𝙉𝙏 World Energy Council - Kingdom of Morocco × Clean Energy Business Council MENA (CEBC) 🇲🇦🇦🇪 We are delighted to announce the signing of a Memorandum of Understanding (MoU) between Moroc - LinkedIn"
       ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
+      "sources": [],
+      "sourceCount": 0,
       "project": null,
       "entities": [
         "MASEN",
@@ -10536,7 +9595,7 @@ export const signals = [
     "sourceAccount": "Green of Africa",
     "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
     "published": "2026-10-21T18:49:50+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Project"
@@ -10594,7 +9653,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -10609,19 +9668,19 @@ export const signals = [
       ],
       "sources": [
         {
-          "title": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project - Environmental Leader",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0M5WnUwSVo0cTV4TW9zNUNINHFQbUR1YjFsYkt4ODhYelVkUXgtdGlYVDhRXzRERk1BUjFncWNMd0xROElhelpFd25TaXp6b1ZqaDhoN05SV0ZmYkhWZ2RsaktZcVlBajVyZjZ5OG04R2ZOQ3VoMGlKRGhqSDBsZzNwOUdnc3FiNW5LRU1tRDJRVHZYUXAzeXRReC1EcGhVLUt5MEZFZnhHdHhsY1phQ2NTRQ?oc=5",
-          "snippet": "Casablanca Moves Ahead With 126 MW Waste-to-Energy Project Environmental Leader",
-          "source": "Environmental Leader",
-          "published": "Mon, 31 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
           "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
           "source": "Energy-Storage.News",
           "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcElhVktaaGtldzRrT2ctcGlpSE4tT2dfMFZFcktFN0lVa0hidS1WdDFYbjhDYUFNbVNPZFJsbWowU01TQkd0b2UybngtY1BYdWRCN2s0N3JjUU04bWNxai0tdERxNVVubXN0UTk1a0NLVXkteWEtajdlbHBaSnBsWW5ZVHJfV1pRSjdVXzNjOFoxWDc3cGtmd3I2cVBsQkV3dndUZHZCajdtWmRsajJoSUxqQQ?oc=5",
+          "snippet": "Morocco Says Trump Highway Naming Is Mark of ‘Deep Appreciation’ Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Sun, 02 Aug 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -10633,19 +9692,19 @@ export const signals = [
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
-          "title": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQallZZ2k0R0dHUHh0bkZuLWRQUDM0dHRBaDQ4NHdZcU53YS1qSGVRTU1DSXJacWRrcVA1c0FlNk43cmk5VE5UVkVCZTdvX2RuQnkyZ3I5N2xxaG8xWUNXWVA3RVltZEVOWEIyOUwtV0xCNEdUV0l5NlZWdnpiNWpNdk1NWFhqSkJvTEtvb2twbW5jX1RyNks1RWNWNkFiQ0xpVGM5anlBQ3dSWHlyU0xR?oc=5",
-          "snippet": "EU Tries to Tamp Down Divisions After Ceuta Migration Surge Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
           "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
           "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
           "source": "Inside The Games",
           "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Project"
+        },
+        {
+          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
+          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
+          "source": "EIN News",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "query": "\"Morocco\" Morocco LinkedIn Project"
         },
         {
@@ -10703,7 +9762,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-13T13:09:38+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -10763,7 +9822,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -10862,7 +9921,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-20T21:40:57+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -10921,7 +9980,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -11030,7 +10089,7 @@ export const signals = [
     "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
     "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
     "published": "2026-10-23T15:47:27+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -11088,7 +10147,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -11181,7 +10240,7 @@ export const signals = [
     "sourceAccount": "WSP",
     "sourceAccountUrl": "https://www.linkedin.com/company/wsp/",
     "published": "2026-10-21T05:45:01+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -11239,7 +10298,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L2",
       "researchLevelName": "Investigate",
@@ -11325,7 +10384,7 @@ export const signals = [
     "sourceAccount": "African Development Bank",
     "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
     "published": "2026-10-26T11:16:31+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
     "categories": [
       "LinkedIn",
       "Market intelligence"
@@ -11384,7 +10443,7 @@ export const signals = [
     "project": null,
     "enrichment": {
       "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
       "status": "ai-enriched",
       "researchLevel": "L3",
       "researchLevelName": "Strategic",
@@ -11521,6 +10580,6276 @@ export const signals = [
       "entities": [
         "African Development Bank",
         "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-d15e0336abc392",
+    "title": "Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
+    "headline": "Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
+    "summary": "Morocco Aerospace Exports Target $5 Billion by 2029 LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeDBJZUw3b2p6SHdwd1Q5c19sVWFrdW5ZMFRSd2VJRnN4YW5NOHVOSjl0dURESzdicnF6MFNkSW91S2NfajNQc0NBeTVQdFJMVVpkbVRsMURsWWNtaVpKSXB2VEVHZ2R1dFpqMF91UUxqVkd1bGplajd6TV9WbUhrSmZQTHpBeW5iVmpFTDFra2p4ZlJzZUhsN09zSGZsRWRDNnd4Ymo2TTByeURCcnVkVlRTbGRtaVdEZFE?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "World Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
+    "published": "2026-10-12T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "World Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Morocco Aerospace Exports Target $5 Billion by 2029 LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 93,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "DFI involvement"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 93,
+      "researchQueries": [
+        "\"World Bank\" Morocco LinkedIn Market intelligence",
+        "\"World Bank\" Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Market intelligence",
+        "\"Morocco\" Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
+        "\"Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn\"",
+        "Morocco Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "World Bank",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-480acecb15e3e6",
+    "title": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
+    "headline": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
+    "summary": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmtHZ0xHRnY4T2JtYjhiTHFGT2NqRlBYNXF1QWZQRHVVeHQwVDNuQld1cFFsVHB6LXlWNi1ERElrWjZIV0REVUMzWUFLeGcxYTdJS1V6NWIwejdHWDVCeGdrUVNPMzBMRllMeWVHNEMweFplVmxVVjloTHppa0ZSdGdIRTM2Y3c3c1prZUZmUTNzTktHcDVMZWxveUU3Wk9NUFdta05RU1FhZkFodlNUOEY4Y2NDc1l6M1Z1dGdFTFg?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "World Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
+    "published": "2026-10-18T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "World Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"World Bank\" Morocco LinkedIn Investment",
+        "\"World Bank\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Investment",
+        "\"Morocco\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
+        "\"After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn\"",
+        "Morocco After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn"
+      ],
+      "sources": [
+        {
+          "title": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn - LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaHNhdkNqem1JdUlhcTFSUVhlWm9iZ3E4WlFXNV9HLW9YZXlTUE5FLW9UejV5UFN5cV8zWnBfSjc0VnpOTWV0bk1lQWZTalZWeDlyRWxhVGJ3RmRlc1hYOFZtcGJYR0Mwczl4QzVXOTlxODNtTkJTSDIxLUlwdDY2N3dCbEFlaXhYcEVLcmtReU52bnBuU1NGU1EtWXVsVGdpWGYybDBHd2pJX0ZRcnU1eXF5S0NISjBvN1BRRm15clh6dVl5amtocDk4VkNvLWNZTG5VLXRKZFo1SjlrMEZmZHpaTUJBOGt1aHM5bHFGUnE2dlE0dS1na0JEZmRTZUpHQ2tLOHRlWG1USkExNldsUnRfbUl0ZDN6UGIyVjQzanVHelE4N2hwdG9uazNFRndUT3hFbVJsdmhvNUlnMm1SOTlVZlRVWU9PX3h4eF81YVJzcjQ1MWF3dlNRdkJxMGF6ZGdpVVRWcHNpUE9QV250Qmc1YXpuc0JPa0ZMMHVkcDdkV2hEekQtc3lYaEZ3SGdCb25Ec3hpdnlLUkt4eTZqSzZPR293SHZfVDlwZWZZN1dpYVBGcTVwbGlMZzY3Y1dJSnRleUUyWWVrSzNqWTJVN0w1VzdxVnl2U3k1Uw?oc=5",
+          "snippet": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn LinkedIn",
+          "source": "LinkedIn",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "President Tinubu Woos Investors with $78.5bn Investment Opportunities - Voice of Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3pRNW1LSVl4SzZBNWxDYkRSSGNZY3FXRm5oa1BoTkxiT2pGTTdqeGI1cGpoQUkwcWNibE1tRDdURnplVmtvT1RTTVJ2TUhpNUt5NjhmRjU5aXZIWnRqTlVjdkFSeXZKcVVreGU3RmpXMTRxZC1DbXJmQ04teTQ5TUhsT0JEWEVQSUQwc0hfODVqUQ?oc=5",
+          "snippet": "President Tinubu Woos Investors with $78.5bn Investment Opportunities Voice of Nigeria",
+          "source": "Voice of Nigeria",
+          "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Women Minister Flags off Ogun Community Investment Fund Disbursement - Voice of Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE43c0ljVzVmZG0tbmY0TmZVTTR5dXFKSU55d1d3bnNlN19xNl9ISlZKX2NjRG9oNVdXV0kySG1qQjI1WmxSM3BES3dTTGY5UVZfeGRuakFabzNDWU1MWFY4UGEweWFMMFQ3dmNHaFBrXy1YUERXcC1jUUtQOGJPa3NvbGxodzJMbjZDdGNZSlRCZw?oc=5",
+          "snippet": "Women Minister Flags off Ogun Community Investment Fund Disbursement Voice of Nigeria",
+          "source": "Voice of Nigeria",
+          "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+          "query": "\"World Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "[Op-Ed] From concrete to technology: Morocco’s next economic challenge - Telquel.ma",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHpVb1phMUVMTno2Nlhrc3UzN0xkMEk2b2NwX19ObzVUbThFT1J2bnZJUGk5eXJjdGtMUFZPempWZnlqTnpyX1VRUUc5Q3VROEZEaTJnTVAzb2ZjN2Nqc0VtRnF1cmVOb2xBc3lxZEE2VTIwUmpUYkROeWxEMFUwdWdzRXJhdzFnRlJHV1lHSXJPWTdQdUdKN19QN1FGR0FuOU9QZG80V0JJLXZYSGozOA?oc=5",
+          "snippet": "[Op-Ed] From concrete to technology: Morocco’s next economic challenge Telquel.ma",
+          "source": "Telquel.ma",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+          "query": "\"World Bank\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn"
+        },
+        {
+          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
+          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
+          "source": "Bloomberg",
+          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
+          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
+          "source": "Energy-Storage.News",
+          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
+          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
+          "source": "Euronews.com",
+          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
+          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
+          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        }
+      ],
+      "sourceCount": 9,
+      "project": null,
+      "entities": [
+        "World Bank",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-b98a0f39195bdf",
+    "title": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
+    "headline": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
+    "summary": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHZlVENRcm04Tkl2aXBIblpJZnVZWEljcE5PcGNpNzVPZk9LZ1Q3TUdXRVpXZXFCMEU5am5kak4wYmdlN3B5ZHpzc1A5SUwtbEl2UUdUaHJMY240S3FLM3RYUElOWUtweG1vLWZQMGJqbkZJZW9xazZaNm9Ra3ZfRV96T0k3dFB4VzlybXJ5YkZuNm9KSTRNQ3F1WWd0UGZkaF9hRGVmOGVLVGprZ3ZNTlM5Qzl5dkE1TWhZaV9vcW1XSVc2WU5N?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
+    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
+    "published": "2026-10-27T19:33:31+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Hydrogen",
+      "Solar",
+      "Wind"
+    ],
+    "signalType": "partnership",
+    "projectStage": "monitoring",
+    "entities": [
+      "Ministry of Energy Transition and Sustainable Development",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 79,
+    "actionabilityScore": 84,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 79,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "project development",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Hydrogen",
+        "\"Ministry of Energy Transition and Sustainable Development\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Hydrogen",
+        "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
+        "\"Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn\"",
+        "Morocco Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
+        "Morocco offshore wind MASEN EIB feasibility"
+      ],
+      "sources": [
+        {
+          "title": "Synthetic aviation fuel projects advance in Europe, Africa, US and China - GreenAir News",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Xbm9yZDQtd2NfOUZoeEVnTUhDTjB6WVM1WFRQRVFmTGRJVk5vOFBmQUVkTkg5S2ZkYmRhYnROcFZiU3V4SlM4MkMyNEg?oc=5",
+          "snippet": "Synthetic aviation fuel projects advance in Europe, Africa, US and China GreenAir News",
+          "source": "GreenAir News",
+          "published": "Tue, 29 Sep 2026 09:04:07 GMT",
+          "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Hydrogen"
+        },
+        {
+          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
+          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
+          "source": "Egypt Oil & Gas",
+          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Hydrogen"
+        },
+        {
+          "title": "Geopolitics of the Energy Transformation: The Hydrogen Factor - IRENA – International Renewable Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHNqd2RBQTlfWDRqY3VPeEN1bG5CaWlNcTUtN1paLTFtMkdFTnlUZ3VsZlNDNjVkVTNGWEJFZUZTcGFvZV9sOFJreDBabVhtNmFQb3QxMENneWwwdVBjNE12eWR4b01ScElwbGdvdzVzRW9DcUtYZ0ozT3g0dnRxX1MzQQ?oc=5",
+          "snippet": "Geopolitics of the Energy Transformation: The Hydrogen Factor IRENA – International Renewable Energy Agency",
+          "source": "IRENA – International Renewable Energy Agency",
+          "published": "Thu, 17 Nov 2022 07:37:39 GMT",
+          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
+        },
+        {
+          "title": "Renewable Energy in Ukraine: A Solution for European Energy Security and for Shifting the EU GND Eastward - GLOBSEC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU21Rc2QxOG9hMmJRdzR5Z2VEZ3JUbGtoakQ1QzdRT01MYzltb3VHLUstMmlYX3NhaUFCbXcySm1PbHRpeVdlcS1kQS1ZbmZyWkNYLTFXSWs0QTF4cmZyR294Zm55RV9taTMxaG9nWWJPTGYzOTVpbWNMSVA2enVKeDE1THRLbXlsdVZ4UF9UdDNST2c2WHI3Z0dBRlAtWlVIZ0U3bndsdmpnWlZzcHFGNWh6eHVaMnFlbHB4N1R3?oc=5",
+          "snippet": "Renewable Energy in Ukraine: A Solution for European Energy Security and for Shifting the EU GND Eastward GLOBSEC",
+          "source": "GLOBSEC",
+          "published": "Fri, 26 Aug 2022 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
+        },
+        {
+          "title": "In-depth Q&A: Does the world need hydrogen to solve climate change? - Carbon Brief",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ19scDBwN3N2VHRzR1JLWGpqdGFYQ2FGWDdOdU00cEh2RGJEVUotUmFSRVNFWU5oR1dBSWFxMTRBaVhJTTFEVk5IWWwzanBrbENiV0FrNFNHZEpKbGRBT3YxUjBOTk9icFV5VG5wYVJDOGdITUFyX2tlSVZ5SGlHa2hlWm45QXlhRlpLNVRFcFdsUlVyTWlN?oc=5",
+          "snippet": "In-depth Q&A: Does the world need hydrogen to solve climate change? Carbon Brief",
+          "source": "Carbon Brief",
+          "published": "Mon, 30 Nov 2020 08:00:00 GMT",
+          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
+        },
+        {
+          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
+          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
+          "source": "Offshore Magazine",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
+          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
+          "source": "Offshore Wind",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - Riviera Maritime Media",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
+          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development Riviera Maritime Media",
+          "source": "Riviera Maritime Media",
+          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        },
+        {
+          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
+          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
+          "source": "Renewables Now",
+          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+          "query": "Morocco offshore wind MASEN EIB feasibility"
+        }
+      ],
+      "sourceCount": 9,
+      "project": null,
+      "entities": [
+        "Ministry of Energy Transition and Sustainable Development",
+        "Morocco"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "MEDIUM",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-li-92e7dac2e61a44",
+    "title": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
+    "headline": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
+    "summary": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzJQZDJSWkRvVHgyYmRVTTlIOF9qTFBvQTNackRzYUhDZmJFbVI4M0pfWnk5LXZuTC1QcFpxbTNvdjhlV1lHRDFudG1mci1ZOExGSlNDbHZWcmg1WklGQWNfd3hSa1ZTVll3N2IyVXJOU3RocU5LVW1DaGFzTmZuZHBnLWRuQ1M5WDJBT0h3djE0aE1aS2Z6aEhnS2JwV3g4WGhSdEZqVVByM0E?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "African Development Bank",
+    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
+    "published": "2026-10-14T07:42:17+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "African Development Bank",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 76,
+    "actionabilityScore": 81,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 76,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "investment/financing",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"African Development Bank\" Morocco LinkedIn Investment",
+        "\"African Development Bank\" 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Investment",
+        "\"Morocco\" 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
+        "\"640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn\"",
+        "Morocco 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn"
+      ],
+      "sources": [
+        {
+          "title": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn - LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaHNhdkNqem1JdUlhcTFSUVhlWm9iZ3E4WlFXNV9HLW9YZXlTUE5FLW9UejV5UFN5cV8zWnBfSjc0VnpOTWV0bk1lQWZTalZWeDlyRWxhVGJ3RmRlc1hYOFZtcGJYR0Mwczl4QzVXOTlxODNtTkJTSDIxLUlwdDY2N3dCbEFlaXhYcEVLcmtReU52bnBuU1NGU1EtWXVsVGdpWGYybDBHd2pJX0ZRcnU1eXF5S0NISjBvN1BRRm15clh6dVl5amtocDk4VkNvLWNZTG5VLXRKZFo1SjlrMEZmZHpaTUJBOGt1aHM5bHFGUnE2dlE0dS1na0JEZmRTZUpHQ2tLOHRlWG1USkExNldsUnRfbUl0ZDN6UGIyVjQzanVHelE4N2hwdG9uazNFRndUT3hFbVJsdmhvNUlnMm1SOTlVZlRVWU9PX3h4eF81YVJzcjQ1MWF3dlNRdkJxMGF6ZGdpVVRWcHNpUE9QV250Qmc1YXpuc0JPa0ZMMHVkcDdkV2hEekQtc3lYaEZ3SGdCb25Ec3hpdnlLUkt4eTZqSzZPR293SHZfVDlwZWZZN1dpYVBGcTVwbGlMZzY3Y1dJSnRleUUyWWVrSzNqWTJVN0w1VzdxVnl2U3k1Uw?oc=5",
+          "snippet": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn LinkedIn",
+          "source": "LinkedIn",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
+          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
+          "source": "Energy-Storage.News",
+          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
+          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
+          "source": "Egypt Oil & Gas",
+          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Leads Africa’s EV Battery Race - CIO Africa",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTTBwODVqdGplcGVaX296eHF4bHRhVE0tY3FlLUVxV1hMcFZ0VS03REhaWlJwZm8yTmdBNERBWnBadGFwSHJ5U1FrMkl4R2RWRXRhOHZkaXZLUUl1Q1VMZThlbHlOUEZ0Q2hJ?oc=5",
+          "snippet": "Morocco Leads Africa’s EV Battery Race CIO Africa",
+          "source": "CIO Africa",
+          "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "EU Seeks Broader Support for African Entrepreneurs - Voice of Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55dWE5TzRTTTN5UFVlUlhEakphVU9lSjg0TGxSdW9aSWQxUElrQXZTNUdkV2NybVZuX3p5M2VYbVJldjlMOG1ER2sxZXhKTWwtSEp0UjdTX01pRG8yOVFlbWVTNnNManZjdEtLYjJiRnIzZWZpZkhxNTBB?oc=5",
+          "snippet": "EU Seeks Broader Support for African Entrepreneurs Voice of Nigeria",
+          "source": "Voice of Nigeria",
+          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
+          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
+          "source": "Bloomberg",
+          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
+          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
+          "source": "Euronews.com",
+          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
+          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
+          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        }
+      ],
+      "sourceCount": 9,
+      "project": null,
+      "entities": [
+        "African Development Bank",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-d4d633f962e928",
+    "title": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
+    "headline": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
+    "summary": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUI3OTNselVQVWxaVzB3dDFma3Z0blNzYWs1V0NRZGlKemR2d3Q2STUwckc1YlZ6a01oV3JvRFFLUk9CRDF2V1lQaTRMQ1ZCZVRwcUlKYWJlRjVtRmlWcEFNcUpSMk1jZzNaOHlOZUQ5OXRkY1Uwc0h1emlucFBuUkNzMmd1ODBxTGNDbU80cTdzS2FBTVk2QzdNbDlfRHRLLVVVWE5sNHVRQng5SmpteFQ4NkVEc1pwV2c?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Green of Africa",
+    "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
+    "published": "2026-10-04T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Market intelligence"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "Green of Africa",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 78,
+    "actionabilityScore": 83,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Green of Africa; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 78,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 83,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 83,
+      "researchQueries": [
+        "\"Green of Africa\" Morocco LinkedIn Market intelligence",
+        "\"Green of Africa\" Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Market intelligence",
+        "\"Morocco\" Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
+        "\"Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn\"",
+        "Morocco Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Green of Africa",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-6e5a412b2a7425",
+    "title": "☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn",
+    "headline": "☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn",
+    "summary": "☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQazdHT0ZFOVRNUDJpaXc5TDJEeF9TRHJJd1p0d0FrX2xYMExhUEF2QTRSYjBhdHBPSDQyN2RKaTNIMkI3UzAxemJVR1hlVU9lN2RVMTRuZmdjaXNMcUhPa2p4MTRIUGI0SEl4bGczZHFsVzViendQdDlMMnFrYTl0NUhMMGdaNkNpQ0xMT3gwa2FYV1Atd0tSTXV0Vi1jT1dXb255eWpUMGdYazhyUTZNZ3E1aEZxcW5XRHlrZi1obHZKODZMMTh3NTRB?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
+    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
+    "published": "2026-10-20T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Tender",
+      "Project",
+      "Investment",
+      "Solar"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "Ministry of Energy Transition and Sustainable Development",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 81,
+    "actionabilityScore": 86,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 81,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "investment/financing",
+      "project development",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Tender",
+        "\"Ministry of Energy Transition and Sustainable Development\" ☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Tender",
+        "\"Morocco\" ☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn",
+        "\"☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn\"",
+        "Morocco ☀️ From tender to tariff: Making solar projects bankable. ⚡ Discover how effective project planning, financing and tariff strategies can help turn solar energy projects into viable, sustainable investments. 🌍 Explore the opportunities shaping the future of renewa - LinkedIn",
+        "Morocco solar PV project contractor tender ONEE MASEN"
+      ],
+      "sources": [
+        {
+          "title": "Morocco Cancels Concession Tender for Casablanca Shipyard - The Maritime Executive",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcjhqR0pFVlNSLWotejJRRTlDU1NJbEtEeG9CVTRmbjh2WGZNSXd5MFdFaGNzRlE0enhMc1ZJTWdremFaTXpaUjNwb0h6bG5wRzRST3hqYmotZENFemtLOE91a2RfZFNEVmZEakdsVnJBd1c1anRSWDJxZm5PaGtMUURDQlk0Mi1fWURwemRabHl4UC1ORlEzYkdxZGo?oc=5",
+          "snippet": "Morocco Cancels Concession Tender for Casablanca Shipyard The Maritime Executive",
+          "source": "The Maritime Executive",
+          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Tender"
+        },
+        {
+          "title": "Chinese, South Korean and European giants lose bid to operate Africa’s largest shipyard as $260 million project shifts toward national control - Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOUw4V3hGZl9WOUQtSTVsMXc1WGRTc2VLZG5KakVZbS1lcHFMTGZWWlBPMUxZQmZMME5fQUJPeWwxbTlEalhSR3NDQVlGY2NqbXMycUhuTkJXVVh3T0lzVkI1cXQ4aTAxTHl4T0s5bzlUWW5NNVpCTUpObHNmSWF1RUlIUjA0VkF1ekVVVFhzTENtWFItVG8zVDZUcnVIRWc1LWxyTGdqTC1oS25CLTA2ZVZDTWdKWU5GaG9VcUd2WTlFLVVpXzJlSXRWVDUzTVk0dFRIUmdvZ3I3Zw?oc=5",
+          "snippet": "Chinese, South Korean and European giants lose bid to operate Africa’s largest shipyard as $260 million project shifts toward national control Business Insider Africa",
+          "source": "Business Insider Africa",
+          "published": "Sun, 04 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Tender"
+        },
+        {
+          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
+          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
+          "source": "Renewables Now",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Tender"
+        },
+        {
+          "title": "Morocco Tenders $39.5 Million for Grand Stade Hassan II Pitch and Seating - www.businessofsportsafrica.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZE1XdFdPNGdVazFMYmVzVGMyakkzdTJyRnRRYnVyNTFOSXQwUEh3MlZDVTluOXF4TTd3aEF3X2dXRi1XZ0FsLVZIUTVKZzFzSDE1cHhDZ1JlcUd1cDlYMmRJSXc4a2tPVDQ3V0VzOXVHMFFxd1h3Q29kTW5Rb3BwQmtUMERaZ3l4bm5GV0dVX0xtTXBGNUxJR3Q2aEV5NGdUNkIzZmE5UlUzU0REZlRQM25rN2JLamJQNEdJRHdZczZzR04z?oc=5",
+          "snippet": "Morocco Tenders $39.5 Million for Grand Stade Hassan II Pitch and Seating www.businessofsportsafrica.com",
+          "source": "www.businessofsportsafrica.com",
+          "published": "Sun, 16 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Tender"
+        },
+        {
+          "title": "Nigeria’s NNPC issues another tender to sell its new Cawthorne crude - Businessfront",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RMjg1eE5DM0tscC10cUJ3RVBXdjlFNWJ5d1o3WGphbUhkU0RlUEMtdktrRHJhcjNtSm90M0pFZjZ2amxab0phS1FKLW5MdU9QRnU4b0hJcU9OZVUta2Q3MzkyTVhLYzg4eGlCbDMxOVpsUmZreTRpZlJ3?oc=5",
+          "snippet": "Nigeria’s NNPC issues another tender to sell its new Cawthorne crude Businessfront",
+          "source": "Businessfront",
+          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Tender"
+        },
+        {
+          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
+          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
+          "source": "pv magazine Global",
+          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
+          "query": "Morocco solar PV project contractor tender ONEE MASEN"
+        },
+        {
+          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
+          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
+          "source": "SolarQuarter",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "Morocco solar PV project contractor tender ONEE MASEN"
+        },
+        {
+          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
+          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
+          "source": "Serrari Group",
+          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
+          "query": "Morocco solar PV project contractor tender ONEE MASEN"
+        }
+      ],
+      "sourceCount": 8,
+      "project": null,
+      "entities": [
+        "Ministry of Energy Transition and Sustainable Development",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-f61f639fe7b6bb",
+    "title": "Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn",
+    "headline": "Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn",
+    "summary": "Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5nNGRkbzZhSUlQLXlINnhfMzl2NW9xSkRFMEpld1hGaEU3Y2I5WXVJOWFoS3UyZmxFQWJnQkNjaVYtUDJYU3k4TlR6N2MydjVkRWh5NGdrQUR2TVR1WWU0RkZZNloxTXNBUFFPbXFiOWFCalYwUnA1OC1odXNLVnZkTFJicTU2NnF4X3EyWTJ3akphWEJ0WF9Vd2J3N0h6b3ZhTEdSWGVXQ3FESWVUYkk0OWdQeEk?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "AMEE",
+    "sourceAccountUrl": "https://www.linkedin.com/company/ameeofficiel/",
+    "published": "2026-10-21T16:32:11+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Investment"
+    ],
+    "signalType": "project",
+    "projectStage": "monitoring",
+    "entities": [
+      "AMEE",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 81,
+    "actionabilityScore": 86,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from AMEE; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 81,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"AMEE\" Morocco LinkedIn Investment",
+        "\"AMEE\" Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Investment",
+        "\"Morocco\" Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn",
+        "\"Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn\"",
+        "Morocco Khalid Ziane | CEO, Fipar-Holding & Directeur Général Délégué, CDG Invest | Private Equity, Investment & Strategic Development Khalid Ziane is one of Morocco’s most experienced investment and private equity leaders, with 30 years of experience across M - LinkedIn"
+      ],
+      "sources": [
+        {
+          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
+          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
+          "source": "Bloomberg",
+          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
+          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
+          "source": "Energy-Storage.News",
+          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
+          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
+          "source": "Euronews.com",
+          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
+          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        },
+        {
+          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
+          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
+          "source": "Bloomberg.com",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco LinkedIn Investment"
+        }
+      ],
+      "sourceCount": 5,
+      "project": null,
+      "entities": [
+        "AMEE",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-li-daee1f7afeaf5d",
+    "title": "The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn",
+    "headline": "The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn",
+    "summary": "The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkZSVndYZlgtUjN6Qng0UldIODd3YzFUQWRDMkx2MGphZ0RSMGdXNklUbExzUGpBcmVhNGpzR0JtS25xS2htZ3lSNHBoSWpsZ0FadWd6c0V4cldqY00wSXBsX0pyaVhJWlBiRWlSRk5wcDduLWM1dHpUYTdvSjZpZ21XcnZRYTA2MUNRNWQ3TG5KX3UzSllxVGdNaFYwQlQ1UlBqWF8tc2MtX3h5UTRWLTlOWFVXZWFRLTZYdW9tU252blE3eFRpNg?oc=5",
+    "source": "LinkedIn",
+    "sourceType": "linkedin",
+    "sourceAccount": "Green Energy Park",
+    "sourceAccountUrl": "https://www.linkedin.com/company/green-energy-park/",
+    "published": "2026-10-24T06:00:25+00:00",
+    "detected": "2026-10-29T20:20:14.299940+00:00",
+    "categories": [
+      "LinkedIn",
+      "Solar"
+    ],
+    "signalType": "award",
+    "projectStage": "contract award",
+    "entities": [
+      "Green Energy Park",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 77,
+    "actionabilityScore": 82,
+    "noveltyScore": 1,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert LinkedIn",
+    "whyItMatters": "LinkedIn early-warning signal from Green Energy Park; verify material claims against primary or independent sources.",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 77,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.92,
+    "filterReason": "First-class LinkedIn discovery source",
+    "aiReviewed": true,
+    "researchPriority": 82,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "project": null,
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 82,
+      "researchQueries": [
+        "\"Green Energy Park\" Morocco LinkedIn Solar",
+        "\"Green Energy Park\" The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn",
+        "\"Morocco\" Morocco LinkedIn Solar",
+        "\"Morocco\" The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn",
+        "\"The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn\"",
+        "Morocco The water industry has a supply-chain footprint, and it is moving to China. You sign the contract with a German OEM. The datasheet says Europe. Then you visit the factory. Pumps, pressure vessels, filters, valves, cartridges, skids, panels, solar modules, invert - LinkedIn",
+        "Morocco solar PV project contractor tender ONEE MASEN"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Green Energy Park",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-masen-solar-measurement-12-sites-20260918",
+    "title": "MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+    "headline": "MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+    "summary": "MASEN is relaunching a solar-resource measurement campaign covering twelve sites in Morocco for future photovoltaic plants. An expert will be recruited through a tender; the campaign is planned in two phases of six sites, with six solar meteorological stations and 24 months of measurement per site. MASEN tender reference 14/Masen/2026 has a submission deadline of 1 October 2026 at 16:00.",
+    "url": "https://lematin.ma/economie/masen-relance-sa-campagne-de-mesure-solaire-sur-douze-sites/365724",
+    "source": "Le Matin",
+    "sourceType": "news",
+    "published": "2026-09-18T10:42:00+01:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Solar PV",
+      "Procurement",
+      "Project development"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "MASEN",
+      "Morocco"
+    ],
+    "competitor": null,
+    "relevanceScore": 98,
+    "actionabilityScore": 98,
+    "noveltyScore": 1.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "MASEN is relaunching a solar-resource measurement campaign covering twelve sites in Morocco for future photovoltaic plants. An expert will be recruited through a tender; the campaign is planned in two phases of six sites, with six solar meteorological stations and 24 months of me",
+    "whyItMatters": "High-value Morocco renewable-energy development signal requiring monitoring and follow-up.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 98,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.99,
+    "filterReason": "Deterministic strategic seed: high-value Morocco renewable-energy signal",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "project development",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"MASEN\" Morocco Solar PV Procurement",
+        "\"MASEN\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "\"Morocco\" Morocco Solar PV Procurement",
+        "\"Morocco\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "\"MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques\"",
+        "Morocco MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
+        "Morocco solar PV project contractor tender ONEE MASEN"
+      ],
+      "sources": [
+        {
+          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
+          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
+          "source": "pv magazine Global",
+          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
+          "query": "\"MASEN\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
+          "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
+          "source": "Pumps Africa Magazine",
+          "published": "Thu, 22 Oct 2026 03:20:47 GMT",
+          "query": "\"MASEN\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
+          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
+          "source": "Renewables Now",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "\"MASEN\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco: Solar PV firm to list in Casablanca - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazgwS3A5cFR1UnZoRExrVE9sOVJkcWdJRU9iSUVtYjVjRXo4UVhEUFFxbXZ4NHI4WmI1REpCbi1Kc2V3QkNIYW1wLW81QW1qUWpIZlFRVFVHTG5vWkh5endKa2hMWlNBQ1o3ZlZWckgxN2hWMDRjZmhCUnNHejc3azJ5bGFwOUo0SUNBaVFSNlI?oc=5",
+          "snippet": "Morocco: Solar PV firm to list in Casablanca African Energy",
+          "source": "African Energy",
+          "published": "Wed, 28 Oct 2026 14:26:47 GMT",
+          "query": "\"MASEN\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
+          "snippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
+          "source": "https://www.mvapulse.com/",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+          "query": "\"MASEN\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco seeks EPC, O&M contractors for 350 MW NOOR PV Multisites solar programme - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmUyMjE3Sk90R0kyeW9kQWNuQzdiQm5WLUdqbmhLMmh2M1FvbWRSWDE4MXl6Tm5mYkUtMGRkMHdmRF9ldWY5YWpkZktDeUFtczVoWHBMeDhkU3F5QTVzY2RfQlJRZEhTN2JSb3l5SmNKaDY2N2JVUXB2WHlYc2gzWktrcnFIVkhuUFNNVnU0WUdJLTRoaGVHT2dIeXJJdm1LWnJtTXdXS3FRYzZNYzBGZlp0aThNSmRSN2ptT1pBYnE5TzRtQURiMVZmTE1yWjVqWjVHcWdKMHQwY0JVbERhcnRCZ3EydmVENWc?oc=5",
+          "snippet": "Morocco seeks EPC, O&M contractors for 350 MW NOOR PV Multisites solar programme TradingView",
+          "source": "TradingView",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender - The North Africa Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMklHbkJqckRlcGRaa0VaRlV4Y1NKbk0ya2k0OElVRUMtNG5zUHI0dkxkTE1EMHFNdnlfUDFyQXFuQ0pvNkI5SWZMeks3ejdoNzJVS2ZJLUNEWGotQU1KcmdiY1N0ekZKMTVZTnhnMGVPZnFHUGQ2cWQwOHoyaENRb0dsaWNTcUg2UVpnbk9RRWNpT1R0NHRBcHlPNEc1SWwtZnVraFdn?oc=5",
+          "snippet": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender The North Africa Post",
+          "source": "The North Africa Post",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
+          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
+          "source": "SolarQuarter",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "\"Morocco\" Morocco Solar PV Procurement"
+        },
+        {
+          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
+          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
+          "source": "Serrari Group",
+          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
+          "query": "Morocco solar PV project contractor tender ONEE MASEN"
+        }
+      ],
+      "sourceCount": 9,
+      "project": null,
+      "entities": [
+        "MASEN",
+        "Morocco"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-rina-morocco-market-entry-20260901",
+    "title": "RINA strengthens its presence in Africa with the launch of RINA Morocco",
+    "headline": "RINA strengthens its presence in Africa with the launch of RINA Morocco",
+    "summary": "RINA officially established RINA Morocco SARL to strengthen its local presence in Morocco. The company says the new entity will support energy transition, green hydrogen, infrastructure, mobility, ports, logistics, industry, sustainability and consulting services.",
+    "url": "https://www.rina.org/en/media/news/2026/09/02/rina-morocco",
+    "source": "RINA",
+    "sourceType": "news",
+    "published": "2026-09-01T00:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment",
+      "Hydrogen / PtX",
+      "Market intelligence"
+    ],
+    "signalType": "market entry",
+    "projectStage": "announcement",
+    "entities": [
+      "RINA",
+      "Morocco"
+    ],
+    "competitor": "RINA",
+    "relevanceScore": 98,
+    "actionabilityScore": 98,
+    "noveltyScore": 1.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "RINA officially established RINA Morocco SARL to strengthen its local presence in Morocco. The company says the new entity will support energy transition, green hydrogen, infrastructure, mobility, ports, logistics, industry, sustainability and consulting services.",
+    "whyItMatters": "High-value Morocco renewable-energy development signal requiring monitoring and follow-up.",
+    "fichtnerRelevance": "HIGH",
+    "qualityScore": 98,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.99,
+    "filterReason": "Deterministic strategic seed: high-value Morocco renewable-energy signal",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L3",
+    "researchLevelName": "Strategic",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor market-entry signal",
+      "consulting/advisory potential",
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": true,
+      "competitorMove": false,
+      "marketEntry": true,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 11,
+      "maxSources": 14
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L3",
+      "researchLevelName": "Strategic",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"RINA\" Morocco Investment Hydrogen / PtX",
+        "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco",
+        "\"Morocco\" Morocco Investment Hydrogen / PtX",
+        "\"Morocco\" RINA strengthens its presence in Africa with the launch of RINA Morocco",
+        "\"RINA strengthens its presence in Africa with the launch of RINA Morocco\"",
+        "Morocco RINA strengthens its presence in Africa with the launch of RINA Morocco",
+        "Morocco green hydrogen ammonia project investor contractor",
+        "Morocco Power to X tender project",
+        "Morocco pumped storage hydro project contractor",
+        "Ifahsa pumped hydropower storage Morocco",
+        "site:worldbank.org Ifahsa pumped hydropower Morocco"
+      ],
+      "sources": [
+        {
+          "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
+          "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
+          "source": "Hydrogen Fuel News",
+          "published": "Sat, 12 Sep 2026 07:00:00 GMT",
+          "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
+        },
+        {
+          "title": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE1YNDZwd1E3aHF2eENxVzFPcXlKUWNZeFFYdHRNLUQ0cFFYVE41d3ZVbXgwUkJBTlZ6NUFjZU1oeUljblZYVVNFRTgyZXRqRnhWM0RHZWhsWGxIMERMcGVzVEE2cTgwdDZta2FaMlpGLVNWTTQydTdSMDZLR0JISmcwbnFpUXhWM0E1NXZQWQ?oc=5",
+          "snippet": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? Yahoo Finance",
+          "source": "Yahoo Finance",
+          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive - Africa M.E.",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRfTWxuOHlRLS02dWVGSnFLOHRJQkFTQUtqR3ZRekt5dFFkZ0tGX2hLcWpXUHk0SC1Ya1pQaTZfekVUNzN1NlloQVVmYzkxYkN1NnlWMUxfbE1CLUxUVXBjalllVUpxa2dPOVFHYXV5NWUwQlMzbnJJWk5WUU5iRUVZRUVjYU5xRkk1cVN3?oc=5",
+          "snippet": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive Africa M.E.",
+          "source": "Africa M.E.",
+          "published": "Wed, 14 Oct 2026 06:25:10 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED - Africa Sustainability Matters",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnZ4NU1vM2hla1IxTldBbHBCYjZqdExjM2JpNGI0cEdueTIwaU9ERzBBVnNJb29fTXFOMVhrOVhURWpuQ2dycjlpazhfb2VjMFNrZWpwbmhQWk81c05yQVl3X1NCemFHX2FaRWtla2tCc29WQVJOZHM4Q0FnbEZsRTJCbWF2NXhnYUcwYkp4NzAtVzltdVBkUTdGa3ZteHZQbGhYbzRmakExbXo1N04wVXlMYTRpU0M0RFd6cDBsbzJ6SWVJTHdRTjVzRkpDSXZka1lHVzAxdGpkVGpaMGxHMg?oc=5",
+          "snippet": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED Africa Sustainability Matters",
+          "source": "Africa Sustainability Matters",
+          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZMSHF5Z2lfS0dYcnBfSGtTQ0ZIaFFwUkIxaDZsVkpOX2xTQU1BVjhZS2VsTkMzV0pGcVFiN1I1QjFDUDlacXhWOWh4VHlMM09fdUNtQkp0OVpvbEJxUWhpTGdqbnpramVvUjBNZFFJTUhCVmhSRzFrV2pFaVQ1Rlp0OGd4OFUxNWRjZDZzeVQta3R6bldVRlNobkpLVmFta2R3NHlpeVRGU095eUw5NkV2Zmc2NGo0YzcxSTVRUQ?oc=5",
+          "snippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant Morocco World News",
+          "source": "Morocco World News",
+          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+          "query": "Morocco green hydrogen ammonia project investor contractor"
+        },
+        {
+          "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
+          "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
+          "source": "Pumps Africa Magazine",
+          "published": "Thu, 22 Oct 2026 03:20:47 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
+          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
+          "source": "SolarQuarter",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "Morocco launches Fez Sports Complex upgrade tender for 2030 World Cup - Yabiladi.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUExYnhjckh6cm9RTExCN2FfaFpLTmFMSlp0clZLMnN0LUJqQ3VBUmRIQ2E5YW4wa1dyMmxpdXhrOFhVazZjM1VmSE90OTlvWFJodFVJLUgycHlGMklteTFXNEFFNUZCU0hudDZVNWk0S2FTZl91Z1lrYjFLUXhwNlQzS0VfUVVJWnROa2xKT0QtamFXcGNj?oc=5",
+          "snippet": "Morocco launches Fez Sports Complex upgrade tender for 2030 World Cup Yabiladi.com",
+          "source": "Yabiladi.com",
+          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
+          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
+          "source": "Serrari Group",
+          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
+          "query": "Morocco Power to X tender project"
+        },
+        {
+          "title": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZDhDMndtWFVBLWtqOFU4WXl0QjUwZXEzc1Z3Ri0xOW1EamlVazdSZkc1dXloRVRnWlZvOFVqVWU1OFJEaUs4aXdiOWJsT3lqMFpTYTZwemI2dmpzWldzTnF1YUN3OU5teFBSOXIzdDNjUDd0OW5UNVo5SWUxeUlsMFFKM0RlN1ZyVGI1ODZ3Q2ZVWTVfR2NCRzJTVGV3Z3NvOHpJZEpxYTJYSWtoMkhhZlJwcDVQRjgwNjhNdFNhTXJxQ3djTmc?oc=5",
+          "snippet": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion Construction Review",
+          "source": "Construction Review",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Morocco: Utility looks to generate power from water pipelines - African Energy",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2FXOWlQX2RUZlY2WWdvdTljb0VTWEdXbUxaOG50VjVuYVh1cElZeUJLb3plSGpKbUlMWTVSME9RcEhGaGJzaG5FTzN0NFdVZFdCYnVHd2xLakxUcEdZNW9nNDdJTC03ZGpEdmk5MHlPd2Y5UUhka0c3WUF0NWkwa2lkdWxUc2JyRXFtQjJxT2thSlJmRWJMUFNxUkJMTVZZdVU2SQ?oc=5",
+          "snippet": "Morocco: Utility looks to generate power from water pipelines African Energy",
+          "source": "African Energy",
+          "published": "Mon, 26 Oct 2026 16:32:03 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny - Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnR1STNBS1I4WEVZV3ZjaW5rdVprMWJQeHh4bFR6a0ZhWTVSUXg5RGRxSmxzU1NRaHJnOTdXTzUtS1B4QXdlaGgwRjZkSW53eU1DR25tNEpuWGlFbmkyQmt6X0dqR1VycXFRRXR4NVZ0ZUNzbVhPZy1pV2tNb0VhcGxrdXo3TGp6QjMwQUZpcmFqcmNhbExGVjB0WFQxYUZuV3g3QXBWZ0tnMUpybmVHNzFhdTlfM2lnQnc?oc=5",
+          "snippet": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny Construction Review",
+          "source": "Construction Review",
+          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+          "query": "Morocco pumped storage hydro project contractor"
+        },
+        {
+          "title": "Ifahsa pumped hydropower storage project, Morocco - Engineering News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEk5Z3B1LXdvNDdkbWVqcUdJTFJDSjZvZ0VXckxrTl9Yb3NTSE55VDUwUThiQzYwem9fLTFaalhCMmFPRURHOEtZVnNlekZ0TWQtdVpwbVdaNVpBZzQyOUN5UlRncFNHTTZmMnJNcDNuMGoyNnlJMFQwS0tOVzlsbTk1NWJKTFhTakxMbGJaVnVPTlFPQmpRTDlLcXpCTlZ1bzN3?oc=5",
+          "snippet": "Ifahsa pumped hydropower storage project, Morocco Engineering News",
+          "source": "Engineering News",
+          "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        },
+        {
+          "title": "How close is Mphanda Nkuwa to financing its 1,500MW on the Zambezi? - Energy News Network",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHdrNUVsdWs4dVlFenRiUnRLd0NEZnJ0QTZucTU5T0FONjN5LXhxb3p2REpoZndXSGFmN2lvOWVZQVpZRHh2WjY0SW5CVXROUDRURTNoeVNPN291VlpuVWZudk9majFISjBaQnZVcFZTanJ3am5ncjBwYVNGVHJJeVd4RnlHWEtnVnpZWWp1WVNUYjA3blpJ?oc=5",
+          "snippet": "How close is Mphanda Nkuwa to financing its 1,500MW on the Zambezi? Energy News Network",
+          "source": "Energy News Network",
+          "published": "Sat, 26 Sep 2026 07:00:00 GMT",
+          "query": "Ifahsa pumped hydropower storage Morocco"
+        }
+      ],
+      "sourceCount": 14,
+      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
+      "entities": [
+        "RINA",
+        "Morocco"
+      ],
+      "facts": [
+        {
+          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            0
+          ]
+        },
+        {
+          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
+          "confidence": "HIGH",
+          "sourceIndexes": [
+            12
+          ]
+        }
+      ],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
+        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "HIGH",
+      "unresolved": []
+    }
+  },
+  {
+    "id": "sig-4b6777b4d70a",
+    "title": "Annonce de synthèse de rapport d'audit",
+    "headline": "Annonce de synthèse de rapport d'audit",
+    "summary": "",
+    "url": "https://etendering.masen.ma/",
+    "source": "MASEN e-Tendering",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:10.494232+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": false,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-54df338f5bba",
+    "title": "Bienvenue sur la plateforme des consultations de Masen",
+    "headline": "Bienvenue sur la plateforme des consultations de Masen",
+    "summary": "",
+    "url": "https://etendering.masen.ma/",
+    "source": "MASEN e-Tendering",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:10.494249+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Solar PV",
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN"
+    ],
+    "competitor": null,
+    "relevanceScore": 53,
+    "actionabilityScore": 38,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 32,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.68,
+    "filterReason": "1 identifiable actor(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 identifiable actor(s)",
+    "project": null,
+    "researchPriority": 66,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 66,
+      "researchQueries": [
+        "\"MASEN\" Morocco Solar PV Tender / Procurement",
+        "\"MASEN\" Bienvenue sur la plateforme des consultations de Masen",
+        "\"Bienvenue sur la plateforme des consultations de Masen\"",
+        "Morocco Bienvenue sur la plateforme des consultations de Masen",
+        "Morocco solar PV project contractor tender ONEE MASEN",
+        "Morocco photovoltaic project award EPC"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "MASEN"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-3562b54b95b9",
+    "title": "Télécharger le règlement des achats en ligne",
+    "headline": "Télécharger le règlement des achats en ligne",
+    "summary": "",
+    "url": "https://etendering.masen.ma/",
+    "source": "MASEN e-Tendering",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:10.494252+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": false,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-f364a4186557",
+    "title": "Cette Plate-forme de dématérialisation permet de :",
+    "headline": "Cette Plate-forme de dématérialisation permet de :",
+    "summary": "",
+    "url": "https://etendering.masen.ma/",
+    "source": "MASEN e-Tendering",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:10.494250+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "MASEN"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "official source",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": false,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 39,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "strategic Moroccan actor"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-0e7d0c77df69",
+    "title": "Project Procurement",
+    "headline": "Project Procurement",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692039+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 73,
+    "noveltyScore": 1.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 23,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.77,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" Project Procurement",
+        "\"Project Procurement\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-eae979ca29fc",
+    "title": "Vendor Registration",
+    "headline": "Vendor Registration",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692038+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "Egis",
+      "IsDB"
+    ],
+    "competitor": "Egis",
+    "relevanceScore": 53,
+    "actionabilityScore": 66,
+    "noveltyScore": 1.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; Egis detected",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 20,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.8,
+    "filterReason": "1 identifiable actor(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 identifiable actor(s)",
+    "project": null,
+    "researchPriority": 100,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 100,
+      "researchQueries": [
+        "\"Egis\" Morocco Market intelligence",
+        "\"Egis\" Vendor Registration",
+        "\"IsDB\" Morocco Market intelligence"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Egis",
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track Egis as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-c29c6fd75c87",
+    "title": "Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
+    "headline": "Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692060+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 69,
+    "actionabilityScore": 50,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 95,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 95,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
+        "\"Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-c2c208f051c9",
+    "title": "What type of contracts are commonly used under Bank’s financed projects?",
+    "headline": "What type of contracts are commonly used under Bank’s financed projects?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692054+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 65,
+    "actionabilityScore": 47,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 80,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 80,
+      "researchQueries": [
+        "\"IsDB\" Morocco Market intelligence",
+        "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?",
+        "\"What type of contracts are commonly used under Bank’s financed projects?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-2da6d510607f",
+    "title": "Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
+    "headline": "Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692051+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 98,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 98,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
+        "\"Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-1d44d85fcd0a",
+    "title": "What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
+    "headline": "What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692053+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 98,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 98,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
+        "\"What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-76b6fd6a303e",
+    "title": "If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
+    "headline": "If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692058+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 98,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 98,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
+        "\"If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-d753f73765e5",
+    "title": "How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
+    "headline": "How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692059+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 35,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.65,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 98,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 98,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
+        "\"How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-50a8418b1cee",
+    "title": "Register on the Consultants Portal",
+    "headline": "Register on the Consultants Portal",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692062+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "Egis",
+      "IsDB"
+    ],
+    "competitor": "Egis",
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; Egis detected",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 20,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.8,
+    "filterReason": "1 identifiable actor(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 identifiable actor(s)",
+    "project": null,
+    "researchPriority": 94,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "DFI involvement",
+      "consulting/advisory potential",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 94,
+      "researchQueries": [
+        "\"Egis\" Morocco Market intelligence",
+        "\"Egis\" Register on the Consultants Portal",
+        "\"IsDB\" Morocco Market intelligence"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "Egis",
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track Egis as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-97a6158c01b2",
+    "title": "How long does it normally take to a firm to win a Bank’s financed contract?",
+    "headline": "How long does it normally take to a firm to win a Bank’s financed contract?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692055+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 57,
+    "actionabilityScore": 41,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 53,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 53,
+      "researchQueries": [
+        "\"IsDB\" Morocco Market intelligence",
+        "\"IsDB\" How long does it normally take to a firm to win a Bank’s financed contract?",
+        "\"How long does it normally take to a firm to win a Bank’s financed contract?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-6e8b957e8108",
+    "title": "current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
+    "headline": "current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
+    "summary": "",
+    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
+    "source": "World Bank procurement opportunities",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.474314+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "World Bank"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 85,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 85,
+      "researchQueries": [
+        "\"World Bank\" Morocco Tender / Procurement",
+        "\"World Bank\" current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
+        "\"current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "World Bank"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-ed2e11d43471",
+    "title": "upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
+    "headline": "upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
+    "summary": "",
+    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
+    "source": "World Bank procurement opportunities",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.474315+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "World Bank"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 85,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 85,
+      "researchQueries": [
+        "\"World Bank\" Morocco Tender / Procurement",
+        "\"World Bank\" upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
+        "\"upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "World Bank"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-385b50bf68ed",
+    "title": "potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
+    "headline": "potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
+    "summary": "",
+    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
+    "source": "World Bank procurement opportunities",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.474316+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "World Bank"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 85,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 85,
+      "researchQueries": [
+        "\"World Bank\" Morocco Tender / Procurement",
+        "\"World Bank\" potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
+        "\"potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "World Bank"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-bf3fae5a946d",
+    "title": "What are the Bank’s policies in Procurement?",
+    "headline": "What are the Bank’s policies in Procurement?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692050+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 85,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 85,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" What are the Bank’s policies in Procurement?",
+        "\"What are the Bank’s policies in Procurement?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-7c5d7b693947",
+    "title": "Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
+    "headline": "Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692057+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 85,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 85,
+      "researchQueries": [
+        "\"IsDB\" Morocco Tender / Procurement",
+        "\"IsDB\" Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
+        "\"Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-9230a66584f5",
+    "title": "Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
+    "headline": "Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692061+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 51,
+    "actionabilityScore": 37,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 70,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 70,
+      "researchQueries": [
+        "\"IsDB\" Morocco Market intelligence",
+        "\"IsDB\" Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
+        "\"Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-910b71a4e74c",
+    "title": "Together we can Build a better Future",
+    "headline": "Together we can Build a better Future",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692047+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"IsDB\" Morocco Market intelligence",
+        "\"IsDB\" Together we can Build a better Future",
+        "\"Together we can Build a better Future\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-a0b6f961b427",
+    "title": "What criterion is applied for eligibility and who is eligible to participate?",
+    "headline": "What criterion is applied for eligibility and who is eligible to participate?",
+    "summary": "",
+    "url": "https://www.isdb.org/project-procurement",
+    "source": "IsDB project procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:13.692052+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "IsDB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"IsDB\" Morocco Market intelligence",
+        "\"IsDB\" What criterion is applied for eligibility and who is eligible to participate?",
+        "\"What criterion is applied for eligibility and who is eligible to participate?\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "IsDB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-6d5cc67ecc5d",
+    "title": "Project procurement complaints",
+    "headline": "Project procurement complaints",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327375+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 63,
+    "actionabilityScore": 45,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 23,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.77,
+    "filterReason": "2 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "2 event indicator(s)",
+    "project": null,
+    "researchPriority": 98,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 98,
+      "researchQueries": [
+        "\"EIB\" Morocco Tender / Procurement",
+        "\"EIB\" Project procurement complaints",
+        "\"Project procurement complaints\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-0ff7f9c09aee",
+    "title": "Credit enhancement for project finance",
+    "headline": "Credit enhancement for project finance",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327386+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 51,
+    "actionabilityScore": 37,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 70,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 70,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" Credit enhancement for project finance",
+        "\"Credit enhancement for project finance\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-da1cd5f2dd80",
+    "title": ".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
+    "headline": ".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327341+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" .cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
+        "\".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-70c2927591e1",
+    "title": "Tackling global challenges together",
+    "headline": "Tackling global challenges together",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327360+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" Tackling global challenges together",
+        "\"Tackling global challenges together\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-bcc9fa0ebf38",
+    "title": "EIB Group and the Sustainable Development Goals",
+    "headline": "EIB Group and the Sustainable Development Goals",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327364+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "development",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 51,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 51,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" EIB Group and the Sustainable Development Goals",
+        "\"EIB Group and the Sustainable Development Goals\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-9855fcbd4834",
+    "title": "Transparency and access to information",
+    "headline": "Transparency and access to information",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327372+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" Transparency and access to information",
+        "\"Transparency and access to information\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-7c9f63a241e6",
+    "title": "Intermediated loans for SMEs, mid-caps and other priorities",
+    "headline": "Intermediated loans for SMEs, mid-caps and other priorities",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327383+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 66,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 66,
+      "researchQueries": [
+        "\"EIB\" Morocco Investment",
+        "\"EIB\" Intermediated loans for SMEs, mid-caps and other priorities",
+        "\"Intermediated loans for SMEs, mid-caps and other priorities\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-88d1099c9125",
+    "title": "Guarantees in support of SMEs, mid-caps and other objectives",
+    "headline": "Guarantees in support of SMEs, mid-caps and other objectives",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327387+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives",
+        "\"Guarantees in support of SMEs, mid-caps and other objectives\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-73878b3aa593",
+    "title": "AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
+    "headline": "AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
+    "summary": "AFRY wins engineering contract for Swissgrid transmission upgrade Renewables Now",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFQzX3pIOV9hS1p6MGdrelZ1TVV0NG1NUGVreWlMZVFSZUptV18yT2JfS2tnVnU1bF9Uam5iNXcxUlI1bktxdUp1dlpjdlN6OUgyX2hOcDBYV3oxSm9SbGtPNlNwcmVUeGM4OFA4WWVIaUlPMjgtT2RZMDZuZ3BZUGF3alNkczRFdGF3bWN1dWo5bDVHWXRHamdhMGtXV3dTRGhwdG5Vc2U?oc=5",
+    "source": "Renewables Now",
+    "sourceType": "news",
+    "published": "2026-10-15T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Grid"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "AFRY"
+    ],
+    "competitor": "AFRY",
+    "relevanceScore": 60,
+    "actionabilityScore": 43,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "AFRY wins engineering contract for Swissgrid transmission upgrade Renewables Now",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; AFRY detected",
+    "fichtnerRelevance": "MEDIUM",
+    "qualityScore": 84,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.84,
+    "filterReason": "1 event indicator(s); 1 identifiable actor(s); 2 technology indicator(s); strong actor/event/development combination; concrete action relationship",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 95,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "competitor detected",
+      "competitor move",
+      "consulting/advisory potential",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": true,
+      "competitorMove": true,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": true
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 95,
+      "researchQueries": [
+        "\"AFRY\" Morocco Grid",
+        "\"AFRY\" AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
+        "\"AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "AFRY"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-05cf114cbbf4",
+    "title": "Office of the Chief Compliance Officer",
+    "headline": "Office of the Chief Compliance Officer",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090784+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 59,
+    "actionabilityScore": 42,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 54,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 54,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Office of the Chief Compliance Officer",
+        "\"Office of the Chief Compliance Officer\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-04655f161db6",
+    "title": "Independent Project Accountability Mechanism",
+    "headline": "Independent Project Accountability Mechanism",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090786+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 51,
+    "actionabilityScore": 37,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 70,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI decision/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": true,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 70,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Independent Project Accountability Mechanism",
+        "\"Independent Project Accountability Mechanism\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-856448ebc7ff",
+    "title": "Basic documents establishing the Bank",
+    "headline": "Basic documents establishing the Bank",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090775+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Basic documents establishing the Bank",
+        "\"Basic documents establishing the Bank\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-48f4e7bd9f0e",
+    "title": "Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
+    "headline": "Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
+    "summary": "Morocco Opens Tender For 350 MW Solar PV Projects TaiyangNews",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DQ09ESHVaY0U5V3cwVkIwMmtXRU9Ba1pXOEw5dkM2bkc5eW9FeGdGdENoTTUtWTJ2U21uelBmTFVFN3QtS3liOFFfWkYydVFMZXlwUzZsYTJGRU1PTnpnYnNLbURNd1ZUXzFsUzF2XzBFOGxFcTduUQ?oc=5",
+    "source": "TaiyangNews",
+    "sourceType": "news",
+    "published": "2026-10-19T06:34:49+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Solar PV",
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 50,
+    "actionabilityScore": 36,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Morocco Opens Tender For 350 MW Solar PV Projects TaiyangNews",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 60,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.6,
+    "filterReason": "2 event indicator(s); 2 technology indicator(s); 1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 84,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "major project scale/strategic infrastructure",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 84,
+      "researchQueries": [
+        "\"Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews\"",
+        "Morocco Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
+        "Morocco solar PV project contractor tender ONEE MASEN",
+        "Morocco photovoltaic project award EPC"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-4ce0ed5ad46c",
+    "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
+    "headline": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
+    "summary": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
+    "source": "https://www.mvapulse.com/",
+    "sourceType": "news",
+    "published": "2026-10-19T13:32:17+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Solar PV",
+      "Tender / Procurement"
+    ],
+    "signalType": "tender",
+    "projectStage": "tender",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 50,
+    "actionabilityScore": 36,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
+    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 55,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.55,
+    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); quantitative detail",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 84,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "tender/procurement",
+      "major project scale/strategic infrastructure",
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": true,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 84,
+      "researchQueries": [
+        "\"Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/\"",
+        "Morocco Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
+        "Morocco solar PV project contractor tender ONEE MASEN",
+        "Morocco photovoltaic project award EPC"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-ef865c64f24e",
+    "title": "Annual Meetings and Business Forums",
+    "headline": "Annual Meetings and Business Forums",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090778+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Annual Meetings and Business Forums",
+        "\"Annual Meetings and Business Forums\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-733aaf3d2f35",
+    "title": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa",
+    "headline": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa",
+    "summary": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUpIVF93cV8xNzBTb2ZJZU5KeXJ6cnpxdzhSQ1lBLUttanZZN2VndnVhQWFHX2tTOVlKSTJ4Q19LX3JvSDVxem9NUnFNdGxaX0RXYlFSNVdGa250XzhrdGE2N2VFVnQzNjBYZzl3ejk1T3hiVmt0VTJabEtHTVdiOVNreUp5VEpHX1YzdlNncTdxRkVUZWVRN1d5aGNRVWhVREl2MEFFVXJRNUFJSUhXSHVYNVBaRjZYOXJJa1otVy1lS2hxSi02aFQ1TlYxLVdD?oc=5",
+    "source": "Business Insider Africa",
+    "sourceType": "news",
+    "published": "2026-10-27T11:08:59+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 49,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north Business Insider Africa",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 45,
+    "researchLevel": "L2",
+    "researchLevelName": "Investigate",
+    "researchPriorityReasons": [
+      "investment/financing"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": true,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 7,
+      "maxSources": 9
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L2",
+      "researchLevelName": "Investigate",
+      "researchPriority": 45,
+      "researchQueries": [
+        "\"Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa\"",
+        "Morocco Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-5fb3f1095596",
+    "title": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
+    "headline": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
+    "summary": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts Menafn",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2ZhYzNwNUdzVHZrVVZBd0p1SHVzRmJXVzdVMC1wTlFFb2FFeVJIRFkzQmxHYkNyY0otbVJubnNDSW9zeHNtVHU2ODNoMzR1bWFoRllQaEs3ZTd1Yjhua0FHU014WnRESGNQVEd1TktkSzNtQ0poY09zV2UyNmFoelpQN0k5cnpxQ29jaGtjdVRUT1hhUnE0VFhGR0xIZFRsZTdYN21tNEFjaVRTVFptZVgxU0Z5RjQ?oc=5",
+    "source": "Menafn",
+    "sourceType": "news",
+    "published": "2026-10-26T06:27:57+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "BESS",
+      "Grid",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 56,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts Menafn",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 67,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.67,
+    "filterReason": "1 event indicator(s); 3 technology indicator(s); quantitative detail",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 70,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "major project scale/strategic infrastructure",
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": true,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 70,
+      "researchQueries": [
+        "\"India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn\"",
+        "Morocco India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
+        "Morocco pumped storage hydro project contractor"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-fe2291c2f3c6",
+    "title": "Environmental and social sustainability",
+    "headline": "Environmental and social sustainability",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090779+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Environmental and social sustainability",
+        "\"Environmental and social sustainability\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-01053c022a0e",
+    "title": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
+    "headline": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
+    "summary": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race GreentechLead",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa3RVVUo5S2hzNDB3dFZLam9KYlBPV2lsVlF1ckIzaHNqZDVGREVQaTF5M25za3B3ck1aeENITG1oWFVSQXpjX0t3OXp4dzNOOXVTR1JTQmhOQ1ZMdGNQYVNWV3VxT3ZFcmExR1FJcmJWRjc1aGJmelJEQWxicm9TYjB4SUhlYTI5VVJJbnpMQU8yMGlXd0JzRWxseUJ5TE5xcl9YaWV3MmJxdHc0V25oZUxPVFVCbnRvRnVLOUpxUUhUT1VPWC1RYTJxNXVKQVNoOVMzdDg4cHV3dkZTaFZPWjFRNU9tVEl0ZTVDWjUwWFUybzZXODk1Qw?oc=5",
+    "source": "GreentechLead",
+    "sourceType": "news",
+    "published": "2026-10-16T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Hydrogen / PtX",
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 48,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race GreentechLead",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 51,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.51,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 45,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 45,
+      "researchQueries": [
+        "\"Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead\"",
+        "Morocco Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
+        "Morocco green hydrogen ammonia project investor contractor"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-9cdf28a9cc9e",
+    "title": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports - Construction Review",
+    "headline": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports - Construction Review",
+    "summary": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports Construction Review",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRmxwZ0lFZUdnVUtjeklLM0tlX1h6UktBc1pIY1R0ZUFvRThJb2hBc0V2QWVwQ0t1Z2c2T3AwSTQ2UjZUTVJNY1ZEVVlWRERwa3VGWkMwNk0tcGtxWWprQ3BibW51bWhZVnRTQkxwOHdQenk0bW0xcWRvZmpzTm1MbWItNTM0WHlZLTNvOThNU000NDRfZlNIQ25uZ0E1cXZVbGVSZnJCbmlkYkoyR2JIcXJKYUF1bFlrOFhSX0t5OUc1NWFwWEdTUGVVWGJpVHUy?oc=5",
+    "source": "Construction Review",
+    "sourceType": "news",
+    "published": "2026-10-19T13:42:57+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Solar PV",
+      "Manufacturing"
+    ],
+    "signalType": "project milestone",
+    "projectStage": "construction",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 47,
+    "actionabilityScore": 34,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports Construction Review",
+    "whyItMatters": "Project Milestone signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 47,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.53,
+    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
+    "aiReviewed": false,
+    "project": null,
+    "researchPriority": 42,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-818b4602828d",
+    "title": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing - The China-Global South Project",
+    "headline": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing - The China-Global South Project",
+    "summary": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing The China-Global South Project",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1UxRzIxMVBOMFdNN18tSlYzUmI3dmx5ajUyaHZaR3hqb3pIdHptcjF6aHhYcjN0Rm1lN2NWWVlvblA3YWVDTzV0RUtqZWo0TmQ5aVpkcjk1MDRrWU1xU0VLNnhqV1lzWHp6ZlBQZ2FwYzRxYUJtWnZtRkVibzFXV2liVDNzbDRzcFhFZ2ZlMkRNZHZ5eEhMZlNNcjYzNDhmSzE1a3AwVW5OUQ?oc=5",
+    "source": "The China-Global South Project",
+    "sourceType": "news",
+    "published": "2026-10-15T07:00:00+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Manufacturing"
+    ],
+    "signalType": "project announcement",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 45,
+    "actionabilityScore": 32,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "news source",
+    "evidenceSnippet": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing The China-Global South Project",
+    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": false,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 40,
+    "researchLevel": "L0",
+    "researchLevelName": "Monitor",
+    "researchPriorityReasons": [
+      "project development"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 0,
+      "maxSources": 0
+    },
+    "researchEligibility": {
+      "eligible": false,
+      "willResearch": false,
+      "reason": "L0 monitor-only",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    }
+  },
+  {
+    "id": "sig-336f961408b6",
+    "title": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
+    "headline": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
+    "summary": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnBKQmRNOFNtSWx3STB0NWNNaF9ZYW83TnpOYzNFLTRuMi1TZ2U2X2wxZlRIaHJ2WW80UjhDUGxNQURjTW90emhjNGpLcjdneHJQNTR1OUNvZERKR09tV3RpNTZEWkE4WFlGUjhUVmZxNEE0cF8zaS1vcE1uQ3FpMkYyekJVMFlUWTJiUUxTclJmZ1dTSzNCSFV3OG02YTlSZ3p1SnJ3NDJra2RodHVwbzlEbzVsUDhuZDczZDI2Q0dDN2dtRGVOUHBuTFFpV0gtM1cyeQ?oc=5",
+    "source": "Business Insider Africa",
+    "sourceType": "news",
+    "published": "2026-10-23T10:08:58+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "project milestone",
+    "projectStage": "construction",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 56,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "new",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book Business Insider Africa",
+    "whyItMatters": "Project Milestone signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 52,
+    "filterDecision": "KEEP",
+    "filterConfidence": 0.52,
+    "filterReason": "1 event indicator(s); quantitative detail",
+    "aiReviewed": true,
+    "project": null,
+    "researchPriority": 58,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "project development",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 58,
+      "researchQueries": [
+        "\"Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa\"",
+        "Morocco Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
+        "Morocco Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa official"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-4ef4388b817e",
+    "title": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com",
+    "headline": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com",
+    "summary": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTJHT29XS0ZfYVJGZThYWjZyZGhuVGZ4V3Z3dVdCRUlPVVNTSHdkdFFmVmVkazZlMXNOVEZ1OW1rVmpHYkJYbDdibl9xQ3djWnU2RHlzbjhqaUMyalhSQjhxWUUtU1JVQTcwLXpUcEtnTTRnNWpqZXNLQ3p4c2NhcmV3MXlQRjQxU3NOTmhhallyRTBzTEZWOVVjSXV0YlNRSHJRV3lWZnVaby1xUzU2bUVCTlZ2aWRucWV3WUlrQVh6ai1Za3ZLNXBVczczQXNvU2VGVlRFZEZOOENZMHM1b3h3?oc=5",
+    "source": "Big News Network.com",
+    "sourceType": "news",
+    "published": "2026-10-26T18:35:00+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment",
+      "Manufacturing"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [],
+    "competitor": null,
+    "relevanceScore": 49,
+    "actionabilityScore": 35,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal Big News Network.com",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 42,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.58,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 45,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": false,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 45,
+      "researchQueries": [
+        "\"India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com\"",
+        "Morocco India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com"
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-7ab2c46b570e",
+    "title": "Telecommunications, media and technology",
+    "headline": "Telecommunications, media and technology",
+    "summary": "",
+    "url": "https://www.ebrd.com/work-with-us/procurement.html",
+    "source": "EBRD procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:14.090802+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EBRD"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EBRD\" Morocco Market intelligence",
+        "\"EBRD\" Telecommunications, media and technology",
+        "\"Telecommunications, media and technology\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EBRD"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-cfa37ba5c7fa",
+    "title": "EIB Group impact: Boosting GDP and jobs",
+    "headline": "EIB Group impact: Boosting GDP and jobs",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327362+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" EIB Group impact: Boosting GDP and jobs",
+        "\"EIB Group impact: Boosting GDP and jobs\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-4bfdf9222451",
+    "title": "Investments in infrastructure and environmental funds",
+    "headline": "Investments in infrastructure and environmental funds",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327384+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 62,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 62,
+      "researchQueries": [
+        "\"EIB\" Morocco Investment",
+        "\"EIB\" Investments in infrastructure and environmental funds",
+        "\"Investments in infrastructure and environmental funds\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-fe522f0a4e9e",
+    "title": "Investments in SME and mid-cap funds",
+    "headline": "Investments in SME and mid-cap funds",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327385+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Investment"
+    ],
+    "signalType": "investment",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 55,
+    "actionabilityScore": 40,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 30,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.7,
+    "filterReason": "1 event indicator(s)",
+    "aiReviewed": true,
+    "reviewQueueReason": "1 event indicator(s)",
+    "project": null,
+    "researchPriority": 62,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "investment/financing",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 62,
+      "researchQueries": [
+        "\"EIB\" Morocco Investment",
+        "\"EIB\" Investments in SME and mid-cap funds",
+        "\"Investments in SME and mid-cap funds\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-ddd597342890",
+    "title": "EIB Group Complaints Mechanism overview",
+    "headline": "EIB Group Complaints Mechanism overview",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327374+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" EIB Group Complaints Mechanism overview",
+        "\"EIB Group Complaints Mechanism overview\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
+      ],
+      "facts": [],
+      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
+      "interpretation": "The signal was researched according to its assigned adaptive level.",
+      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
+      "recommendedActions": [
+        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
+      ],
+      "overallConfidence": "LOW",
+      "unresolved": [
+        "Insufficient public evidence to verify the material claim."
+      ]
+    }
+  },
+  {
+    "id": "sig-6a1c13521f4f",
+    "title": "Shared management funds and financial instruments",
+    "headline": "Shared management funds and financial instruments",
+    "summary": "",
+    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
+    "source": "EIB technical assistance procurement",
+    "sourceType": "official",
+    "published": "2026-10-29T20:20:12.327391+00:00",
+    "detected": "2026-10-29T20:20:14.129648+00:00",
+    "categories": [
+      "Market intelligence"
+    ],
+    "signalType": "market movement",
+    "projectStage": "monitoring",
+    "entities": [
+      "EIB"
+    ],
+    "competitor": null,
+    "relevanceScore": 43,
+    "actionabilityScore": 31,
+    "noveltyScore": 0.0,
+    "status": "review",
+    "evidenceLevel": "multi-source enriched",
+    "evidenceSnippet": "",
+    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
+    "fichtnerRelevance": "WATCH",
+    "qualityScore": 25,
+    "filterDecision": "REVIEW",
+    "filterConfidence": 0.75,
+    "filterReason": "plausible signal; requires review",
+    "aiReviewed": true,
+    "reviewQueueReason": "plausible signal; requires review",
+    "project": null,
+    "researchPriority": 43,
+    "researchLevel": "L1",
+    "researchLevelName": "Verify",
+    "researchPriorityReasons": [
+      "DFI involvement",
+      "limited Morocco context"
+    ],
+    "researchTriggers": {
+      "fichtner": false,
+      "moroccoContext": false,
+      "competitor": false,
+      "competitorMove": false,
+      "marketEntry": false,
+      "tender": false,
+      "award": false,
+      "dfi": true,
+      "dfiDecision": false,
+      "majorProject": false,
+      "consultingPotential": false
+    },
+    "researchBudget": {
+      "maxQueries": 3,
+      "maxSources": 5
+    },
+    "researchEligibility": {
+      "eligible": true,
+      "willResearch": true,
+      "reason": "missing/stale/old-engine enrichment",
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
+    },
+    "enrichment": {
+      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
+      "researchedAt": "2026-10-29T20:20:44.046942+00:00",
+      "status": "ai-enriched",
+      "researchLevel": "L1",
+      "researchLevelName": "Verify",
+      "researchPriority": 43,
+      "researchQueries": [
+        "\"EIB\" Morocco Market intelligence",
+        "\"EIB\" Shared management funds and financial instruments",
+        "\"Shared management funds and financial instruments\""
+      ],
+      "sources": [],
+      "sourceCount": 0,
+      "project": null,
+      "entities": [
+        "EIB"
       ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
@@ -12078,315 +17407,6 @@ export const signals = [
     }
   },
   {
-    "id": "sig-li-d15e0336abc392",
-    "title": "Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
-    "headline": "Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
-    "summary": "Morocco Aerospace Exports Target $5 Billion by 2029 LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeDBJZUw3b2p6SHdwd1Q5c19sVWFrdW5ZMFRSd2VJRnN4YW5NOHVOSjl0dURESzdicnF6MFNkSW91S2NfajNQc0NBeTVQdFJMVVpkbVRsMURsWWNtaVpKSXB2VEVHZ2R1dFpqMF91UUxqVkd1bGplajd6TV9WbUhrSmZQTHpBeW5iVmpFTDFra2p4ZlJzZUhsN09zSGZsRWRDNnd4Ymo2TTByeURCcnVkVlRTbGRtaVdEZFE?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "World Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
-    "published": "2026-10-12T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "World Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco Aerospace Exports Target $5 Billion by 2029 LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 93,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "DFI involvement"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 93,
-      "researchQueries": [
-        "\"World Bank\" Morocco LinkedIn Market intelligence",
-        "\"World Bank\" Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn",
-        "\"Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn\"",
-        "Morocco Morocco Aerospace Exports Target $5 Billion by 2029 - LinkedIn"
-      ],
-      "sources": [
-        {
-          "title": "Morocco’s AI Paradox: Exporting the Technology, Barely Using It - The North Africa Post",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3JfU1EtQVdoZndhNEM2UzF4Sy1Kd21SbHdsNE9qQ1IzQ01wSG9jTDk5WURObmd0MjRfUWV1S2hNazJ2bmxlNTY5WU5BWTE4WW9ETUQwYkxmNFgwYndfNTk2UThyNHBkUjJBVG9VQl95THBHOVE1WlJNZ3RsUTgxUWZ6OEJuNWZ2VktROTJQS1hNN0NaNGJpbjI4UzZSQTRMRmc?oc=5",
-          "snippet": "Morocco’s AI Paradox: Exporting the Technology, Barely Using It The North Africa Post",
-          "source": "The North Africa Post",
-          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3RLVjNUbUdsazNuenAza1dqWnBOM2NVS3MyaFZ4WWR1Ulp3M2Vwek15YVJuMXByVzBibm5rNUlkQm1oTERZbU81a1RpVVVLX0ZrNzQ3TE1oUEotR3pVc0hrbFJpQW5vRjNPZWgwQlNzQ2RCMFBhanFqamFqN2NSR3lkbnBEbGthaUFuRm9VVzg3T09NMGVmRWdfd2VoVlB2YkczcGZMMWhLTE9hQ201SmIzSUtyVi14SUFaVEh3aTR1Unk3c2tRQlJWTzNrekU?oc=5",
-          "snippet": "Record-Low Rhine River Levels Hit Europe’s Trade Arteries as Dry Spell Continues Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa Automotive Market Size, Share, Growth & Trends, 2034 - Market Data Forecast",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IdUpqLUwwMU1pOGYwdVpENTVpX3NxMnV4OHhmV0c4eTdTcm84aTYtX2tOUDd3dFJrVlRzbF9qVGpxZ0FxYm1pMTVMZW9COFhEQmIxSlR0dHFvU2lEcU9SeHRCZFE1eTJsSk5pUmJITVMyWHQ0VWJaUXQzeHlHVnM?oc=5",
-          "snippet": "Africa Automotive Market Size, Share, Growth & Trends, 2034 Market Data Forecast",
-          "source": "Market Data Forecast",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 6,
-      "project": null,
-      "entities": [
-        "World Bank",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-480acecb15e3e6",
-    "title": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
-    "headline": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
-    "summary": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmtHZ0xHRnY4T2JtYjhiTHFGT2NqRlBYNXF1QWZQRHVVeHQwVDNuQld1cFFsVHB6LXlWNi1ERElrWjZIV0REVUMzWUFLeGcxYTdJS1V6NWIwejdHWDVCeGdrUVNPMzBMRllMeWVHNEMweFplVmxVVjloTHppa0ZSdGdIRTM2Y3c3c1prZUZmUTNzTktHcDVMZWxveUU3Wk9NUFdta05RU1FhZkFodlNUOEY4Y2NDc1l6M1Z1dGdFTFg?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "World Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/the-world-bank/",
-    "published": "2026-10-18T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
-    "categories": [
-      "LinkedIn",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "World Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from World Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "investment/financing"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"World Bank\" Morocco LinkedIn Investment",
-        "\"World Bank\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Investment",
-        "\"Morocco\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn",
-        "\"After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn\"",
-        "Morocco After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn"
-      ],
-      "sources": [
-        {
-          "title": "World Bank: Women’s Investment Can Unlock $22.9bn for Nigeria - Voice of Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGJiVUpucldfZ2RwMVZzMG1vZFVTX0ZtbURBbXFodWdZMUJHZnhQRnJERjdzZ3NXOVZsT2MxbUc0WVJJZFdRVEV5ZEhOajQ0UngzNll5cS1tZ1RTTEgtWlo5SXpTV25uUWpfWjZQRTRYS0lBbzJacUFTd250d2NxYWU2UVc?oc=5",
-          "snippet": "World Bank: Women’s Investment Can Unlock $22.9bn for Nigeria Voice of Nigeria",
-          "source": "Voice of Nigeria",
-          "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "[Op-Ed] From concrete to technology: Morocco’s next economic challenge - Telquel.ma",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHpVb1phMUVMTno2Nlhrc3UzN0xkMEk2b2NwX19ObzVUbThFT1J2bnZJUGk5eXJjdGtMUFZPempWZnlqTnpyX1VRUUc5Q3VROEZEaTJnTVAzb2ZjN2Nqc0VtRnF1cmVOb2xBc3lxZEE2VTIwUmpUYkROeWxEMFUwdWdzRXJhdzFnRlJHV1lHSXJPWTdQdUdKN19QN1FGR0FuOU9QZG80V0JJLXZYSGozOA?oc=5",
-          "snippet": "[Op-Ed] From concrete to technology: Morocco’s next economic challenge Telquel.ma",
-          "source": "Telquel.ma",
-          "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" After two decades of massive investment in infrastructure, Morocco now has a solid physical foundation. But to reach the next level, it must transform this logistical strength into industrial and technological capacity. This requires more strategic government proc - LinkedIn"
-        },
-        {
-          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
-          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
-          "source": "Bloomberg",
-          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
-          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
-          "source": "Euronews.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
-          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        }
-      ],
-      "sourceCount": 7,
-      "project": null,
-      "entities": [
-        "World Bank",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
     "id": "sig-li-6fec8ad8c5f1d9",
     "title": "The World Bank Group's Offshore Wind Development Program, in partnership with GWEC, brought together technical leaders from Brazil, Colombia, Mexico, Morocco, the Philippines, Türkiye and Vietnam to learn more about offshore wind grid integration and t - LinkedIn",
     "headline": "The World Bank Group's Offshore Wind Development Program, in partnership with GWEC, brought together technical leaders from Brazil, Colombia, Mexico, Morocco, the Philippines, Türkiye and Vietnam to learn more about offshore wind grid integration and t - LinkedIn",
@@ -12724,3781 +17744,6 @@ export const signals = [
     }
   },
   {
-    "id": "sig-li-b98a0f39195bdf",
-    "title": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
-    "headline": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
-    "summary": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHZlVENRcm04Tkl2aXBIblpJZnVZWEljcE5PcGNpNzVPZk9LZ1Q3TUdXRVpXZXFCMEU5am5kak4wYmdlN3B5ZHpzc1A5SUwtbEl2UUdUaHJMY240S3FLM3RYUElOWUtweG1vLWZQMGJqbkZJZW9xazZaNm9Ra3ZfRV96T0k3dFB4VzlybXJ5YkZuNm9KSTRNQ3F1WWd0UGZkaF9hRGVmOGVLVGprZ3ZNTlM5Qzl5dkE1TWhZaV9vcW1XSVc2WU5N?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
-    "published": "2026-10-27T19:33:31+00:00",
-    "detected": "2026-10-29T14:22:41.837937+00:00",
-    "categories": [
-      "LinkedIn",
-      "Hydrogen",
-      "Solar",
-      "Wind"
-    ],
-    "signalType": "partnership",
-    "projectStage": "monitoring",
-    "entities": [
-      "Ministry of Energy Transition and Sustainable Development",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 79,
-    "actionabilityScore": 84,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 79,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "project development",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Hydrogen",
-        "\"Ministry of Energy Transition and Sustainable Development\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Hydrogen",
-        "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
-        "\"Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn\"",
-        "Morocco Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn",
-        "Morocco offshore wind MASEN EIB feasibility"
-      ],
-      "sources": [
-        {
-          "title": "Synthetic aviation fuel projects advance in Europe, Africa, US and China - GreenAir News",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Xbm9yZDQtd2NfOUZoeEVnTUhDTjB6WVM1WFRQRVFmTGRJVk5vOFBmQUVkTkg5S2ZkYmRhYnROcFZiU3V4SlM4MkMyNEg?oc=5",
-          "snippet": "Synthetic aviation fuel projects advance in Europe, Africa, US and China GreenAir News",
-          "source": "GreenAir News",
-          "published": "Tue, 29 Sep 2026 09:04:07 GMT",
-          "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Hydrogen"
-        },
-        {
-          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
-          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
-          "source": "Egypt Oil & Gas",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Hydrogen"
-        },
-        {
-          "title": "Geopolitics of the Energy Transformation: The Hydrogen Factor - IRENA – International Renewable Energy Agency",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHNqd2RBQTlfWDRqY3VPeEN1bG5CaWlNcTUtN1paLTFtMkdFTnlUZ3VsZlNDNjVkVTNGWEJFZUZTcGFvZV9sOFJreDBabVhtNmFQb3QxMENneWwwdVBjNE12eWR4b01ScElwbGdvdzVzRW9DcUtYZ0ozT3g0dnRxX1MzQQ?oc=5",
-          "snippet": "Geopolitics of the Energy Transformation: The Hydrogen Factor IRENA – International Renewable Energy Agency",
-          "source": "IRENA – International Renewable Energy Agency",
-          "published": "Thu, 17 Nov 2022 07:37:39 GMT",
-          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
-        },
-        {
-          "title": "Renewable Energy in Ukraine: A Solution for European Energy Security and for Shifting the EU GND Eastward - GLOBSEC",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU21Rc2QxOG9hMmJRdzR5Z2VEZ3JUbGtoakQ1QzdRT01MYzltb3VHLUstMmlYX3NhaUFCbXcySm1PbHRpeVdlcS1kQS1ZbmZyWkNYLTFXSWs0QTF4cmZyR294Zm55RV9taTMxaG9nWWJPTGYzOTVpbWNMSVA2enVKeDE1THRLbXlsdVZ4UF9UdDNST2c2WHI3Z0dBRlAtWlVIZ0U3bndsdmpnWlZzcHFGNWh6eHVaMnFlbHB4N1R3?oc=5",
-          "snippet": "Renewable Energy in Ukraine: A Solution for European Energy Security and for Shifting the EU GND Eastward GLOBSEC",
-          "source": "GLOBSEC",
-          "published": "Fri, 26 Aug 2022 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
-        },
-        {
-          "title": "In-depth Q&A: Does the world need hydrogen to solve climate change? - Carbon Brief",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ19scDBwN3N2VHRzR1JLWGpqdGFYQ2FGWDdOdU00cEh2RGJEVUotUmFSRVNFWU5oR1dBSWFxMTRBaVhJTTFEVk5IWWwzanBrbENiV0FrNFNHZEpKbGRBT3YxUjBOTk9icFV5VG5wYVJDOGdITUFyX2tlSVZ5SGlHa2hlWm45QXlhRlpLNVRFcFdsUlVyTWlN?oc=5",
-          "snippet": "In-depth Q&A: Does the world need hydrogen to solve climate change? Carbon Brief",
-          "source": "Carbon Brief",
-          "published": "Mon, 30 Nov 2020 08:00:00 GMT",
-          "query": "\"Morocco\" Morocco has the sun, the wind, the biomass, and the ambition. So what are we still missing? Solar, wind, green hydrogen, biomass… Our country has enormous potential. But potential alone does not guarantee progress. The same faces, the same ecosystems - LinkedIn"
-        },
-        {
-          "title": "European Investment Bank backs feasibility study for Morocco's first offshore wind project - Offshore Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NOTVd2b2JOY2t5Y2MtOUFSM09BdExfQ3RCTDdUWENsY3o2TXJkMkVTcl85TGNXSzZEQkIyVnpjcXJsRk81NG5mSUNyMklIb2ZMSnNTdVJnQkhnNDc1VXFURnNiR0VzZ1R0RWdOSXFGdktnYkFOU19JRlpNeER6R1l6RU9zamtvWWJFTTBlRlRhaWJ0c0hrMTNJMTlWRjV4UW9WS0FTbnFqZFZQUmY4cGpRby1NQWVuZ1EwbVY4bG5CczV6MUI3d0piWEVuWTh2QmZUbk9waVUwQWhVWkxfMkZTdF9FMkwyS3dmalFn?oc=5",
-          "snippet": "European Investment Bank backs feasibility study for Morocco's first offshore wind project Offshore Magazine",
-          "source": "Offshore Magazine",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
-          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
-          "source": "Offshore Wind",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - Riviera Maritime Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development Riviera Maritime Media",
-          "source": "Riviera Maritime Media",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        },
-        {
-          "title": "OWC wins EIB contract for Morocco offshore wind study - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVB1LWZPM0ctbUptbElXbDB2ZXVTbTZVdkRwNmNUSkdIbFlHS2lUMWNyTWpWMXBpQmlQY3JWUjF5VXV5amNORTZGTmxsT3p2cEpYQWhYd2ZKb3hUdHJDa1EwX0hHWFZvVlQwWlVVRHpyY0Z5T3dETV9hallYeXVWbVk5NFFaaU5HMlVZMXQ5c3VUeE4yWWpqaA?oc=5",
-          "snippet": "OWC wins EIB contract for Morocco offshore wind study Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "Morocco offshore wind MASEN EIB feasibility"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "Ministry of Energy Transition and Sustainable Development",
-        "Morocco"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
-    }
-  },
-  {
-    "id": "sig-masen-solar-measurement-12-sites-20260918",
-    "title": "MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
-    "headline": "MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
-    "summary": "MASEN is relaunching a solar-resource measurement campaign covering twelve sites in Morocco for future photovoltaic plants. An expert will be recruited through a tender; the campaign is planned in two phases of six sites, with six solar meteorological stations and 24 months of measurement per site. MASEN tender reference 14/Masen/2026 has a submission deadline of 1 October 2026 at 16:00.",
-    "url": "https://lematin.ma/economie/masen-relance-sa-campagne-de-mesure-solaire-sur-douze-sites/365724",
-    "source": "Le Matin",
-    "sourceType": "news",
-    "published": "2026-09-18T10:42:00+01:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Solar PV",
-      "Procurement",
-      "Project development"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "MASEN",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 98,
-    "actionabilityScore": 98,
-    "noveltyScore": 1.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "MASEN is relaunching a solar-resource measurement campaign covering twelve sites in Morocco for future photovoltaic plants. An expert will be recruited through a tender; the campaign is planned in two phases of six sites, with six solar meteorological stations and 24 months of me",
-    "whyItMatters": "High-value Morocco renewable-energy development signal requiring monitoring and follow-up.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 98,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.99,
-    "filterReason": "Deterministic strategic seed: high-value Morocco renewable-energy signal",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "project development",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"MASEN\" Morocco Solar PV Procurement",
-        "\"MASEN\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
-        "\"Morocco\" Morocco Solar PV Procurement",
-        "\"Morocco\" MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
-        "\"MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques\"",
-        "Morocco MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques",
-        "Morocco solar PV project contractor tender ONEE MASEN"
-      ],
-      "sources": [
-        {
-          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
-          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
-          "source": "pv magazine Global",
-          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
-          "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
-          "source": "Pumps Africa Magazine",
-          "published": "Thu, 22 Oct 2026 03:20:47 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
-          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco: Solar PV firm to list in Casablanca - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazgwS3A5cFR1UnZoRExrVE9sOVJkcWdJRU9iSUVtYjVjRXo4UVhEUFFxbXZ4NHI4WmI1REpCbi1Kc2V3QkNIYW1wLW81QW1qUWpIZlFRVFVHTG5vWkh5endKa2hMWlNBQ1o3ZlZWckgxN2hWMDRjZmhCUnNHejc3azJ5bGFwOUo0SUNBaVFSNlI?oc=5",
-          "snippet": "Morocco: Solar PV firm to list in Casablanca African Energy",
-          "source": "African Energy",
-          "published": "Wed, 28 Oct 2026 14:26:47 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
-          "snippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
-          "source": "https://www.mvapulse.com/",
-          "published": "Mon, 19 Oct 2026 13:32:17 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco seeks EPC, O&M contractors for 350 MW NOOR PV Multisites solar programme - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcmUyMjE3Sk90R0kyeW9kQWNuQzdiQm5WLUdqbmhLMmh2M1FvbWRSWDE4MXl6Tm5mYkUtMGRkMHdmRF9ldWY5YWpkZktDeUFtczVoWHBMeDhkU3F5QTVzY2RfQlJRZEhTN2JSb3l5SmNKaDY2N2JVUXB2WHlYc2gzWktrcnFIVkhuUFNNVnU0WUdJLTRoaGVHT2dIeXJJdm1LWnJtTXdXS3FRYzZNYzBGZlp0aThNSmRSN2ptT1pBYnE5TzRtQURiMVZmTE1yWjVqWjVHcWdKMHQwY0JVbERhcnRCZ3EydmVENWc?oc=5",
-          "snippet": "Morocco seeks EPC, O&M contractors for 350 MW NOOR PV Multisites solar programme TradingView",
-          "source": "TradingView",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender - The North Africa Post",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMklHbkJqckRlcGRaa0VaRlV4Y1NKbk0ya2k0OElVRUMtNG5zUHI0dkxkTE1EMHFNdnlfUDFyQXFuQ0pvNkI5SWZMeks3ejdoNzJVS2ZJLUNEWGotQU1KcmdiY1N0ekZKMTVZTnhnMGVPZnFHUGQ2cWQwOHoyaENRb0dsaWNTcUg2UVpnbk9RRWNpT1R0NHRBcHlPNEc1SWwtZnVraFdn?oc=5",
-          "snippet": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender The North Africa Post",
-          "source": "The North Africa Post",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco Solar PV Procurement"
-        },
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "MASEN",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-rina-morocco-market-entry-20260901",
-    "title": "RINA strengthens its presence in Africa with the launch of RINA Morocco",
-    "headline": "RINA strengthens its presence in Africa with the launch of RINA Morocco",
-    "summary": "RINA officially established RINA Morocco SARL to strengthen its local presence in Morocco. The company says the new entity will support energy transition, green hydrogen, infrastructure, mobility, ports, logistics, industry, sustainability and consulting services.",
-    "url": "https://www.rina.org/en/media/news/2026/09/02/rina-morocco",
-    "source": "RINA",
-    "sourceType": "news",
-    "published": "2026-09-01T00:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Investment",
-      "Hydrogen / PtX",
-      "Market intelligence"
-    ],
-    "signalType": "market entry",
-    "projectStage": "announcement",
-    "entities": [
-      "RINA",
-      "Morocco"
-    ],
-    "competitor": "RINA",
-    "relevanceScore": 98,
-    "actionabilityScore": 98,
-    "noveltyScore": 1.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "RINA officially established RINA Morocco SARL to strengthen its local presence in Morocco. The company says the new entity will support energy transition, green hydrogen, infrastructure, mobility, ports, logistics, industry, sustainability and consulting services.",
-    "whyItMatters": "High-value Morocco renewable-energy development signal requiring monitoring and follow-up.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 98,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.99,
-    "filterReason": "Deterministic strategic seed: high-value Morocco renewable-energy signal",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 100,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor market-entry signal",
-      "consulting/advisory potential",
-      "investment/financing"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": true,
-      "competitorMove": false,
-      "marketEntry": true,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"RINA\" Morocco Investment Hydrogen / PtX",
-        "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco",
-        "\"Morocco\" Morocco Investment Hydrogen / PtX",
-        "\"Morocco\" RINA strengthens its presence in Africa with the launch of RINA Morocco",
-        "\"RINA strengthens its presence in Africa with the launch of RINA Morocco\"",
-        "Morocco RINA strengthens its presence in Africa with the launch of RINA Morocco",
-        "Morocco green hydrogen ammonia project investor contractor",
-        "Morocco Power to X tender project",
-        "Morocco pumped storage hydro project contractor",
-        "Ifahsa pumped hydropower storage Morocco",
-        "site:worldbank.org Ifahsa pumped hydropower Morocco"
-      ],
-      "sources": [
-        {
-          "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa - Hydrogen Fuel News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTBKa0I4S3JhUWNLNkV1QWlQSGVYbUNpeGRQYjY0d3JtOWlJNmpKY0hqZF9sS2ZUc0tHOTRBUVRJWDVvNVBpWllhVlRucDR1ZnJzbEVKVWdSdlZ4cDNTR2U4UkE2bDRrNm82Zm1OZEk2NmhtMlJ2QWRTM1c3Nk10cTdMRjJfTVFQeHE4LUY3M3QxWVdUb2FhYkx3NUg0VVFRNUJGUTVnQWtRX0JLQm5nYkdQNkdXTTdudHo5YWxzcw?oc=5",
-          "snippet": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa Hydrogen Fuel News",
-          "source": "Hydrogen Fuel News",
-          "published": "Sat, 12 Sep 2026 07:00:00 GMT",
-          "query": "\"RINA\" RINA strengthens its presence in Africa with the launch of RINA Morocco"
-        },
-        {
-          "title": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE1YNDZwd1E3aHF2eENxVzFPcXlKUWNZeFFYdHRNLUQ0cFFYVE41d3ZVbXgwUkJBTlZ6NUFjZU1oeUljblZYVVNFRTgyZXRqRnhWM0RHZWhsWGxIMERMcGVzVEE2cTgwdDZta2FaMlpGLVNWTTQydTdSMDZLR0JISmcwbnFpUXhWM0E1NXZQWQ?oc=5",
-          "snippet": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? Yahoo Finance",
-          "source": "Yahoo Finance",
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive - Africa M.E.",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRfTWxuOHlRLS02dWVGSnFLOHRJQkFTQUtqR3ZRekt5dFFkZ0tGX2hLcWpXUHk0SC1Ya1pQaTZfekVUNzN1NlloQVVmYzkxYkN1NnlWMUxfbE1CLUxUVXBjalllVUpxa2dPOVFHYXV5NWUwQlMzbnJJWk5WUU5iRUVZRUVjYU5xRkk1cVN3?oc=5",
-          "snippet": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive Africa M.E.",
-          "source": "Africa M.E.",
-          "published": "Wed, 14 Oct 2026 06:25:10 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnZ4NU1vM2hla1IxTldBbHBCYjZqdExjM2JpNGI0cEdueTIwaU9ERzBBVnNJb29fTXFOMVhrOVhURWpuQ2dycjlpazhfb2VjMFNrZWpwbmhQWk81c05yQVl3X1NCemFHX2FaRWtla2tCc29WQVJOZHM4Q0FnbEZsRTJCbWF2NXhnYUcwYkp4NzAtVzltdVBkUTdGa3ZteHZQbGhYbzRmakExbXo1N04wVXlMYTRpU0M0RFd6cDBsbzJ6SWVJTHdRTjVzRkpDSXZka1lHVzAxdGpkVGpaMGxHMg?oc=5",
-          "snippet": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZMSHF5Z2lfS0dYcnBfSGtTQ0ZIaFFwUkIxaDZsVkpOX2xTQU1BVjhZS2VsTkMzV0pGcVFiN1I1QjFDUDlacXhWOWh4VHlMM09fdUNtQkp0OVpvbEJxUWhpTGdqbnpramVvUjBNZFFJTUhCVmhSRzFrV2pFaVQ1Rlp0OGd4OFUxNWRjZDZzeVQta3R6bldVRlNobkpLVmFta2R3NHlpeVRGU095eUw5NkV2Zmc2NGo0YzcxSTVRUQ?oc=5",
-          "snippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Africa’s hydrogen race is laying the foundations for an industrial future - Financial Fortune Media",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkwzWmdBZDhLZ2JaMy13eEpVUWNfQ2R4WjAwZndPcWJSZUN0TjR3Tl8wN2p5LWtxRXR3RmVscnVibFk0UUtEVWI4dl9ERUpGaHFoZGJWWUFZaE9BZjByMHJiemxMV3ZrOFAtdFREZUtVa2dXUG5QNXlSdVI0NWdNWkpDemxEVjJycWg5Ri1VMU00OWd3NlRUQ29KdGpRNnA2WmUyb0E5dmdtN1Q4OVNVQg?oc=5",
-          "snippet": "Africa’s hydrogen race is laying the foundations for an industrial future Financial Fortune Media",
-          "source": "Financial Fortune Media",
-          "published": "Sun, 16 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
-          "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
-          "source": "Pumps Africa Magazine",
-          "published": "Thu, 22 Oct 2026 03:20:47 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "Morocco launches Fez Sports Complex upgrade tender for 2030 World Cup - Yabiladi.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUExYnhjckh6cm9RTExCN2FfaFpLTmFMSlp0clZLMnN0LUJqQ3VBUmRIQ2E5YW4wa1dyMmxpdXhrOFhVazZjM1VmSE90OTlvWFJodFVJLUgycHlGMklteTFXNEFFNUZCU0hudDZVNWk0S2FTZl91Z1lrYjFLUXhwNlQzS0VfUVVJWnROa2xKT0QtamFXcGNj?oc=5",
-          "snippet": "Morocco launches Fez Sports Complex upgrade tender for 2030 World Cup Yabiladi.com",
-          "source": "Yabiladi.com",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "Morocco Power to X tender project"
-        },
-        {
-          "title": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZDhDMndtWFVBLWtqOFU4WXl0QjUwZXEzc1Z3Ri0xOW1EamlVazdSZkc1dXloRVRnWlZvOFVqVWU1OFJEaUs4aXdiOWJsT3lqMFpTYTZwemI2dmpzWldzTnF1YUN3OU5teFBSOXIzdDNjUDd0OW5UNVo5SWUxeUlsMFFKM0RlN1ZyVGI1ODZ3Q2ZVWTVfR2NCRzJTVGV3Z3NvOHpJZEpxYTJYSWtoMkhhZlJwcDVQRjgwNjhNdFNhTXJxQ3djTmc?oc=5",
-          "snippet": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion Construction Review",
-          "source": "Construction Review",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco: Utility looks to generate power from water pipelines - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2FXOWlQX2RUZlY2WWdvdTljb0VTWEdXbUxaOG50VjVuYVh1cElZeUJLb3plSGpKbUlMWTVSME9RcEhGaGJzaG5FTzN0NFdVZFdCYnVHd2xLakxUcEdZNW9nNDdJTC03ZGpEdmk5MHlPd2Y5UUhka0c3WUF0NWkwa2lkdWxUc2JyRXFtQjJxT2thSlJmRWJMUFNxUkJMTVZZdVU2SQ?oc=5",
-          "snippet": "Morocco: Utility looks to generate power from water pipelines African Energy",
-          "source": "African Energy",
-          "published": "Mon, 26 Oct 2026 16:32:03 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnR1STNBS1I4WEVZV3ZjaW5rdVprMWJQeHh4bFR6a0ZhWTVSUXg5RGRxSmxzU1NRaHJnOTdXTzUtS1B4QXdlaGgwRjZkSW53eU1DR25tNEpuWGlFbmkyQmt6X0dqR1VycXFRRXR4NVZ0ZUNzbVhPZy1pV2tNb0VhcGxrdXo3TGp6QjMwQUZpcmFqcmNhbExGVjB0WFQxYUZuV3g3QXBWZ0tnMUpybmVHNzFhdTlfM2lnQnc?oc=5",
-          "snippet": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny Construction Review",
-          "source": "Construction Review",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Ifahsa pumped hydropower storage project, Morocco - Engineering News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEk5Z3B1LXdvNDdkbWVqcUdJTFJDSjZvZ0VXckxrTl9Yb3NTSE55VDUwUThiQzYwem9fLTFaalhCMmFPRURHOEtZVnNlekZ0TWQtdVpwbVdaNVpBZzQyOUN5UlRncFNHTTZmMnJNcDNuMGoyNnlJMFQwS0tOVzlsbTk1NWJKTFhTakxMbGJaVnVPTlFPQmpRTDlLcXpCTlZ1bzN3?oc=5",
-          "snippet": "Ifahsa pumped hydropower storage project, Morocco Engineering News",
-          "source": "Engineering News",
-          "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "query": "Ifahsa pumped hydropower storage Morocco"
-        }
-      ],
-      "sourceCount": 14,
-      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
-      "entities": [
-        "RINA",
-        "Morocco"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources identify RINA as establishing a Moroccan engineering/consulting presence in Casablanca.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0
-          ]
-        },
-        {
-          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            13
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
-        "Track RINA as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "HIGH",
-      "unresolved": []
-    }
-  },
-  {
-    "id": "sig-4b6777b4d70a",
-    "title": "Annonce de synthèse de rapport d'audit",
-    "headline": "Annonce de synthèse de rapport d'audit",
-    "summary": "",
-    "url": "https://etendering.masen.ma/",
-    "source": "MASEN e-Tendering",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:37.326580+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "MASEN"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": false,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 39,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-54df338f5bba",
-    "title": "Bienvenue sur la plateforme des consultations de Masen",
-    "headline": "Bienvenue sur la plateforme des consultations de Masen",
-    "summary": "",
-    "url": "https://etendering.masen.ma/",
-    "source": "MASEN e-Tendering",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:37.326602+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Solar PV",
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "monitoring",
-    "entities": [
-      "MASEN"
-    ],
-    "competitor": null,
-    "relevanceScore": 53,
-    "actionabilityScore": 38,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 32,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.68,
-    "filterReason": "1 identifiable actor(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 identifiable actor(s)",
-    "project": null,
-    "researchPriority": 66,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 66,
-      "researchQueries": [
-        "\"MASEN\" Morocco Solar PV Tender / Procurement",
-        "\"MASEN\" Bienvenue sur la plateforme des consultations de Masen",
-        "\"Bienvenue sur la plateforme des consultations de Masen\"",
-        "Morocco Bienvenue sur la plateforme des consultations de Masen",
-        "Morocco solar PV project contractor tender ONEE MASEN",
-        "Morocco photovoltaic project award EPC"
-      ],
-      "sources": [
-        {
-          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
-          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
-          "source": "pv magazine Global",
-          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Tender / Procurement"
-        },
-        {
-          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
-          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Tender / Procurement"
-        },
-        {
-          "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
-          "snippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
-          "source": "https://www.mvapulse.com/",
-          "published": "Mon, 19 Oct 2026 13:32:17 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Tender / Procurement"
-        },
-        {
-          "title": "Morocco opens bids for 350 MW of solar projects - Pumps Africa Magazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mY19rTEd3X3JCZWVVdG1xRjYxb0tncWttUVlLUnEyNlVyMUJlNERyZmJSVEFuT1ZQOXdhaWNnZ0NFUVNLcDR0ejh1NWo0R1RSMHFWSEQzNFVWWFNBc25KN0s2UGg3MTJNRHlOMzUxdmUzMW1xU3V6a2hXWXFXZ9IBhgFBVV95cUxQbGREUnVPNl9QSmJRV1lYV2cyQlIxaElhQnl4NDVmeWhaSVhFQ1FwNUxtMW12VlB2WUdrWGFHU3E0ZzVQaVJBX3Z2UnNTN2ZfMzFFc1AzbTktcWt2R3VjeFBqNDJYcGZ1dzlBQzJaWXJNV3hydklpTTUwS2lvQVJtZ2JHWmRMdw?oc=5",
-          "snippet": "Morocco opens bids for 350 MW of solar projects Pumps Africa Magazine",
-          "source": "Pumps Africa Magazine",
-          "published": "Thu, 22 Oct 2026 03:20:47 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Tender / Procurement"
-        },
-        {
-          "title": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender - The North Africa Post",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMklHbkJqckRlcGRaa0VaRlV4Y1NKbk0ya2k0OElVRUMtNG5zUHI0dkxkTE1EMHFNdnlfUDFyQXFuQ0pvNkI5SWZMeks3ejdoNzJVS2ZJLUNEWGotQU1KcmdiY1N0ekZKMTVZTnhnMGVPZnFHUGQ2cWQwOHoyaENRb0dsaWNTcUg2UVpnbk9RRWNpT1R0NHRBcHlPNEc1SWwtZnVraFdn?oc=5",
-          "snippet": "Solar Energy: Morocco Launches 350-MW Noor PV Multi-Sites Tender The North Africa Post",
-          "source": "The North Africa Post",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "query": "\"MASEN\" Morocco Solar PV Tender / Procurement"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        }
-      ],
-      "sourceCount": 7,
-      "project": null,
-      "entities": [
-        "MASEN"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-3562b54b95b9",
-    "title": "Télécharger le règlement des achats en ligne",
-    "headline": "Télécharger le règlement des achats en ligne",
-    "summary": "",
-    "url": "https://etendering.masen.ma/",
-    "source": "MASEN e-Tendering",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:37.326607+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "MASEN"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": false,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 39,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-f364a4186557",
-    "title": "Cette Plate-forme de dématérialisation permet de :",
-    "headline": "Cette Plate-forme de dématérialisation permet de :",
-    "summary": "",
-    "url": "https://etendering.masen.ma/",
-    "source": "MASEN e-Tendering",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:37.326604+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "MASEN"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "official source",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": false,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 39,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-0e7d0c77df69",
-    "title": "Project Procurement",
-    "headline": "Project Procurement",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173770+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 73,
-    "noveltyScore": 1.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 23,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.77,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 100,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" Project Procurement",
-        "\"Project Procurement\""
-      ],
-      "sources": [
-        {
-          "title": "IsDB Group Chairman and Indonesia’s Health Minister Review Healthcare Partnership - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVE0R09BMkZHNWluM0oybjhCSDVVR090X1ZpZnlVcGpGT3dTOWRxU1lMTEhUQklIazJLeGlhU0xqelFWZzlYdVFJTTNWUC1RVDVZdUw4a04xYkE3X0ZCaFJSbUYzMHdGeGQyU3dnZW41d3RVeVJfSGdXNnRVbWdfam5VbkJjMlI4QmdrTl9laXlyWVNKWmZxWVZKLU12ZVFNdlRfdEEzUFNfdw?oc=5",
-          "snippet": "IsDB Group Chairman and Indonesia’s Health Minister Review Healthcare Partnership Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Project Procurement"
-        },
-        {
-          "title": "Advancing the IsDB–AFD Group Partnership through Co-Financing and Joint Operations - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXo0TGhuX2lxVmduVGJ4bFhRQkk1RGYyZFVEWS05M0Y0Z3VNelpZMjhpVS1Ba3hpTkR1OFNTaWZJc0JIdTNXNzNwMFJGWkZWMGFwLUdIYmd3MWVDbU9JYVByMlNLNDlWUzlBV0NnbnltSzl2QU96U0J5ZVAxSWZzUTRoYjV2UnlBVXFYYlhtQnp6OUVwa0M2RkVHYTFfVHJzZ3NUMDQ5TEZCTnRB?oc=5",
-          "snippet": "Advancing the IsDB–AFD Group Partnership through Co-Financing and Joint Operations Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Project Procurement"
-        },
-        {
-          "title": "Cameroon Eyes 20-Year IsDB Financing for CFA139.3 Billion Douala-Bafoussam Road Upgrade - Business in Cameroon",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHpqM3VqZF84MEV2OTAzdFdaUGo1bFdMWDlrMEZqZXV6YTRYZGNTdUFrZVpBeDNqNzFwQ3FBcW5aUGtOZTM4eE9RaVVzeG16aEFkWFQzcnRsY0RJZllQQVozaDAzMmtOak5TbE1jYWt6QlNjNDNLNmlNSUhmUENUb0JDOTZZeUJTMkVBRWVWV1NlQ0JUVzlxZkw2eE1sTWNteFdhTXJmR2NJd25LQmUtTDE1WFp1X0xrRjlucHVZbV9DSjhrZHpscUJkbnNQZkxYbVBiTkRVS3kzVmk3ZGx3QTVGWjFpZw?oc=5",
-          "snippet": "Cameroon Eyes 20-Year IsDB Financing for CFA139.3 Billion Douala-Bafoussam Road Upgrade Business in Cameroon",
-          "source": "Business in Cameroon",
-          "published": "Fri, 11 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Project Procurement"
-        },
-        {
-          "title": "Cheema seeks ADB action on ML-1 - The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpOEp2U3hWRVd5aVlnY0dCUGg3QXpDdk1fZ19TMmZwcnpvaUlpQ1Y0Um5WaVk2VURQdkZmTFc3S0xkcy1Md0dxdUpYOWVVYk01T1gwS29OTWI1a21PVVlxb2FPdFctLUJLbldIQVptVlB2aTBmWlRJ0gF_QVVfeXFMT0hoSkJselZuMy1fM3gzWG8zMi1Fa0pJVDdRQ1p4SHRlMUNJTEVCOXhMRS1wenZYQ2xlZnlJVEN0VmkzdUlTZkt4S1dCbHFZY3FYTFk4b3VfT3RsUmJpY0VNZkhnS09lNWQ4NTNTOUtoQ2ZHZVlvbm84QVdIb2poTQ?oc=5",
-          "snippet": "Cheema seeks ADB action on ML-1 The Express Tribune",
-          "source": "The Express Tribune",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Project Procurement"
-        },
-        {
-          "title": "Nigeria Seeks Contractors For 100 MW Solar Plant - TaiyangNews",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdXRjUV9VZ3M4aDRiYUpiYXJ3RVBIOW13OG95eWlxbmJXRVY1b1I4NlBaVnNTYVNEbmVEbGFWbWE2Ml9HOEktT3I4aXU2ZzVnSTFYcjY0VDlGOWpoSXNCVGE0dVFhbDNaWFBvN2NrUUlsSDYzd2g4?oc=5",
-          "snippet": "Nigeria Seeks Contractors For 100 MW Solar Plant TaiyangNews",
-          "source": "TaiyangNews",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Project Procurement"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-eae979ca29fc",
-    "title": "Vendor Registration",
-    "headline": "Vendor Registration",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173768+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "Egis",
-      "IsDB"
-    ],
-    "competitor": "Egis",
-    "relevanceScore": 53,
-    "actionabilityScore": 66,
-    "noveltyScore": 1.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; Egis detected",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 20,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.8,
-    "filterReason": "1 identifiable actor(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 identifiable actor(s)",
-    "project": null,
-    "researchPriority": 100,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"Egis\" Morocco Market intelligence",
-        "\"Egis\" Vendor Registration",
-        "\"IsDB\" Morocco Market intelligence"
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "Egis",
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track Egis as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-c29c6fd75c87",
-    "title": "Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
-    "headline": "Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173803+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 69,
-    "actionabilityScore": 50,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 95,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 95,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?",
-        "\"Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?\""
-      ],
-      "sources": [
-        {
-          "title": "Cameroon Eyes 20-Year IsDB Financing for CFA139.3 Billion Douala-Bafoussam Road Upgrade - Business in Cameroon",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHpqM3VqZF84MEV2OTAzdFdaUGo1bFdMWDlrMEZqZXV6YTRYZGNTdUFrZVpBeDNqNzFwQ3FBcW5aUGtOZTM4eE9RaVVzeG16aEFkWFQzcnRsY0RJZllQQVozaDAzMmtOak5TbE1jYWt6QlNjNDNLNmlNSUhmUENUb0JDOTZZeUJTMkVBRWVWV1NlQ0JUVzlxZkw2eE1sTWNteFdhTXJmR2NJd25LQmUtTDE1WFp1X0xrRjlucHVZbV9DSjhrZHpscUJkbnNQZkxYbVBiTkRVS3kzVmk3ZGx3QTVGWjFpZw?oc=5",
-          "snippet": "Cameroon Eyes 20-Year IsDB Financing for CFA139.3 Billion Douala-Bafoussam Road Upgrade Business in Cameroon",
-          "source": "Business in Cameroon",
-          "published": "Fri, 11 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Where does IsDB publish its procurement business opportunities and contract awards information and if so, how does one access them?"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-c2c208f051c9",
-    "title": "What type of contracts are commonly used under Bank’s financed projects?",
-    "headline": "What type of contracts are commonly used under Bank’s financed projects?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173793+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 65,
-    "actionabilityScore": 47,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 80,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 80,
-      "researchQueries": [
-        "\"IsDB\" Morocco Market intelligence",
-        "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?",
-        "\"What type of contracts are commonly used under Bank’s financed projects?\""
-      ],
-      "sources": [
-        {
-          "title": "IsDB and Cameroon Sign EUR 212.35 Million Financing Agreement for Major Transport Project - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0xISkVMYmNEX1NKRFlEUERGR0VpTlhiZ1BFZlZ1WTlndklFS3paWmlhdnNOeldtb0pQNV9zZWE2ZDNRV0ZTTHpVWFZjQmNJQ2tSWDFxZVpkMEJtNU8yN0M0eGc2YzZ5LTljTWd5ZUNUa3l4M0NsSXBWRXV2RlgzdzByME1jV0FpN3RNLTJVTjRzdzZCVnQ2UXE4ZUZuMm1LSnYyajVFXzEyQVlJcldvREZJTUU?oc=5",
-          "snippet": "IsDB and Cameroon Sign EUR 212.35 Million Financing Agreement for Major Transport Project Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Tue, 13 Oct 2026 05:36:47 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        },
-        {
-          "title": "IsDB approves $938m for projects in 6 member countries - Arab News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRFJNTlJJbGc1S0RLQ2hhcTNIOVFWREJUQ0RYTzh4cDE0THRVUnczbm9wQzZiX1Q2U1liMlljRmdzY3FZS1M2c3F6WkpXc1BqcjBiNFB2OWZIRzRWQzNzV1p2b2JFMGRMbWpHdkktQVlfdGhodTdsT00zUENTTmlBYWpheUQ2U1hSMkgtVzNicGMtLXJiUFc1eVpCMA?oc=5",
-          "snippet": "IsDB approves $938m for projects in 6 member countries Arab News",
-          "source": "Arab News",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        },
-        {
-          "title": "Bangladesh and IsDB sign US$1 billion financing Agreement for Eastern Refinery expansion - Hydrocarbon Engineering",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeW1uVmFkVlBwNXNfcW1iNHFCakhkcUFxRGM2MzlTV2ItaDNrTHFaa1FrS3dDTElVQkkzenJ5dFkxU2pTWUJrR2trSm15T3FBWi1ZNkl4dnZSTk1idnZSX0ZuTXFNUlFqcEdtajlzSUhweTVCX1dUSjZhdnpsSEowWGlIMG1CNTBzRWwwcWZINVlFcWI3VVBiRnVacXZxTEdWVlQ0RVJFM2xTSW9ITDg1MXhQUmI1Zlltb2dmazJaNk5WMHhsclhMTy1nUF9NdVQwbG92SWJ6ejdfQmNfYXc?oc=5",
-          "snippet": "Bangladesh and IsDB sign US$1 billion financing Agreement for Eastern Refinery expansion Hydrocarbon Engineering",
-          "source": "Hydrocarbon Engineering",
-          "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        },
-        {
-          "title": "IsDB, IFAD partner to mobilize $750m for food systems, rural transformation - Realnews Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdwcXFadU1PNzZYQ0lNZ3VIRUx0WFRzRzRLZWZKeEx1M2tvbWlyaE03N1RQSU9uVmpNX0c3c1ZzUzRQbWZ5Z3p2bjhpd1B0bEdLd0VUdlFNZTk0aFhYU2FpeGFFR1Jzcm5pWWpJUm1CeXFoekViMnJ4ZFJfY2hkaC1tdUNhNmVXZEpBdEl6cnI0YkFjazgtVTYzUXprVThLZTdBYQ?oc=5",
-          "snippet": "IsDB, IFAD partner to mobilize $750m for food systems, rural transformation Realnews Magazine",
-          "source": "Realnews Magazine",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        },
-        {
-          "title": "Bangladesh and IsDB Sign US$1 Billion Financing Agreement for Eastern Refinery Expansion - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVplUFJPODVpcVE5WF8xWmZTY0dVdWxtYUN2OWpBS3pnT2dfRVV1UDExNnRHMzJuUks2V0V4Q3kyQldaVmNMMjJEUHpIU0VmbFRkenEzcmVGaXBBMVJvYmJ1RjNBNXd5dlZjUGd5ZG9HcnNUU0dfUVRLLWplTFB3Qzd2cUVVd1AzTUVGckJvbENFTXRiT3RnVEs1UDJUbkRUa3hEejRNZ3A0YUJlbFkxdXE5MA?oc=5",
-          "snippet": "Bangladesh and IsDB Sign US$1 Billion Financing Agreement for Eastern Refinery Expansion Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What type of contracts are commonly used under Bank’s financed projects?"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-2da6d510607f",
-    "title": "Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
-    "headline": "Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173788+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 98,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?",
-        "\"Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?\""
-      ],
-      "sources": [
-        {
-          "title": "Islamic Finance Can Unlock Sustainable Investment Across ASEAN, Says IsDB Group Chairman - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0ZLMURqVUFmemE3eWk4VlBDSlViMkduSHBCdzJCeU1BbFlWWHNvbEtpZWlsSVJncWsxSVdYTlN4cVhvTTVlcURwaHNZQXdUcjhXTlBBYzJkRDRTRTJiMWp6YzJWcGR0NjZfNjZpaVVGZWNkRXE1clk4U1oyTG55OEp4dS1Pa3NwS21nQ0ExWkZtR1cwUjJiUHgxSHJpR21hcVBxX2oxaE5iUmRBS3dpSEZBOA?oc=5",
-          "snippet": "Islamic Finance Can Unlock Sustainable Investment Across ASEAN, Says IsDB Group Chairman Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Where can anyone can find the procurement rules and guidelines governing the projects financed by IsDB?"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-1d44d85fcd0a",
-    "title": "What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
-    "headline": "What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173791+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 98,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?",
-        "\"What different types or modes of procurements are commonly used in the projects financed by IsDB? Does the Bank always prefer ICB/MC?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-76b6fd6a303e",
-    "title": "If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
-    "headline": "If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173799+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 98,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?",
-        "\"If a project is co-financed (parallel-financed or jointly- financed) with other financiers, which procedures and rules will apply for procurement?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-d753f73765e5",
-    "title": "How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
-    "headline": "How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173801+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 35,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.65,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 98,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?",
-        "\"How does the Bank deal with cases of fraud or corruption in procurements under projects financed by Bank?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-50a8418b1cee",
-    "title": "Register on the Consultants Portal",
-    "headline": "Register on the Consultants Portal",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173806+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "Egis",
-      "IsDB"
-    ],
-    "competitor": "Egis",
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; Egis detected",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 20,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.8,
-    "filterReason": "1 identifiable actor(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 identifiable actor(s)",
-    "project": null,
-    "researchPriority": 94,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "DFI involvement",
-      "consulting/advisory potential",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 94,
-      "researchQueries": [
-        "\"Egis\" Morocco Market intelligence",
-        "\"Egis\" Register on the Consultants Portal",
-        "\"IsDB\" Morocco Market intelligence"
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "Egis",
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track Egis as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-97a6158c01b2",
-    "title": "How long does it normally take to a firm to win a Bank’s financed contract?",
-    "headline": "How long does it normally take to a firm to win a Bank’s financed contract?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173794+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 57,
-    "actionabilityScore": 41,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 53,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 53,
-      "researchQueries": [
-        "\"IsDB\" Morocco Market intelligence",
-        "\"IsDB\" How long does it normally take to a firm to win a Bank’s financed contract?",
-        "\"How long does it normally take to a firm to win a Bank’s financed contract?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-6e8b957e8108",
-    "title": "current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
-    "headline": "current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
-    "summary": "",
-    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
-    "source": "World Bank procurement opportunities",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.624707+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "World Bank"
-    ],
-    "competitor": null,
-    "relevanceScore": 55,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 85,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 85,
-      "researchQueries": [
-        "\"World Bank\" Morocco Tender / Procurement",
-        "\"World Bank\" current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.",
-        "\"current opportunities Specific Procurement Notices advertising current opportunities seeking bids/proposals to be submitted prior to a specified deadline date.\""
-      ],
-      "sources": [
-        {
-          "title": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk52YVl0NVZObHRVWFczSVh0b3V1WTEyTmtWbXVtVlVLTWpzQ2RUWHQ0aTlZZnNFcVN1U1liNjZoSTlOdkttYmVJTTJEMXJJZTc2dWdxeUd2NlhvaGJTVEtsTWotb3dNVnJsUDdhcUwtMmhscjBNTkFUR0hzNWdOQWFERkFYOHI4TEUzWkZpV0t3NWZZcWloUEkwdTBDNnNfTzlxMnF1VkRGcEUwNFh1TFZhUEw5TlU2MUd3a3lhYW9seERiUm82TEpnemFMalU?oc=5",
-          "snippet": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUNycWRjT2Y0VHFSeXBQaW1LZGtaVmpIeEZ6aDFDYXFVSmVoa1JONTQxeDRrM3MzUjdjUU50b1dyMWQ1Ylc1ZUQwX0t6TmtOZVN6eWhQQUs0dHBDaGs2OGlteDZ3b2t3cFRxTHVJT05PQTdiblVPX1ZlcnFBY2VjSGJIaEJFbWF6bEpoeC1oaEFUeURaUlFNbmlwWnZrcW1pZVd2OGZodjZxd0xuZnVzbXNLZmY5M1R3S21hVktESll1cnd5eHh2UFQ0ZHd0d210RXM4Z0hRMmY1eHd5X1F6cGJRYi1yREdSSXo2WGgtQUExRlU?oc=5",
-          "snippet": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane Construction Review",
-          "source": "Construction Review",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
-          "source": "ITWeb Africa",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "A third plant for Lomé’s port as Togo plans 120MW of gas power - Energy News Network",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2Y1dzQxcUF5MmlEZmtMSTZ3OGx3X2FOSWhMWEh1eGhSR3hXUzVDaHJ6ZDg3NEkzT0JXYTkwWUJJRElDbktCS2VJZ0lBd3hxN3RDcERfeDBqLUVDMHA3a2UzNHQwUDNQaUVGdmxyRlNkWlZEMUhzMHk0RGtVTjl1YkRDRGU?oc=5",
-          "snippet": "A third plant for Lomé’s port as Togo plans 120MW of gas power Energy News Network",
-          "source": "Energy News Network",
-          "published": "Sat, 17 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years - CIO Africa",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGhlamZldDNLSG1tdmJrMi00ZDVGQkV2MmRzWEJMNExtTFV5QWM2cDRQaHpNVENuNnU4UFNrak11bWNTbkp0a3A5cmF1SDlkNkQtV0o1MDdUYUxOSWV1TzBDcm9hWWtDbURCRTQzVVpIT2RFUXdGY0ZxWDZpQU4tRHNUMEVKY1dZN3N2T2t3?oc=5",
-          "snippet": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years CIO Africa",
-          "source": "CIO Africa",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "World Bank"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-ed2e11d43471",
-    "title": "upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
-    "headline": "upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
-    "summary": "",
-    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
-    "source": "World Bank procurement opportunities",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.624709+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "World Bank"
-    ],
-    "competitor": null,
-    "relevanceScore": 55,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 85,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 85,
-      "researchQueries": [
-        "\"World Bank\" Morocco Tender / Procurement",
-        "\"World Bank\" upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)",
-        "\"upcoming opportunities General Procurement Notices providing advance notice of procurement opportunities which will be advertised shortly as Specific Procurement Notices (under the \"Current Opportunities\" tab)\""
-      ],
-      "sources": [
-        {
-          "title": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk52YVl0NVZObHRVWFczSVh0b3V1WTEyTmtWbXVtVlVLTWpzQ2RUWHQ0aTlZZnNFcVN1U1liNjZoSTlOdkttYmVJTTJEMXJJZTc2dWdxeUd2NlhvaGJTVEtsTWotb3dNVnJsUDdhcUwtMmhscjBNTkFUR0hzNWdOQWFERkFYOHI4TEUzWkZpV0t3NWZZcWloUEkwdTBDNnNfTzlxMnF1VkRGcEUwNFh1TFZhUEw5TlU2MUd3a3lhYW9seERiUm82TEpnemFMalU?oc=5",
-          "snippet": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUNycWRjT2Y0VHFSeXBQaW1LZGtaVmpIeEZ6aDFDYXFVSmVoa1JONTQxeDRrM3MzUjdjUU50b1dyMWQ1Ylc1ZUQwX0t6TmtOZVN6eWhQQUs0dHBDaGs2OGlteDZ3b2t3cFRxTHVJT05PQTdiblVPX1ZlcnFBY2VjSGJIaEJFbWF6bEpoeC1oaEFUeURaUlFNbmlwWnZrcW1pZVd2OGZodjZxd0xuZnVzbXNLZmY5M1R3S21hVktESll1cnd5eHh2UFQ0ZHd0d210RXM4Z0hRMmY1eHd5X1F6cGJRYi1yREdSSXo2WGgtQUExRlU?oc=5",
-          "snippet": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane Construction Review",
-          "source": "Construction Review",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
-          "source": "ITWeb Africa",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "A third plant for Lomé’s port as Togo plans 120MW of gas power - Energy News Network",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2Y1dzQxcUF5MmlEZmtMSTZ3OGx3X2FOSWhMWEh1eGhSR3hXUzVDaHJ6ZDg3NEkzT0JXYTkwWUJJRElDbktCS2VJZ0lBd3hxN3RDcERfeDBqLUVDMHA3a2UzNHQwUDNQaUVGdmxyRlNkWlZEMUhzMHk0RGtVTjl1YkRDRGU?oc=5",
-          "snippet": "A third plant for Lomé’s port as Togo plans 120MW of gas power Energy News Network",
-          "source": "Energy News Network",
-          "published": "Sat, 17 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years - CIO Africa",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGhlamZldDNLSG1tdmJrMi00ZDVGQkV2MmRzWEJMNExtTFV5QWM2cDRQaHpNVENuNnU4UFNrak11bWNTbkp0a3A5cmF1SDlkNkQtV0o1MDdUYUxOSWV1TzBDcm9hWWtDbURCRTQzVVpIT2RFUXdGY0ZxWDZpQU4tRHNUMEVKY1dZN3N2T2t3?oc=5",
-          "snippet": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years CIO Africa",
-          "source": "CIO Africa",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "World Bank"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-385b50bf68ed",
-    "title": "potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
-    "headline": "potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
-    "summary": "",
-    "url": "https://projects.worldbank.org/en/projects-operations/opportunities",
-    "source": "World Bank procurement opportunities",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.624710+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "World Bank"
-    ],
-    "competitor": null,
-    "relevanceScore": 55,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 85,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 85,
-      "researchQueries": [
-        "\"World Bank\" Morocco Tender / Procurement",
-        "\"World Bank\" potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.",
-        "\"potential opportunities Potential procurement opportunities drawn from Procurement Plans. These are subject to final decisions before the procurement can proceed. Opportunities listed here are indicative only and may be subject to change or may not proceed at all.\""
-      ],
-      "sources": [
-        {
-          "title": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk52YVl0NVZObHRVWFczSVh0b3V1WTEyTmtWbXVtVlVLTWpzQ2RUWHQ0aTlZZnNFcVN1U1liNjZoSTlOdkttYmVJTTJEMXJJZTc2dWdxeUd2NlhvaGJTVEtsTWotb3dNVnJsUDdhcUwtMmhscjBNTkFUR0hzNWdOQWFERkFYOHI4TEUzWkZpV0t3NWZZcWloUEkwdTBDNnNfTzlxMnF1VkRGcEUwNFh1TFZhUEw5TlU2MUd3a3lhYW9seERiUm82TEpnemFMalU?oc=5",
-          "snippet": "Morocco Picks Australian-Backed Bid to Modernize Tadla’s Béni Moussa Irrigation Canals Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUNycWRjT2Y0VHFSeXBQaW1LZGtaVmpIeEZ6aDFDYXFVSmVoa1JONTQxeDRrM3MzUjdjUU50b1dyMWQ1Ylc1ZUQwX0t6TmtOZVN6eWhQQUs0dHBDaGs2OGlteDZ3b2t3cFRxTHVJT05PQTdiblVPX1ZlcnFBY2VjSGJIaEJFbWF6bEpoeC1oaEFUeURaUlFNbmlwWnZrcW1pZVd2OGZodjZxd0xuZnVzbXNLZmY5M1R3S21hVktESll1cnd5eHh2UFQ0ZHd0d210RXM4Z0hRMmY1eHd5X1F6cGJRYi1yREdSSXo2WGgtQUExRlU?oc=5",
-          "snippet": "Morocco Issues Key Tenders for $400M+ Grand Stade Hassan II Stadium in Benslimane Construction Review",
-          "source": "Construction Review",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Kenya opens fibre backbone tender - ITWeb Africa",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmFITDNyYk9EQlFPY3JuM1hKelBxdjc5ZWtNZWJORFN5Q0Q5b3lNVzVYZ0JZUHNFdzRtSXpnc2M5eDBiNXNFVjdDNkxMM3NNZDhpaXVOUDdmOFVzbjExMXlOTmgzRlVnc3FzMThEcEVWdUJja2NsMndfLTdzWHVLUjczbTVxdw?oc=5",
-          "snippet": "Kenya opens fibre backbone tender ITWeb Africa",
-          "source": "ITWeb Africa",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "A third plant for Lomé’s port as Togo plans 120MW of gas power - Energy News Network",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2Y1dzQxcUF5MmlEZmtMSTZ3OGx3X2FOSWhMWEh1eGhSR3hXUzVDaHJ6ZDg3NEkzT0JXYTkwWUJJRElDbktCS2VJZ0lBd3hxN3RDcERfeDBqLUVDMHA3a2UzNHQwUDNQaUVGdmxyRlNkWlZEMUhzMHk0RGtVTjl1YkRDRGU?oc=5",
-          "snippet": "A third plant for Lomé’s port as Togo plans 120MW of gas power Energy News Network",
-          "source": "Energy News Network",
-          "published": "Sat, 17 Oct 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years - CIO Africa",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGhlamZldDNLSG1tdmJrMi00ZDVGQkV2MmRzWEJMNExtTFV5QWM2cDRQaHpNVENuNnU4UFNrak11bWNTbkp0a3A5cmF1SDlkNkQtV0o1MDdUYUxOSWV1TzBDcm9hWWtDbURCRTQzVVpIT2RFUXdGY0ZxWDZpQU4tRHNUMEVKY1dZN3N2T2t3?oc=5",
-          "snippet": "World Bank Debars eCitizen Builder Webmasters Kenya For 5 Years CIO Africa",
-          "source": "CIO Africa",
-          "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "query": "\"World Bank\" Morocco Tender / Procurement"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "World Bank"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-bf3fae5a946d",
-    "title": "What are the Bank’s policies in Procurement?",
-    "headline": "What are the Bank’s policies in Procurement?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173786+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 55,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 85,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 85,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" What are the Bank’s policies in Procurement?",
-        "\"What are the Bank’s policies in Procurement?\""
-      ],
-      "sources": [
-        {
-          "title": "IsDB Group Chairman Calls on MDBs to Deliver Joint Adaptation Projects to Turn Policy Reform into Results - Islamic Development Bank",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzJWbjNaQzJyNEo0WlFSaFpQSTRUT3RiRkt5a1M0N09Ic00zV0x4bDRGU2d2TDJEVkhhWnVzaTluU2ljVzA2a0lhdVJWeHRCVElPZmZtRjVKUTlWU0piSG16MExneDRNUnBRYnZpM1VxVC1QMjlRRjJUVEd5aGV5NTlQN3F3TzkwMTJzU2tZZFdxRUpfTXh1N0VrajcwRklfalVEeFl1LUEzQWMwOHQ5VGdyT3lwcVdBZDZZSzN4MHRRRVhUT2IwYnVJUQ?oc=5",
-          "snippet": "IsDB Group Chairman Calls on MDBs to Deliver Joint Adaptation Projects to Turn Policy Reform into Results Islamic Development Bank",
-          "source": "Islamic Development Bank",
-          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What are the Bank’s policies in Procurement?"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-7c5d7b693947",
-    "title": "Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
-    "headline": "Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173798+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 55,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 85,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 85,
-      "researchQueries": [
-        "\"IsDB\" Morocco Tender / Procurement",
-        "\"IsDB\" Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?",
-        "\"Does the Bank encourage \"Joint Ventures\" in the Procurement of Goods, Works and Consultancy Services?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-9230a66584f5",
-    "title": "Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
-    "headline": "Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173805+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 51,
-    "actionabilityScore": 37,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 70,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 70,
-      "researchQueries": [
-        "\"IsDB\" Morocco Market intelligence",
-        "\"IsDB\" Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?",
-        "\"Are there any guidelines or publications available for IsDB financed projects on pre-qualification or Bid Evaluation?\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-910b71a4e74c",
-    "title": "Together we can Build a better Future",
-    "headline": "Together we can Build a better Future",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173781+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"IsDB\" Morocco Market intelligence",
-        "\"IsDB\" Together we can Build a better Future",
-        "\"Together we can Build a better Future\""
-      ],
-      "sources": [
-        {
-          "title": "National Education Milestone: New National Curriculum launched to achieve a world-class education for about 7 million learners in the Republic of Uzbekistan - UNICEF",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYktZMVRHRlJUWm9TcDJRM3R4NW5VN2QxLWlQMzJ5MjhJVUJPWVR3NDB2YUlwTGUxZW1yaVlDWExucnNDYmsxM2JpTUc0Z0FlVkFPRkZnYkVaZnNEdnhhRU5UMmJtb2lLS2xuRGhDZVh6X09JbkpBTDFLT2dYQzdvMGw2dnE4czNhdHhTaFo5QnFuTUd5ZlVKcVVmWWE2V0tLQkpzXzZRdElQZ0pSOHdZMVAtUW4ySW5WMXhncmY3WmRqUDRJTmU5b3FHcEdIZw?oc=5",
-          "snippet": "National Education Milestone: New National Curriculum launched to achieve a world-class education for about 7 million learners in the Republic of Uzbekistan UNICEF",
-          "source": "UNICEF",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Together we can Build a better Future"
-        },
-        {
-          "title": "IsDB, IFAD partner to mobilize $750m for food systems, rural transformation - Realnews Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdwcXFadU1PNzZYQ0lNZ3VIRUx0WFRzRzRLZWZKeEx1M2tvbWlyaE03N1RQSU9uVmpNX0c3c1ZzUzRQbWZ5Z3p2bjhpd1B0bEdLd0VUdlFNZTk0aFhYU2FpeGFFR1Jzcm5pWWpJUm1CeXFoekViMnJ4ZFJfY2hkaC1tdUNhNmVXZEpBdEl6cnI0YkFjazgtVTYzUXprVThLZTdBYQ?oc=5",
-          "snippet": "IsDB, IFAD partner to mobilize $750m for food systems, rural transformation Realnews Magazine",
-          "source": "Realnews Magazine",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Together we can Build a better Future"
-        },
-        {
-          "title": "IsDB, IFAD mobilise $750m for food systems, rural transformation - The Guardian Nigeria News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1RSODBtbkhCWWpuVVllb3ozT2RqaW9VMmVoVHdUaHdJTTNFeUJzck1Xdjd2UkI3aTBEY3VSRnowSGpFdmU1RFBLWnVvRlBBRTgxTVY0SWthOU5JNmJFMXpOak1WTUxEN1VQNmlFR2hiU1ZYX0dsTmlqWkR1YVZoX3FxcG80T0JncU9reVZsaVR6ZTQ0bml2dTFVQWpCbGdsbUpTWGRQMnVGc1JONTNF?oc=5",
-          "snippet": "IsDB, IFAD mobilise $750m for food systems, rural transformation The Guardian Nigeria News",
-          "source": "The Guardian Nigeria News",
-          "published": "Sat, 17 Oct 2026 04:02:00 GMT",
-          "query": "\"IsDB\" Together we can Build a better Future"
-        },
-        {
-          "title": "What IsDB/MBSC Jeddah Training Taught Me About the Kind of Leaders Nigeria Needs - Daily Trust",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2dCaW9qeGJGS2hnc1lHR1dZZ3FqVFJZLTZySTYtQ29kRTJpYW1RN2Z2UDd2aElCb0Q2Qlc1TS1uWF8xOE5OYmhkYkIyZmZOTmRmakpyN1JKY1JxNWxFcWVxVUlXRU5mUXVWdzY1RmxZVE03S1BxU3N1SmJnUnl0MjM3UkpXaGUtd045cUlGQmZURm1QU1UzLXJHbW1EbUxOaW1yUFNURQ?oc=5",
-          "snippet": "What IsDB/MBSC Jeddah Training Taught Me About the Kind of Leaders Nigeria Needs Daily Trust",
-          "source": "Daily Trust",
-          "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" Together we can Build a better Future"
-        },
-        {
-          "title": "Unlocking Finance for Tropical Forests - The Nature Conservancy",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXE1MkNBbUJRbnZ3cDRJRjQtOVFzSDNXSGpDYzMtN2RpcHQyNHFwbERWeTBpVVdxSFdxV3daczEyOTdGYldIV3FYVktvdFV2b1JURGltUmpraFhmUk9WRFVpLWFuMGZIR2wzTFE3bGFxaFNKc3lWdGFBRW1fY3JraVpuV1ItR1VqWURMYndLWTdBcUVPREFjYmxhTWw4d0tKaUl3ZXhIalBhMjFaU25LU0JqWmh6RXpRUS01d3JURExMVmYzcldWTW1MY2ZTQQ?oc=5",
-          "snippet": "Unlocking Finance for Tropical Forests The Nature Conservancy",
-          "source": "The Nature Conservancy",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "query": "\"Together we can Build a better Future\""
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-a0b6f961b427",
-    "title": "What criterion is applied for eligibility and who is eligible to participate?",
-    "headline": "What criterion is applied for eligibility and who is eligible to participate?",
-    "summary": "",
-    "url": "https://www.isdb.org/project-procurement",
-    "source": "IsDB project procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.173790+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "IsDB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"IsDB\" Morocco Market intelligence",
-        "\"IsDB\" What criterion is applied for eligibility and who is eligible to participate?",
-        "\"What criterion is applied for eligibility and who is eligible to participate?\""
-      ],
-      "sources": [
-        {
-          "title": "Request for expression of interest (RFEOI) consultancy services for independent monitoring, evaluation and learning (MEL) firm for the investment in digital and creative enterprises (IDICE) programme - TheCable",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOTzZBcE5jdzJBbzBqUWxnNkZ2RU4ySno3OHJkeDJwam5IWGRCMXQ4OW84Zzd5cElZSmFoM2FGckpIRWtYTVE5Q2tSTUg5Y2NIMy1QZDFJSU1nWk9KTjFuWmtRU0x6ZzVDYWh4eEFYdklaOTg4ZDBFZ0lSbUlpeWdVc1J4Y1pZUm5Ja2h2OGdQSGJ1ekwtc1NNam1xUGJwVXNVdGtSNFBPZDZvbF9uUHNlRTFTaHE5Sm9TU1R2OEQ0Y1FFT0V1ZTU2S0x4S3FJdHpWN3BTTEtXb0hUUmpPY3BlejI5eWNqUEs1Z2JKSV9jb204WjBvUnNRUTVaVUV0WE54M1hvRllReGJ1dEtEcEhTV1N4WFpIbkFVRmFGR01zQ3NwVUxidk5uSGhyMDRfREx4SHVCSV9manZpcFREeHc?oc=5",
-          "snippet": "Request for expression of interest (RFEOI) consultancy services for independent monitoring, evaluation and learning (MEL) firm for the investment in digital and creative enterprises (IDICE) programme TheCable",
-          "source": "TheCable",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"IsDB\" What criterion is applied for eligibility and who is eligible to participate?"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "IsDB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-6d5cc67ecc5d",
-    "title": "Project procurement complaints",
-    "headline": "Project procurement complaints",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323877+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 63,
-    "actionabilityScore": 45,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 23,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.77,
-    "filterReason": "2 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "2 event indicator(s)",
-    "project": null,
-    "researchPriority": 98,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 98,
-      "researchQueries": [
-        "\"EIB\" Morocco Tender / Procurement",
-        "\"EIB\" Project procurement complaints",
-        "\"Project procurement complaints\""
-      ],
-      "sources": [
-        {
-          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
-          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
-          "source": "Offshore Wind",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Tender / Procurement"
-        },
-        {
-          "title": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm - energynews.pro",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1hMLTljM2tiamVOUEhsamhhaEtDZWtGcmswS0ozcDV0OGN1RVFXYXZETm1pMnUydTRyVHlDOFpNVVVrSHFCdHdUY2k2eXktQ24tTTc0cDVsdHgxMFJ3SFUwT2UtTl9KcXVvV2hmSTRhM2ZPenk0OFI3Um0yQ3A5YjczWUhXNGF5NTdBbHZkLU5sd1lpZ1VRNQ?oc=5",
-          "snippet": "Morocco Launches Feasibility Study for Its First Offshore Wind Farm energynews.pro",
-          "source": "energynews.pro",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Tender / Procurement"
-        }
-      ],
-      "sourceCount": 2,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-0ff7f9c09aee",
-    "title": "Credit enhancement for project finance",
-    "headline": "Credit enhancement for project finance",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323895+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 51,
-    "actionabilityScore": 37,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 70,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 70,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" Credit enhancement for project finance",
-        "\"Credit enhancement for project finance\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-da1cd5f2dd80",
-    "title": ".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
-    "headline": ".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323840+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" .cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en",
-        "\".cls-1 { fill: none; } .cls-1, .cls-2, .cls-3, .cls-4 { stroke-width: 0px; } .cls-2 { fill: #9d9d9c; } .cls-3 { fill: #ffde00; } .cls-4 { fill: #039; } en\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-70c2927591e1",
-    "title": "Tackling global challenges together",
-    "headline": "Tackling global challenges together",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323860+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" Tackling global challenges together",
-        "\"Tackling global challenges together\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-bcc9fa0ebf38",
-    "title": "EIB Group and the Sustainable Development Goals",
-    "headline": "EIB Group and the Sustainable Development Goals",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323872+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "development",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 51,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 51,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" EIB Group and the Sustainable Development Goals",
-        "\"EIB Group and the Sustainable Development Goals\""
-      ],
-      "sources": [
-        {
-          "title": "European Commission, EIB and UNDP join forces to boost investment in communities hit by humanitarian crises - United Nations Development Programme",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjhmSnZ1MFc3a01VeFJkWkNxNE9paTUyTE9NVUJ4SFAyemZmSTgtMWpqaHRWTWFNNTNsMnVqQmZldGtEaTdSQXpjN0dRX05jZkg0WElxcnVVMk9YN1l5MWZaNTlNcXdMXzJSMWVPdVktaUpRNVVPQUxoa1lTUmFZcjZDaGNJZGtXWkUzblB1QkNNWFd1aTJ5THZxWHhETTRsSFhxN3o2SnBLVjM0a0s3Wk4zdjVncUNCVHQzSV90ZEI?oc=5",
-          "snippet": "European Commission, EIB and UNDP join forces to boost investment in communities hit by humanitarian crises United Nations Development Programme",
-          "source": "United Nations Development Programme",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
-        },
-        {
-          "title": "Portugal to upgrade and expand social and sustainable housing with €1.5 billion in EIB financing - European Investment Bank",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0dGVjFUTjRwUk0ySGhmUGl3TWpGeDRKUXp5QmNzS1p6ZHBabnRGSDhyTHd4V00wU3Jrd1lqT2lyYm5xaTVMSUxYU1lraVJaUk5lVTJSRkxVeXE5Z2N5VUV2QS03MDVjWkRDbWZTZFFGZDY0RXdxQVFnUEh4WWtfZGRlelY2RmktYVFLZmlTQktwdmpPWXhZSURMTnRrRG5zNTJlN01iRS12ZnppOXY3bGdkM2tfdE9lWG9hcmczYUw4dG5VR2V3YzUxNHVXdnV0X1MzeGZQUQ?oc=5",
-          "snippet": "Portugal to upgrade and expand social and sustainable housing with €1.5 billion in EIB financing European Investment Bank",
-          "source": "European Investment Bank",
-          "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
-        },
-        {
-          "title": "EIB Group Sets €30 Billion Adaptation Finance Goal for 2026-2030, Doubling Its Previous Five Years - ESG News",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GeXNXTmNEbnYwOE9fUXB6ZVVrb0UydGNnWXA3Z2RjbzFfeEYwQ0hZWkJOdnA3Z0tCNXVNUUdNa254cExmT25ianBQVXhVUnpSSHVKS21VazBkQ3FJZ3FMZXFCUXhadzA4SDg0?oc=5",
-          "snippet": "EIB Group Sets €30 Billion Adaptation Finance Goal for 2026-2030, Doubling Its Previous Five Years ESG News",
-          "source": "ESG News",
-          "published": "Mon, 26 Oct 2026 21:18:38 GMT",
-          "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
-        },
-        {
-          "title": "EIB Unveils €30 Billion Climate Adaptation Plan - ESG Today",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tYlZuaU9iR2hTN011eW5BRlY5Wi1JNER4dFVvS3ZVa3I2cDZlNHppM2lFdnFndFJGX1FWTWdlbmxhTkNySkVkd0cyQTB6RmdsR2QyWGtkZkVZVGhiQ1MycmpYX2tXMzZQRjYwN1U2T0FvY1k5MnVVZHpRLU80dw?oc=5",
-          "snippet": "EIB Unveils €30 Billion Climate Adaptation Plan ESG Today",
-          "source": "ESG Today",
-          "published": "Thu, 22 Oct 2026 13:42:58 GMT",
-          "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
-        },
-        {
-          "title": "European Investment Bank earmarks at least €30 billion for climate adaptation measures - Sustainability Online",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGRYMmY1eXpubUhHV3VJTE1vaWxMUENTelZUQVBwNlMtUkNiVzRBOTZVNzRTUmtfLWx6Qkd0cF9tdU45cmFKNU0wRzJqalFXakRVaWM0LXJiNUpGckxSM1B5RzJyanFacWJSR1RkM0RBOVdfVW1aUDhLM0hDbTlvV01lUWtlcXBzNktsZm9wLW90Qzd2OUpMaHJZVHpoSkpjNzBzZjE0Wm5ha2xFcTh6R2JxXy05OWVGZ3pMRUptNW5EYUE?oc=5",
-          "snippet": "European Investment Bank earmarks at least €30 billion for climate adaptation measures Sustainability Online",
-          "source": "Sustainability Online",
-          "published": "Fri, 23 Oct 2026 09:00:54 GMT",
-          "query": "\"EIB\" EIB Group and the Sustainable Development Goals"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-9855fcbd4834",
-    "title": "Transparency and access to information",
-    "headline": "Transparency and access to information",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323873+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" Transparency and access to information",
-        "\"Transparency and access to information\""
-      ],
-      "sources": [
-        {
-          "title": "The Hidden Cost of Cord-Cutting: Losing Access to Civic Life - Ash Center",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUkzZGNaVEhvUmV4QnV4Y21uaU9lcm92RWhQenY1OHZEeFJTOEpqazlndkZ1cFhFUUpiOTk2MnJYZjlHMUxEcTNMRDN1X3lPTkVfRVJxdXBCY0ptNWxlQTNzbW9hSEl6M3ducmN3VWVfbEctbTJXR0kwaEZ1QXEzTklqcThGdlpmRk04ZXhfQWthLUhHZUNGNQ?oc=5",
-          "snippet": "The Hidden Cost of Cord-Cutting: Losing Access to Civic Life Ash Center",
-          "source": "Ash Center",
-          "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-          "query": "\"Transparency and access to information\""
-        },
-        {
-          "title": "ICT calls for timely, independent information and access to Tibet on humanitarian grounds after Nepal-Tibet disaster - International Campaign for Tibet",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnZmOXVrbG1sX01yajA3UjAwRHVaX3U5Sk5uMDFtMXN5TlR6SmFDa0cwclZ4YzNWQXl4MkVvbnBTSlZITVpPeW9qMXE2VjN2Zk1UZ18zLU9kaWllbzdBR1BZenNWSTNHM2Q5UC1PcWphMTdwaFRsSkZRaXdicDBNeXJ4THBpazYzZWp5SGhWZXNuY1M5bTQteFVWQVczQTBON3BiSzZzSjJ5dWNKbnp1U0xZVENoZ2Z2MWhNLUNRV0hBd1RUWmNSV3gyaDFZb1RoVHEycg?oc=5",
-          "snippet": "ICT calls for timely, independent information and access to Tibet on humanitarian grounds after Nepal-Tibet disaster International Campaign for Tibet",
-          "source": "International Campaign for Tibet",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"Transparency and access to information\""
-        },
-        {
-          "title": "PRIO researcher Hilde Henriksen Waage awarded Norwegian transparency prize - Peace Research Institute Oslo (PRIO)",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNQksxd2xGYURzM25GQndvOWpQbEprUE95MmVlRTg0by1WRGxDZG1nekd3VjV1X0UzX0JrdmdvZWt3amd5?oc=5",
-          "snippet": "PRIO researcher Hilde Henriksen Waage awarded Norwegian transparency prize Peace Research Institute Oslo (PRIO)",
-          "source": "Peace Research Institute Oslo (PRIO)",
-          "published": "Fri, 23 Oct 2026 07:31:05 GMT",
-          "query": "\"Transparency and access to information\""
-        },
-        {
-          "title": "Federal inspections of Georgia immigration facilities range from acceptable to superior - WABE",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczFBSFJ6cVJNRmJWY2pGMkZhU0E2RWdxbG1UalIxZEx3dEk0WXRsaTFJREFHTkJJZjNYelg3LWZmWm5QeDM0bEJIWGZ2UEttVkNvdlBQTG44MUhUYnlDdFNTSGQtbzlWZW91VXUtOEYtaU5zdmJJZ3M0Zko1YTBaUmZGR01McHFkZF9OMWhJWWxiWkJnWUd0UHU1bUhEYXVKWEo4UnozalZaSlNsVGc?oc=5",
-          "snippet": "Federal inspections of Georgia immigration facilities range from acceptable to superior WABE",
-          "source": "WABE",
-          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "query": "\"Transparency and access to information\""
-        },
-        {
-          "title": "ICE Detains People in Secret. We’re Suing to Make It Public. - The Marshall Project",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDFYS21UOEdQeFc1Rmh6a3lERzVfV0hKZkI0VHNBN2NNanFrSGwwdGs0VVRCYllkRVhfNElFRmlLYURkTEtaemlJMnJfazZoSmRSSEQ2ckN0WF9IZTR0Y0xGRDF3U2ZvZW9vYkVxVGt5ekN3UmlBb01OazVIWGgwWQ?oc=5",
-          "snippet": "ICE Detains People in Secret. We’re Suing to Make It Public. The Marshall Project",
-          "source": "The Marshall Project",
-          "published": "Tue, 20 Oct 2026 17:15:00 GMT",
-          "query": "\"Transparency and access to information\""
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-7c9f63a241e6",
-    "title": "Intermediated loans for SMEs, mid-caps and other priorities",
-    "headline": "Intermediated loans for SMEs, mid-caps and other priorities",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323888+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 66,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 66,
-      "researchQueries": [
-        "\"EIB\" Morocco Investment",
-        "\"EIB\" Intermediated loans for SMEs, mid-caps and other priorities",
-        "\"Intermediated loans for SMEs, mid-caps and other priorities\""
-      ],
-      "sources": [
-        {
-          "title": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development - Riviera Maritime Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0FoTTdvMEZOc25MSlZhNW1ZYm9id3NPdHQ2bl83R1RWb2ppMmNHYmNJZ1J4NmliRDFJVkh6NV92NnVveUFwZmJUcVI3dDBKUi1ZODd1STBCemY4dFA0bjQxMWtjaFlwZVJSQ2lKRFhVRDNEeUpxelJuMXdYU3BSV3c5aEVXaEhXeHJUd1kzQjMzV3BsQUI1aDJCU0RjTjNlX2xhQlZMbm9maTdqSGNiQ0U1M215UHZsUXBPREJkT1RzeVdSN2dva05IWElCVjF0THA3ZHpBNEc2X3c?oc=5",
-          "snippet": "News Content Hub - EIB consortium to advise on Morocco’s first offshore wind development Riviera Maritime Media",
-          "source": "Riviera Maritime Media",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Investment"
-        },
-        {
-          "title": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm - Offshore Wind",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzlDWDNiemxSU1k5QjBJc3lHSEw1RC12Slp2RDdJSmdycmRDbml2TkwwS1l6MlQxR3hsdWFDQThwTlZYREwtNWxpOS11aTFmX1JVX1VkalV1VVU3NDYzaGdCaUVIemZrVzJGYjhlQ0E1QWd0X2VVYVdGN3htWUNxWkM1ZjZjSnlwNG1rWGotOHk4ZW1OU0dkYnYyaTdmQS0xNEJuQ0NOWVJqMHZDMEs3U1BRa1ZTRWlaWkJnSlNn?oc=5",
-          "snippet": "OWC-Led Consortium to Perform Feasibility Study for Morocco’s First Offshore Wind Farm Offshore Wind",
-          "source": "Offshore Wind",
-          "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Investment"
-        },
-        {
-          "title": "EIB Global, FCMB stake €85m to support companies across Nigeria’s agricultural value chains - Businessday NG",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VIRkVhV0tDNWFpX2VQSThtS1dNeFRHN0dKMmVhN05ZZE40ZHJxaWdZcTJsSVNiN2J1dElCRXhocEJ5RmVtNFQtUWlVTi03MzluTlhhVmZhRkR4YkpKZkJHckdUWmF2QTVBMDhsMmFTOVhMLVNtYjV6MkJxZXQ5UFhfQTRpcDRQcTc4ZVh5WmNyUEJiRU4zMTR3bDlmM1FQZ0Y2U1ZXVVdaV0M0cDlxcjZnZ0wybF8zMHVvQkVDc0tFSG94anJJWTFjd9IB0AFBVV95cUxNRTJDNUJNYk9UZmdKdmtHWmJESzg2eGl5SmwxT1FGVVdIRThoRGNQeGk1YmU2OEY1X3Y5Y1JPNHI3WFBISnJhX0lhYjA5SVBhN0FzRWN3UG9vMm9XUHZBWE9FSG1tUUFoNmdPVE5PeFYycG9lZHA1OVJ5a1l1TjNzR2QtZXpEOHVjY3phVFVnZ1JLVUNzR2xrWGxHSTZFQk5TZy1hUWtCODBRT29qLUpUX0lYcTBKLXN6NGtCdWJqSThOSE1LUWFGM0g0X0pmVXdw?oc=5",
-          "snippet": "EIB Global, FCMB stake €85m to support companies across Nigeria’s agricultural value chains Businessday NG",
-          "source": "Businessday NG",
-          "published": "Sun, 18 Oct 2026 07:00:00 GMT",
-          "query": "\"EIB\" Morocco Investment"
-        },
-        {
-          "title": "The EIB and Santander will mobilise €300 million to support SMEs and mid-caps in the security and defence sector - Banco Santander",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzFvU0FHSmxYZ1c0QjJwZnFkZUZQOVdZUlRtbWZ2dGpLZHQ1S3o2RjhRSHMxeWRzVE1vbmVwMVBsV3BOQXREOExVTmZIUndVdWh5UHZRTnhRS0lFbzVRcFBfVWNvNk5QdkxiaDNFX1NiSlNYMndZdTVoRElyclRGWlZubkdpVlo1Mld1Wm92S09pb3FGUnU4YmppWlRlOUl3SHo0QVplNURyQm5iaXdNT0hmM1FXWXUzalVKYXhZaVJNeE1aLTItTTZEQW5xRHUtbTkzTXNXRWVrenR0b3NIQmZqd0kyXy1saVBMMHM4eFpZX3dJOWFvUXZEUUJUWDBYa1hSbQ?oc=5",
-          "snippet": "The EIB and Santander will mobilise €300 million to support SMEs and mid-caps in the security and defence sector Banco Santander",
-          "source": "Banco Santander",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "\"EIB\" Intermediated loans for SMEs, mid-caps and other priorities"
-        }
-      ],
-      "sourceCount": 4,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources corroborate an EIB-backed feasibility study for Morocco offshore wind development.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            0,
-            1
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
-    }
-  },
-  {
     "id": "sig-9863da1a7aa7",
     "title": "European Tech Champions Initiative 2.0",
     "headline": "European Tech Champions Initiative 2.0",
@@ -16621,1777 +17866,6 @@ export const signals = [
       "entities": [
         "EIB"
       ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-88d1099c9125",
-    "title": "Guarantees in support of SMEs, mid-caps and other objectives",
-    "headline": "Guarantees in support of SMEs, mid-caps and other objectives",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:39.323897+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives",
-        "\"Guarantees in support of SMEs, mid-caps and other objectives\""
-      ],
-      "sources": [
-        {
-          "title": "The EIB and Santander will mobilise €300 million to support SMEs and mid-caps in the security and defence sector - Banco Santander",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzFvU0FHSmxYZ1c0QjJwZnFkZUZQOVdZUlRtbWZ2dGpLZHQ1S3o2RjhRSHMxeWRzVE1vbmVwMVBsV3BOQXREOExVTmZIUndVdWh5UHZRTnhRS0lFbzVRcFBfVWNvNk5QdkxiaDNFX1NiSlNYMndZdTVoRElyclRGWlZubkdpVlo1Mld1Wm92S09pb3FGUnU4YmppWlRlOUl3SHo0QVplNURyQm5iaXdNT0hmM1FXWXUzalVKYXhZaVJNeE1aLTItTTZEQW5xRHUtbTkzTXNXRWVrenR0b3NIQmZqd0kyXy1saVBMMHM4eFpZX3dJOWFvUXZEUUJUWDBYa1hSbQ?oc=5",
-          "snippet": "The EIB and Santander will mobilise €300 million to support SMEs and mid-caps in the security and defence sector Banco Santander",
-          "source": "Banco Santander",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
-        },
-        {
-          "title": "EIB commits up to €500M to boost lending for Italian SMEs and mid-caps - Dealroom",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRERCSExObzY4Y01WbzB6TFVUc3pkMll2a1ZnOGYwc2w5OXJSQUdNUjlYNFFDWjVZb1JBdzFBRkhrMVVPR2hTeDRxcTRYOTJUM2FUbGp3WENBeUxXdDZCT2pYbk5rejI2QW4zTXJjSm1pRUhMR1luWDJzOG5rUkRGMm1Qd1JTVExsZ3dCMmY5TERYSWVpNTNCZ2hMQk9MemlENXdpVklB?oc=5",
-          "snippet": "EIB commits up to €500M to boost lending for Italian SMEs and mid-caps Dealroom",
-          "source": "Dealroom",
-          "published": "Tue, 27 Oct 2026 19:06:35 GMT",
-          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
-        },
-        {
-          "title": "EIB Group and BBVA mobilise €1.3 billion in financing to support SMEs and mid-caps in Spain - Capital-Riesgo.es",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHBWZDYwTzNnYWo0dHZoaWJIOUhoSjBjTjE0ZFFXVGhZV0UteWE1QzE4cWZwSzBMZi1JV2U0OW5lQmZ2T3M4NzYyYk44MTIzUXlHQUNlQm51OHNCbWpLdS1pQmw1MGtvSWlYQjJnTzRnQVdBOVRkUmF2SmlWbEJIVmlXb2MxekRoOUhmS2YyaGdBbU53SFFhdU1xSnljSmg3SG1zMzI0ZGV1V2I4WDBIc1FZWGxGTjdyUmxrbkxvYWROYVJOX0lnTA?oc=5",
-          "snippet": "EIB Group and BBVA mobilise €1.3 billion in financing to support SMEs and mid-caps in Spain Capital-Riesgo.es",
-          "source": "Capital-Riesgo.es",
-          "published": "Thu, 22 Oct 2026 07:45:23 GMT",
-          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
-        },
-        {
-          "title": "EIB Group Marks 50 Years in Portugal With €70 Billion Invested and New Funding for Growth - Devdiscourse",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTnkxcV9zT0l2VzFxUU5McEVKaHQ4VnBhdURMbkJhbFR3cG1BeGhIbkpTbDRrMVJYWnp4OGtqTFpNaEhGbWV5bmRlUjZJdWhCOThZM3I1cERuRjc2Qlh1aklqQ1I5cTNHaEdXQnM4OGpRMGppOUMwZENTV2FmR0JFaGpxTnBLazh4OXcySE9VVlB0Z0dBblFtM0ZiSU0tUFVDWTZnSE5fZDBTR25yV1RkdS00ekRPelFTYXl5MUs2ZFFPRVBlMHNRQ3p2dGlsbGVIajk3U01zTTFiZ2JfMmEw0gHfAUFVX3lxTE1OeTFxX3NPSXZXMXFRTkxwRUpodDhWcGF1RExuQmFsVHdwbUF4aEhuSlNsNGsxUlhaeng4a2pMWk1oSEZtZXluZGVSNkl1aEI5OFkzcjVwRG5GNzZCWHVqSWpDUjlxM0doR1dCczg4alEwamk5QzBkQ1NXYWZHQkVoanFOcEtrOHg5dzJIT1VWUHRnR0FuUW0zRmJJTS1QVUNZNmdITl9kMFNHbnJXVGR1LTR6RE96UVNheXkxSzZkUU9FUGUwc1FDenZ0aWxsZUhqOTdTTXNNMWJnYl8yYTA?oc=5",
-          "snippet": "EIB Group Marks 50 Years in Portugal With €70 Billion Invested and New Funding for Growth Devdiscourse",
-          "source": "Devdiscourse",
-          "published": "Wed, 28 Oct 2026 09:02:39 GMT",
-          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
-        },
-        {
-          "title": "Minister Burke and Minister Heydon announce expansion of the Growth and Sustainability Loan Scheme to €1 billion and extension to 2029 - Gov.ie",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPbHFVb0l0YWREaUxLNUcyUHZzMkJ2Q19nLVc1MnFpbzFzQ001RldKdGNxcHh3ZUNEMTBUTDBDQkpPbXpFa3VXdXcwYy1va0pDOVZTUDN3NEh2dU8yOG1oT04tUXlkYlZrWmllemdnZmZZVkd4a193QUcwc0h2Nmh1dmFlMVNPY0RBZHQwZUZDalpZZEZWRVV6N3hHMXVuNkZlOFgyTmVoYkktQ2R1eWIyUVRPRTROc3h0Mk9McmRLVW9aWUlmeVFsLUpGTU1uOXJMZDVseU45ODNkaFlQX0lFRTZfZ0I1cGEzMjd1NlpScnl1TmFad05zT1RWQ0k4RnFSNy0xNjVMVXVHNEtkU0pBZGgzOTVfRzg3d1FnR0VSSXdDbUhlS1JlYVpSZmZUc2p2Um1OUER2SUhWdGVhb1hMaA?oc=5",
-          "snippet": "Minister Burke and Minister Heydon announce expansion of the Growth and Sustainability Loan Scheme to €1 billion and extension to 2029 Gov.ie",
-          "source": "Gov.ie",
-          "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-          "query": "\"EIB\" Guarantees in support of SMEs, mid-caps and other objectives"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EIB"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-73878b3aa593",
-    "title": "AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
-    "headline": "AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
-    "summary": "AFRY wins engineering contract for Swissgrid transmission upgrade Renewables Now",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFQzX3pIOV9hS1p6MGdrelZ1TVV0NG1NUGVreWlMZVFSZUptV18yT2JfS2tnVnU1bF9Uam5iNXcxUlI1bktxdUp1dlpjdlN6OUgyX2hOcDBYV3oxSm9SbGtPNlNwcmVUeGM4OFA4WWVIaUlPMjgtT2RZMDZuZ3BZUGF3alNkczRFdGF3bWN1dWo5bDVHWXRHamdhMGtXV3dTRGhwdG5Vc2U?oc=5",
-    "source": "Renewables Now",
-    "sourceType": "news",
-    "published": "2026-10-15T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Grid"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "AFRY"
-    ],
-    "competitor": "AFRY",
-    "relevanceScore": 60,
-    "actionabilityScore": 43,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "AFRY wins engineering contract for Swissgrid transmission upgrade Renewables Now",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity; AFRY detected",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 84,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.84,
-    "filterReason": "1 event indicator(s); 1 identifiable actor(s); 2 technology indicator(s); strong actor/event/development combination; concrete action relationship",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 95,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "competitor detected",
-      "competitor move",
-      "consulting/advisory potential",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": true,
-      "competitorMove": true,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 95,
-      "researchQueries": [
-        "\"AFRY\" Morocco Grid",
-        "\"AFRY\" AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
-        "\"AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now\""
-      ],
-      "sources": [
-        {
-          "title": "AFRY wins engineering contract for Swissgrid transmission upgrade - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFQzX3pIOV9hS1p6MGdrelZ1TVV0NG1NUGVreWlMZVFSZUptV18yT2JfS2tnVnU1bF9Uam5iNXcxUlI1bktxdUp1dlpjdlN6OUgyX2hOcDBYV3oxSm9SbGtPNlNwcmVUeGM4OFA4WWVIaUlPMjgtT2RZMDZuZ3BZUGF3alNkczRFdGF3bWN1dWo5bDVHWXRHamdhMGtXV3dTRGhwdG5Vc2U?oc=5",
-          "snippet": "AFRY wins engineering contract for Swissgrid transmission upgrade Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "\"AFRY\" Morocco Grid"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [
-        "AFRY"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track AFRY as a strategic competitor/relationship signal and identify its exact scope.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-05cf114cbbf4",
-    "title": "Office of the Chief Compliance Officer",
-    "headline": "Office of the Chief Compliance Officer",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.582311+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 59,
-    "actionabilityScore": 42,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 54,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 54,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Office of the Chief Compliance Officer",
-        "\"Office of the Chief Compliance Officer\""
-      ],
-      "sources": [
-        {
-          "title": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights - fundsforNGOs News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpBVU1WTnMtUmlpSkg0WUxrUHE0TkZxRmMxN0RxR25oSHlteHlnLWdyUTA2SGVaQ2lvODM1VlJkbHFPaFpIQ1lFdWRtaXU4S1drQ2xCOUJHQWFWT2tocERiZ1Z5dGZnQTh4SXhpN25FdEVjNGNMb1dlMl9KU0pTd1NHbTZWVjJxa1paVldRTV9SRXdxSExwU25EalNQSVRHZ2l0cWloQ085RUxJWkJVWG9jWnZVRTcz?oc=5",
-          "snippet": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights fundsforNGOs News",
-          "source": "fundsforNGOs News",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "International Anti-Corruption Day 2026 - 26 Nov - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT0I5eV9lRzdQXzJOZWd6VmF2NFJXcmdnYnEyMFJ3Z0ZKdW1Ka2xqRFRlU0s1T0hwT3Rta0FHcFFZSUl0QlpUaHBNSVVyQnpEcTZqdUhlOUx1eXd0TG55MkRtN2k5cDBjYWZUVmNrTmRTUkQ0d0VqMnVCRnVsQ3hyQUVNVW01bVRrZ0J2WW1NdlZkUzJYQXp5MjZQUTlTVXVSNlJoc3B0dUtnanA1TWl2cUNPS2pWN21mcHhWV2Nyc1JaYTFwOGoxUXBnN3N1LVhJTVB6aUVESQ?oc=5",
-          "snippet": "International Anti-Corruption Day 2026 - 26 Nov EBRD",
-          "source": "EBRD",
-          "published": "Wed, 28 Oct 2026 10:21:21 GMT",
-          "query": "\"EBRD\" Office of the Chief Compliance Officer"
-        },
-        {
-          "title": "Development finance offers practical pathway to nature recovery and biodiversity gains - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1ZodHlKUnFsNUJHalprd1pDOEhObkhfMF9Cc2ZzaXNOOGY3M21ENGhCTmJtTG92eldDUHNkQlBzQnZ1NUYxSEg0NUZTRDFzY0NrbzZoZVUtb0J5RWJqUEd2VzFWT1BueENVRmE2VzNBXy11TTRwc1RDWVpqV0xSTXVlYVJSdTlwbFpQLTZXdVctOVJYNnhDQ2VfTllONUc1RU1SaGdFd1JiRjVsWFlYZEdTT01kZHd6MlFiek9ROWVKSXdkUTZLU0NsXzdwVVdLUVIxclVBYw?oc=5",
-          "snippet": "Development finance offers practical pathway to nature recovery and biodiversity gains EBRD",
-          "source": "EBRD",
-          "published": "Wed, 28 Oct 2026 11:06:13 GMT",
-          "query": "\"EBRD\" Office of the Chief Compliance Officer"
-        },
-        {
-          "title": "State senator calls for MEDC overhaul as bipartisan criticism grows - The Center Square",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZF9ZWll6T2JJNjNxYllqaGd0VWZMbWVJOTlfMF9zLXFHdC1OUmhVMEZNYTAtZldaU0VmNmVtb3lhOF9ENFk0Y3hHQmdURDlnRmhpWDNXMjVjbUlQWDJpSG1xMFN2eUhiUjVISHdXcFhjY3BpRmdvU0Ntc09tQlBSSFpjMjBwU25lSFo0VTA5U1Z6aHYt0gGaAUFVX3lxTFBqdHlDdlI1bE00by1GNl9rRHBteTd1eHRLVWFIWThiU1JYN21wNHZuWDVmSzItUmVIb3pmTmFkMVB0Tzd0VTZaMTNfS0k4VGhZUjhIbmcyR2ltMnhuNE5CNFZoQlFyMldyYzJCeW1Ka0VMZXRHdVlzck1mVHVSeVhJaWt5WkFsQ0xhYWF4NDdJTVRJVTkzaXc2dmc?oc=5",
-          "snippet": "State senator calls for MEDC overhaul as bipartisan criticism grows The Center Square",
-          "source": "The Center Square",
-          "published": "Tue, 15 Sep 2026 07:00:00 GMT",
-          "query": "\"Office of the Chief Compliance Officer\""
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-04655f161db6",
-    "title": "Independent Project Accountability Mechanism",
-    "headline": "Independent Project Accountability Mechanism",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.582314+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 51,
-    "actionabilityScore": 37,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 30,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.7,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 70,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 70,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Independent Project Accountability Mechanism",
-        "\"Independent Project Accountability Mechanism\""
-      ],
-      "sources": [
-        {
-          "title": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights - fundsforNGOs News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpBVU1WTnMtUmlpSkg0WUxrUHE0TkZxRmMxN0RxR25oSHlteHlnLWdyUTA2SGVaQ2lvODM1VlJkbHFPaFpIQ1lFdWRtaXU4S1drQ2xCOUJHQWFWT2tocERiZ1Z5dGZnQTh4SXhpN25FdEVjNGNMb1dlMl9KU0pTd1NHbTZWVjJxa1paVldRTV9SRXdxSExwU25EalNQSVRHZ2l0cWloQ085RUxJWkJVWG9jWnZVRTcz?oc=5",
-          "snippet": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights fundsforNGOs News",
-          "source": "fundsforNGOs News",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "Development finance offers practical pathway to nature recovery and biodiversity gains - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1ZodHlKUnFsNUJHalprd1pDOEhObkhfMF9Cc2ZzaXNOOGY3M21ENGhCTmJtTG92eldDUHNkQlBzQnZ1NUYxSEg0NUZTRDFzY0NrbzZoZVUtb0J5RWJqUEd2VzFWT1BueENVRmE2VzNBXy11TTRwc1RDWVpqV0xSTXVlYVJSdTlwbFpQLTZXdVctOVJYNnhDQ2VfTllONUc1RU1SaGdFd1JiRjVsWFlYZEdTT01kZHd6MlFiek9ROWVKSXdkUTZLU0NsXzdwVVdLUVIxclVBYw?oc=5",
-          "snippet": "Development finance offers practical pathway to nature recovery and biodiversity gains EBRD",
-          "source": "EBRD",
-          "published": "Wed, 28 Oct 2026 11:06:13 GMT",
-          "query": "\"EBRD\" Independent Project Accountability Mechanism"
-        },
-        {
-          "title": "International Anti-Corruption Day 2026 - 26 Nov - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT0I5eV9lRzdQXzJOZWd6VmF2NFJXcmdnYnEyMFJ3Z0ZKdW1Ka2xqRFRlU0s1T0hwT3Rta0FHcFFZSUl0QlpUaHBNSVVyQnpEcTZqdUhlOUx1eXd0TG55MkRtN2k5cDBjYWZUVmNrTmRTUkQ0d0VqMnVCRnVsQ3hyQUVNVW01bVRrZ0J2WW1NdlZkUzJYQXp5MjZQUTlTVXVSNlJoc3B0dUtnanA1TWl2cUNPS2pWN21mcHhWV2Nyc1JaYTFwOGoxUXBnN3N1LVhJTVB6aUVESQ?oc=5",
-          "snippet": "International Anti-Corruption Day 2026 - 26 Nov EBRD",
-          "source": "EBRD",
-          "published": "Wed, 28 Oct 2026 10:21:21 GMT",
-          "query": "\"EBRD\" Independent Project Accountability Mechanism"
-        },
-        {
-          "title": "They don't give out papers, locals are worried: The yellow people of the village of Zupci are demanding that \"Monteput\" and the Municipality show them where they will pass through the - vijesti.me",
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcjJJYUdRVzZpa1VpRWg5Z3lDaDZCVHNvX0xNSWtpY2l6UV9nVGVkQVJLTkVPZWkwX1VMZ05FRUJkZllpbDAxb2ZrQ0xmVlBOMUNFbUhrR1UxT3IybVUwSkpONjdWaXEwVnhkOG8zbk01OC1WR3A5X1V6eTZFbGRxeDJlR1piN0NBaElEeno0UmZWYTZYYU0zTWRVcFduNlpqLVUxRG9KeXhmVEhUcnBncTd5cHZVZ2dBUTlZSzllaFZNNFdQS0RvVTVyUWhnaFB4c21JcUxlZEFJbXlkNXJxRWlYNnVNN3pQZEJmRzh3cWdUTS14MnVwY2pWZFpSNGtBdFdaVWN3OGxLY3JUcllSbTAza3psLVFJWl9EMFVwS1hoUk1TcFhoNERQM2lITHV1bGVxeDNn0gGnAkFVX3lxTE9wNDlaV0lWZkJ6MWtWZllSSkQ2X3MyTXdONnlaV3pyN1Zud1d3YzktR25pV1NfZlZLUm1JQW8xTENsTDJ3REcyWk5mdzZkenVldUszQmVraWFLeXVpRFdQdHV4eHhhSmhRVmtDblJTQ2NTU1dmMUFGQ3ZRbDNVVEVFam1ZZkRZOFM4VUtaZEVsNXZMV1hIa2RGVnk0VzBlVmNYb0txVEdyTEhkR084amdKal9QczA3T0ZIUXY3dTgzWHRHT01xcE9VYlhoeXZ4NlhfZUl2OTZTdnRzaVdGN210ZWlsaWhsUVhMZG9SejFVOUpOZWFHV0dubWRVOTZ5T0Rfc1YxbkZ5ZmVLUE1CMFBMQ1FSYk9QZHlqemhMcm5LY1dKcTEyZkE?oc=5",
-          "snippet": "They don't give out papers, locals are worried: The yellow people of the village of Zupci are demanding that \"Monteput\" and the Municipality show them where they will pass through the vijesti.me",
-          "source": "vijesti.me",
-          "published": "Tue, 29 Sep 2026 19:42:37 GMT",
-          "query": "\"Independent Project Accountability Mechanism\""
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-856448ebc7ff",
-    "title": "Basic documents establishing the Bank",
-    "headline": "Basic documents establishing the Bank",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.582298+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Basic documents establishing the Bank",
-        "\"Basic documents establishing the Bank\""
-      ],
-      "sources": [
-        {
-          "title": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights - fundsforNGOs News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpBVU1WTnMtUmlpSkg0WUxrUHE0TkZxRmMxN0RxR25oSHlteHlnLWdyUTA2SGVaQ2lvODM1VlJkbHFPaFpIQ1lFdWRtaXU4S1drQ2xCOUJHQWFWT2tocERiZ1Z5dGZnQTh4SXhpN25FdEVjNGNMb1dlMl9KU0pTd1NHbTZWVjJxa1paVldRTV9SRXdxSExwU25EalNQSVRHZ2l0cWloQ085RUxJWkJVWG9jWnZVRTcz?oc=5",
-          "snippet": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights fundsforNGOs News",
-          "source": "fundsforNGOs News",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD channels €55.4 million to infrastructure projects in Tajikistan - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZThYZFNNZ1hzVVpXWjA4cFoyRzl0LUp3NFFSTVd0Q1Fva3hNR3lhenNlUnNGNXplTnRpaVo1dXVOM0ZGMlcwdzJYTnVFYUZrVklyQ3d6MkdZNXladjlsdUF4QkxGMjRwNk8wcXhXLWlDMjBjZVVzNGxYQlFmeFBDM0dpRDZrd0UwdXVianVKZGxXS1lvRHo1TUxMblhFc0ltb2RJVXd6c09rQU5FWl9oVXdBcW91b3RYQXlRWEE2WjFkQWI3SkQwSXBMMHJPcWhlOGlsMDViaEdTVHpjUmxXejRtSU4?oc=5",
-          "snippet": "EBRD channels €55.4 million to infrastructure projects in Tajikistan EBRD",
-          "source": "EBRD",
-          "published": "Tue, 27 Oct 2026 11:02:47 GMT",
-          "query": "\"EBRD\" Basic documents establishing the Bank"
-        },
-        {
-          "title": "EBRD unlocks €50 million for Moldovan small businesses with new guarantee to OTP Bank - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTWwyQWNWb3RlbmZ1VEVoVlMxVlUzSGthMllYejQyMzkwT3BvOVFadTEwVkFTY09HNktqSzdoMVhwWFVEOWdwczJodW0xbjFZY3BzaGV5OHVtdlhUc2ZHeG9ZVzBXWGlwX2NMc2FBcFVOdmk5RkNNQXM2TUxEdC1ZRllUNjBwVW9rZWp6amhPQ0wwZ1FjY0hXY2tLZzA4NktLMGZMd1dJMnFhT2ZZNGdhaFctNWdhdzlfNnMtU1gwNFNiLVdlZmVld1huTDZaT0laZUdFU0NUTURuNjhH?oc=5",
-          "snippet": "EBRD unlocks €50 million for Moldovan small businesses with new guarantee to OTP Bank EBRD",
-          "source": "EBRD",
-          "published": "Thu, 29 Oct 2026 09:46:54 GMT",
-          "query": "\"EBRD\" Basic documents establishing the Bank"
-        }
-      ],
-      "sourceCount": 4,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-48f4e7bd9f0e",
-    "title": "Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
-    "headline": "Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
-    "summary": "Morocco Opens Tender For 350 MW Solar PV Projects TaiyangNews",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DQ09ESHVaY0U5V3cwVkIwMmtXRU9Ba1pXOEw5dkM2bkc5eW9FeGdGdENoTTUtWTJ2U21uelBmTFVFN3QtS3liOFFfWkYydVFMZXlwUzZsYTJGRU1PTnpnYnNLbURNd1ZUXzFsUzF2XzBFOGxFcTduUQ?oc=5",
-    "source": "TaiyangNews",
-    "sourceType": "news",
-    "published": "2026-10-19T06:34:49+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Solar PV",
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 50,
-    "actionabilityScore": 36,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco Opens Tender For 350 MW Solar PV Projects TaiyangNews",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 60,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.6,
-    "filterReason": "2 event indicator(s); 2 technology indicator(s); 1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 84,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "major project scale/strategic infrastructure",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 84,
-      "researchQueries": [
-        "\"Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews\"",
-        "Morocco Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
-        "Morocco solar PV project contractor tender ONEE MASEN",
-        "Morocco photovoltaic project award EPC"
-      ],
-      "sources": [
-        {
-          "title": "Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DQ09ESHVaY0U5V3cwVkIwMmtXRU9Ba1pXOEw5dkM2bkc5eW9FeGdGdENoTTUtWTJ2U21uelBmTFVFN3QtS3liOFFfWkYydVFMZXlwUzZsYTJGRU1PTnpnYnNLbURNd1ZUXzFsUzF2XzBFOGxFcTduUQ?oc=5",
-          "snippet": "Morocco Opens Tender For 350 MW Solar PV Projects TaiyangNews",
-          "source": "TaiyangNews",
-          "published": "Mon, 19 Oct 2026 06:34:49 GMT",
-          "query": "Morocco Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews"
-        },
-        {
-          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
-          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
-          "source": "pv magazine Global",
-          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
-          "query": "Morocco Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews"
-        },
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "Morocco Morocco Opens Tender For 350 MW Solar PV Projects - TaiyangNews"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
-          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco photovoltaic project award EPC"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-4ce0ed5ad46c",
-    "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-    "headline": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-    "summary": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
-    "source": "https://www.mvapulse.com/",
-    "sourceType": "news",
-    "published": "2026-10-19T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Solar PV",
-      "Tender / Procurement"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 50,
-    "actionabilityScore": 36,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
-    "whyItMatters": "Tender signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 55,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.55,
-    "filterReason": "2 event indicator(s); 1 technology indicator(s); 1 Morocco/location indicator(s); quantitative detail",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 84,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "major project scale/strategic infrastructure",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 84,
-      "researchQueries": [
-        "\"Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/\"",
-        "Morocco Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-        "Morocco solar PV project contractor tender ONEE MASEN",
-        "Morocco photovoltaic project award EPC"
-      ],
-      "sources": [
-        {
-          "title": "Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODZFekNuSmo3ZWJIVGl2Smp2c0RSUFdUNG4tWHpFZVZNRDY2eTlSWE1HZUhqNGFaZWVDN2REeXcwYUtNVGNZWHNLa1ZWdWlFa3FRSXpjREpIRm1IOFlUZnlSSnpkeWMtdTdPOU5qajJ3UlNIYWNsc0YtYm1Ea3dibHhfUQ?oc=5",
-          "snippet": "Morocco Floats EPC Tender for 350 MW Solar Projects https://www.mvapulse.com/",
-          "source": "https://www.mvapulse.com/",
-          "published": "Mon, 19 Oct 2026 13:32:17 GMT",
-          "query": "Morocco Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/"
-        },
-        {
-          "title": "Bengal Pipe Commissions 200kW Rooftop Solar in West Bengal - https://www.mvapulse.com/",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZm9nU3VGMlI1LVh4aVRaNkFHTktKV0pTZzBfR3EwS05DRm0yY3RCckQ1eXRiX1RMT2pNYWctRkM0REpreTZNUnB4QzYwOVhNLU5YRWhrLXdiU2dYYnRheHBtUk9hQ3J0aWtmUTlfTnJQR2RTaGFUcFA0QzJfRjQwX3NDU1dnU21DeERSLQ?oc=5",
-          "snippet": "Bengal Pipe Commissions 200kW Rooftop Solar in West Bengal https://www.mvapulse.com/",
-          "source": "https://www.mvapulse.com/",
-          "published": "Mon, 19 Oct 2026 13:31:41 GMT",
-          "query": "Morocco Morocco Floats EPC Tender for 350 MW Solar Projects - https://www.mvapulse.com/"
-        },
-        {
-          "title": "Morocco opens pre-qualification for 350 MW of solar - pv magazine Global",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmVPMmpHQUo3R1VUUXBnUDlhclc0TVZXLWhVOV9wU0w0aDgyWXkwQ0xWNFZsTUVXZ19vMXJvVHJ6T0x2Q0RuQUQwZXQwWjdndU1VRVF0VUpSWmk0T0RFVFRtVl9KRm03RklmVEh1cVp2QWhfVG1CNzZ3Z1FxNmFyd2NDSnZQdzlaUFo5SmsyUFZ5RXQydkE?oc=5",
-          "snippet": "Morocco opens pre-qualification for 350 MW of solar pv magazine Global",
-          "source": "pv magazine Global",
-          "published": "Thu, 22 Oct 2026 07:45:33 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline - SolarQuarter",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUtady13Mi1mVWFYSHhpMDRTQndjdUdYdEFpSF85VkpaZFFZOS1JczU3N3lHblRYQUFUc2ZTMWswT0NRT3Vfcmp5RGtjbXcxQ21qZXQ2M0k3cXpROTBUUkplM1hkaGRyYmJ1b3pNLXE1X09sMS10cVoxTUx5aFBVOWNmZWExd3FXbURqQ0dYWWRxSzE1Z3JXSE5KaThhZWJBdTAzRC1tei12ZzVfVWZaYzg1aTFfc1dOY3B4czdOcExTQzQ4QWFSa29pMVEwR1U3VUpjMF85d21Cbms?oc=5",
-          "snippet": "Morocco Launches 350 MW NOOR PV Multisites Solar Programme With November 30, 2026, Prequalification Deadline SolarQuarter",
-          "source": "SolarQuarter",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco Opens Pre-Qualification for 350 MW Solar Projects - Serrari Group",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjNtbGhWdlJlVG1LTVk2ck5ZVm0zOGxOc01KLUIwM0FrOEl0djlCQ0VJNkxUbllOWVZ5TjRRU3BOUU5fZlR4S01MeXBXQUZPZ3RGdUR1ZFFuUEwyTzBRa2s3MWE0ZXpCS3hiMUVnSUY4RkV6WmI4X041RldhZEwzd1k5dkxRVnVvRXpz?oc=5",
-          "snippet": "Morocco Opens Pre-Qualification for 350 MW Solar Projects Serrari Group",
-          "source": "Serrari Group",
-          "published": "Fri, 23 Oct 2026 08:19:41 GMT",
-          "query": "Morocco solar PV project contractor tender ONEE MASEN"
-        },
-        {
-          "title": "Morocco opens 350-MW Noor PV Multisites tender - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFkb1FnNGEydjF6V0c1MVZ6ejl6d2RkcF9UWUpFU1FCakFQc1U5SF94eUVadE5YaGE2MTVCZWtDaUFFZXFNT25YS3R0REx0MWxET3VpZjhFSngzQm9QNGJyUHhGRlJsQzF4RTFCQ1VGUjN5ejBXVG8wdlh6R1NQMFdlb3RlLW5GWDRDelEyRQ?oc=5",
-          "snippet": "Morocco opens 350-MW Noor PV Multisites tender Renewables Now",
-          "source": "Renewables Now",
-          "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "query": "Morocco photovoltaic project award EPC"
-        }
-      ],
-      "sourceCount": 6,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-ef865c64f24e",
-    "title": "Annual Meetings and Business Forums",
-    "headline": "Annual Meetings and Business Forums",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.582302+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Annual Meetings and Business Forums",
-        "\"Annual Meetings and Business Forums\""
-      ],
-      "sources": [
-        {
-          "title": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights - fundsforNGOs News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpBVU1WTnMtUmlpSkg0WUxrUHE0TkZxRmMxN0RxR25oSHlteHlnLWdyUTA2SGVaQ2lvODM1VlJkbHFPaFpIQ1lFdWRtaXU4S1drQ2xCOUJHQWFWT2tocERiZ1Z5dGZnQTh4SXhpN25FdEVjNGNMb1dlMl9KU0pTd1NHbTZWVjJxa1paVldRTV9SRXdxSExwU25EalNQSVRHZ2l0cWloQ085RUxJWkJVWG9jWnZVRTcz?oc=5",
-          "snippet": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights fundsforNGOs News",
-          "source": "fundsforNGOs News",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "How EBRD and donors support young entrepreneurs in the Western Balkans - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEdpNUNqck81NmRTWWtCTlVmYjlDMGpNa28wNzZVRW1OcDJ1V2dvbjNsZkxxZXdoQ2FlSFB1cTI5VFl3MTBtRmlMVDZFM3NwV0VnTmFkUnkwNDVkUzV3UTFuc2RsSkJJRmN6QTRodllnTENuTUZWREdHVHRxbV9WVk5aOFV1RlBsUXcxcU1lam9mSF9yUE5tZGw1TFE0Zl9pdGU5S3BicW1ka2x0ZnNrYjZoNU1MTmJzeEhUS2RR?oc=5",
-          "snippet": "How EBRD and donors support young entrepreneurs in the Western Balkans EBRD",
-          "source": "EBRD",
-          "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Annual Meetings and Business Forums"
-        },
-        {
-          "title": "EBRD partners with EFG Holding to support MSMEs in Egypt - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1F2aHZIWWItZ2VuR3BHU0VVejlaTWdvM1JIdnpwc3hiM04yUGtxLUFWTTNuWm1pNzd5OUNtMmZrWVMxaW5HSG5iam1BVUoxQTQtV0VCX0h0RFBCMmROekF5UWd5Tk80TDF4U3hsU0lseWFPOHROWnFuZklWNzVOMlpIZE9qNDlMeVg1d2IxVk5fTXBjcm5Gc1htM1MtZEN1ekYzd0cyMlVTMC1KaUcxOEozWQ?oc=5",
-          "snippet": "EBRD partners with EFG Holding to support MSMEs in Egypt EBRD",
-          "source": "EBRD",
-          "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Annual Meetings and Business Forums"
-        }
-      ],
-      "sourceCount": 4,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-733aaf3d2f35",
-    "title": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa",
-    "headline": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa",
-    "summary": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUpIVF93cV8xNzBTb2ZJZU5KeXJ6cnpxdzhSQ1lBLUttanZZN2VndnVhQWFHX2tTOVlKSTJ4Q19LX3JvSDVxem9NUnFNdGxaX0RXYlFSNVdGa250XzhrdGE2N2VFVnQzNjBYZzl3ejk1T3hiVmt0VTJabEtHTVdiOVNreUp5VEpHX1YzdlNncTdxRkVUZWVRN1d5aGNRVWhVREl2MEFFVXJRNUFJSUhXSHVYNVBaRjZYOXJJa1otVy1lS2hxSi02aFQ1TlYxLVdD?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-10-27T11:08:59+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 49,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north Business Insider Africa",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 Morocco/location indicator(s)",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 45,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "investment/financing"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 45,
-      "researchQueries": [
-        "\"Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa\"",
-        "Morocco Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa"
-      ],
-      "sources": [
-        {
-          "title": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUpIVF93cV8xNzBTb2ZJZU5KeXJ6cnpxdzhSQ1lBLUttanZZN2VndnVhQWFHX2tTOVlKSTJ4Q19LX3JvSDVxem9NUnFNdGxaX0RXYlFSNVdGa250XzhrdGE2N2VFVnQzNjBYZzl3ejk1T3hiVmt0VTJabEtHTVdiOVNreUp5VEpHX1YzdlNncTdxRkVUZWVRN1d5aGNRVWhVREl2MEFFVXJRNUFJSUhXSHVYNVBaRjZYOXJJa1otVy1lS2hxSi02aFQ1TlYxLVdD?oc=5",
-          "snippet": "Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Tue, 27 Oct 2026 11:08:59 GMT",
-          "query": "Morocco Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa"
-        },
-        {
-          "title": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaGU5QlRhalRXQWxLa3Y2TTR2azlaWWN5YkpwR2hzNHZxb281Y3lqdTVQN195ZGZvbXlBdHVqQ2F3NzhSWVlPYmVMLXhsNEpRcHBDOXdNQXBxMGdJOW4zRkhKczJwemdKWDZCbDlMVmRBeFhFRG1XTURac3hWVmdYOE1BaHN0SS1wOHpaUzhzQ2lfUzBXMnpXVmdQQnFOTE1Hb0dIcXEtT3MxajhPQjBET2NjMkRuT2k4RW9JUFlaUUlOOFNSai04a2V6cC1xdGgyN3JJZTFUUQ?oc=5",
-          "snippet": "Africa’s 10 biggest new projects attracting billions in investment and the investors backing them Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "Morocco Morocco dethrones Africa’s richest country as most attractive investment hub as manufacturing growth draws investors north - Business Insider Africa"
-        }
-      ],
-      "sourceCount": 2,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-5fb3f1095596",
-    "title": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
-    "headline": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
-    "summary": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts Menafn",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2ZhYzNwNUdzVHZrVVZBd0p1SHVzRmJXVzdVMC1wTlFFb2FFeVJIRFkzQmxHYkNyY0otbVJubnNDSW9zeHNtVHU2ODNoMzR1bWFoRllQaEs3ZTd1Yjhua0FHU014WnRESGNQVEd1TktkSzNtQ0poY09zV2UyNmFoelpQN0k5cnpxQ29jaGtjdVRUT1hhUnE0VFhGR0xIZFRsZTdYN21tNEFjaVRTVFptZVgxU0Z5RjQ?oc=5",
-    "source": "Menafn",
-    "sourceType": "news",
-    "published": "2026-10-26T06:27:57+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "BESS",
-      "Grid",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 56,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts Menafn",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 67,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.67,
-    "filterReason": "1 event indicator(s); 3 technology indicator(s); quantitative detail",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 70,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "major project scale/strategic infrastructure",
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": true,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 70,
-      "researchQueries": [
-        "\"India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn\"",
-        "Morocco India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
-        "Morocco pumped storage hydro project contractor"
-      ],
-      "sources": [
-        {
-          "title": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2ZhYzNwNUdzVHZrVVZBd0p1SHVzRmJXVzdVMC1wTlFFb2FFeVJIRFkzQmxHYkNyY0otbVJubnNDSW9zeHNtVHU2ODNoMzR1bWFoRllQaEs3ZTd1Yjhua0FHU014WnRESGNQVEd1TktkSzNtQ0poY09zV2UyNmFoelpQN0k5cnpxQ29jaGtjdVRUT1hhUnE0VFhGR0xIZFRsZTdYN21tNEFjaVRTVFptZVgxU0Z5RjQ?oc=5",
-          "snippet": "India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts Menafn",
-          "source": "Menafn",
-          "published": "Mon, 26 Oct 2026 06:27:57 GMT",
-          "query": "Morocco India Needs Battery Storage, Grid Investment To Meet 500 GW Clean Energy Target: Experts - Menafn"
-        },
-        {
-          "title": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZDhDMndtWFVBLWtqOFU4WXl0QjUwZXEzc1Z3Ri0xOW1EamlVazdSZkc1dXloRVRnWlZvOFVqVWU1OFJEaUs4aXdiOWJsT3lqMFpTYTZwemI2dmpzWldzTnF1YUN3OU5teFBSOXIzdDNjUDd0OW5UNVo5SWUxeUlsMFFKM0RlN1ZyVGI1ODZ3Q2ZVWTVfR2NCRzJTVGV3Z3NvOHpJZEpxYTJYSWtoMkhhZlJwcDVQRjgwNjhNdFNhTXJxQ3djTmc?oc=5",
-          "snippet": "Snowy 2.0 Hydro Project Faces Contractor Crisis as Construction Costs Soar Past $8 Billion Construction Review",
-          "source": "Construction Review",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "Morocco: Utility looks to generate power from water pipelines - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2FXOWlQX2RUZlY2WWdvdTljb0VTWEdXbUxaOG50VjVuYVh1cElZeUJLb3plSGpKbUlMWTVSME9RcEhGaGJzaG5FTzN0NFdVZFdCYnVHd2xLakxUcEdZNW9nNDdJTC03ZGpEdmk5MHlPd2Y5UUhka0c3WUF0NWkwa2lkdWxUc2JyRXFtQjJxT2thSlJmRWJMUFNxUkJMTVZZdVU2SQ?oc=5",
-          "snippet": "Morocco: Utility looks to generate power from water pipelines African Energy",
-          "source": "African Energy",
-          "published": "Mon, 26 Oct 2026 16:32:03 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        },
-        {
-          "title": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny - Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnR1STNBS1I4WEVZV3ZjaW5rdVprMWJQeHh4bFR6a0ZhWTVSUXg5RGRxSmxzU1NRaHJnOTdXTzUtS1B4QXdlaGgwRjZkSW53eU1DR25tNEpuWGlFbmkyQmt6X0dqR1VycXFRRXR4NVZ0ZUNzbVhPZy1pV2tNb0VhcGxrdXo3TGp6QjMwQUZpcmFqcmNhbExGVjB0WFQxYUZuV3g3QXBWZ0tnMUpybmVHNzFhdTlfM2lnQnc?oc=5",
-          "snippet": "$12bn Snowy 2.0: Australia’s 2,200MW Underground Battery Project Faces Major Audit Scrutiny Construction Review",
-          "source": "Construction Review",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "Morocco pumped storage hydro project contractor"
-        }
-      ],
-      "sourceCount": 4,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-fe2291c2f3c6",
-    "title": "Environmental and social sustainability",
-    "headline": "Environmental and social sustainability",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T14:22:41.582303+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Environmental and social sustainability",
-        "\"Environmental and social sustainability\""
-      ],
-      "sources": [
-        {
-          "title": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights - fundsforNGOs News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpBVU1WTnMtUmlpSkg0WUxrUHE0TkZxRmMxN0RxR25oSHlteHlnLWdyUTA2SGVaQ2lvODM1VlJkbHFPaFpIQ1lFdWRtaXU4S1drQ2xCOUJHQWFWT2tocERiZ1Z5dGZnQTh4SXhpN25FdEVjNGNMb1dlMl9KU0pTd1NHbTZWVjJxa1paVldRTV9SRXdxSExwU25EalNQSVRHZ2l0cWloQ085RUxJWkJVWG9jWnZVRTcz?oc=5",
-          "snippet": "South Africa’s Tennsa Uses AI to Turn Business Data Into Actionable Insights fundsforNGOs News",
-          "source": "fundsforNGOs News",
-          "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "EBRD targets Benin SME bankability with advisory support and new financing tools - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZThPcWZaOVBPUzZKeTFLbGRjVUxJY1FRbmt5ZjhRMlRzVlZUN1p4Yk1mdEpic1F4YVN2XzJBV05YVnVJX2x0bmtaM1A1OVFyYUNmRjJEQ1FwS0ctcEhTbXFUVzFiaWJTcE5jSnN4OHdaUlRoMEM3OVNJVjlndjI3d2JrNC01TEFIeDhfdW9LaWpjazJ2dWFGZ2pIN1dHM1dUblhieDJhY2ZSdk05RGRCWlNydTZLaUJ5LW5MN3Zn?oc=5",
-          "snippet": "EBRD targets Benin SME bankability with advisory support and new financing tools Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "query": "\"EBRD\" Morocco Market intelligence"
-        },
-        {
-          "title": "Development finance offers practical pathway to nature recovery and biodiversity gains - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1ZodHlKUnFsNUJHalprd1pDOEhObkhfMF9Cc2ZzaXNOOGY3M21ENGhCTmJtTG92eldDUHNkQlBzQnZ1NUYxSEg0NUZTRDFzY0NrbzZoZVUtb0J5RWJqUEd2VzFWT1BueENVRmE2VzNBXy11TTRwc1RDWVpqV0xSTXVlYVJSdTlwbFpQLTZXdVctOVJYNnhDQ2VfTllONUc1RU1SaGdFd1JiRjVsWFlYZEdTT01kZHd6MlFiek9ROWVKSXdkUTZLU0NsXzdwVVdLUVIxclVBYw?oc=5",
-          "snippet": "Development finance offers practical pathway to nature recovery and biodiversity gains EBRD",
-          "source": "EBRD",
-          "published": "Wed, 28 Oct 2026 11:06:13 GMT",
-          "query": "\"EBRD\" Environmental and social sustainability"
-        },
-        {
-          "title": "The EBRD at Biodiversity COP17 - EBRD",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHp4SDUyemVobjk0MUI2dVBLQmlNdlA3OVRxaWJTR3hlYjlJbDNXYnJRa1cwY0xlX1RLaVVlNHRlM1h1NHljWkxuZW5ONk4tY0x5REpDYVdzdUYzSDlDVnhLTllMWmxEVEw2cE9pYkMtck1Tc1h2cUhLVVo1VF9UTjZkbWYwZXYzc3VQcVhONVdZdzA?oc=5",
-          "snippet": "The EBRD at Biodiversity COP17 EBRD",
-          "source": "EBRD",
-          "published": "Mon, 19 Oct 2026 13:24:53 GMT",
-          "query": "\"EBRD\" Environmental and social sustainability"
-        },
-        {
-          "title": "Fifth Annual Symposium on Environmental and Social Sustainability in Supply Chains - UC Berkeley | Haas School of Business",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMnZQUFd3cU4xVjVzVWY0QjB6dEVuUDYtaUVrX1QyTmJyUFh4RE4tbkxTNDQxdl9OclZUTWpjWDFwaVpqMDhRSmxfOGc1LTR4SV9XcEFGblFWTG9Ga1MwWENoeXNIQzN4a2s4Y1NxeFA4TXFNZVNR?oc=5",
-          "snippet": "Fifth Annual Symposium on Environmental and Social Sustainability in Supply Chains UC Berkeley | Haas School of Business",
-          "source": "UC Berkeley | Haas School of Business",
-          "published": "Sat, 01 Aug 2026 17:08:32 GMT",
-          "query": "\"Environmental and social sustainability\""
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-01053c022a0e",
-    "title": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
-    "headline": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
-    "summary": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race GreentechLead",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa3RVVUo5S2hzNDB3dFZLam9KYlBPV2lsVlF1ckIzaHNqZDVGREVQaTF5M25za3B3ck1aeENITG1oWFVSQXpjX0t3OXp4dzNOOXVTR1JTQmhOQ1ZMdGNQYVNWV3VxT3ZFcmExR1FJcmJWRjc1aGJmelJEQWxicm9TYjB4SUhlYTI5VVJJbnpMQU8yMGlXd0JzRWxseUJ5TE5xcl9YaWV3MmJxdHc0V25oZUxPVFVCbnRvRnVLOUpxUUhUT1VPWC1RYTJxNXVKQVNoOVMzdDg4cHV3dkZTaFZPWjFRNU9tVEl0ZTVDWjUwWFUybzZXODk1Qw?oc=5",
-    "source": "GreentechLead",
-    "sourceType": "news",
-    "published": "2026-10-16T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Hydrogen / PtX",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 48,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race GreentechLead",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 51,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.51,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 45,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 45,
-      "researchQueries": [
-        "\"Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead\"",
-        "Morocco Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
-        "Morocco green hydrogen ammonia project investor contractor"
-      ],
-      "sources": [
-        {
-          "title": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa3RVVUo5S2hzNDB3dFZLam9KYlBPV2lsVlF1ckIzaHNqZDVGREVQaTF5M25za3B3ck1aeENITG1oWFVSQXpjX0t3OXp4dzNOOXVTR1JTQmhOQ1ZMdGNQYVNWV3VxT3ZFcmExR1FJcmJWRjc1aGJmelJEQWxicm9TYjB4SUhlYTI5VVJJbnpMQU8yMGlXd0JzRWxseUJ5TE5xcl9YaWV3MmJxdHc0V25oZUxPVFVCbnRvRnVLOUpxUUhUT1VPWC1RYTJxNXVKQVNoOVMzdDg4cHV3dkZTaFZPWjFRNU9tVEl0ZTVDWjUwWFUybzZXODk1Qw?oc=5",
-          "snippet": "Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race GreentechLead",
-          "source": "GreentechLead",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"Cheapest Green Hydrogen Countries in 2026: China, Saudi Arabia, India, Chile and Australia Lead Cost and Investment Race - GreentechLead\""
-        },
-        {
-          "title": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTE1YNDZwd1E3aHF2eENxVzFPcXlKUWNZeFFYdHRNLUQ0cFFYVE41d3ZVbXgwUkJBTlZ6NUFjZU1oeUljblZYVVNFRTgyZXRqRnhWM0RHZWhsWGxIMERMcGVzVEE2cTgwdDZta2FaMlpGLVNWTTQydTdSMDZLR0JISmcwbnFpUXhWM0E1NXZQWQ?oc=5",
-          "snippet": "Will KBR's e-NG Contract Strengthen Its Clean Energy Growth? Yahoo Finance",
-          "source": "Yahoo Finance",
-          "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive - Africa M.E.",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRfTWxuOHlRLS02dWVGSnFLOHRJQkFTQUtqR3ZRekt5dFFkZ0tGX2hLcWpXUHk0SC1Ya1pQaTZfekVUNzN1NlloQVVmYzkxYkN1NnlWMUxfbE1CLUxUVXBjalllVUpxa2dPOVFHYXV5NWUwQlMzbnJJWk5WUU5iRUVZRUVjYU5xRkk1cVN3?oc=5",
-          "snippet": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive Africa M.E.",
-          "source": "Africa M.E.",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED - Africa Sustainability Matters",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnZ4NU1vM2hla1IxTldBbHBCYjZqdExjM2JpNGI0cEdueTIwaU9ERzBBVnNJb29fTXFOMVhrOVhURWpuQ2dycjlpazhfb2VjMFNrZWpwbmhQWk81c05yQVl3X1NCemFHX2FaRWtla2tCc29WQVJOZHM4Q0FnbEZsRTJCbWF2NXhnYUcwYkp4NzAtVzltdVBkUTdGa3ZteHZQbGhYbzRmakExbXo1N04wVXlMYTRpU0M0RFd6cDBsbzJ6SWVJTHdRTjVzRkpDSXZka1lHVzAxdGpkVGpaMGxHMg?oc=5",
-          "snippet": "Morocco advances $34.5 billion green hydrogen strategy as ORNX moves Laâyoune ammonia project into Pre-FEED Africa Sustainability Matters",
-          "source": "Africa Sustainability Matters",
-          "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZMSHF5Z2lfS0dYcnBfSGtTQ0ZIaFFwUkIxaDZsVkpOX2xTQU1BVjhZS2VsTkMzV0pGcVFiN1I1QjFDUDlacXhWOWh4VHlMM09fdUNtQkp0OVpvbEJxUWhpTGdqbnpramVvUjBNZFFJTUhCVmhSRzFrV2pFaVQ1Rlp0OGd4OFUxNWRjZDZzeVQta3R6bldVRlNobkpLVmFta2R3NHlpeVRGU095eUw5NkV2Zmc2NGo0YzcxSTVRUQ?oc=5",
-          "snippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-9cdf28a9cc9e",
-    "title": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports - Construction Review",
-    "headline": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports - Construction Review",
-    "summary": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports Construction Review",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRmxwZ0lFZUdnVUtjeklLM0tlX1h6UktBc1pIY1R0ZUFvRThJb2hBc0V2QWVwQ0t1Z2c2T3AwSTQ2UjZUTVJNY1ZEVVlWRERwa3VGWkMwNk0tcGtxWWprQ3BibW51bWhZVnRTQkxwOHdQenk0bW0xcWRvZmpzTm1MbWItNTM0WHlZLTNvOThNU000NDRfZlNIQ25uZ0E1cXZVbGVSZnJCbmlkYkoyR2JIcXJKYUF1bFlrOFhSX0t5OUc1NWFwWEdTUGVVWGJpVHUy?oc=5",
-    "source": "Construction Review",
-    "sourceType": "news",
-    "published": "2026-10-19T13:42:57+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Solar PV",
-      "Manufacturing"
-    ],
-    "signalType": "project milestone",
-    "projectStage": "construction",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 47,
-    "actionabilityScore": 34,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "Africa’s Solar Manufacturing Ambitions Face New Test as China Moves to Restrict Technology Exports Construction Review",
-    "whyItMatters": "Project Milestone signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 47,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.53,
-    "filterReason": "1 event indicator(s); 1 technology indicator(s)",
-    "aiReviewed": false,
-    "project": null,
-    "researchPriority": 42,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-818b4602828d",
-    "title": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing - The China-Global South Project",
-    "headline": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing - The China-Global South Project",
-    "summary": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing The China-Global South Project",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1UxRzIxMVBOMFdNN18tSlYzUmI3dmx5ajUyaHZaR3hqb3pIdHptcjF6aHhYcjN0Rm1lN2NWWVlvblA3YWVDTzV0RUtqZWo0TmQ5aVpkcjk1MDRrWU1xU0VLNnhqV1lzWHp6ZlBQZ2FwYzRxYUJtWnZtRkVibzFXV2liVDNzbDRzcFhFZ2ZlMkRNZHZ5eEhMZlNNcjYzNDhmSzE1a3AwVW5OUQ?oc=5",
-    "source": "The China-Global South Project",
-    "sourceType": "news",
-    "published": "2026-10-15T07:00:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Manufacturing"
-    ],
-    "signalType": "project announcement",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 45,
-    "actionabilityScore": 32,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "news source",
-    "evidenceSnippet": "China E-Mobility Weekly Digest: Chinese EV Tech Gives Africa, Other Global South Countries a Shot at Manufacturing The China-Global South Project",
-    "whyItMatters": "Project Announcement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": false,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 40,
-    "researchLevel": "L0",
-    "researchLevelName": "Monitor",
-    "researchPriorityReasons": [
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 0,
-      "maxSources": 0
-    },
-    "researchEligibility": {
-      "eligible": false,
-      "willResearch": false,
-      "reason": "L0 monitor-only",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    }
-  },
-  {
-    "id": "sig-336f961408b6",
-    "title": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
-    "headline": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
-    "summary": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book Business Insider Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnBKQmRNOFNtSWx3STB0NWNNaF9ZYW83TnpOYzNFLTRuMi1TZ2U2X2wxZlRIaHJ2WW80UjhDUGxNQURjTW90emhjNGpLcjdneHJQNTR1OUNvZERKR09tV3RpNTZEWkE4WFlGUjhUVmZxNEE0cF8zaS1vcE1uQ3FpMkYyekJVMFlUWTJiUUxTclJmZ1dTSzNCSFV3OG02YTlSZ3p1SnJ3NDJra2RodHVwbzlEbzVsUDhuZDczZDI2Q0dDN2dtRGVOUHBuTFFpV0gtM1cyeQ?oc=5",
-    "source": "Business Insider Africa",
-    "sourceType": "news",
-    "published": "2026-10-23T10:08:58+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Investment"
-    ],
-    "signalType": "project milestone",
-    "projectStage": "construction",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 56,
-    "actionabilityScore": 40,
-    "noveltyScore": 0.0,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book Business Insider Africa",
-    "whyItMatters": "Project Milestone signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 52,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.52,
-    "filterReason": "1 event indicator(s); quantitative detail",
-    "aiReviewed": true,
-    "project": null,
-    "researchPriority": 58,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "project development",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 58,
-      "researchQueries": [
-        "\"Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa\"",
-        "Morocco Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
-        "Morocco Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa official"
-      ],
-      "sources": [
-        {
-          "title": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnBKQmRNOFNtSWx3STB0NWNNaF9ZYW83TnpOYzNFLTRuMi1TZ2U2X2wxZlRIaHJ2WW80UjhDUGxNQURjTW90emhjNGpLcjdneHJQNTR1OUNvZERKR09tV3RpNTZEWkE4WFlGUjhUVmZxNEE0cF8zaS1vcE1uQ3FpMkYyekJVMFlUWTJiUUxTclJmZ1dTSzNCSFV3OG02YTlSZ3p1SnJ3NDJra2RodHVwbzlEbzVsUDhuZDczZDI2Q0dDN2dtRGVOUHBuTFFpV0gtM1cyeQ?oc=5",
-          "snippet": "Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book Business Insider Africa",
-          "source": "Business Insider Africa",
-          "published": "Fri, 23 Oct 2026 10:08:58 GMT",
-          "query": "Morocco Moroccan construction tycoon Mohamed Adil Rtabi takes renewable-energy subsidiary towards $38 million IPO with $152 million order book - Business Insider Africa"
-        }
-      ],
-      "sourceCount": 1,
-      "project": null,
-      "entities": [],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
@@ -18996,122 +18470,6 @@ export const signals = [
     }
   },
   {
-    "id": "sig-4ef4388b817e",
-    "title": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com",
-    "headline": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com",
-    "summary": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal Big News Network.com",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTJHT29XS0ZfYVJGZThYWjZyZGhuVGZ4V3Z3dVdCRUlPVVNTSHdkdFFmVmVkazZlMXNOVEZ1OW1rVmpHYkJYbDdibl9xQ3djWnU2RHlzbjhqaUMyalhSQjhxWUUtU1JVQTcwLXpUcEtnTTRnNWpqZXNLQ3p4c2NhcmV3MXlQRjQxU3NOTmhhallyRTBzTEZWOVVjSXV0YlNRSHJRV3lWZnVaby1xUzU2bUVCTlZ2aWRucWV3WUlrQVh6ai1Za3ZLNXBVczczQXNvU2VGVlRFZEZOOENZMHM1b3h3?oc=5",
-    "source": "Big News Network.com",
-    "sourceType": "news",
-    "published": "2026-10-26T18:35:00+00:00",
-    "detected": "2026-10-29T14:22:41.639603+00:00",
-    "categories": [
-      "Investment",
-      "Manufacturing"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [],
-    "competitor": null,
-    "relevanceScore": 49,
-    "actionabilityScore": 35,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal Big News Network.com",
-    "whyItMatters": "Investment signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 42,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.58,
-    "filterReason": "1 event indicator(s)",
-    "aiReviewed": true,
-    "reviewQueueReason": "1 event indicator(s)",
-    "project": null,
-    "researchPriority": 45,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "investment/financing",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T14:23:18.420864+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 45,
-      "researchQueries": [
-        "\"India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com\"",
-        "Morocco India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com"
-      ],
-      "sources": [
-        {
-          "title": "ECI suspends six officials, orders action against 21 others over Agra teachers' constituency polling irregularities - Devdiscourse",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcWhmM0RYOXpYRkI1bWtTZ2M2MW81bi1PcVBCXzJjQWRiT29weDFtcHFmOXdRc2NTVV8yUW5HR08xOUV3aFo3Njk4UkZrQVc5d2QyWFRNek5sbmJJTmUtMWo4aVVwX3VWaXFUMng1bDBTWDJBeXZTbFpHOE4zbG51aUV4UlRtX21ycVh0QnhZc0k5cGlzVjdQSDIzMXk5UGxwLXozdk1DblFYUG1PUVE4dE02VXdHZGJIWWlRZ250cldoZTNJYjFjRFhLTDBRTlZEZFVpaGY5YXJGd1ZEODN6dXJ2VGc5SkhobXNuMVhjYlRBd3g2aFVoTEFJMkdFZWJYRUHSAYICQVVfeXFMUHFoZjNEWDl6WEZCNW1rU2djNjFvNW4tT3FQQl8yY0FkYk9vcHgxbXBxZjl3UXNjU1VfMlFuR0dPMTlFd2haNzY5OFJGa0FXOXdkMlhUTXpObG5iSU5lLTFqOGlVcF91VmlxVDJ4NWwwU1gyQXl2U2xaRzhOM2xudWlFeFJUbV9tcnFYdEJ4WXNJOXBpc1Y3UEgyMzF5OVBscC16M3ZNQ25RWFBtT1FROHRNNlV3R2RiSFlpUWdudHJXaGUzSWIxY0RYS0wwUU5WRGRVaWhmOWFyRndWRDgzenVydlRnOUpIaG1zbjFYY2JUQXd4NmhVaExBSTJHRWViWEVB?oc=5",
-          "snippet": "ECI suspends six officials, orders action against 21 others over Agra teachers' constituency polling irregularities Devdiscourse",
-          "source": "Devdiscourse",
-          "published": "Mon, 26 Oct 2026 16:49:14 GMT",
-          "query": "Morocco India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com"
-        },
-        {
-          "title": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTJHT29XS0ZfYVJGZThYWjZyZGhuVGZ4V3Z3dVdCRUlPVVNTSHdkdFFmVmVkazZlMXNOVEZ1OW1rVmpHYkJYbDdibl9xQ3djWnU2RHlzbjhqaUMyalhSQjhxWUUtU1JVQTcwLXpUcEtnTTRnNWpqZXNLQ3p4c2NhcmV3MXlQRjQxU3NOTmhhallyRTBzTEZWOVVjSXV0YlNRSHJRV3lWZnVaby1xUzU2bUVCTlZ2aWRucWV3WUlrQVh6ai1Za3ZLNXBVczczQXNvU2VGVlRFZEZOOENZMHM1b3h3?oc=5",
-          "snippet": "India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal Big News Network.com",
-          "source": "Big News Network.com",
-          "published": "Mon, 26 Oct 2026 18:35:00 GMT",
-          "query": "Morocco India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com"
-        },
-        {
-          "title": "Andhra Pradesh eyes 15% annual growth, seeks investments in tourism and industry: CM Naidu - Big News Network.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHhLVEJ1TEdMdTFQdGRYSUpkY3B1SWRTb2Q5TnBPV2h4N1FYNE94V2lyMzlxN1hvbVZSbm9ZV1BqVExhOHR0Z0Y1c1hxOERuOThleTJiR0dmNzZZemVWcENQVkZMX0Y1UkJ3OGNFcEhXNWl3TmduaHRDUl9wRDVPSlc5YU5TRHJicFg3ZzdQbTVkMmg3ckllQXpqMVFKZUNUZ2RmcXh0VDFZY2xLczMtUnVCVnBVSXpqSFY2SEU1b2tMdHlvMnpYSTYycnFvUQ?oc=5",
-          "snippet": "Andhra Pradesh eyes 15% annual growth, seeks investments in tourism and industry: CM Naidu Big News Network.com",
-          "source": "Big News Network.com",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "Morocco India seeks greater Dutch investment in manufacturing, infrastructure, digital technologies: Piyush Goyal - Big News Network.com"
-        }
-      ],
-      "sourceCount": 3,
-      "project": null,
-      "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
     "id": "sig-li-dfa45ee568fbe4",
     "title": "Japan Solar Update No. 223 (Oct 12 ~ 16, 2026) #tokyometropolitangovernment #softbank #yachiyoengineering #jdsc #renewableenergy #cissolarcell #solarpower #rts The Tokyo Metropolitan Government (TMG) has selected SoftBank Corp., Yachiyo Engin - LinkedIn",
     "headline": "Japan Solar Update No. 223 (Oct 12 ~ 16, 2026) #tokyometropolitangovernment #softbank #yachiyoengineering #jdsc #renewableenergy #cissolarcell #solarpower #rts The Tokyo Metropolitan Government (TMG) has selected SoftBank Corp., Yachiyo Engin - LinkedIn",
@@ -19424,182 +18782,6 @@ export const signals = [
     }
   },
   {
-    "id": "sig-li-92e7dac2e61a44",
-    "title": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
-    "headline": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
-    "summary": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzJQZDJSWkRvVHgyYmRVTTlIOF9qTFBvQTNackRzYUhDZmJFbVI4M0pfWnk5LXZuTC1QcFpxbTNvdjhlV1lHRDFudG1mci1ZOExGSlNDbHZWcmg1WklGQWNfd3hSa1ZTVll3N2IyVXJOU3RocU5LVW1DaGFzTmZuZHBnLWRuQ1M5WDJBT0h3djE0aE1aS2Z6aEhnS2JwV3g4WGhSdEZqVVByM0E?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "African Development Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
-    "published": "2026-10-14T07:42:17+00:00",
-    "detected": "2026-10-29T07:08:48.170352+00:00",
-    "categories": [
-      "LinkedIn",
-      "Investment"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "African Development Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "investment/financing",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T07:09:21.400307+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"African Development Bank\" Morocco LinkedIn Investment",
-        "\"African Development Bank\" 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Investment",
-        "\"Morocco\" 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn",
-        "\"640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn\"",
-        "Morocco 640 MILLION DIRHAMS IN INVESTMENT. NEARLY 4,000 JOBS EXPECTED. A GLOBAL AUTOMOTIVE GIANT DEEPENS ITS INDUSTRIAL COMMITMENT TO MOROCCO. German automotive supplier LEONI Morocco is strengthening its presence in Morocc - LinkedIn"
-      ],
-      "sources": [
-        {
-          "title": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaHNhdkNqem1JdUlhcTFSUVhlWm9iZ3E4WlFXNV9HLW9YZXlTUE5FLW9UejV5UFN5cV8zWnBfSjc0VnpOTWV0bk1lQWZTalZWeDlyRWxhVGJ3RmRlc1hYOFZtcGJYR0Mwczl4QzVXOTlxODNtTkJTSDIxLUlwdDY2N3dCbEFlaXhYcEVLcmtReU52bnBuU1NGU1EtWXVsVGdpWGYybDBHd2pJX0ZRcnU1eXF5S0NISjBvN1BRRm15clh6dVl5amtocDk4VkNvLWNZTG5VLXRKZFo1SjlrMEZmZHpaTUJBOGt1aHM5bHFGUnE2dlE0dS1na0JEZmRTZUpHQ2tLOHRlWG1USkExNldsUnRfbUl0ZDN6UGIyVjQzanVHelE4N2hwdG9uazNFRndUT3hFbVJsdmhvNUlnMm1SOTlVZlRVWU9PX3h4eF81YVJzcjQ1MWF3dlNRdkJxMGF6ZGdpVVRWcHNpUE9QV250Qmc1YXpuc0JPa0ZMMHVkcDdkV2hEekQtc3lYaEZ3SGdCb25Ec3hpdnlLUkt4eTZqSzZPR293SHZfVDlwZWZZN1dpYVBGcTVwbGlMZzY3Y1dJSnRleUUyWWVrSzNqWTJVN0w1VzdxVnl2U3k1Uw?oc=5",
-          "snippet": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn LinkedIn",
-          "source": "LinkedIn",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
-          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
-          "source": "Egypt Oil & Gas",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Rising Energy Costs, Reform Pressures: Morocco Secures $487 Million from AfDB to Keep Its Economy Moving - Devdiscourse",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0R1TThpTi1peGRpaDkwZmVsQ3dNTnZ6ZzdpMEU0dHV5Qk5YOGIxWmxQWFZhVTdHaEhvczRzNTRhVk0zc3o4QkpZampjb2VBRGMtWl9PZnhnOXVnbnRKNzQtS0o1bTk3cU40LVVsU0czM0FhNDdPVnhfeERKdnJEUFluQU5UTjhVNG00QzFsTXdKTmE4eU82OWtLMkFGVzk1NlpDbDJvSFd0Q0tDaU9XMEtraHhYaGN0VnZmMmxhMWZ0YW1qaVIzaHVzR2xRSmEwN19QcnJZMUpvckJDZFlLZ0NQLWhNYTV0T1Zr0gHwAUFVX3lxTFAxUkVLOGxkN2F2U2Q0OVR6TFNPRlpvQ1lNY0UycVBnU1owb082aFlMMC1qQkE1WDVKZE5NdzBYcC1VZWFlZWI4RXJkci1vT1hzTjhvWlFDbHZNZVpPNnZka3k0a0pReUgtUi1mWWhLRXNQNXpOVXFnaXFVNm1WWU83dTkzVzZGM3ZyVWZONTZEMHFwUWFvLW5qU2ZEa3FZV1MwSjctSzVYUzAzX0RuZEw5MHZyeTVWUEV4VWtGNUN1SFUwdmFRb2NCeUxrWW5sRkpzZ0RHbUhzWG1BZzQ5VTZxZ3dJZDBTNWlEZHNBeVBPcQ?oc=5",
-          "snippet": "Rising Energy Costs, Reform Pressures: Morocco Secures $487 Million from AfDB to Keep Its Economy Moving Devdiscourse",
-          "source": "Devdiscourse",
-          "published": "Fri, 23 Oct 2026 17:04:49 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Nigeria, EU to Boost Africa Project at Economic Summit - Voice of Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMGx6NHo2SEpFUHpYelhDZkRiQVZ3Y2d3bnZwNDhZdFJJNC01MXdOVzZNSmQ2VzY4Q093ZktpRFROU21OX2R5QXVMb21rTVc5UXc2QkVHOTJ3RXVwUXdCWlFxczVqaTVJeVJIQzk3U1pORWdpamNZQnYtMTZaZw?oc=5",
-          "snippet": "Nigeria, EU to Boost Africa Project at Economic Summit Voice of Nigeria",
-          "source": "Voice of Nigeria",
-          "published": "Sat, 24 Oct 2026 17:10:14 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco Tops South Africa in RMB Continental Investment Rank - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzg5LXplNUJ5aGpJWVJGMGdCcDhNUHhQZ21pbTlqN0lrcHFGdWhBNl9VdGpoS1ZUVktQM1JCNl93TDhWZ0JOQk9Fek5fMXB0cDkwTmlhNjl2OHMtbE93bDRTblpBWWFwS2lQNG9SN0syS2dEVkpqRkxHRzFpeW5IY2hMZnZKVWhCOUJ2d1RzaFlYYnFHUWZjVFdyWFVCWFpKMzJkcXJ0ZmE4WTktVFZVcmtWM0E?oc=5",
-          "snippet": "Morocco Tops South Africa in RMB Continental Investment Rank Bloomberg",
-          "source": "Bloomberg",
-          "published": "Tue, 27 Oct 2026 11:11:52 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3F6T3RHWkFoSGtVVGhnUjRDdDJ6NVJBREgxT05GWWtRX2Nia0NKSlIxQmhhazRua2VrUlJud3JrRXczWm0yTldvRzItVXR4ZFFuemtSc1RRaUwwVWkwSGMxcG9tRmwtSkdPemYyQWwyZkZzYXZVTVJiWmd2VXQ2UjQ5UElFNWhqb21fWWVaZUM2U1QzV2szQlJYQml1eHRTRjVnVnBMMWE?oc=5",
-          "snippet": "Brussels vs Beijing: The new trade battle begins in Morocco and Turkey Euronews.com",
-          "source": "Euronews.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Morocco lets OCP move its phosphate logistics into separate companies that can bring in investment funds - EnterpriseAM",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWXdoV3Bod2dncFlOV3VFYU1PNTV1dDdoRWRaajR6MThQQlQ2S1N1S19JOVk0dVFzOGx2dUZpcDBQbWtuSHExTEpWaDBjdzB2MTNBYWpralRibVdGdHllNXlzNy1oNHFfaG8tbG1XN1FhMmZHS3JJZmRDb3F0aVdqWEI3MzhqOGo1RXp0OW04VmVLSDR1YnpmaEF5MTlTbnFhcnlUN21ZNzBCQjNyMy1VdVdSbkZkVTVSTzFENG83cE92MXBsZXo5QVZ0c2NPa2Y2aWUwYVd4X0NpRmw3OVlIamxZZHU5SWVULVhJdA?oc=5",
-          "snippet": "Morocco lets OCP move its phosphate logistics into separate companies that can bring in investment funds EnterpriseAM",
-          "source": "EnterpriseAM",
-          "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        },
-        {
-          "title": "Phosphate Giant Seeks Foreign Investors as War Hits Finances - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkpBMVdHRmI3T25SbW1Ca0RqYVRxTFlDNi01Q0tqSU1SU3BZQUZJSHJ5NlpBRE9yQUtneWVGR0VuX2ZMNGdSTk5Xekx6T1JlZjVxYzAyODNNNGhpa0Uzb3diRHVyUjZWVXFreVY1MnUxa3N2ay02TTlBbXJDdkd1Q1ZaUUk1emtuNzRDYmRDNWtCQWpDVjFmaElPM21LallERE5WcHc0S09fNzg4WlhxX05fLWp6Zw?oc=5",
-          "snippet": "Phosphate Giant Seeks Foreign Investors as War Hits Finances Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Investment"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "African Development Bank",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
     "id": "sig-li-31755bfb0a6ef8",
     "title": "For Younes Lachiri, Project Lead North Africa in our Morocco team, one of the biggest challenges on major projects is straightforward: getting everyone moving at the same speed. With more than 25 years of experience across industrial, commercial, residential - LinkedIn",
     "headline": "For Younes Lachiri, Project Lead North Africa in our Morocco team, one of the biggest challenges on major projects is straightforward: getting everyone moving at the same speed. With more than 25 years of experience across industrial, commercial, residential - LinkedIn",
@@ -19862,101 +19044,6 @@ export const signals = [
       "entities": [
         "African Development Bank",
         "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-7ab2c46b570e",
-    "title": "Telecommunications, media and technology",
-    "headline": "Telecommunications, media and technology",
-    "summary": "",
-    "url": "https://www.ebrd.com/work-with-us/procurement.html",
-    "source": "EBRD procurement",
-    "sourceType": "official",
-    "published": "2026-10-29T07:08:47.916829+00:00",
-    "detected": "2026-10-29T07:08:47.952557+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-29T07:09:21.400307+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EBRD\" Morocco Market intelligence",
-        "\"EBRD\" Telecommunications, media and technology",
-        "\"Telecommunications, media and technology\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "EBRD"
       ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
@@ -23234,101 +22321,6 @@ export const signals = [
       "entities": [
         "Green of Africa",
         "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-cfa37ba5c7fa",
-    "title": "EIB Group impact: Boosting GDP and jobs",
-    "headline": "EIB Group impact: Boosting GDP and jobs",
-    "summary": "",
-    "url": "https://www.eib.org/en/about/procurement/technical-assistance",
-    "source": "EIB technical assistance procurement",
-    "sourceType": "official",
-    "published": "2026-10-28T08:35:54.100024+00:00",
-    "detected": "2026-10-28T08:35:56.432358+00:00",
-    "categories": [
-      "Market intelligence"
-    ],
-    "signalType": "market movement",
-    "projectStage": "monitoring",
-    "entities": [
-      "EIB"
-    ],
-    "competitor": null,
-    "relevanceScore": 43,
-    "actionabilityScore": 31,
-    "noveltyScore": 0.0,
-    "status": "review",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "",
-    "whyItMatters": "Market Movement signal relevant to Morocco renewable-energy activity",
-    "fichtnerRelevance": "WATCH",
-    "qualityScore": 25,
-    "filterDecision": "REVIEW",
-    "filterConfidence": 0.75,
-    "filterReason": "plausible signal; requires review",
-    "aiReviewed": true,
-    "reviewQueueReason": "plausible signal; requires review",
-    "project": null,
-    "researchPriority": 43,
-    "researchLevel": "L1",
-    "researchLevelName": "Verify",
-    "researchPriorityReasons": [
-      "DFI involvement",
-      "limited Morocco context"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": false,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 3,
-      "maxSources": 5
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-28T08:36:30.713518+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L1",
-      "researchLevelName": "Verify",
-      "researchPriority": 43,
-      "researchQueries": [
-        "\"EIB\" Morocco Market intelligence",
-        "\"EIB\" EIB Group impact: Boosting GDP and jobs",
-        "\"EIB Group impact: Boosting GDP and jobs\""
-      ],
-      "sources": [],
-      "sourceCount": 0,
-      "project": null,
-      "entities": [
-        "EIB"
       ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
@@ -27984,138 +26976,6 @@ export const signals = [
       "sourceCount": 1,
       "project": null,
       "entities": [],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-d4d633f962e928",
-    "title": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
-    "headline": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
-    "summary": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUI3OTNselVQVWxaVzB3dDFma3Z0blNzYWs1V0NRZGlKemR2d3Q2STUwckc1YlZ6a01oV3JvRFFLUk9CRDF2V1lQaTRMQ1ZCZVRwcUlKYWJlRjVtRmlWcEFNcUpSMk1jZzNaOHlOZUQ5OXRkY1Uwc0h1emlucFBuUkNzMmd1ODBxTGNDbU80cTdzS2FBTVk2QzdNbDlfRHRLLVVVWE5sNHVRQng5SmpteFQ4NkVEc1pwV2c?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Green of Africa",
-    "sourceAccountUrl": "https://www.linkedin.com/company/green-of-africa/",
-    "published": "2026-10-04T07:00:00+00:00",
-    "detected": "2026-10-26T13:17:58.230308+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "investment",
-    "projectStage": "monitoring",
-    "entities": [
-      "Green of Africa",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 78,
-    "actionabilityScore": 83,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Green of Africa; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 78,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 83,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-26T13:18:29.569103+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 83,
-      "researchQueries": [
-        "\"Green of Africa\" Morocco LinkedIn Market intelligence",
-        "\"Green of Africa\" Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn",
-        "\"Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn\"",
-        "Morocco Top 1000 Scholars # 55 World Rank #1 in Morocco 🇲🇦 in Environmental Sustainability in Business. Thanks to co-authors, readers and students. The 2026 Edition evaluates more than 388 million source work records together with their authorships, citation link - LinkedIn"
-      ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbjQ3UGNNa3Uydl85akZORzdLeWxLSTNPNTF6SzNvUzFpaGh4LVZ0Z0FwOGZYeWx5bW94RFNZOUdkTUVqLXE1OVJMaWZReTZtMWF1Y1RDd3BZbnVEaVhEN3NmTE9sLVNOaVdYTGpTMHJHbmFUbFlCeHdIaWNOSm5STEpVUHR2MTZlUXZWZlhLRUZSYUh3SHE4VWc1NDUySEJKcDNhdzB0SGNmMXNmdmVDN1FFdWZnV2FQd2ZmY2Zva2FtVkZSN2cyREo1ZWdRbUphcHZMekJzM2NMOThXUG5PcGhBZGNEaENSdWRhVl9YelZEWVlkOEgxTlJFQ3I4SGF6MldSUDliY0poSmdoZTRhZGZZcHh6bkJiM2lSbmNBcWNEZGNlUTBDQXU5V2pmaFIxdVVCVFhMc3JFVmVCRnlYWS10dTdCY2VYeFhtcy1xd0pDUmdKUGNNZFB2TmZ2dHZFVEZVanV6ZFBTajBSS3Fqb21weWhCRWZVelZGQU9vb2k1RkJOVlR1M1RTa1E4dkxKSWhJNDctM3MtYTBJcGRCNzczOGFpZTl4dXRRaVlzOUdJVnh3RmFDUjN4bGd1Mk5NX05VRk9LdjZFc2li?oc=5",
-          "snippet": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 LinkedIn",
-          "source": "LinkedIn",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Holds All the Cards in Spat With EU Over Migration - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVEOUZiVFNydDAwUGVRMGJWc0I4TlpEMGpWdHFBRFprVDdoYW1GLWs2TVZXVmI0c3ZpUDBNQTV4cnRMZEZzSHEzeFNNOC1CcklBYy1YQTVQUlBpM21mYmNrWUZpc0dBdjQ2Tzh5Q1RMVHRxNmZlV0FwdjdLQU9tbVZtanlHeFphcXMzLWNBSDVXcXlrMklGVVF0T01ZQjliZV9SZGdfZUhHODh1TmFZOTRBTVdyd3R0VF9xMDNIajlLakk?oc=5",
-          "snippet": "Morocco Holds All the Cards in Spat With EU Over Migration Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) - Global Data",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFROR1ptc3BDeS1PbmRJVjdWYmxRRWNteDNhaVZzLTQxWU9sejNzM09DZXVDNUg1aXBqTm5VNEk5dWhLRlE1RkZzMEY2Yl9fY0NndEZHM2psSjVuZ0pmaWY1Q1lqRVdGZVJQYUZPTnVCbjVNX3g2clRBbHhDdS00TDZkVQ?oc=5",
-          "snippet": "Morocco Construction Market Size, Trend Analysis by Sector, Competitive Landscape and Forecast to 2030 (H2 2026) Global Data",
-          "source": "Global Data",
-          "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 4,
-      "project": null,
-      "entities": [
-        "Green of Africa",
-        "Morocco"
-      ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
       "interpretation": "The signal was researched according to its assigned adaptive level.",
@@ -34109,1134 +32969,6 @@ export const signals = [
       "entities": [
         "Ministry of Energy Transition and Sustainable Development",
         "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-476a282a858dbb",
-    "title": "KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-    "headline": "KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-    "summary": "KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXRTdVVrdmxnN1VlZ3Izb1pDc1EtTTFhR2FmLVdWMFcyNWt6M3RPNGx1RWJXNy00WmFkckpMRjUtSXo5YnF4YzhkVl9oUkJwdlctSHJGVEFlSjkyU2xXNllrNktXZHJlaGVyS3pkUC1QdDU0cjlIbGlhM3Myc0F4Y3hXUUgzSmNDMS1OUG1IZFpxZkhjZGdRemd6R2NETldabzEzRTVQZVItWHFY?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "MASEN",
-    "sourceAccountUrl": "https://www.linkedin.com/company/masen/",
-    "published": "2026-09-24T07:00:00+00:00",
-    "detected": "2026-10-24T05:55:59.942101+00:00",
-    "categories": [
-      "LinkedIn",
-      "Award"
-    ],
-    "signalType": "award",
-    "projectStage": "contract award",
-    "entities": [
-      "MASEN",
-      "Morocco",
-      "EBRD"
-    ],
-    "competitor": null,
-    "relevanceScore": 89,
-    "actionabilityScore": 94,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from MASEN; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 89,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "award/contract decision",
-      "DFI involvement",
-      "consulting/advisory potential",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": true,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": true
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-24T05:56:26.704688+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"MASEN\" Morocco LinkedIn Award",
-        "\"MASEN\" KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Award",
-        "\"Morocco\" KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-        "\"EBRD\" Morocco LinkedIn Award",
-        "\"EBRD\" KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-        "\"KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn\"",
-        "Morocco KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn",
-        "Morocco KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn official",
-        "Morocco KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn procurement",
-        "Morocco KPMG Awarded EBRD Verification Consultant Contract for Morocco’s EUR 400 Million Decarbonisation and Climate Resilience Programme We are proud to announce that KPMG au Maroc, together with KPMG Bulgaria and KPMG France, has been selected - LinkedIn financing"
-      ],
-      "sources": [
-        {
-          "title": "UNESCO awards 2026 Prize for Girls’ and Women’s Education to transformative projects in Morocco and Peru - UNESCO",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RTRDRtdFJRdUFMc3V4Rm9fQ3d3WXE2S09URFR1c2R4RVZON2tGZjVJNFl0MkZsYy00V3B6cFJxRFN3ME5PNEZkMkxydFMwUkg2UzhBUjdjOVZ1YmFPeWp3clVVSnd5MlhUUmFlMUdHN0ZLR0Q3S0ViMXVDdGczdllhcDlLWTg4d2RtRGVFRU1UNDB3aVFwNDF6MXB0NWlmMzBFM2RZTmVxWU1FVWFpcy13c2Z1aXRmV1Z3R0c3V1JaeFpFS3c?oc=5",
-          "snippet": "UNESCO awards 2026 Prize for Girls’ and Women’s Education to transformative projects in Morocco and Peru UNESCO",
-          "source": "UNESCO",
-          "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Lamine Yamal leads an all-star list for the Young Talent of the Year award at the 2026 Ballon d'Or - DAZN",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdF8wcHZFLTVPSnAyWm1QNFB6QVAzOVMteWc4N1JSOFdpZndsMno4QU1aYW9nVU1WNi1Uc21XS3BJSWR3RWFPeGtoNjd3aW1WMVJsSklBS29JTmVyOWdzSlY3cDFuVU1wdmExUlBGZjBqeHlTUDJsb3VzM1BlQmI3c0JSaFBxZnNNbmZYeS1LMW1KN1lRejY0eXNUV3gwRjJDbUVRY0VuQ3Vpck8xMUJFa1RMU0lCWTVI?oc=5",
-          "snippet": "Lamine Yamal leads an all-star list for the Young Talent of the Year award at the 2026 Ballon d'Or DAZN",
-          "source": "DAZN",
-          "published": "Tue, 20 Oct 2026 07:40:53 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "[Expired] [Award Alert] Lie-Flat Business Class to Morocco From 55K Points - Upgraded Points",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50SWJFRnZOSnI5TUcwZ21nUWVmLWM5cE9vX1FXakNtQ1F0TU1OSnBuRlVQUjdNT0RsZGRDMFRiM0ZVR04yZGQ0czRhdUZGSm9tTkk3cTJJRUFDZks1M3AzMmh0bUlxcU5sS2xuRlpObmQ3S1ZjQ2c?oc=5",
-          "snippet": "[Expired] [Award Alert] Lie-Flat Business Class to Morocco From 55K Points Upgraded Points",
-          "source": "Upgraded Points",
-          "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        },
-        {
-          "title": "Three Spanish stoppers among the leading names for the Ballon d'Or awards best Goalkeeper of 2026 - DAZN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0lGb3pGRmtzUXdTcDgzWm1pX1lYeFlnNGV2U01BZDJyNHZJZDRmYW9DVlE5ZHlidkZVQzdydzNwbXRzQmw4OE5ET3o5aTZNa2hsUUpPTWZGaHgwY1QwUjdhSXp6bS1Xb3ZzaHZxbjdnMDdEaFRtUFkwNEJGeHdNSEFPZ0c1YnJLRGZqcXJYZkpzRG0yR0R0c09hOUZwSS11ZHpnUURJOEkwQmM1cU12WTdkT1E?oc=5",
-          "snippet": "Three Spanish stoppers among the leading names for the Ballon d'Or awards best Goalkeeper of 2026 DAZN",
-          "source": "DAZN",
-          "published": "Tue, 20 Oct 2026 07:51:01 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Award"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "MASEN",
-        "Morocco",
-        "EBRD"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-f5f00dcec7b909",
-    "title": "SAF Project Manara Morocco - LinkedIn",
-    "headline": "SAF Project Manara Morocco - LinkedIn",
-    "summary": "SAF Project Manara Morocco LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzBraTZXb0VJd1BwaE1ETFB4RUNldWM2NGtiVEhkVDhicy11cU5VLUxGTlBRam95YTc2dVp6c1NoMUFFR0xYZURUNExOOGVQSkh6aGxqUlN1dzJ5RUJHcW1TWWYzV244M0N6WTNUc3VNOHA4V3daUWwxdmJ1Z2ozY0RJaHpFTC1WT0FqN295S3ktUGZORWJtQS10UGhhVEE4WkI4WUM2T0dmbGNHaVFKYmVOaHJYTWFUUC1ORWo4WDE1NDF5?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "EBRD",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ebrd/",
-    "published": "2026-10-15T23:15:46+00:00",
-    "detected": "2026-10-24T00:48:18.186846+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "EBRD",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 74,
-    "actionabilityScore": 79,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "SAF Project Manara Morocco LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from EBRD; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 74,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-24T00:48:47.327427+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"EBRD\" Morocco LinkedIn Project",
-        "\"EBRD\" SAF Project Manara Morocco - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Project",
-        "\"Morocco\" SAF Project Manara Morocco - LinkedIn",
-        "\"SAF Project Manara Morocco - LinkedIn\"",
-        "Morocco SAF Project Manara Morocco - LinkedIn",
-        "Morocco SAF Project Manara Morocco - LinkedIn official",
-        "Morocco SAF Project Manara Morocco - LinkedIn procurement",
-        "Morocco SAF Project Manara Morocco - LinkedIn financing",
-        "Morocco SAF Project Manara Morocco - LinkedIn consultant",
-        "Morocco SAF Project Manara Morocco - LinkedIn owner"
-      ],
-      "sources": [
-        {
-          "title": "EBRD mulls financing for 200,000-tonne SAF project in Morocco - Renewables Now",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjZJWThNTzdGaFd2MlpaNW9MNE8xT0I1eUxMVEFOc2VYclhmanV3eWNhdk9BZEhPaDhZVVpLVXdPZUx2SEgzVlZGTmdKMGI2WEhLMFhqa0xsbmhHTUtkNTFDVm5JbU9BdlBUeGo4N2FCMDVjNHh5WUZTRHQxNVZheXVFYkYwY3N2ZUljVm0wT1F3LTNOTGtZUEhMS3VaWE1EdmhZ?oc=5",
-          "snippet": "EBRD mulls financing for 200,000-tonne SAF project in Morocco Renewables Now",
-          "source": "Renewables Now",
-          "published": "Mon, 19 Oct 2026 12:26:18 GMT",
-          "query": "\"EBRD\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "US Backs Morocco Ammonia Plan With First Funds for Disputed Area - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVkwTXJHZldIMnVzNUJ1T3UwRk5BQ1RIdXFjR2d2dTdBM05faUhScEhUbE05Ry0xSFluajhoSi1sQTJpejhNWThod0JqZ3g2a3dObVdfNHNQNVdlY01xRndfX2xKYnlnbWpleGV0bHYwX3JFOF9sb0RQcmxZTlR2aVlfbkx6aHZHVE1sd21wVy1JSHMxZnFEUDFjTjljYWtQSVEyMTFPdXItbEhMUkNBU2RwOXU1Zw?oc=5",
-          "snippet": "US Backs Morocco Ammonia Plan With First Funds for Disputed Area Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project - Sustainable Bus",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl8zbVc0V3U1azZRV0xTdzJyX256cXFhaE9PbllhQzFvcGxNUmJRSEd4anF2Vk1UTHV6UC1PY1V2V1EyVFlFUElDcVNkVzZXbUZUWTEwcExWMDdIaHAtUnlKRXV0bVByanBYRTRtbXhZdDB1WTdySTJFY0JYY21kVFF2QmVqQmI1M2lFRzJENGV6UC1DeDRvUDhRSQ?oc=5",
-          "snippet": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project Sustainable Bus",
-          "source": "Sustainable Bus",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
-          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
-          "source": "EIN News",
-          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Envision commissions a 125 MWh battery storage system for OCP in Morocco - energynews.pro",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS19vMWFIRl83STZCM3dMWDdBS1NTYWVudVZaU1Z6MUYtV0lZTmhyc1AwdUlzWXF4UUNOMVZyZ1BjLXFJMnB5Sjdpamo5N0dLVWpBb3U0a3dJWHBkRG5kQTN3TUJmaG90Nnh4QWZtY25Nb3pZRnV1bWdJY1RkNzZPdmdiV01DRWI0bVU3bk5tMHNpNXUzaUJKTnBQVmpRTnc?oc=5",
-          "snippet": "Envision commissions a 125 MWh battery storage system for OCP in Morocco energynews.pro",
-          "source": "energynews.pro",
-          "published": "Thu, 22 Oct 2026 00:33:02 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        }
-      ],
-      "sourceCount": 6,
-      "project": null,
-      "entities": [
-        "EBRD",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-13c4a7c2253550",
-    "title": "Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn",
-    "headline": "Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn",
-    "summary": "Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGFzTl9wTkszakhHWEZ6Vk8zSWg3eGxkbkt6TzFRazg0cGxiTXRmRmhZdUxmd3gyblo5YUtyVFAyWjNCTWFNYkxTOUUtZGlXYlctRW9ZdkRnTmV5SUU2MTNwcXVPRmdiRWtKa2N3NmVmT0NWZTBwVHFWVzE4TG5leHdLRm03OHRiX3FFZmpPVlR1UVIyeUtkR1JaU0VReFBmUjNXbkpWak5nNk5yeTNMUmdRbHloTFdhdEtEdnV4ZldQdmJRenRzMy0xOFVVcC1vNVZr?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "African Development Bank",
-    "sourceAccountUrl": "https://www.linkedin.com/company/african-development-bank/",
-    "published": "2026-10-08T07:00:00+00:00",
-    "detected": "2026-10-24T00:48:18.186846+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "African Development Bank",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 74,
-    "actionabilityScore": 79,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from African Development Bank; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 74,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI involvement",
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-24T00:48:47.327427+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"African Development Bank\" Morocco LinkedIn Market intelligence",
-        "\"African Development Bank\" Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn",
-        "\"Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn\"",
-        "Morocco Statement by the African Union Panel of Facilitators Following Consultations in Goma, DRC - LinkedIn"
-      ],
-      "sources": [
-        {
-          "title": "European Commission Introduces Energy Use Rules for Data Centers - Impakter",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTA4VXBGeHJaMHpuU0NSUnpZQzVfVUREUjh5TDhWUER1eDlDaTRZZHNmbGdubFFDdkRHVUdMRlRZOVdpekhqQ1laanBpMWZaS1NpRnd0WW9VMVVTd3JzeUZIb0k5WXpKT2ZwUkRESVBrTGtfaVdHeFVaYlJhZlpTUEZxdWN0RDFiY3B4dHp1TQ?oc=5",
-          "snippet": "European Commission Introduces Energy Use Rules for Data Centers Impakter",
-          "source": "Impakter",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaHNhdkNqem1JdUlhcTFSUVhlWm9iZ3E4WlFXNV9HLW9YZXlTUE5FLW9UejV5UFN5cV8zWnBfSjc0VnpOTWV0bk1lQWZTalZWeDlyRWxhVGJ3RmRlc1hYOFZtcGJYR0Mwczl4QzVXOTlxODNtTkJTSDIxLUlwdDY2N3dCbEFlaXhYcEVLcmtReU52bnBuU1NGU1EtWXVsVGdpWGYybDBHd2pJX0ZRcnU1eXF5S0NISjBvN1BRRm15clh6dVl5amtocDk4VkNvLWNZTG5VLXRKZFo1SjlrMEZmZHpaTUJBOGt1aHM5bHFGUnE2dlE0dS1na0JEZmRTZUpHQ2tLOHRlWG1USkExNldsUnRfbUl0ZDN6UGIyVjQzanVHelE4N2hwdG9uazNFRndUT3hFbVJsdmhvNUlnMm1SOTlVZlRVWU9PX3h4eF81YVJzcjQ1MWF3dlNRdkJxMGF6ZGdpVVRWcHNpUE9QV250Qmc1YXpuc0JPa0ZMMHVkcDdkV2hEekQtc3lYaEZ3SGdCb25Ec3hpdnlLUkt4eTZqSzZPR293SHZfVDlwZWZZN1dpYVBGcTVwbGlMZzY3Y1dJSnRleUUyWWVrSzNqWTJVN0w1VzdxVnl2U3k1Uw?oc=5",
-          "snippet": "𝐁𝐨𝐨𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚 𝐌𝐨𝐛𝐢𝐥𝐢𝐬𝐞𝐬 €𝟒𝟎𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐒𝐭𝐚𝐫𝐭𝐮𝐩𝐬 The EU-backed Boost Africa Initiative has invested about €108 million and helped attract roughly €400 million (Sh60.1 billion) in additional investment for businesses and inn LinkedIn",
-          "source": "LinkedIn",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Africa E-Learning Market Size, Growth and Forecast - 2034 - IMARC Group",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JenFKOW1Vb2d2QzJpUTh5b2VsTHhtd3l5dUtVaFFjaDh6R0hKV2tQNU1ZOWxiU3ZVZ0dyWjN1bm13YzZ1U1JQTWZaU21iT1R5aW5iOXh0VERyWGtvNjg3VA?oc=5",
-          "snippet": "Africa E-Learning Market Size, Growth and Forecast - 2034 IMARC Group",
-          "source": "IMARC Group",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project - Egypt Oil & Gas",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0REeTl2UWdROWhRaU9KXzRhUE4td0hIYTQ2YVJIRW9TeGJ5Q0lNYW81cThLNFFROVhlN3c4bGM4RmtfMkpQb296cGNKdkVMbm9YVF95QjNwWE0teTFDeGFQcGYxdHZOMi1rbnQ5MUdRMjNabUNWcnhzaE4yNGhkVEU1ZkRhc29kMVJQSWZnSGdCZFR0Sktv?oc=5",
-          "snippet": "Egypt Secures $3.55 Mn AfDB Grant for ‘Ra’ Green Ammonia Project Egypt Oil & Gas",
-          "source": "Egypt Oil & Gas",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "\"African Development Bank\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbjQ3UGNNa3Uydl85akZORzdLeWxLSTNPNTF6SzNvUzFpaGh4LVZ0Z0FwOGZYeWx5bW94RFNZOUdkTUVqLXE1OVJMaWZReTZtMWF1Y1RDd3BZbnVEaVhEN3NmTE9sLVNOaVdYTGpTMHJHbmFUbFlCeHdIaWNOSm5STEpVUHR2MTZlUXZWZlhLRUZSYUh3SHE4VWc1NDUySEJKcDNhdzB0SGNmMXNmdmVDN1FFdWZnV2FQd2ZmY2Zva2FtVkZSN2cyREo1ZWdRbUphcHZMekJzM2NMOThXUG5PcGhBZGNEaENSdWRhVl9YelZEWVlkOEgxTlJFQ3I4SGF6MldSUDliY0poSmdoZTRhZGZZcHh6bkJiM2lSbmNBcWNEZGNlUTBDQXU5V2pmaFIxdVVCVFhMc3JFVmVCRnlYWS10dTdCY2VYeFhtcy1xd0pDUmdKUGNNZFB2TmZ2dHZFVEZVanV6ZFBTajBSS3Fqb21weWhCRWZVelZGQU9vb2k1RkJOVlR1M1RTa1E4dkxKSWhJNDctM3MtYTBJcGRCNzczOGFpZTl4dXRRaVlzOUdJVnh3RmFDUjN4bGd1Mk5NX05VRk9LdjZFc2li?oc=5",
-          "snippet": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 LinkedIn",
-          "source": "LinkedIn",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Moroccan Cars Market - All Facts & Data 2026 - Focus2Move",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nSFpPLVhzLURTRU5wa3o2YWJxZ25MaGJzeTQ5S0I4UU9yT2NfMGVPR00zbEFVTWdwUGdQc1czSTFhUnRZQlE4VXhUNmlteEU3RERTWWlRYUFZUTVh?oc=5",
-          "snippet": "Moroccan Cars Market - All Facts & Data 2026 Focus2Move",
-          "source": "Focus2Move",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "African Development Bank",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-e6785278760bfb",
-    "title": "Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn",
-    "headline": "Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn",
-    "summary": "Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGlCZWs0NEFaSV9Xb1hkQzN5cWVNaVRYc214OWJtclZ6eURWX0Y0MVplLWxjQ2NuczJuWm9BT3pBN0pFcGFTb0FUZmwxNl80OC1LWk5mczB1VVEwTm9pdEt6Rng3R1BWSkd0d2I4TnRFMC1sZjZocS1PX0t6ZXI0N3NfTElBVjdXSmZRVEFOanhVWEJmOEhqZ3YtbjEtbTBraGkzYmZHMkZxSEFDY3VxcA?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "ACWA Power",
-    "sourceAccountUrl": "https://www.linkedin.com/company/acwa-power/",
-    "published": "2026-10-03T07:00:00+00:00",
-    "detected": "2026-10-23T19:15:32.460436+00:00",
-    "categories": [
-      "LinkedIn",
-      "Project",
-      "Partnership",
-      "Hydrogen"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "ACWA Power",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 76,
-    "actionabilityScore": 81,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from ACWA Power; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 76,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 89,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "project development"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-23T19:16:02.544615+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 89,
-      "researchQueries": [
-        "\"ACWA Power\" Morocco LinkedIn Project",
-        "\"ACWA Power\" Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Project",
-        "\"Morocco\" Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn",
-        "\"Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn\"",
-        "Morocco Mauritania: New Chinese Partnership to Advance Megaton Moon Green Hydrogen Project https://lnkd.in/gSSnmkhi #tunisie #tunisie #algeria #algerie #libya #libye #maroc #morocco #mauritanie #mauritania #riskmanagement #northafrica #empowermentthro - LinkedIn",
-        "Morocco green hydrogen ammonia project investor contractor"
-      ],
-      "sources": [
-        {
-          "title": "Saudi Tycoons Built $9 Billion Fortune Off Water Instead of Oil - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzhqSWY3SVpTcThFdXkxVFlaMXAwdUpOY3Q4MnpDSVhYVlE3NFNnM0s1ZkVsUTJ6Ym5tMlJrYnVOY3VFWVZFVUtNdWt1bVRNdV9BNUtzMHIyVG5fTnZkdTEzN0l0SHNHOTl3aEpjVlhsdUpmYUQwVFEtVmp6QkJuZl9LRWc4TmJ3elY1MDNTbGhqM3FqZGxfWC1mVWhNcDVWcjBtQS1hakxzYUNxSFdSdjY0cw?oc=5",
-          "snippet": "Saudi Tycoons Built $9 Billion Fortune Off Water Instead of Oil Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "query": "\"ACWA Power\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "US Backs Morocco Ammonia Plan With First Funds for Disputed Area - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVkwTXJHZldIMnVzNUJ1T3UwRk5BQ1RIdXFjR2d2dTdBM05faUhScEhUbE05Ry0xSFluajhoSi1sQTJpejhNWThod0JqZ3g2a3dObVdfNHNQNVdlY01xRndfX2xKYnlnbWpleGV0bHYwX3JFOF9sb0RQcmxZTlR2aVlfbkx6aHZHVE1sd21wVy1JSHMxZnFEUDFjTjljYWtQSVEyMTFPdXItbEhMUkNBU2RwOXU1Zw?oc=5",
-          "snippet": "US Backs Morocco Ammonia Plan With First Funds for Disputed Area Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Morocco’s first large-scale LFP battery storage system prepares for action - Energy-Storage.News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkV6TEVYU0lIMDZmQUkwTHNVM1hXX3NlUEdjS2VNSjBKV09faVZWNEZwbmZtbXdtVTU4bDZCaE1YdVRCb1l3WHN2SjY2OU5rMXFULU5UZWFqTVBNMlUtQ0MxeG5MbnBBeXpHWmNNbFhYYVFhR3BvaF9TUF80Sm9mc0s1M21WelhabUNQcFc2cmR0bDJqcV9oYzVXZ3ozTGFpVnBXWVlGdUI0QQ?oc=5",
-          "snippet": "Morocco’s first large-scale LFP battery storage system prepares for action Energy-Storage.News",
-          "source": "Energy-Storage.News",
-          "published": "Wed, 16 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project - Sustainable Bus",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl8zbVc0V3U1azZRV0xTdzJyX256cXFhaE9PbllhQzFvcGxNUmJRSEd4anF2Vk1UTHV6UC1PY1V2V1EyVFlFUElDcVNkVzZXbUZUWTEwcExWMDdIaHAtUnlKRXV0bVByanBYRTRtbXhZdDB1WTdySTJFY0JYY21kVFF2QmVqQmI1M2lFRzJENGV6UC1DeDRvUDhRSQ?oc=5",
-          "snippet": "15 Hyundai Elec City electric buses headed to Morocco under KOICA transport project Sustainable Bus",
-          "source": "Sustainable Bus",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Moroccan scholar wins International Olympic History Award - Inside The Games",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFCcXIydmc2RHUwa3I1RDdDdnRkeU9pYk4xVFpaZUdoQURPNXo1cGY0R0xyalRTMzJfNW5WQWVBbDBpV2w2OE9fOWVVbmNUeU94U2loOTRLeHR6RFkyaWdXa0FnbWxTOHZZQXpKRi0zOU5jMnplY0hvQVE4OTBadXh2VjNxTkh0OUstYlI2MFNhRFlZV19QTTByblNpdw?oc=5",
-          "snippet": "Moroccan scholar wins International Olympic History Award Inside The Games",
-          "source": "Inside The Games",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco - EIN News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlA5YmcyVzh3YnF2Y2ZUVXM2eFVsQnRKVzAwYVVzdGtqOFg2aTc0UVktRzhVTFJiTDNzcFZnNmZMaFZHbGZ2VUFLMHUzYlB5TWQzXy1PY2o1SWpSQV9DSXdETE9EQ3luNFdhMVpVRWJlWWt3MXpVVzA5VWl1RTdQNDBDMTJvU0g3dmxQMlA2bkRhTko1bWpHQnZhQlA0LWk2N3BxY2JDckpEUU1BdlJUT3U5LUJOWXVfdDhMRVkyZEFvUTE2eS1UQQ?oc=5",
-          "snippet": "FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco EIN News",
-          "source": "EIN News",
-          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Project"
-        },
-        {
-          "title": "Grant for Morocco green ammonia scheme - African Energy",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVpUNUxMRVpDQUZHUmUtbkRQU2FjWFM0eUhkaGFOYlVnakJaQUhaLW5uWlFDeHpzZmxXZDhiNGJqb1pKSXVFTFdQb0xoQUtRUlA5bVl1NVBmSXhVYjQ5c3A4dTdscDlFYmNoN3hqT0lKRzJBc0tRN1BIX09qN0Fib0tfSmhOOFZ5MTEyYw?oc=5",
-          "snippet": "Grant for Morocco green ammonia scheme African Energy",
-          "source": "African Energy",
-          "published": "Thu, 13 Aug 2026 15:12:53 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive - Africa M.E.",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRfTWxuOHlRLS02dWVGSnFLOHRJQkFTQUtqR3ZRekt5dFFkZ0tGX2hLcWpXUHk0SC1Ya1pQaTZfekVUNzN1NlloQVVmYzkxYkN1NnlWMUxfbE1CLUxUVXBjalllVUpxa2dPOVFHYXV5NWUwQlMzbnJJWk5WUU5iRUVZRUVjYU5xRkk1cVN3?oc=5",
-          "snippet": "Gulf investors anchor Morocco’s $35 billion green hydrogen drive Africa M.E.",
-          "source": "Africa M.E.",
-          "published": "Wed, 14 Oct 2026 06:25:10 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        },
-        {
-          "title": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZMSHF5Z2lfS0dYcnBfSGtTQ0ZIaFFwUkIxaDZsVkpOX2xTQU1BVjhZS2VsTkMzV0pGcVFiN1I1QjFDUDlacXhWOWh4VHlMM09fdUNtQkp0OVpvbEJxUWhpTGdqbnpramVvUjBNZFFJTUhCVmhSRzFrV2pFaVQ1Rlp0OGd4OFUxNWRjZDZzeVQta3R6bldVRlNobkpLVmFta2R3NHlpeVRGU095eUw5NkV2Zmc2NGo0YzcxSTVRUQ?oc=5",
-          "snippet": "AfDB Backs Morocco’s Guelmim Green Hydrogen Valley With $5.28 Million Grant Morocco World News",
-          "source": "Morocco World News",
-          "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-          "query": "Morocco green hydrogen ammonia project investor contractor"
-        }
-      ],
-      "sourceCount": 9,
-      "project": null,
-      "entities": [
-        "ACWA Power",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-6954fd04fb26de",
-    "title": "A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn",
-    "headline": "A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn",
-    "summary": "A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN09qazExVEJ6a0oxcC1GUXdmamN3ZnFEMlN2dGdNNGVUUHNRR3dVYTA4T2ZNUW5ocEQtcDRvM0tMd1lscVpLR21zYXhjWnlmTWdqbkl3aEVUUmtfb1AwQ1ROMTJNeVJxMEtPTVhDME5PdldfV0oyUmR1UXdBN1l1Ylhxd3JTakFLc3JHQU43Q1JiWV9tZHIzMnpHNzk1QmV3bGRETnQ5OWRZeGpqWnZJZ2t5cExKQTZiTGZJRkx0dEpHb0tab29QaVlfZkFEV0pGV1hVSg?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "EBRD",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ebrd/",
-    "published": "2026-10-15T08:04:10+00:00",
-    "detected": "2026-10-23T19:15:32.460436+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "tender",
-    "projectStage": "tender",
-    "entities": [
-      "EBRD",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 74,
-    "actionabilityScore": 79,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from EBRD; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "MEDIUM",
-    "qualityScore": 74,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "tender/procurement",
-      "DFI decision/financing"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": true,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-23T19:16:02.544615+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"EBRD\" Morocco LinkedIn Market intelligence",
-        "\"EBRD\" A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn",
-        "\"A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn\"",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn official",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn procurement",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn financing",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn consultant",
-        "Morocco A PROCUREMENT CAN ACHIEVE COMPETITION WITHOUT ACHIEVING LONG-TERM VALUE. The procurer's task is not just to select a winning bid. It is to establish an allocation of obligations, performance standards, remedies and change mechanisms that - LinkedIn owner"
-      ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbjQ3UGNNa3Uydl85akZORzdLeWxLSTNPNTF6SzNvUzFpaGh4LVZ0Z0FwOGZYeWx5bW94RFNZOUdkTUVqLXE1OVJMaWZReTZtMWF1Y1RDd3BZbnVEaVhEN3NmTE9sLVNOaVdYTGpTMHJHbmFUbFlCeHdIaWNOSm5STEpVUHR2MTZlUXZWZlhLRUZSYUh3SHE4VWc1NDUySEJKcDNhdzB0SGNmMXNmdmVDN1FFdWZnV2FQd2ZmY2Zva2FtVkZSN2cyREo1ZWdRbUphcHZMekJzM2NMOThXUG5PcGhBZGNEaENSdWRhVl9YelZEWVlkOEgxTlJFQ3I4SGF6MldSUDliY0poSmdoZTRhZGZZcHh6bkJiM2lSbmNBcWNEZGNlUTBDQXU5V2pmaFIxdVVCVFhMc3JFVmVCRnlYWS10dTdCY2VYeFhtcy1xd0pDUmdKUGNNZFB2TmZ2dHZFVEZVanV6ZFBTajBSS3Fqb21weWhCRWZVelZGQU9vb2k1RkJOVlR1M1RTa1E4dkxKSWhJNDctM3MtYTBJcGRCNzczOGFpZTl4dXRRaVlzOUdJVnh3RmFDUjN4bGd1Mk5NX05VRk9LdjZFc2li?oc=5",
-          "snippet": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 LinkedIn",
-          "source": "LinkedIn",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Moroccan Cars Market - All Facts & Data 2026 - Focus2Move",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nSFpPLVhzLURTRU5wa3o2YWJxZ25MaGJzeTQ5S0I4UU9yT2NfMGVPR00zbEFVTWdwUGdQc1czSTFhUnRZQlE4VXhUNmlteEU3RERTWWlRYUFZUTVh?oc=5",
-          "snippet": "Moroccan Cars Market - All Facts & Data 2026 Focus2Move",
-          "source": "Focus2Move",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "The Ceuta Migrant Crossing Didn’t Need a Mastermind - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1hRN1k0bmpkMGo2alNKT1pVQUdJNGRwbzN6WEgtZHlmZGd1dWp6M3VQWGJkYnNJeTJMbzVvN3FwUHNGdGdxc00yNks2UlVyZTVFY1pIeWFsM1JJM01ySS1pZVV4N05aOS03T2l4U2VtYTQyaW16VWFZT1VvOHh2ZHBtcktBdTJkNzE0bUlfWkVvX3JDdUJIc21nakJDNmZtMDJ2WFM0SFZhdmw4aXhxYw?oc=5",
-          "snippet": "The Ceuta Migrant Crossing Didn’t Need a Mastermind Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "EBRD",
-        "Morocco"
-      ],
-      "facts": [],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "LOW",
-      "unresolved": [
-        "Insufficient public evidence to verify the material claim."
-      ]
-    }
-  },
-  {
-    "id": "sig-li-0768b7dc070d52",
-    "title": "#Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn",
-    "headline": "#Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn",
-    "summary": "#Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2ZDN0tXdEdBYUpOV1l1cFR6a1E4SndweFpPRTB5WXRQdldMX3MycFI3U1RYeEpDLXFnNXBLWFR1cnYyeDBubG1zd1FGUUlEUkdRV1NpUGVvbW5JOHdjTFVtSklmaktwdkwwY3NYUTdNNTN2NEdhS19JUTVVTzF3WE1hM19yOGlBajJ6alR0X05Vd3BLajgyV1BoQTgyQTJJSXNLZWR6ZGV5TXE4aVRGVlYxcHBsbFdKTDlkX1ZnR2VMQmVjX09pUg?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "Ministry of Energy Transition and Sustainable Development",
-    "sourceAccountUrl": "https://www.linkedin.com/company/ministry-of-energy-transition-and-sustainable-development-kingdom-of-morocco/",
-    "published": "2026-10-07T07:00:00+00:00",
-    "detected": "2026-10-23T10:05:57.730624+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "Ministry of Energy Transition and Sustainable Development",
-      "Morocco"
-    ],
-    "competitor": null,
-    "relevanceScore": 81,
-    "actionabilityScore": 86,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "#Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from Ministry of Energy Transition and Sustainable Development; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 81,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L3",
-    "researchLevelName": "Strategic",
-    "researchPriorityReasons": [
-      "DFI decision/financing",
-      "investment/financing",
-      "project development",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": true,
-      "dfiDecision": true,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 11,
-      "maxSources": 14
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-23T10:06:30.903773+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L3",
-      "researchLevelName": "Strategic",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Market intelligence",
-        "\"Ministry of Energy Transition and Sustainable Development\" #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn",
-        "\"#Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn\"",
-        "Morocco #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn",
-        "Morocco #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn official",
-        "Morocco #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn subsidiary",
-        "Morocco #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn Casablanca office",
-        "Morocco engineering consulting market entry Ministry of Energy Transition and Sustainable Development Morocco",
-        "Morocco #Morocco is financing the next wave of #aviation growth ahead of demand. The #African #Development Bank has signed a €270 million financing agreement with Morocco’s National Airports Office (#ONDA) to expand and modernise four of the country’s major - LinkedIn procurement"
-      ],
-      "sources": [
-        {
-          "title": "Morocco and Synhelion Sign Agreement for Synthetic Fuels Plant - energynews.pro",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGkxSTFuaS1lVkVNdjJTM0ozcVhZX0JNVk9GM3lWNl9FR3JVTVVnbUZZTy11TW9jNWRKRUY4N0E0YVVrb1gtR2Q4dVFUdTBmcjRmdWg3X1NacFk0ZzhWNVFMdUNET2lMOU1HUHpwbnYycWxWR1BVaFBMWjBtUlo4MEVONWItMWxsa1VIdDZueHY3QQ?oc=5",
-          "snippet": "Morocco and Synhelion Sign Agreement for Synthetic Fuels Plant energynews.pro",
-          "source": "energynews.pro",
-          "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-          "query": "\"Ministry of Energy Transition and Sustainable Development\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbjQ3UGNNa3Uydl85akZORzdLeWxLSTNPNTF6SzNvUzFpaGh4LVZ0Z0FwOGZYeWx5bW94RFNZOUdkTUVqLXE1OVJMaWZReTZtMWF1Y1RDd3BZbnVEaVhEN3NmTE9sLVNOaVdYTGpTMHJHbmFUbFlCeHdIaWNOSm5STEpVUHR2MTZlUXZWZlhLRUZSYUh3SHE4VWc1NDUySEJKcDNhdzB0SGNmMXNmdmVDN1FFdWZnV2FQd2ZmY2Zva2FtVkZSN2cyREo1ZWdRbUphcHZMekJzM2NMOThXUG5PcGhBZGNEaENSdWRhVl9YelZEWVlkOEgxTlJFQ3I4SGF6MldSUDliY0poSmdoZTRhZGZZcHh6bkJiM2lSbmNBcWNEZGNlUTBDQXU5V2pmaFIxdVVCVFhMc3JFVmVCRnlYWS10dTdCY2VYeFhtcy1xd0pDUmdKUGNNZFB2TmZ2dHZFVEZVanV6ZFBTajBSS3Fqb21weWhCRWZVelZGQU9vb2k1RkJOVlR1M1RTa1E4dkxKSWhJNDctM3MtYTBJcGRCNzczOGFpZTl4dXRRaVlzOUdJVnh3RmFDUjN4bGd1Mk5NX05VRk9LdjZFc2li?oc=5",
-          "snippet": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 LinkedIn",
-          "source": "LinkedIn",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Moroccan Cars Market - All Facts & Data 2026 - Focus2Move",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nSFpPLVhzLURTRU5wa3o2YWJxZ25MaGJzeTQ5S0I4UU9yT2NfMGVPR00zbEFVTWdwUGdQc1czSTFhUnRZQlE4VXhUNmlteEU3RERTWWlRYUFZUTVh?oc=5",
-          "snippet": "Moroccan Cars Market - All Facts & Data 2026 Focus2Move",
-          "source": "Focus2Move",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "The Ceuta Migrant Crossing Didn’t Need a Mastermind - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1hRN1k0bmpkMGo2alNKT1pVQUdJNGRwbzN6WEgtZHlmZGd1dWp6M3VQWGJkYnNJeTJMbzVvN3FwUHNGdGdxc00yNks2UlVyZTVFY1pIeWFsM1JJM01ySS1pZVV4N05aOS03T2l4U2VtYTQyaW16VWFZT1VvOHh2ZHBtcktBdTJkNzE0bUlfWkVvX3JDdUJIc21nakJDNmZtMDJ2WFM0SFZhdmw4aXhxYw?oc=5",
-          "snippet": "The Ceuta Migrant Crossing Didn’t Need a Mastermind Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Ifahsa pumped hydropower storage project, Morocco - Engineering News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEk5Z3B1LXdvNDdkbWVqcUdJTFJDSjZvZ0VXckxrTl9Yb3NTSE55VDUwUThiQzYwem9fLTFaalhCMmFPRURHOEtZVnNlekZ0TWQtdVpwbVdaNVpBZzQyOUN5UlRncFNHTTZmMnJNcDNuMGoyNnlJMFQwS0tOVzlsbTk1NWJKTFhTakxMbGJaVnVPTlFPQmpRTDlLcXpCTlZ1bzN3?oc=5",
-          "snippet": "Ifahsa pumped hydropower storage project, Morocco Engineering News",
-          "source": "Engineering News",
-          "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "query": "Morocco engineering consulting market entry Ministry of Energy Transition and Sustainable Development Morocco"
-        }
-      ],
-      "sourceCount": 7,
-      "project": "Ifahsa Pumped Hydropower Storage (PHS) Project",
-      "entities": [
-        "Ministry of Energy Transition and Sustainable Development",
-        "Morocco"
-      ],
-      "facts": [
-        {
-          "claim": "Public sources identify the development as the Ifahsa pumped hydropower storage project in Morocco.",
-          "confidence": "HIGH",
-          "sourceIndexes": [
-            6
-          ]
-        }
-      ],
-      "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",
-      "interpretation": "The signal was researched according to its assigned adaptive level.",
-      "fichtnerImplication": "Potential relevance for technical advisory, owner’s engineering, grid integration, procurement support or lender technical advisory where applicable.",
-      "recommendedActions": [
-        "Track the project lifecycle and identify remaining owner’s-engineer / technical-advisory packages.",
-        "Verify material claims against primary owner/DFI sources before treating them as confirmed."
-      ],
-      "overallConfidence": "MEDIUM",
-      "unresolved": []
-    }
-  },
-  {
-    "id": "sig-li-2593c85cb69ed0",
-    "title": "Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn",
-    "headline": "Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn",
-    "summary": "Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXc1N3ZoUDYtMndWUmRJSlU2bm5LdERLdm5ycEIzd0tUY1doaW4yMW02RjNJQVZ4cExoS05qYXR1VXBFU09RNUZQLVNJRl9Cem1ENXpNV21mVjN6dUdCY2czYlZaVUhYdVhQMVBZNWdoOHNfVVJSZUtrMVlESU1uc2otcEJ4WFFUVGdITWFTVmpfeVFkb21HYS1DMTg0TGhpVkloVkN0TkRDZVgtRmlCY0cyUE55aFlTWU9qSDVB?oc=5",
-    "source": "LinkedIn",
-    "sourceType": "linkedin",
-    "sourceAccount": "ONEE",
-    "sourceAccountUrl": "https://www.linkedin.com/company/office-national-de-l%E2%80%99electricit%C3%A9-et-de-l%E2%80%99eau-potable-onee/",
-    "published": "2026-09-24T07:00:00+00:00",
-    "detected": "2026-10-23T04:52:58.124966+00:00",
-    "categories": [
-      "LinkedIn",
-      "Market intelligence"
-    ],
-    "signalType": "project",
-    "projectStage": "monitoring",
-    "entities": [
-      "ONEE",
-      "Morocco",
-      "Casablanca"
-    ],
-    "competitor": null,
-    "relevanceScore": 81,
-    "actionabilityScore": 86,
-    "noveltyScore": 1,
-    "status": "new",
-    "evidenceLevel": "multi-source enriched",
-    "evidenceSnippet": "Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene LinkedIn",
-    "whyItMatters": "LinkedIn early-warning signal from ONEE; verify material claims against primary or independent sources.",
-    "fichtnerRelevance": "HIGH",
-    "qualityScore": 81,
-    "filterDecision": "KEEP",
-    "filterConfidence": 0.92,
-    "filterReason": "First-class LinkedIn discovery source",
-    "aiReviewed": true,
-    "researchPriority": 100,
-    "researchLevel": "L2",
-    "researchLevelName": "Investigate",
-    "researchPriorityReasons": [
-      "project development",
-      "strategic Moroccan actor"
-    ],
-    "researchTriggers": {
-      "fichtner": false,
-      "moroccoContext": true,
-      "competitor": false,
-      "competitorMove": false,
-      "marketEntry": false,
-      "tender": false,
-      "award": false,
-      "dfi": false,
-      "dfiDecision": false,
-      "majorProject": false,
-      "consultingPotential": false
-    },
-    "researchBudget": {
-      "maxQueries": 7,
-      "maxSources": 9
-    },
-    "researchEligibility": {
-      "eligible": true,
-      "willResearch": true,
-      "reason": "missing/stale/old-engine enrichment",
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry"
-    },
-    "project": null,
-    "enrichment": {
-      "engineVersion": "5.1-entity-aware-adaptive-market-entry",
-      "researchedAt": "2026-10-23T04:53:23.110986+00:00",
-      "status": "ai-enriched",
-      "researchLevel": "L2",
-      "researchLevelName": "Investigate",
-      "researchPriority": 100,
-      "researchQueries": [
-        "\"ONEE\" Morocco LinkedIn Market intelligence",
-        "\"ONEE\" Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn",
-        "\"Morocco\" Morocco LinkedIn Market intelligence",
-        "\"Morocco\" Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn",
-        "\"Casablanca\" Morocco LinkedIn Market intelligence",
-        "\"Casablanca\" Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn",
-        "\"Morocco is building a $1.5 billion waste-to-energy plant in Casablanca to process 1.5 million tonnes of municipal waste each year and generate clean electricity There are over 3,000 waste-to-energy plants operating worldwide, there are over 500 waste to ene - LinkedIn\""
-      ],
-      "sources": [
-        {
-          "title": "Morocco Used Spyware on Activists, Journalists, Report Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVlJNjNYUHhZYTBXenVMamNLajR1QS0yQXE5SS1oWEV2Q3Z0TUVBMjY3VERkb2xXZWpMWDlhdEgyeVdTcXVSWDF6bFRWNW42U1BucEhJdDcwdmlzd0MzN25rc1I3RW05NUVldFZnVHQzeS1tdmQwenR2VlRmVjhwR1pwNDBQVGRQNGFpa3lvcXNrUWRwVDg1WUFQQ0RUOUhNenFBTE15T2kzXzJl?oc=5",
-          "snippet": "Morocco Used Spyware on Activists, Journalists, Report Says Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 - LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbjQ3UGNNa3Uydl85akZORzdLeWxLSTNPNTF6SzNvUzFpaGh4LVZ0Z0FwOGZYeWx5bW94RFNZOUdkTUVqLXE1OVJMaWZReTZtMWF1Y1RDd3BZbnVEaVhEN3NmTE9sLVNOaVdYTGpTMHJHbmFUbFlCeHdIaWNOSm5STEpVUHR2MTZlUXZWZlhLRUZSYUh3SHE4VWc1NDUySEJKcDNhdzB0SGNmMXNmdmVDN1FFdWZnV2FQd2ZmY2Zva2FtVkZSN2cyREo1ZWdRbUphcHZMekJzM2NMOThXUG5PcGhBZGNEaENSdWRhVl9YelZEWVlkOEgxTlJFQ3I4SGF6MldSUDliY0poSmdoZTRhZGZZcHh6bkJiM2lSbmNBcWNEZGNlUTBDQXU5V2pmaFIxdVVCVFhMc3JFVmVCRnlYWS10dTdCY2VYeFhtcy1xd0pDUmdKUGNNZFB2TmZ2dHZFVEZVanV6ZFBTajBSS3Fqb21weWhCRWZVelZGQU9vb2k1RkJOVlR1M1RTa1E4dkxKSWhJNDctM3MtYTBJcGRCNzczOGFpZTl4dXRRaVlzOUdJVnh3RmFDUjN4bGd1Mk5NX05VRk9LdjZFc2li?oc=5",
-          "snippet": "𝐀𝐟𝐫𝐢𝐜𝐚’𝐬 𝟓𝐆 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐨 𝐄𝐱𝐜𝐞𝐞𝐝 𝟑𝟖𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐛𝐲 𝟐𝟎𝟑𝟎. The 5G market in Africa is entering a period of accelerated expansion – connections are predicted to increase from just under 100 million by the end of 2026 to over 3 LinkedIn",
-          "source": "LinkedIn",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Data, genetics, and water efficiency take center stage at Tangier berry seminar - Hortidaily",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRkaWcxTUlJVlJSaF92dXR4Nk01YVZYWFdOMjE0Zk1sRDBuLWNTZURIT3FId19Va2t4Y0xGNWwtOVk2ZGw0LTViQ2E0anRvTWx1a2otMzM1R29NVGVkYWNSeFFvQnVLbmVDSVFtUl9Ld01JaHdJOW80WGJtekVnQ2VqVUZqMnhfb0ZSNkpFcmxXUEJLbUEtVTZJbmtCLVpLRTN4eFpYcUxWUE9uQUVhSjNKQ0ZvMmdOeXp1elhn?oc=5",
-          "snippet": "Data, genetics, and water efficiency take center stage at Tangier berry seminar Hortidaily",
-          "source": "Hortidaily",
-          "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "Moroccan Cars Market - All Facts & Data 2026 - Focus2Move",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nSFpPLVhzLURTRU5wa3o2YWJxZ25MaGJzeTQ5S0I4UU9yT2NfMGVPR00zbEFVTWdwUGdQc1czSTFhUnRZQlE4VXhUNmlteEU3RERTWWlRYUFZUTVh?oc=5",
-          "snippet": "Moroccan Cars Market - All Facts & Data 2026 Focus2Move",
-          "source": "Focus2Move",
-          "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        },
-        {
-          "title": "The Ceuta Migrant Crossing Didn’t Need a Mastermind - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1hRN1k0bmpkMGo2alNKT1pVQUdJNGRwbzN6WEgtZHlmZGd1dWp6M3VQWGJkYnNJeTJMbzVvN3FwUHNGdGdxc00yNks2UlVyZTVFY1pIeWFsM1JJM01ySS1pZVV4N05aOS03T2l4U2VtYTQyaW16VWFZT1VvOHh2ZHBtcktBdTJkNzE0bUlfWkVvX3JDdUJIc21nakJDNmZtMDJ2WFM0SFZhdmw4aXhxYw?oc=5",
-          "snippet": "The Ceuta Migrant Crossing Didn’t Need a Mastermind Bloomberg.com",
-          "source": "Bloomberg.com",
-          "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-          "query": "\"Morocco\" Morocco LinkedIn Market intelligence"
-        }
-      ],
-      "sourceCount": 5,
-      "project": null,
-      "entities": [
-        "ONEE",
-        "Morocco",
-        "Casablanca"
       ],
       "facts": [],
       "development": "Public-source enrichment completed; claims are limited to independently discoverable evidence.",

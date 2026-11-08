@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T11:55:07.642085+00:00",
+  "generatedAt": "2026-11-08T12:11:08.580889+00:00",
   "coverage": "partial",
   "sources": [
     {
       "id": "pmmp",
       "name": "Portail Marocain des Marchés Publics",
       "url": "https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-07T11:55:07.642085+00:00",
+      "checkedAt": "2026-11-08T12:11:08.580889+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: URLError: <urlopen error timed out>"
@@ -15,7 +15,7 @@
       "id": "masen",
       "name": "MASEN e-Tendering current tenders",
       "url": "https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=",
-      "checkedAt": "2026-11-07T11:55:07.642085+00:00",
+      "checkedAt": "2026-11-08T12:11:08.580889+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: HTTPError: HTTP Error 503: Service Temporarily Unavailable"
@@ -24,7 +24,7 @@
       "id": "masen-awards",
       "name": "MASEN e-Tendering award notices",
       "url": "https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-07T11:55:07.642085+00:00",
+      "checkedAt": "2026-11-08T12:11:08.580889+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: HTTPError: HTTP Error 503: Service Temporarily Unavailable"
@@ -33,7 +33,7 @@
       "id": "masen-cancellations",
       "name": "MASEN e-Tendering cancellations",
       "url": "https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-07T11:55:07.642085+00:00",
+      "checkedAt": "2026-11-08T12:11:08.580889+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: HTTPError: HTTP Error 503: Service Temporarily Unavailable"

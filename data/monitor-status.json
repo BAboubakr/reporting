@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "lastRun": "2026-11-17T23:06:17.428025+00:00",
-  "completedAt": "2026-11-17T23:06:17.428025+00:00",
+  "lastRun": "2026-11-18T04:27:01.096132+00:00",
+  "completedAt": "2026-11-18T04:27:01.096132+00:00",
   "frequency": "hourly",
   "sourcesChecked": 84,
   "queriesChecked": 156,

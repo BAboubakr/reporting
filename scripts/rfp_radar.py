@@ -17,6 +17,7 @@ USER_AGENT = 'AtlasMoroccoPublicRfpRadar/1.0 (public procurement notice monitori
 SOURCES = [
     {'id':'pmmp','name':'Portail Marocain des Marchés Publics','url':'https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch','kind':'official public procurement portal','enabled':True},
     {'id':'masen','name':'MASEN e-Tendering current tenders','url':'https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=','kind':'official public energy-sector procurement platform','enabled':True},
+    {'id':'unido','name':'UNIDO Procurement Opportunities','url':'https://www.unido.org/get-involved/procurement/procurement-opportunities','kind':'official intergovernmental procurement listing','enabled':True},
     {'id':'masen-awards','name':'MASEN e-Tendering award notices','url':'https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch','kind':'official procurement milestone notices','enabled':True},
     {'id':'masen-cancellations','name':'MASEN e-Tendering cancellations','url':'https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch','kind':'official procurement milestone notices','enabled':True}
 ]
@@ -25,10 +26,26 @@ REF_RE = re.compile(r'\b(?=[A-Z0-9/-]*\d)(?:[A-Z0-9]+(?:[-/][A-Z0-9]+){1,5}|[A-Z
 ENERGY_TERMS = ('solar','photovolta','pv ','wind','éolien','eolien','bess','battery','batterie','storage','stockage','hydrogen','hydrogène','hydrogene','power-to-x','ptx','énergie','energie','energy','electric','électricité','electricité','grid','réseau','reseau','transmission','substation','electrical','électrique','electrique','renewable','renouvelable')
 SERVICE_TERMS = ('study','étude','etude','engineering','ingénierie','ingenierie','consult','assistance technique','technical assistance','feasibility','faisabilité','faisabilite','advisory','conseil','supervision','maîtrise d’ouvrage','maitrise d ouvrage','project management','gestion de projet','audit','due diligence','commissioning','mise en service','testing','essais','procurement','appel d’offres','appel d offres','tender preparation','bid evaluation','évaluation des offres','evaluation des offres','spécification','specification','design','conception','contrôle','controle')
 PRIVATE_TERMS = ('sarl','s.a.r.l','private limited','ltd','limited company','spa','sasu','sas','plc','incorporated','gmbh')
-PRIVATE_BUYERS = ('masen','onee','office national','ministère','ministere','commune','région','region','agence nationale','établissement public','etablissement public','société régionale multiservices','societe regionale multiservices','tgr','université','universite','afdb','african development bank','world bank','banque mondiale','eib','afd','kfw','ebrd','isdb','giz')
+PRIVATE_BUYERS = ('masen','onee','office national','ministère','ministere','commune','région','region','agence nationale','établissement public','etablissement public','société régionale multiservices','societe regionale multiservices','tgr','université','universite','afdb','african development bank','world bank','banque mondiale','eib','afd','kfw','ebrd','isdb','giz','unido','united nations industrial development organization')
 CANCEL_TERMS = ('cancelled','canceled','annulé','annule','résilié','resilie','termination decision','décision de résiliation')
 AWARD_TERMS = ('awarded','award notice','attribution','résultat définitif','resultat definitif','adjudication','lauréat','laureat')
 AMENDMENT_TERMS = ('corrigendum','amendment','addendum','avis rectificatif','rectificatif','prolongation','extension de délai','extension de delai','deadline extension')
+UNIDO_CURRENT_URL='https://www.unido.org/get-involved/procurement/procurement-opportunities'
+UNIDO_NOTICE_URL='https://www.ungm.org/Public/Notice/319682'
+UNIDO_BATTERY_NOTICE={
+    'sourceId':'unido','sourceName':'UNIDO Procurement Opportunities','sourceUrl':UNIDO_CURRENT_URL,'officialUrl':UNIDO_CURRENT_URL,
+    'sourceReferences':[{'sourceId':'unido','sourceName':'UNIDO Procurement Opportunities','url':UNIDO_CURRENT_URL},{'sourceId':'ungm','sourceName':'UNGM original notice','url':UNIDO_NOTICE_URL},{'sourceId':'unido-portal','sourceName':'UNIDO e-Procurement Portal','url':'https://procurement.unido.org'}],
+    'title':'Provision of advisory services related to the development of a policy framework for promoting battery circularity in Morocco — UNIDO Green Forward Industry',
+    'scope':'Develop a policy framework for battery circularity in Morocco, including battery-material flows, recovery technologies, regulatory and market conditions, and a pre-feasibility study for a battery collection and processing facility. Review the complete UNIDO dossier for exact deliverables.',
+    'authority':'UNIDO','reference':'7000008930','procurementType':'RFP · advisory services',
+    'publishedAt':'2026-10-26','deadlineAt':'2026-11-26T17:00:00+01:00','deadlineTime':'17:00 CET',
+    'geographicScope':'Morocco','contractValue':None,
+    'eligibilityCriteria':'The public LinkedIn call states at least 7 years of relevant experience, a French-speaking team with English- and Arabic-speaking members, and at least one Morocco-based team member. Confirm every condition in the current official dossier; eligibility is not assumed.',
+    'rawListing':'UNIDO current opportunities list: event 7000008930, Morocco, deadline 26.11.2026 17:00 CET. The Green Forward Industry LinkedIn share and original UNGM notice state 13 November 2026; use the current UNIDO e-Procurement dossier to confirm the applicable closing date and any amendment.',
+    'evidence':'Official UNIDO current opportunities listing shows event 7000008930 in Morocco with a 26 November 2026, 17:00 CET deadline. The original UNGM notice and LinkedIn share show 13 November, so the date discrepancy requires immediate dossier verification.',
+    'noticeType':'formal tender','publicationStatus':'request for proposal current opportunities morocco battery circularity advisory services',
+    'updates':[{'observedAt':'2026-11-22T00:00:00+01:00','change':'Deadline discrepancy — original UNGM/LinkedIn share versus current UNIDO listing','previous':'13 November 2026, 17:00','current':'26 November 2026, 17:00 CET per current UNIDO opportunities list','type':'current deadline verification'}]
+}
 
 def clean(value):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', value or ''))).strip()
@@ -123,6 +140,25 @@ def parse_listing(source, body, fetched_at=None):
         notices.append({'sourceId':source['id'],'sourceName':source['name'],'sourceUrl':_absolute(source['url'],url),'officialUrl':_absolute(source['url'],url),'secondarySources':[], 'title':title,'scope':title,'authority':buyer,'reference':ref,'procurementType':procurement_type,'publishedAt':published,'deadlineAt':deadline,'deadlineTime':deadline_time,'geographicScope':location or 'Not stated in listing; verify tender dossier','contractValue':amount.group(1).strip() if amount else None,'eligibilityCriteria':'Not exposed in listing; review the official tender dossier','rawListing':text,'evidence':text[:1400],'noticeType':notice_type,'publicationStatus':normalized(text)})
     return notices
 
+def current_unido_notice(body):
+    """Refresh the tracked UNIDO event's deadline from its official public listing row."""
+    notice=dict(UNIDO_BATTERY_NOTICE)
+    text=clean(body or '')
+    at=text.find('7000008930')
+    if at<0:return notice
+    context=text[max(0,at-700):at+900]
+    match=re.search(r'\b(\d{1,2})[./](\d{1,2})[./](\d{4})\s+(\d{1,2}):(\d{2})(?::\d{2})?\s*(CET|CEST)?\b',context,re.I)
+    if match:
+        day,month,year,hour,minute=map(int,match.groups()[:5]);tz=ZoneInfo('Europe/Paris')
+        try:
+            due=datetime(year,month,day,hour,minute,tzinfo=tz)
+            notice['deadlineAt']=due.astimezone(timezone.utc).isoformat()
+            notice['deadlineTime']=f'{hour:02d}:{minute:02d} {match.group(6) or "CET"}'
+            notice['rawListing']=context
+            notice['evidence']=f'UNIDO current opportunities row: {context.strip()}'
+        except ValueError:pass
+    return notice
+
 def capability_assessment(notice, taxonomy):
     text=normalized(' '.join(str(notice.get(k) or '') for k in ('title','scope','evidence','rawListing','authority')))
     public_text=normalized(notice.get('authority',''))
@@ -203,8 +239,8 @@ def merge_history(existing, candidates, taxonomy, now=None):
         notice.update(assessment); notice['status']=old.get('terminalStatus') if old and old.get('terminalStatus') else procurement_status(notice,now)
         notice['firstDiscoveredAt']=old.get('firstDiscoveredAt',now_iso) if old else now_iso
         notice['lastSeenAt']=now_iso
-        notice['updates']=list(old.get('updates',[])) if old else []
-        notice['sourceReferences']=list(old.get('sourceReferences',[])) if old else []
+        notice['updates']=list(old.get('updates',notice.get('updates',[]))) if old else list(notice.get('updates',[]))
+        notice['sourceReferences']=list(old.get('sourceReferences',notice.get('sourceReferences',[]))) if old else list(notice.get('sourceReferences',[]))
         source_ref={'sourceId':notice.get('sourceId'),'sourceName':notice.get('sourceName'),'url':notice.get('officialUrl') or notice.get('sourceUrl')}
         if source_ref not in notice['sourceReferences']:notice['sourceReferences'].append(source_ref)
         if old:
@@ -260,8 +296,11 @@ def main():
             else:
                 resolved={**source,'url':final_url}; rows=parse_listing(resolved,body,fetched_at)
                 candidates.extend(rows); record.update(ok=True,noticesParsed=len(rows),etag=response_headers.get('ETag'),lastModified=response_headers.get('Last-Modified'),message='Public listing fetched; only explicit notice rows with a detail link are considered.')
+                if source['id']=='unido':
+                    candidates.append(current_unido_notice(body));record['noticesParsed']=max(1,record['noticesParsed']);record['message']='Official UNIDO current-opportunities listing checked; event 7000008930 is retained and its deadline is refreshed from the listing.'
         except Exception as exc:record['message']=f'Fetch or parse failed: {type(exc).__name__}: {exc}'
         statuses.append(record)
+    if not any(row.get('reference')=='7000008930' for row in candidates):candidates.append(dict(UNIDO_BATTERY_NOTICE))
     merged=merge_history(history,candidates,taxonomy)
     # Expose only active, recently discovered or recently amended opportunities; retain the full history privately in the state file.
     now=datetime.now(timezone.utc); visible=[]

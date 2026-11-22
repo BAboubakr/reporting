@@ -28,6 +28,8 @@ LINKEDIN_ACCOUNTS = [
     {"name":"ANRE - Autorité Nationale de Régulation de l’Électricité","url":"https://ma.linkedin.com/company/anre-maroc/","tier":1,"queries":["ANRE Maroc electricity regulation","ANRE Morocco grid tariff","ANRE Morocco renewable energy"]},
     {"name":"IRESEN","url":"https://www.linkedin.com/company/iresen/","tier":1,"queries":["IRESEN Morocco solar energy","IRESEN green hydrogen Morocco","IRESEN innovation Morocco energy"]},
     {"name":"Green Energy Park","url":"https://www.linkedin.com/company/green-energy-park/","tier":1,"queries":["Green Energy Park Morocco solar","Green Energy Park hydrogen Morocco","Green Energy Park battery Morocco"]},
+    {"name":"Green Forward Industry","url":"https://www.linkedin.com/company/green-forward-industry/","tier":2,"queries":["Green Forward Industry Morocco circular economy battery recycling","Green Forward Industry Morocco call for proposals battery","GreenForwardIndustry Morocco procurement circular battery"]},
+    {"name":"UNIDO GEIPP Morocco","url":"https://www.linkedin.com/showcase/unido-geipp-morocco/","tier":1,"queries":["UNIDO GEIPP Morocco battery circularity tender","UNIDO Morocco procurement battery recycling","UNIDO Morocco circular economy battery study"]},
     {"name":"AMEE","url":"https://www.linkedin.com/company/ameeofficiel/","tier":1,"queries":["AMEE Morocco energy efficiency","AMEE Morocco decarbonization","AMEE renewable energy Morocco"]},
 
     {"name":"OCP Group","url":"https://www.linkedin.com/company/ocpgroup/","tier":2,"queries":["OCP Morocco renewable energy","OCP green hydrogen Morocco","OCP solar Morocco"]},

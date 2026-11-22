@@ -12,6 +12,7 @@ const clean=v=>String(v||'').replace(/\s+/g,' ').trim();
 const dateValue=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?null:d;};
 const signalText=s=>clean(`${s.title||s.headline||''} ${s.summary||''} ${(s.entities||[]).join(' ')} ${s.projectStage||''} ${s.signalType||''}`);
 const isEvidenceBacked=s=>{const t=signalText(s);return MOROCCO_TERMS.test(t)&&ENERGY_TERMS.test(t)&&ACTIONABLE_TERMS.test(t)&&Number(s.relevanceScore||0)>=60&&Number(s.actionabilityScore||0)>=40;};
+const signalPipelineFields=s=>({owner:s.owner||'Unknown',mandateType:s.mandateType||'unknown',financingSource:s.financingSource||'unknown',rfpTimeline:s.rfpTimeline||'unknown',relationshipStatus:s.relationshipStatus||'unknown',nextAction:s.nextAction||'Unknown',nextActionDue:s.nextActionDue||'Unknown',due:s.rfpTimeline&&s.rfpTimeline!=='unknown'?`RFP deadline · ${s.rfpTimeline}`:'Rolling review'});
 
 function futureEvents(){
   const now=new Date(); now.setHours(0,0,0,0);
@@ -31,7 +32,7 @@ export const pipeline={
   Monitor:projects.slice(4,8).map(s=>({
     name:clean(s.title||s.headline),
     note:`Evidence-backed signal · ${clean(s.projectStage||s.signalType||'development')}. Reassess before outreach.`,
-    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:'Rolling review', source:s.url||null, signalId:s.id, verified:true, generated:true
+    ...signalPipelineFields(s), source:s.url||null, signalId:s.id, verified:true, generated:true
   })),
   Qualify:[...openDfiOpportunities.map(o=>({
     name:`${o.institution.toUpperCase()} · ${clean(o.title)}`,
@@ -40,7 +41,7 @@ export const pipeline={
   })),...projects.slice(0,4).map(s=>({
     name:clean(s.title||s.headline),
     note:`Evidence-backed ${clean(s.projectStage||s.signalType||'development')} signal. Validate client, procurement route and Fichtner fit before engagement.`,
-    owner:'Unassigned', mandateType:'unknown', financingSource:'unknown', rfpTimeline:'unknown', relationshipStatus:'unknown', nextAction:'Unknown', nextActionDue:'Unknown', due:'Within 7 days', source:s.url||null, signalId:s.id, verified:true, generated:true
+    ...signalPipelineFields(s), source:s.url||null, signalId:s.id, verified:true, generated:true
   }))],
   Engage:events.slice(0,4).map(e=>({
     name:e.name,

@@ -24,6 +24,9 @@ DFI_QUERIES = [
 ]
 COMPETITOR_QUERIES = [f'{c} Morocco renewable energy' for c in COMPETITORS]
 TARGETED_QUERIES = [
+    'Morocco UNIDO battery circularity tender advisory services Green Forward Industry',
+    'site:linkedin.com/posts Green Forward Industry Morocco battery circular economy tender',
+    'site:unido.org "7000008930" Morocco battery circularity',
     'site:lematin.ma economie MASEN solaire photovoltaïque appel offres',
     'site:lematin.ma MASEN campagne mesure solaire sites',
     'site:medias24.com MASEN solaire photovoltaïque appel offres',
@@ -65,9 +68,35 @@ KEYWORDS={'Solar PV':['solar','photovoltaic','pv','masen'],'BESS':['bess','batte
 SIGNAL_RULES=[('market entry',['opens office','opening office','new office','establishes office','establishes subsidiary','launches morocco','morocco subsidiary','morocco sarl','registered in casablanca','expands presence','market entry','local entity','local office']),('award',['awarded','won the contract','wins contract','selected','appointed','attributed','adjudicated','lauréat','retenu','attribué']),('tender',['tender','appel d’offres','appel d offres','procurement','consultation','prequalification','rfp']),('project milestone',['construction','commissioned','inaugurated','groundbreaking','financial close','commercial operation','mise en service','construction starts']),('project announcement',['project','plant','farm','facility','development','announces','launches','to develop','will build']),('investment',['investment','financing','funding','loan','invests','million','billion','mmdh']),('regulatory',['regulation','tariff','law','decree','decision','anre','regulatory']),('partnership',['partnership','agreement','memorandum','mou','joint venture','consortium','collaboration']),('manufacturing',['factory','manufacturing','module','cell','industrial plant'])]
 NOISE=['nouvel utilisateur','créer un compte','se connecter','connexion','menu','accueil','contact','recherche','newsletter','mentions légales','politique de confidentialité','cookies','subscribe','sign in','log in','home','search','0 entités publiques inscrites','tester la configuration de mon poste','soumettre une réclamation','liste des marchés attribués','liste des bons de commande attribués','annonce de programme prévisionnel','annonce de programme previsionnel','toutes les décisions de résiliation','tous les résultats définitifs','consultations et annonces','matériel accepté réseau onee','textes réglementaires et techniques','contrôle du maintien de la qualité','spécifications techniques','entreprises agréées en réseau','entreprises agres en reseau','travaux et prestations soumis agrément','travaux et prestations soumis agrement','agrément des entreprises de travaux et services','agrement des entreprises de travaux et services','constitution des dossiers de qualifications des microentreprises','qualification des microentreprises','liste des activités pouvant être confiées à des microentreprises','liste des activites pouvant etre confiees a des microentreprises']
 
-# Deterministic strategic seeds prevent a high-value market-entry signal from
-# disappearing because a news search, dedupe pass, or smart filter misses it.
+# Deterministic strategic seeds keep high-value Morocco opportunities visible
+# when indexing, deduplication, or automated filters miss them.
 STRATEGIC_SEEDS = [
+    {
+        'id':'sig-unido-gfi-battery-circularity-rfp-20261026',
+        'title':'UNIDO seeks advisory services for a Morocco battery-circularity policy framework — Green Forward Industry',
+        'url':'https://www.unido.org/get-involved/procurement/procurement-opportunities',
+        'source':'UNIDO Procurement Opportunities',
+        'sourceType':'official',
+        'published':'2026-10-26T00:00:00+01:00',
+        'summary':'UNIDO RFP 7000008930 seeks advisory services to develop a policy framework for battery circularity in Morocco under Green Forward Industry. The work covers battery material flows, recovery technologies, policy options and a pre-feasibility study for collection and processing. UNIDO’s current procurement listing shows a 26 November 2026, 17:00 CET deadline; the Green Forward Industry LinkedIn share states 13 November, so confirm the current deadline and all eligibility terms in the official dossier immediately.',
+        'categories':['Battery','Circular economy','Tender / Procurement','Consulting'],
+        'signalType':'tender',
+        'projectStage':'tender',
+        'entities':['UNIDO','Green Forward Industry','Morocco'],
+        'rfpTimeline':'2026-11-26',
+        'mandateType':'technical advisor',
+        'financingSource':'unknown',
+        'relationshipStatus':'unknown',
+        'owner':'Unknown',
+        'nextAction':'Review the UNIDO dossier, confirm the current deadline and eligibility, then decide whether to pursue or form a consortium.',
+        'nextActionDue':'2026-11-23',
+        'sources':[
+            {'url':'https://www.unido.org/get-involved/procurement/procurement-opportunities','source':'UNIDO Procurement Opportunities','publisher':'UNIDO','publication':'United Nations Industrial Development Organization','headline':'Provision of advisory services related to battery circularity policy framework in Morocco · event 7000008930','snippet':'Current opportunity row lists Morocco and deadline 26.11.2026 17:00 CET. Verify dossier and eligibility in UNIDO e-Procurement.'},
+            {'url':'https://www.linkedin.com/posts/greenforwardindustry-circulareconomy-batteries-share-7521569121080070144-I_JF/','source':'LinkedIn','publisher':'Green Forward Industry','publication':'LinkedIn','headline':'Call for proposals — circular battery business models in Morocco','snippet':'The shared post describes the UNIDO Green Forward Industry battery circularity advisory RFP and states a 13 November 2026 deadline.'}
+        ],
+        'whyItMatters':'Potential Fichtner technical-advisory opportunity. Deadline evidence conflicts: UNIDO’s current listing says 26 November; the LinkedIn post says 13 November. Confirm the official dossier and preserve the rule that eligibility is never assumed.',
+        'filterReason':'Official UNIDO procurement listing cross-checked against the supplied Green Forward Industry LinkedIn post.'
+    },
     {
         'id':'sig-masen-solar-measurement-12-sites-20260918',
         'title':'MASEN relance sa campagne de mesure solaire pour le développement de 12 centrales photovoltaïques',
@@ -204,6 +233,14 @@ def seed_signal(seed,now):
         'published':seed['published'],'detected':now,'categories':seed['categories'],
         'signalType':seed['signalType'],'projectStage':seed['projectStage'],
         'entities':seed['entities'],'competitor':seed.get('competitor'),
+        'sources':seed.get('sources',[]),
+        'rfpTimeline':seed.get('rfpTimeline','unknown'),
+        'mandateType':seed.get('mandateType','unknown'),
+        'financingSource':seed.get('financingSource','unknown'),
+        'relationshipStatus':seed.get('relationshipStatus','unknown'),
+        'owner':seed.get('owner','Unknown'),
+        'nextAction':seed.get('nextAction','Unknown'),
+        'nextActionDue':seed.get('nextActionDue','Unknown'),
         'relevanceScore':98,'actionabilityScore':98,'noveltyScore':1.0,'status':'new',
         'evidenceLevel':seed.get('evidenceLevel','public source'),'evidenceSnippet':seed['summary'][:280],
         'whyItMatters':seed.get('whyItMatters','High-value Morocco renewable-energy development signal requiring monitoring and follow-up.'),

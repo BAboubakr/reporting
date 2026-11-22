@@ -1,6 +1,12 @@
 name: Refresh Morocco Public RFP Radar
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/rfp_radar.py'
+      - 'data/rfp-capabilities.json'
+      - '.github/workflows/rfp-radar.yml'
   schedule:
     - cron: '41 5 * * *'
   workflow_dispatch:

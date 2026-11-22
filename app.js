@@ -1,6 +1,6 @@
 import { eventData, pipeline, stakeholders } from './data/index.js';
 import { renderSourceEvidence } from './source-evidence.js?v=20261026-1';
-import { signals as rawSignals } from './data/signals.js?v=20260920-3';
+import { signals as rawSignals } from './data/signals.js?v=20261122-1';
 import { enrichments } from './data/enrichments.js?v=20260919-1';
 import { cleanSignals, getLastSignalUpdate, normalizePipelineFields } from './data-cleaner.js?v=20261026-1';
 import { monitoring } from './data/monitoring.js?v=20261026-1';

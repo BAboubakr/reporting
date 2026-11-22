@@ -299,9 +299,12 @@ def stable_id(notice):
     return 'rfp-'+hashlib.sha256(key.encode()).hexdigest()[:16]
 
 def procurement_status(notice, now=None):
-    now=now or datetime.now(timezone.utc); text=normalized(notice.get('rawListing') or notice.get('title') or '')
-    if any(term in text for term in map(normalized,CANCEL_TERMS)):return 'cancelled'
-    if any(term in text for term in map(normalized,AWARD_TERMS)):return 'awarded'
+    now=now or datetime.now(timezone.utc)
+    # Classify the notice itself, not every phrase in its full text. Active bid
+    # documents often discuss how the later contract award will be made.
+    notice_label=normalized(' '.join(str(notice.get(k) or '') for k in ('noticeType','title','procurementType')))
+    if notice.get('noticeType')=='cancellation' or any(term in notice_label for term in map(normalized,CANCEL_TERMS)):return 'cancelled'
+    if notice.get('noticeType')=='award' or any(term in notice_label for term in ('contract award','award notice','notice of award','attribution de marche','attribution du marche')):return 'awarded'
     deadline=notice.get('deadlineAt')
     if not deadline:return 'unclear'
     if re.fullmatch(r'\d{4}-\d{2}-\d{2}',deadline):
@@ -413,5 +416,6 @@ def main():
     print(f"RFP radar: fetched {sum(x['ok'] for x in statuses)}/{len(statuses)} sources; parsed {len(candidates)} notices; retained {len(visible)} visible opportunities.")
 
 if __name__=='__main__':main()
+
 
 

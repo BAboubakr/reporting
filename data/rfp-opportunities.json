@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-11-22T13:35:57.074109+00:00",
+  "generatedAt": "2026-11-22T15:28:28.772928+00:00",
   "definition": {
     "newToAtlasDays": 7,
     "visibleDiscoveryDays": 30,
     "text": "New to Atlas means first discovered in the last 7 days. Publication date is separate. Visible opportunities are active/unclear or discovered/updated in the last 30 days."
   },
-  "opportunities": []
+  "opportunities": [
+    {
+      "sourceId": "unido",
+      "sourceName": "UNIDO Procurement Opportunities",
+      "sourceUrl": "https://www.unido.org/get-involved/procurement/procurement-opportunities",
+      "officialUrl": "https://www.unido.org/get-involved/procurement/procurement-opportunities",
+      "sourceReferences": [
+        {
+          "sourceId": "unido",
+          "sourceName": "UNIDO Procurement Opportunities",
+          "url": "https://www.unido.org/get-involved/procurement/procurement-opportunities"
+        },
+        {
+          "sourceId": "ungm",
+          "sourceName": "UNGM original notice",
+          "url": "https://www.ungm.org/Public/Notice/319682"
+        },
+        {
+          "sourceId": "unido-portal",
+          "sourceName": "UNIDO e-Procurement Portal",
+          "url": "https://procurement.unido.org"
+        }
+      ],
+      "title": "Provision of advisory services related to the development of a policy framework for promoting battery circularity in Morocco — UNIDO Green Forward Industry",
+      "scope": "Develop a policy framework for battery circularity in Morocco, including battery-material flows, recovery technologies, regulatory and market conditions, and a pre-feasibility study for a battery collection and processing facility. Review the complete UNIDO dossier for exact deliverables.",
+      "authority": "UNIDO",
+      "reference": "7000008930",
+      "procurementType": "RFP · advisory services",
+      "publishedAt": "2026-10-26",
+      "deadlineAt": "2026-11-26T17:00:00+01:00",
+      "deadlineTime": "17:00 CET",
+      "geographicScope": "Morocco",
+      "contractValue": null,
+      "eligibilityCriteria": "The public LinkedIn call states at least 7 years of relevant experience, a French-speaking team with English- and Arabic-speaking members, and at least one Morocco-based team member. Confirm every condition in the current official dossier; eligibility is not assumed.",
+      "rawListing": "UNIDO current opportunities list: event 7000008930, Morocco, deadline 26.11.2026 17:00 CET. The Green Forward Industry LinkedIn share and original UNGM notice state 13 November 2026; use the current UNIDO e-Procurement dossier to confirm the applicable closing date and any amendment.",
+      "evidence": "Official UNIDO current opportunities listing shows event 7000008930 in Morocco with a 26 November 2026, 17:00 CET deadline. The original UNGM notice and LinkedIn share show 13 November, so the date discrepancy requires immediate dossier verification.",
+      "noticeType": "formal tender",
+      "publicationStatus": "request for proposal current opportunities morocco battery circularity advisory services",
+      "updates": [
+        {
+          "observedAt": "2026-11-22T00:00:00+01:00",
+          "change": "Deadline discrepancy — original UNGM/LinkedIn share versus current UNIDO listing",
+          "previous": "13 November 2026, 17:00",
+          "current": "26 November 2026, 17:00 CET per current UNIDO opportunities list",
+          "type": "current deadline verification"
+        }
+      ],
+      "id": "rfp-3c5e3ab90c69733d",
+      "fit": "Possible fit — review required",
+      "fitScore": 50,
+      "fitReasons": [
+        "Scope mentions study, feasibility and battery; both service and technology evidence are present."
+      ],
+      "eligibilityReview": [
+        "Eligibility, registrations, certifications and turnover thresholds are unknown until the official tender dossier is reviewed.",
+        "Capability match is a text-based screening aid; confirm the scope against Fichtner’s current approved service profile and references."
+      ],
+      "risks": [
+        "Verify the complete official dossier, eligibility rules, required references and bid deadline/time zone before deciding."
+      ],
+      "serviceCategories": [
+        "Power systems, grid and storage"
+      ],
+      "technologies": [
+        "battery"
+      ],
+      "status": "closing soon",
+      "firstDiscoveredAt": "2026-11-22T15:28:33.330468+00:00",
+      "lastSeenAt": "2026-11-22T15:28:33.330468+00:00",
+      "newToAtlas": true,
+      "updatedRecently": true
+    }
+  ]
 }

@@ -18,6 +18,8 @@ SOURCES = [
     {'id':'pmmp','name':'Portail Marocain des Marchés Publics','url':'https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch','kind':'official public procurement portal','enabled':True},
     {'id':'masen','name':'MASEN e-Tendering current tenders','url':'https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=','kind':'official public energy-sector procurement platform','enabled':True},
     {'id':'unido','name':'UNIDO Procurement Opportunities','url':'https://www.unido.org/get-involved/procurement/procurement-opportunities','kind':'official intergovernmental procurement listing','enabled':True},
+    {'id':'worldbank','name':'World Bank-financed procurement notices · Morocco','url':'https://search.worldbank.org/api/v2/procnotices?format=json&rows=100&os=0&project_ctry_name=Morocco','kind':'official international-financier procurement API, country-filtered','enabled':True},
+    {'id':'ebrd','name':'EBRD Client e-Procurement Portal · Morocco','url':'https://ecepp.ebrd.com/delta/noticeSearchResults.html?eCeP+=&locale=en','kind':'official international-financier project procurement listing','enabled':True},
     {'id':'masen-awards','name':'MASEN e-Tendering award notices','url':'https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch','kind':'official procurement milestone notices','enabled':True},
     {'id':'masen-cancellations','name':'MASEN e-Tendering cancellations','url':'https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch','kind':'official procurement milestone notices','enabled':True}
 ]
@@ -159,11 +161,102 @@ def current_unido_notice(body):
         except ValueError:pass
     return notice
 
+def parse_world_bank_listing(body, fetched_at=None, now=None):
+    """Parse the World Bank's official procurement API, requiring explicit Morocco evidence."""
+    fetched_at=fetched_at or datetime.now(timezone.utc).isoformat(); now=now or datetime.now(timezone.utc)
+    try:data=json.loads(body or '{}')
+    except (TypeError,ValueError):return []
+    rows=data.get('procnotices',[])
+    if isinstance(rows,dict):rows=list(rows.values())
+    notices=[]
+    for item in (rows if isinstance(rows,list) else []):
+        if not isinstance(item,dict):continue
+        notice_type=clean(item.get('notice_type','')); status=clean(item.get('notice_status',''))
+        if status and normalized(status) not in ('published','active'):continue
+        if not re.search(r'(?:request for (?:expression of interest|proposals?|bids?|quotations?)|invitation for (?:bids?|tenders?)|prequalification)',notice_type,re.I):continue
+        if re.search(r'(?:contract award|general procurement notice|procurement plan|award)',notice_type,re.I):continue
+        description=clean(item.get('bid_description','')); project=clean(item.get('project_name',''))
+        raw_detail=clean(item.get('notice_text',''))
+        evidence_text=' '.join((description,project,raw_detail))
+        country=clean(item.get('project_ctry_name',''))
+        # The query is country-scoped, but verify the returned row as well. Regional records
+        # count only when Morocco is explicitly named in their own notice content.
+        if normalized(country)!='morocco' and not re.search(r'\b(?:morocco|maroc|royaume du maroc)\b',normalized(evidence_text)):
+            continue
+        title=description or project
+        if len(title)<12:continue
+        deadline_raw=clean(item.get('submission_deadline_date') or item.get('submission_date') or '')
+        deadline=None
+        for fmt in ('%m/%d/%Y %H:%M:%S','%m/%d/%Y','%d-%b-%Y','%Y-%m-%dT%H:%M:%SZ','%Y-%m-%d'):
+            try:
+                parsed=datetime.strptime(deadline_raw,fmt)
+                deadline=parsed.date().isoformat();break
+            except ValueError:pass
+        if deadline and datetime.strptime(deadline,'%Y-%m-%d').date()<now.date():continue
+        published_raw=clean(item.get('noticedate','')); published=None
+        for fmt in ('%d-%b-%Y','%m/%d/%Y','%Y-%m-%d'):
+            try:published=datetime.strptime(published_raw,fmt).date().isoformat();break
+            except ValueError:pass
+        notice_id=clean(item.get('id','')); project_id=clean(item.get('project_id',''))
+        reference=clean(item.get('bid_reference_no','')) or notice_id
+        agency=clean(item.get('contact_organization','')) or 'World Bank-financed borrower procurement; contracting entity to verify'
+        url=f"https://projects.worldbank.org/en/projects-operations/procurement-detail/{urllib.parse.quote(notice_id)}" if notice_id else 'https://projects.worldbank.org/en/projects-operations/procurement'
+        deadline_time=clean(item.get('submission_deadline_time',''))
+        notices.append({'sourceId':'worldbank','sourceName':'World Bank-financed procurement notices · Morocco','sourceUrl':url,'officialUrl':url,'secondarySources':[],
+            'title':title,'scope':project or title,'authority':agency,'reference':reference,'projectId':project_id,'procurementType':notice_type,
+            'publishedAt':published,'deadlineAt':deadline,'deadlineTime':deadline_time,'geographicScope':'Morocco (official World Bank country field)' if normalized(country)=='morocco' else 'Morocco explicitly named in notice text',
+            'contractValue':None,'eligibilityCriteria':'Not established by the listing; confirm the procurement method, country eligibility and all qualification criteria in the official notice and dossier.',
+            'rawListing':clean(raw_detail)[:12000] or f"{description}. Project: {project}. Country: {country}.",'evidence':f"World Bank notice {notice_id}; country: {country}; project: {project}; type: {notice_type}. {description}",
+            'noticeType':'formal tender','publicationStatus':status or 'Published','competitionScope':'Unknown — review the official notice and procurement dossier.'})
+    return notices
+
+def parse_ebrd_listing(body, fetched_at=None, now=None):
+    """Read explicitly open Morocco notices from EBRD's public ECEPP search results."""
+    fetched_at=fetched_at or datetime.now(timezone.utc).isoformat(); now=now or datetime.now(timezone.utc)
+    parser=ListingParser();parser.feed(body or '');notices=[]
+    for row in parser.rows:
+        text=clean(row.get('text','')); low=normalized(text)
+        # ECEPP lists countries inside a bracketed project metadata cell. Requiring this
+        # field avoids mistaking the word Morocco in a project title for performance country.
+        meta=re.search(r'\[([^\]]+)\]',text)
+        if not meta:continue
+        fields=[clean(x) for x in meta.group(1).split(',')]
+        if not any(normalized(x)=='morocco' for x in fields):continue
+        if not re.search(r'\bopen\b',low):continue
+        if not re.search(r'(?:invitation for tenders?|request for tenders?|request for proposals?|invitation for prequalification)',low):continue
+        if any(term in low for term in ('general procurement notice','contract award','contract notice addendum','shortlist','cancellation')):continue
+        link=next((x for x in row.get('links',[]) if 'displaynoticeid=' in x.get('href','').lower()),None)
+        if not link:continue
+        url=_absolute('https://ecepp.ebrd.com/delta/noticeSearchResults.html',link['href'])
+        if urllib.parse.urlsplit(url).hostname!='ecepp.ebrd.com':continue
+        due_matches=list(re.finditer(r'\b(\d{1,2}/\d{1,2}/\d{4})\s+(\d{1,2}:\d{2})\s+UK Time\b',text,re.I))
+        deadline=None;deadline_time=''
+        if due_matches:
+            due=due_matches[-1]
+            try:deadline=datetime.strptime(due.group(1),'%d/%m/%Y').date().isoformat();deadline_time=due.group(2)+' UK Time'
+            except ValueError:pass
+        if deadline and datetime.strptime(deadline,'%Y-%m-%d').date()<now.date():continue
+        dates=DATE_RE.findall(text)
+        published=None
+        if dates:
+            try:published=datetime.strptime(dates[0][0],'%d/%m/%Y').date().isoformat()
+            except ValueError:pass
+        title=fields[3] if len(fields)>3 else (clean(text.split(' Invitation ')[0]) or 'EBRD project procurement opportunity')
+        project=fields[0] if fields else ''
+        reference=clean(urllib.parse.parse_qs(urllib.parse.urlsplit(url).query).get('displayNoticeId',[''])[0])
+        buyer='EBRD-financed public-sector project; contracting entity to verify in the notice'
+        notices.append({'sourceId':'ebrd','sourceName':'EBRD Client e-Procurement Portal · Morocco','sourceUrl':url,'officialUrl':url,'secondarySources':[],
+            'title':f'{title} — {project}' if project else title,'scope':project or title,'authority':buyer,'reference':reference,'procurementType':'EBRD '+next((x for x in ('Invitation For Tenders','Request for Tenders','Request for Proposals','Invitation For Prequalification') if normalized(x) in low),'project procurement'),
+            'publishedAt':published,'deadlineAt':deadline,'deadlineTime':deadline_time,'geographicScope':'Morocco (explicit ECEPP project country)','contractValue':None,
+            'eligibilityCriteria':'Not established by the listing; review the ECEPP notice and dossier. Eligibility is not assumed.','rawListing':text,'evidence':text[:1400],
+            'noticeType':'formal tender','publicationStatus':'Open','competitionScope':'Review the ECEPP dossier for the exact competition and eligibility rules.'})
+    return notices
+
 def capability_assessment(notice, taxonomy):
     text=normalized(' '.join(str(notice.get(k) or '') for k in ('title','scope','evidence','rawListing','authority')))
     public_text=normalized(notice.get('authority',''))
     private_cue=any(term in public_text for term in PRIVATE_TERMS)
-    authority_public=(notice.get('sourceId') in {'pmmp','masen'} or any(term in public_text for term in PRIVATE_BUYERS)) and not private_cue
+    authority_public=(notice.get('sourceId') in {'pmmp','masen','worldbank','ebrd'} or any(term in public_text for term in PRIVATE_BUYERS)) and not private_cue
     if private_cue:
         return {'fit':'Low fit / excluded','fitScore':0,'fitReasons':[],'eligibilityReview':['Private-sector contracting entity inferred from its legal form; excluded by default.'],'risks':['Confirm contracting entity is public before reconsidering.'],'serviceCategories':[],'technologies':[]}
     matches=[]; services=[]; technologies=[]; reasons=[]
@@ -197,7 +290,8 @@ def capability_assessment(notice, taxonomy):
 def stable_id(notice):
     reference=normalized(notice.get('reference',''))
     authority=normalized(notice.get('authority',''))
-    if reference: key=f"ref|{authority_key(notice.get('authority',''))}|{reference}"
+    if reference and notice.get('sourceId')=='worldbank':key=f"ref|worldbank|{normalized(notice.get('projectId',''))}|{reference}"
+    elif reference: key=f"ref|{authority_key(notice.get('authority',''))}|{reference}"
     else:
         title=normalized(notice.get('title',''))
         path=urllib.parse.urlsplit(notice.get('officialUrl') or notice.get('sourceUrl') or '').path
@@ -265,7 +359,7 @@ def merge_history(existing, candidates, taxonomy, now=None):
     return sorted(records.values(),key=lambda n:(n.get('status') in ('open','closing soon'),n.get('firstDiscoveredAt','')),reverse=True)
 
 def fetch_source(source, previous=None, timeout=TIMEOUT):
-    headers={'User-Agent':USER_AGENT,'Accept':'text/html,application/xhtml+xml'}
+    headers={'User-Agent':USER_AGENT,'Accept':'application/json,text/html,application/xhtml+xml'}
     if previous and previous.get('etag'):headers['If-None-Match']=previous['etag']
     if previous and previous.get('lastModified'):headers['If-Modified-Since']=previous['lastModified']
     req=urllib.request.Request(source['url'],headers=headers)
@@ -294,10 +388,15 @@ def main():
             if body is None:
                 prior=previous.get(source['id'],{});record.update(ok=True,noticesParsed=prior.get('noticesParsed',0),etag=prior.get('etag'),lastModified=prior.get('lastModified'),message='HTTP 304; official source listing unchanged, persistent notice history reused.')
             else:
-                resolved={**source,'url':final_url}; rows=parse_listing(resolved,body,fetched_at)
+                resolved={**source,'url':final_url}
+                if source['id']=='worldbank':rows=parse_world_bank_listing(body,fetched_at)
+                elif source['id']=='ebrd':rows=parse_ebrd_listing(body,fetched_at)
+                else:rows=parse_listing(resolved,body,fetched_at)
                 candidates.extend(rows); record.update(ok=True,noticesParsed=len(rows),etag=response_headers.get('ETag'),lastModified=response_headers.get('Last-Modified'),message='Public listing fetched; only explicit notice rows with a detail link are considered.')
                 if source['id']=='unido':
                     candidates.append(current_unido_notice(body));record['noticesParsed']=max(1,record['noticesParsed']);record['message']='Official UNIDO current-opportunities listing checked; event 7000008930 is retained and its deadline is refreshed from the listing.'
+                elif source['id']=='worldbank':record['message']='Official World Bank procurement API queried for Morocco; only published, live notice types with explicit Morocco evidence are considered.'
+                elif source['id']=='ebrd':record['message']='Official EBRD ECEPP rows checked; only explicitly Open, active tender notices with Morocco as the project country are considered.'
         except Exception as exc:record['message']=f'Fetch or parse failed: {type(exc).__name__}: {exc}'
         statuses.append(record)
     if not any(row.get('reference')=='7000008930' for row in candidates):candidates.append(dict(UNIDO_BATTERY_NOTICE))
@@ -310,8 +409,9 @@ def main():
         if item.get('status') in ('open','closing soon','unclear') or recent or item.get('updatedRecently'):visible.append(item)
     atomic_json(HISTORY_FILE,merged)
     atomic_json(OPPORTUNITIES_FILE,{'generatedAt':fetched_at,'definition':{'newToAtlasDays':7,'visibleDiscoveryDays':30,'text':'New to Atlas means first discovered in the last 7 days. Publication date is separate. Visible opportunities are active/unclear or discovered/updated in the last 30 days.'},'opportunities':visible})
-    atomic_json(STATUS_FILE,{'generatedAt':fetched_at,'coverage':'partial','sources':statuses,'message':'Only listed official sources are monitored; this is not exhaustive coverage of Moroccan public procurement.'})
+    atomic_json(STATUS_FILE,{'generatedAt':fetched_at,'coverage':'partial','sources':statuses,'message':'Coverage includes the listed Moroccan public procurement sites and selected international financier/agency sources (UNIDO, World Bank and EBRD). Monitoring is not exhaustive; check source portals and tender dossiers for the authoritative closing date and eligibility rules.'})
     print(f"RFP radar: fetched {sum(x['ok'] for x in statuses)}/{len(statuses)} sources; parsed {len(candidates)} notices; retained {len(visible)} visible opportunities.")
 
 if __name__=='__main__':main()
+
 

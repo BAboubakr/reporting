@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T15:40:18.507641+00:00",
+  "generatedAt": "2026-11-22T15:42:15.611572+00:00",
   "coverage": "partial",
   "sources": [
     {
       "id": "pmmp",
       "name": "Portail Marocain des Marchés Publics",
       "url": "https://www.marchespublics.gov.ma/index.php5?AllCons=&EnCours=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: HTTPError: HTTP Error 403: Forbidden"
@@ -15,7 +15,7 @@
       "id": "masen",
       "name": "MASEN e-Tendering current tenders",
       "url": "https://etendering.masen.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&panierEntreprise=",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
@@ -26,7 +26,7 @@
       "id": "unido",
       "name": "UNIDO Procurement Opportunities",
       "url": "https://www.unido.org/get-involved/procurement/procurement-opportunities",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": false,
       "noticesParsed": 0,
       "message": "Fetch or parse failed: HTTPError: HTTP Error 403: Forbidden"
@@ -35,7 +35,7 @@
       "id": "worldbank",
       "name": "World Bank-financed procurement notices · Morocco",
       "url": "https://search.worldbank.org/api/v2/procnotices?format=json&rows=100&os=0&project_ctry_name=Morocco",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": true,
       "noticesParsed": 2,
       "message": "Official World Bank procurement API queried for Morocco; only published, live notice types with explicit Morocco evidence are considered.",
@@ -46,18 +46,18 @@
       "id": "ebrd",
       "name": "EBRD Client e-Procurement Portal · Morocco",
       "url": "https://ecepp.ebrd.com/delta/noticeSearchResults.html?eCeP+=&locale=en",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": true,
       "noticesParsed": 1,
       "message": "Official EBRD ECEPP rows checked; only explicitly Open, active tender notices with Morocco as the project country are considered.",
       "etag": null,
-      "lastModified": "Sunday, 22-Nov-2026 15:40:22 GMT"
+      "lastModified": "Sunday, 22-Nov-2026 15:42:18 GMT"
     },
     {
       "id": "masen-awards",
       "name": "MASEN e-Tendering award notices",
       "url": "https://etendering.masen.ma/index.php?AvisAttribution=&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",
@@ -68,7 +68,7 @@
       "id": "masen-cancellations",
       "name": "MASEN e-Tendering cancellations",
       "url": "https://etendering.masen.ma/index.php?AllCons=&consAnnulee=1&page=entreprise.EntrepriseAdvancedSearch",
-      "checkedAt": "2026-11-22T15:40:18.507641+00:00",
+      "checkedAt": "2026-11-22T15:42:15.611572+00:00",
       "ok": true,
       "noticesParsed": 0,
       "message": "Public listing fetched; only explicit notice rows with a detail link are considered.",

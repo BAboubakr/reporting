@@ -69,6 +69,26 @@ export const linkedinAccounts = [
     ]
   },
   {
+    "name": "Green Forward Industry",
+    "url": "https://www.linkedin.com/company/green-forward-industry/",
+    "tier": 2,
+    "queries": [
+      "Green Forward Industry Morocco circular economy battery recycling",
+      "Green Forward Industry Morocco call for proposals battery",
+      "GreenForwardIndustry Morocco procurement circular battery"
+    ]
+  },
+  {
+    "name": "UNIDO GEIPP Morocco",
+    "url": "https://www.linkedin.com/showcase/unido-geipp-morocco/",
+    "tier": 1,
+    "queries": [
+      "UNIDO GEIPP Morocco battery circularity tender",
+      "UNIDO Morocco procurement battery recycling",
+      "UNIDO Morocco circular economy battery study"
+    ]
+  },
+  {
     "name": "AMEE",
     "url": "https://www.linkedin.com/company/ameeofficiel/",
     "tier": 1,

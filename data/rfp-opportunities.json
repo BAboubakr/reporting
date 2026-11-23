@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:42:15.611572+00:00",
+  "generatedAt": "2026-11-23T16:28:22.597225+00:00",
   "definition": {
     "newToAtlasDays": 7,
     "visibleDiscoveryDays": 30,
@@ -55,7 +55,7 @@
       ],
       "status": "closing soon",
       "firstDiscoveredAt": "2026-11-22T15:40:27.383110+00:00",
-      "lastSeenAt": "2026-11-22T15:42:23.132337+00:00",
+      "lastSeenAt": "2026-11-23T16:28:33.294321+00:00",
       "updates": [],
       "sourceReferences": [
         {
@@ -134,7 +134,7 @@
       ],
       "status": "closing soon",
       "firstDiscoveredAt": "2026-11-22T15:28:33.330468+00:00",
-      "lastSeenAt": "2026-11-22T15:42:23.132337+00:00",
+      "lastSeenAt": "2026-11-23T16:28:33.294321+00:00",
       "newToAtlas": true,
       "updatedRecently": true
     }

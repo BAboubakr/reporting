@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:46:00.375362+00:00",
+  "generatedAt": "2026-11-27T15:34:10.097222+00:00",
   "definition": {
     "newToAtlasDays": 7,
     "visibleDiscoveryDays": 30,
@@ -55,7 +55,7 @@
       ],
       "status": "closing soon",
       "firstDiscoveredAt": "2026-11-22T15:40:27.383110+00:00",
-      "lastSeenAt": "2026-11-26T15:46:09.221618+00:00",
+      "lastSeenAt": "2026-11-27T15:34:16.513140+00:00",
       "updates": [],
       "sourceReferences": [
         {
@@ -132,9 +132,9 @@
       "technologies": [
         "battery"
       ],
-      "status": "closing soon",
+      "status": "closed",
       "firstDiscoveredAt": "2026-11-22T15:28:33.330468+00:00",
-      "lastSeenAt": "2026-11-26T15:46:09.221618+00:00",
+      "lastSeenAt": "2026-11-27T15:34:16.513140+00:00",
       "newToAtlas": true,
       "updatedRecently": true
     }
